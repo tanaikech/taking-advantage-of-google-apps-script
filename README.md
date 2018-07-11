@@ -107,6 +107,9 @@ Benchmarks
 ### [Search for Array Processing using Google Apps Script](https://gist.github.com/tanaikech/eda9234822b5dec80549216a43c52652)
 > There are a limit executing time for Google Apps Script (GAS). That is 6 minutes.1 So users always have to pay attention to reducing the process cost of the scripts. Especially, it is very important to know the process cost for the array processing, because the array processing is often used for spreadsheet and Google APIs. Recently, I have reported about the process cost of the loop for the array processing.2 Also I have reported "Improved Algorithms for Summation of Array Elements" as a method for reducing the process cost.3 From these reports, it has found that GAS shows much different process cost from other languages. So it is important to investigate the process cost for various scenes. In this report, the process cost of "searching strings in an array" for the array processing using GAS has been investigated.
 
+### [Benchmark: Conditional Branch using Google Apps Script](https://gist.github.com/tanaikech/cef47530a58f2d8692cdb1a9d257907b)
+> There are a limit executing time for Google Apps Script (GAS). That is 6 minutes.1 So users always have to pay attention to reducing the process cost of the scripts. Especially, it is very important to know the process cost for the array processing, because the array processing is often used for spreadsheet and Google APIs. Recently, I have already published some reports about the process cost using GAS.2-6 From these reports, it has found that GAS shows much different process cost from other languages. So it is important to investigate the process cost for various scenes. In this report, the process cost of "conditional branch" using GAS has been investigated.
+
 <br>
 
 <a name="SampleScripts"></a>
