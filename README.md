@@ -21,6 +21,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
     - [Slack](#Slack)
     - [Virtual Currency](#VirtualCurrency)
     - [Stackoverflow](#Stackoverflow)
+    - [Netatmo](#Netatmo)
     - [Etc](#Etc)
     - [Node.js](#Nodejs)
     - [Golang](#Golang)
@@ -212,6 +213,10 @@ Sample Scripts
 <a name="Stackoverflow"></a>
 #### Stackoverflow
 - [Notifying Comments at Stackoverflow by Email using Google Apps Script](https://github.com/tanaikech/Notifying-Comments-at-Stackoverflow-by-Email)
+
+<a name="Netatmo"></a>
+#### Netatmo
+- [Notifying with email when Netatmo was down](https://github.com/tanaikech/Notifying-with-email-when-Netatmo-was-down)
 
 <a name="Etc"></a>
 #### Etc
