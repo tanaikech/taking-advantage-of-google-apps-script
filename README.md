@@ -99,41 +99,41 @@ Reports
 Benchmarks
 =====
 ### [Event Objects for Google Apps Script](https://gist.github.com/tanaikech/4892c97df7ac0504ffd715c2dd6cd546)
->- It was found that the process cost of ``e.range.getA1Notation()`` was 20 % and 10 % for those of ``e.source.getActiveCell().getA1Notation()`` and ``SpreadsheetApp.getActiveSheet().getActiveCell().getA1Notation()``, respectively.
+> - It was found that the process cost of ``e.range.getA1Notation()`` was 20 % and 10 % for those of ``e.source.getActiveCell().getA1Notation()`` and ``SpreadsheetApp.getActiveSheet().getActiveCell().getA1Notation()``, respectively.
 
 ### [Loop for Array Processing using Google Apps Script](https://gist.github.com/tanaikech/848aeafaac1ec676900bb78e3ce220b6)
->- In the case of the sample script for retrieving the multiple of 5 from the array, the loop using "map, filter" is the most suitable way.
-- Ascending order of cost for each method is "map, filter", "Comprehension", "forEach", "for in", "for loop" and "while".
-- Cost for "forEach", "Comprehension" and "map, filter" is lower than that for "for in", "for loop" and "while".
-- Cost of push() and new Array() is almost the same.
-- When the array is changed from 1 dimensional array to 2 dimensional array, the increasing ratio of the cost for "Comprehension", "forEach" and "map, filter" is much lower than that for "for in", "for loop" and "while".
-- For the conventional method using "for loop", a new method could be proposed using the result of this report.
-- For "reduce", the process costs between 1 and 2 dimensional array are almost the same.
+> - In the case of the sample script for retrieving the multiple of 5 from the array, the loop using "map, filter" is the most suitable way.
+> - Ascending order of cost for each method is "map, filter", "Comprehension", "forEach", "for in", "for loop" and "while".
+> - Cost for "forEach", "Comprehension" and "map, filter" is lower than that for "for in", "for loop" and "while".
+> - Cost of push() and new Array() is almost the same.
+> - When the array is changed from 1 dimensional array to 2 dimensional array, the increasing ratio of the cost for "Comprehension", "forEach" and "map, filter" is much lower than that for "for in", "for loop" and "while".
+> - For the conventional method using "for loop", a new method could be proposed using the result of this report.
+> - For "reduce", the process costs between 1 and 2 dimensional array are almost the same.
 
 
 ### [fetchAll method in UrlFetch service for Google Apps Script](https://gist.github.com/tanaikech/c0f383034045ab63c19604139ecb0728)
->- It was found that the fetchAll method is worked by the asynchronous processing.
-- After it worked by the asynchronous processing, the returned values is reordered by the order of requests.
-- It was also found that if you want to retrieve the data from the several URL, the process cost of ``UrlFetchApp.fetchAll()`` is much lower than that of ``UrlFetchApp.fetch()`` using for loop.
+> - It was found that the fetchAll method is worked by the asynchronous processing.
+> - After it worked by the asynchronous processing, the returned values is reordered by the order of requests.
+> - It was also found that if you want to retrieve the data from the several URL, the process cost of ``UrlFetchApp.fetchAll()`` is much lower than that of ``UrlFetchApp.fetch()`` using for loop.
 
 ### [Search for Array Processing using Google Apps Script](https://gist.github.com/tanaikech/eda9234822b5dec80549216a43c52652)
->- Process cost of search by indexOf() was the lowest of all methods.
-- 2nd and last one were the search by for loop and the search by the hash, respectively.
-- About the search by hash, although the cost of search by the hash from the object is very low, the cost for creating the object to search the hash was the highest of all. By this, the search by hash became the lowest rank. If the object for searching has already been created, the cost of search by the hash will be the lowest of all.
-- Search using indexOf can reduce the process cost of more than 99 % from the linear search and the search using hash.
-- From these results, it is considered that the scan for indexOf() may be different from the general for loop.
+> - Process cost of search by indexOf() was the lowest of all methods.
+> - 2nd and last one were the search by for loop and the search by the hash, respectively.
+> - About the search by hash, although the cost of search by the hash from the object is very low, the cost for creating the object to search the hash was the highest of all. By this, the search by hash became the lowest rank. If the object for searching has already been created, the cost of search by the hash will be the lowest of all.
+> - Search using indexOf can reduce the process cost of more than 99 % from the linear search and the search using hash.
+> - From these results, it is considered that the scan for indexOf() may be different from the general for loop.
 
 ### [Conditional Branch using Google Apps Script](https://gist.github.com/tanaikech/cef47530a58f2d8692cdb1a9d257907b)
->- It was found that the cost of "Ternary operator" was the lowest of all methods and conditions.
-- For the single conditional branch, 2nd one was "If". But for the multiple conditional branches, "Switch" was the 2nd one. This indicates that "If" and "Switch" are suitable for the single and multiple conditional branches (more than 2 branches), respectively.
-- In the case of the multiple conditional branches, the process cost can be reduced by put the condition with the high possibility of "true" to the fore.
-- "Logical operator" was the lowest rank for the single and multiple conditional branches. It is considered that "Logical operator" is not suitable for the general use, because of the high cost and low readability.
+> - It was found that the cost of "Ternary operator" was the lowest of all methods and conditions.
+> - For the single conditional branch, 2nd one was "If". But for the multiple conditional branches, "Switch" was the 2nd one. This indicates that "If" and "Switch" are suitable for the single and multiple conditional branches (more than 2 branches), respectively.
+> - In the case of the multiple conditional branches, the process cost can be reduced by put the condition with the high possibility of "true" to the fore.
+> - "Logical operator" was the lowest rank for the single and multiple conditional branches. It is considered that "Logical operator" is not suitable for the general use, because of the high cost and low readability.
 
 ### [Decreasing Loop for Array Processing using Google Apps Script](https://gist.github.com/tanaikech/fdd8462a46179efb156cfa0550695c6e)
->- "filter using reversed array" makes the process cost be 43 % lower compare with "Decreasing for loop".
-    - "reversed array" was obtained using "Array.prototype.reverse()" for the created a sample array.
-- "Decreasing for loop" is almost the same with "Increasing for loop".
-- Cost of "reverse()" is sufficiently small for "for loop" and "filter".
+> - "filter using reversed array" makes the process cost be 43 % lower compare with "Decreasing for loop".
+>    - "reversed array" was obtained using "Array.prototype.reverse()" for the created a sample array.
+> - "Decreasing for loop" is almost the same with "Increasing for loop".
+> - Cost of "reverse()" is sufficiently small for "for loop" and "filter".
 
 <br>
 
