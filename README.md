@@ -99,22 +99,41 @@ Reports
 Benchmarks
 =====
 ### [Event Objects for Google Apps Script](https://gist.github.com/tanaikech/4892c97df7ac0504ffd715c2dd6cd546)
-> There are event objects at Google Apps Script. Typically, users which use Spreadsheet often use onEdit(event). Here, I would like to introduce the process costs for the event objects using this onEdit(event).
+>- It was found that the process cost of ``e.range.getA1Notation()`` was 20 % and 10 % for those of ``e.source.getActiveCell().getA1Notation()`` and ``SpreadsheetApp.getActiveSheet().getActiveCell().getA1Notation()``, respectively.
 
 ### [Loop for Array Processing using Google Apps Script](https://gist.github.com/tanaikech/848aeafaac1ec676900bb78e3ce220b6)
-> There are a limit executing time for Google Apps Script (GAS). That is 6 minutes. So users always have to pay attention to reducing the process cost of the scripts. Especially, it is very important to know the process cost for the array processing, because the array processing is often used for spreadsheet and Google APIs. I have already reported "Improved Algorithms for Summation of Array Elements" as a method for reducing the process cost. In this report, the process cost of "loop" for the array processing using GAS has been investigated.
+>- In the case of the sample script for retrieving the multiple of 5 from the array, the loop using "map, filter" is the most suitable way.
+- Ascending order of cost for each method is "map, filter", "Comprehension", "forEach", "for in", "for loop" and "while".
+- Cost for "forEach", "Comprehension" and "map, filter" is lower than that for "for in", "for loop" and "while".
+- Cost of push() and new Array() is almost the same.
+- When the array is changed from 1 dimensional array to 2 dimensional array, the increasing ratio of the cost for "Comprehension", "forEach" and "map, filter" is much lower than that for "for in", "for loop" and "while".
+- For the conventional method using "for loop", a new method could be proposed using the result of this report.
+- For "reduce", the process costs between 1 and 2 dimensional array are almost the same.
+
 
 ### [fetchAll method in UrlFetch service for Google Apps Script](https://gist.github.com/tanaikech/c0f383034045ab63c19604139ecb0728)
-> By Google's update at January 19, 2018, fetchAll method was added to the UrlFetch service. When I saw the usage, I couldn't find the detail information about the actual running state. So I investigated about it.
+>- It was found that the fetchAll method is worked by the asynchronous processing.
+- After it worked by the asynchronous processing, the returned values is reordered by the order of requests.
+- It was also found that if you want to retrieve the data from the several URL, the process cost of ``UrlFetchApp.fetchAll()`` is much lower than that of ``UrlFetchApp.fetch()`` using for loop.
 
 ### [Search for Array Processing using Google Apps Script](https://gist.github.com/tanaikech/eda9234822b5dec80549216a43c52652)
-> There are a limit executing time for Google Apps Script (GAS). That is 6 minutes. So users always have to pay attention to reducing the process cost of the scripts. Especially, it is very important to know the process cost for the array processing, because the array processing is often used for spreadsheet and Google APIs. Recently, I have reported about the process cost of the loop for the array processing. Also I have reported "Improved Algorithms for Summation of Array Elements" as a method for reducing the process cost. From these reports, it has found that GAS shows much different process cost from other languages. So it is important to investigate the process cost for various scenes. In this report, the process cost of "searching strings in an array" for the array processing using GAS has been investigated.
+>- Process cost of search by indexOf() was the lowest of all methods.
+- 2nd and last one were the search by for loop and the search by the hash, respectively.
+- About the search by hash, although the cost of search by the hash from the object is very low, the cost for creating the object to search the hash was the highest of all. By this, the search by hash became the lowest rank. If the object for searching has already been created, the cost of search by the hash will be the lowest of all.
+- Search using indexOf can reduce the process cost of more than 99 % from the linear search and the search using hash.
+- From these results, it is considered that the scan for indexOf() may be different from the general for loop.
 
 ### [Conditional Branch using Google Apps Script](https://gist.github.com/tanaikech/cef47530a58f2d8692cdb1a9d257907b)
-> There are a limit executing time for Google Apps Script (GAS). That is 6 minutes. So users always have to pay attention to reducing the process cost of the scripts. Especially, it is very important to know the process cost for the array processing, because the array processing is often used for spreadsheet and Google APIs. Recently, I have already published some reports about the process cost using GAS. From these reports, it has found that GAS shows much different process cost from other languages. So it is important to investigate the process cost for various scenes. In this report, the process cost of "conditional branch" using GAS has been investigated.
+>- It was found that the cost of "Ternary operator" was the lowest of all methods and conditions.
+- For the single conditional branch, 2nd one was "If". But for the multiple conditional branches, "Switch" was the 2nd one. This indicates that "If" and "Switch" are suitable for the single and multiple conditional branches (more than 2 branches), respectively.
+- In the case of the multiple conditional branches, the process cost can be reduced by put the condition with the high possibility of "true" to the fore.
+- "Logical operator" was the lowest rank for the single and multiple conditional branches. It is considered that "Logical operator" is not suitable for the general use, because of the high cost and low readability.
 
 ### [Decreasing Loop for Array Processing using Google Apps Script](https://gist.github.com/tanaikech/fdd8462a46179efb156cfa0550695c6e)
-> There are a limit executing time for Google Apps Script (GAS). That is 6 minutes. So users always have to pay attention to reducing the process cost of the scripts. Especially, it is very important to know the process cost for the array processing, because the array processing is often used for spreadsheet and Google APIs. I have already reported the process costs for various processes as reports. In this report, the process cost of "Decreasing loop" for the array processing using GAS has been investigated.
+>- "filter using reversed array" makes the process cost be 43 % lower compare with "Decreasing for loop".
+    - "reversed array" was obtained using "Array.prototype.reverse()" for the created a sample array.
+- "Decreasing for loop" is almost the same with "Increasing for loop".
+- Cost of "reverse()" is sufficiently small for "for loop" and "filter".
 
 <br>
 
@@ -146,6 +165,7 @@ Sample Scripts
 - [Which of Drive API v2 or v3 is used for DriveApp.searchFiles()?](https://gist.github.com/tanaikech/242f644026837dd071f0ce95b2fd107a)
 - [Resumable Conversion from CSV File with Large Size (> 50 MB) to Several Spreadsheets by Splitting File](https://gist.github.com/tanaikech/3e44c779f05374d19333444c9a4dd5ba)
 - [Upload Files to Google Drive using Javascript](https://gist.github.com/tanaikech/bd53b366aedef70e35a35f449c51eced)
+- [Enhanced makeCopy() using Google Apps Script](https://gist.github.com/tanaikech/ac1b0d50fe1ffaa40e95bbe9faf908b9)
 
 <a name="Projects"></a>
 #### Projects
