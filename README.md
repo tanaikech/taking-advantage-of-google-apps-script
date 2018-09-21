@@ -93,6 +93,9 @@ Reports
 ### [Limitation of Images for Inserting to Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/825f1ebfe7822780316d7c15f89dea11)
 > Here I would like to introduce about the limitation of images for inserting to Spreadsheet using Google Apps Script (GAS). When you want to insert the images to Spreadsheet using GAS, insertImage() of class Sheet is usually used for this situation. At this time, an error sometimes occurs. This indicates that there is the limitation for inserting images to Spreadsheet. So I investigated the limitation. As a result, it was found that the limitation depends on the image area (pixels^2) rather than the file size of it. The maximum area of image which can be inserted was 1,048,576 pixels^2.
 
+### [Asynchronous Processing using Event Triggers](https://gist.github.com/tanaikech/88f7fd5ed14da5e9afde18310da61cb5)
+> This is a report about the possibility of asynchronous process using event triggers. ``onEdit()`` which is a simple trigger is often used as a trigger when the values are modified on Spreadsheet. When users want to use the script including some methods which are required to be authorized as the onEdit event, a installable trigger of onEdit is used. If the trigger is installed for the function of ``onEdit()``, when the event trigger is run, ``onEdit()`` is run 2 times. In order to avoid this, the installable trigger is installed to the functions except for the functions of simple triggers. The functions of simple triggers which is the same events are not used in the project. When I thought about this situation, I thought that both ``onEdit()`` which is run by the simple trigger and the function which is run by the installable trigger might be able to be used, simultaneously. So I investigated about this situation. As the result, it was found that the following simple triggers and installable triggers work as the asynchronous process.
+
 <br>
 
 <a name="Benchmarks"></a>
