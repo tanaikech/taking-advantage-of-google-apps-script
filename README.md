@@ -141,6 +141,22 @@ Benchmarks
 > - "Decreasing for loop" is almost the same with "Increasing for loop".
 > - Cost of "reverse()" is sufficiently small for "for loop" and "filter".
 
+### [Reading and Writing Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/d102c9600ba12a162c667287d2f20fe4)
+> In this report, the process cost for reading and writing Spreadsheet has been investigated. From this investigation, the following results were obtained.
+
+> - For the process costs for reading values from Spreadsheet
+>     1. Process costs of getValues() and getSheetValues() of Spreadsheet Service are almost the same.
+>     1. Process costs of values.get and values.batchGet of Sheets API are almost the same.
+>     1. Methods of Sheets API can reduce the process costs from those of Spreadsheet Service by about 35 %.
+> - For the process costs for writing values from Spreadsheet
+>     1. Process costs of values.update, values.batchUpdate and values.append of Sheets API are almost the same.
+>     1. Methods of Sheets API can reduce the process costs from those of Spreadsheet Service by about 19 %.
+>     1. There is the inversion point between setValues() of Spreadsheet Service and the methods of Sheets API.
+>         - When the data size is small, setValues() is suitable for writing values.
+>         - When the data size becomes large, the methods of Sheets API are suitable for writing values.
+
+> From these results, it is considered that the methods for reading and writing Spreadsheet of Sheets API are using the different algorithm and/or process from those of Spreadsheet service.
+
 <br>
 
 <a name="SampleScripts"></a>
