@@ -5,33 +5,34 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 <br>
 
 # Index
-- [CLI tools for GAS](#CLITool)
-- [GAS libraries](#GASlibraries)
-- [Add-ons](#Addons)
-- [Reports](#Reports)
-- [Benchmarks](#Benchmarks)
-- [Sample Scripts](#SampleScripts)
-    - [Files in Google Drive](#FilesinGoogleDrive)
-    - [Projects](#Projects)
-    - [Spreadsheets](#Spreadsheets)
-    - [Documents](#Documents)
-    - [Slides](#Slides)
-    - [Gmail](#Gmail)
-    - [Chart](#Chart)
-    - [Slack](#Slack)
-    - [Virtual Currency](#VirtualCurrency)
-    - [Stackoverflow](#Stackoverflow)
-    - [Netatmo](#Netatmo)
-    - [Etc](#Etc)
-    - [Node.js](#Nodejs)
-    - [Golang](#Golang)
-    - [Python](#Python)
-    - [Curl](#Curl)
+- [CLI tools for GAS](#clitool)
+- [GAS libraries](#gaslibraries)
+- [Go libraries](#golibraries)
+- [Add-ons](#addons)
+- [Reports](#reports)
+- [Benchmarks](#benchmarks)
+- [Sample Scripts](#samplescripts)
+    - [Files in Google Drive](#filesingoogledrive)
+    - [Projects](#projects)
+    - [Spreadsheets](#spreadsheets)
+    - [Documents](#documents)
+    - [Slides](#slides)
+    - [Gmail](#gmail)
+    - [Chart](#chart)
+    - [Slack](#slack)
+    - [Virtual Currency](#virtualcurrency)
+    - [Stackoverflow](#stackoverflow)
+    - [Netatmo](#netatmo)
+    - [Etc](#etc)
+    - [Node.js](#nodejs)
+    - [Golang](#golang)
+    - [Python](#python)
+    - [Curl](#curl)
 
 <br>
 <br>
 
-<a name="CLITool"></a>
+<a name="clitool"></a>
 
 CLI tools for GAS
 =====
@@ -44,7 +45,7 @@ CLI tools for GAS
 
 <br>
 
-<a name="GASlibraries"></a>
+<a name="gaslibraries"></a>
 
 GAS libraries
 =====
@@ -64,10 +65,17 @@ GAS libraries
 - [DownloadLargeFilesByUrl](https://github.com/tanaikech/DownloadLargeFilesByUrl) : DownloadLargeFilesByUrl is a GAS library for downloading large files from URL to Google Drive using Google Apps Script (GAS).
 - [ArrangeStackingOrder](https://github.com/tanaikech/ArrangeStackingOrder) : ArrangeStackingOrder is a GAS library for arranging the stacking order of page elements on Google Slides using Google Apps Script (GAS).
 
+<br>
+
+<a name="golibraries"></a>
+
+Go libraries
+=====
+- [go-getfilelist](https://github.com/tanaikech/go-getfilelist) : This is a Golang library to retrieve the file list with the folder tree from the specific folder of Google Drive.
 
 <br>
 
-<a name="Addons"></a>
+<a name="addons"></a>
 
 Add-ons
 =====
@@ -76,7 +84,7 @@ Add-ons
 
 <br>
 
-<a name="Reports"></a>
+<a name="reports"></a>
 
 Reports
 =====
@@ -100,7 +108,7 @@ Reports
 
 <br>
 
-<a name="Benchmarks"></a>
+<a name="benchmarks"></a>
 
 Benchmarks
 =====
@@ -159,12 +167,12 @@ Benchmarks
 
 <br>
 
-<a name="SampleScripts"></a>
+<a name="samplescripts"></a>
 
 Sample Scripts
 =====
 
-<a name="FilesinGoogleDrive"></a>
+<a name="gilesingoogledrive"></a>
 #### Files in Google Drive
 - [File upload using doPost on Google Web Apps](https://tanaikech.github.io/2017/02/05/file-upload-using-dopost-on-google-web-apps/)
 - [Retrieving Access Token for Google Drive API using GAS](https://gist.github.com/tanaikech/64175178489d1d72a6090b79be901c23)
@@ -189,14 +197,14 @@ Sample Scripts
 - [Upload Files to Google Drive using Javascript](https://gist.github.com/tanaikech/bd53b366aedef70e35a35f449c51eced)
 - [Enhanced makeCopy() using Google Apps Script](https://gist.github.com/tanaikech/ac1b0d50fe1ffaa40e95bbe9faf908b9)
 
-<a name="Projects"></a>
+<a name="projects"></a>
 #### Projects
 - [Retrieving ClientId using Google Apps Script](https://gist.github.com/tanaikech/4656b1b01128d27f291cee317553ea6d)
 - [Copying and Overwriting GAS Project](https://gist.github.com/tanaikech/3e7608bd8ba87dd6019aedbd09224bd3)
 - [Remove Third-party Apps with Account Access using Google Apps Script](https://gist.github.com/tanaikech/608e65fee105989df1a7b645c20572c2)
 - [Retrieving Reformatted Scripts without Comments in a Project using Google Apps Script](https://gist.github.com/tanaikech/61f69fd2ce181865d3430c260c6a5d0b)
 
-<a name="Spreadsheets"></a>
+<a name="spreadsheets"></a>
 #### Spreadsheets
 - [Making charts at spreadsheet](https://tanaikech.github.io/2017/02/13/making-charts-at-spreadsheet/)
 - [Download a CSV File from Spreadsheet Using Google HTML Service](https://tanaikech.github.io/2017/02/16/download-a-csv-file-from-spreadsheet-using-google-html-service/)
@@ -226,32 +234,32 @@ Sample Scripts
 - [Retrieve Last of Specific Row and Column](https://gist.github.com/tanaikech/044d8651aed41c886f3379fdf5165aa2)
 - [Parsing A1Notations using Google Apps Script](https://gist.github.com/tanaikech/c59b90324c90935b13f9e7b26cbf436a)
 
-<a name="Documents"></a>
+<a name="documents"></a>
 #### Documents
 - [Retrieving Number of Lines of Google Document](https://gist.github.com/tanaikech/37def8eeeaf7780bb99d3289ee32385e)
 - [Replacing Text to Image for Google Document using Google Apps Script](https://gist.github.com/tanaikech/f84831455dea5c394e48caaee0058b26)
 
-<a name="Slides"></a>
+<a name="slides"></a>
 #### Slides
 - [Retrieving Size of Tables in Google Slides using Google Apps Script](https://gist.github.com/tanaikech/3143be7e7df8cc595d73427d22ae2e0e)
 
-<a name="Gmail"></a>
+<a name="gmail"></a>
 #### Gmail
 - [How to Retrieve Replied Emails for Gmail](https://gist.github.com/tanaikech/a047e5f67f30b93482986039daa16dbc)
 - [Adding a Label to a Message using Message ID for Gmail](https://gist.github.com/tanaikech/69c7daf910fdad0d6a296ea19f612089)
 
-<a name="Chart"></a>
+<a name="chart"></a>
 #### Chart
 - [Embedding a Chart to a Cell using Custom Function on Spreadsheet](https://gist.github.com/tanaikech/52da88484851ce2e0dea9881bf49f6fa)
 - [Changing Line to Bars for Combo Chart using GAS](https://gist.github.com/tanaikech/bff89176cd269e392c45500274b40810)
 
-<a name="Slack"></a>
+<a name="slack"></a>
 #### Slack
 - [Changing Slack Status using Google Apps Script](https://tanaikech.github.io/2017/05/09/changing-slack-status-using-google-apps-script/)
 - [Uploading Image Files to Slack Using Incoming Webhooks by Google Apps Script](https://gist.github.com/tanaikech/159cec05583c6f206e144f33b4042559)
 - [Using Dialog Box of Slack by Google Apps Script](https://gist.github.com/tanaikech/c111f5560d21a07529e0da870af06a7d)
 
-<a name="VirtualCurrency"></a>
+<a name="virtualcurrency"></a>
 #### Virtual Currency
 - [Bitfinex API for Google Apps Script](https://gist.github.com/tanaikech/1104d039341f198f95eee66af57c0abf)
 - [Binance API for Google Apps Script](https://gist.github.com/tanaikech/175067567819577fd8eba9b82eabd1a6)
@@ -259,15 +267,15 @@ Sample Scripts
 - [Zaif API for Google Apps Script](https://gist.github.com/tanaikech/77481c2621dc7429449194c0f1dbd58c)
 - [Cryptopia API for Google Apps Script](https://gist.github.com/tanaikech/58f092a544eb1cfbb19bc0252f36e4cb)
 
-<a name="Stackoverflow"></a>
+<a name="stackoverflow"></a>
 #### Stackoverflow
 - [Notifying Comments at Stackoverflow by Email using Google Apps Script](https://github.com/tanaikech/Notifying-Comments-at-Stackoverflow-by-Email)
 
-<a name="Netatmo"></a>
+<a name="netatmo"></a>
 #### Netatmo
 - [Notifying with email when Netatmo was down](https://github.com/tanaikech/Notifying-with-email-when-Netatmo-was-down)
 
-<a name="Etc"></a>
+<a name="etc"></a>
 #### Etc
 - [OCR using Google Drive API](https://gist.github.com/tanaikech/8c808bf8c060455fe5401ecacad07b94)
 - [Multipart-POST Request Using Google Apps Script](https://gist.github.com/tanaikech/d595d30a592979bbf0c692d1193d260c)
@@ -281,23 +289,23 @@ Sample Scripts
 - [Adding Query Parameters to URL using Google Apps Script](https://gist.github.com/tanaikech/70503e0ea6998083fcb05c6d2a857107)
 - [Retrieving Screen Shots of Sites using Google Apps Script](https://gist.github.com/tanaikech/a434b4ed50d91fe5f56fffcf6bcb3f78)
 
-<a name="Nodejs"></a>
+<a name="nodejs"></a>
 #### Node.js
 - [Downloading Files Under Specific Folder using Node.js](https://gist.github.com/tanaikech/38b536923b1765da052c21aab093649d)
 - [Send mails from Gmail using Nodemailer](https://gist.github.com/tanaikech/d225c7adab818a6dc1dfd7783f8c8e4d)
 - [Create Folder Tree of Google Drive using Node.js](https://gist.github.com/tanaikech/97b336f04c739ae0181a606eab3dff42)
 
-<a name="Golang"></a>
+<a name="golang"></a>
 #### Golang
 - [spreadsheets.values.batchUpdate using Golang](https://gist.github.com/tanaikech/0f5b15fec7f409cdb568b0c2904fccb2)
 - [Uploading CSV File as Spreadsheet and Modifying Permissions using Golang](https://gist.github.com/tanaikech/7ee103c80759a8297da198a5d1e92fc8)
 
-<a name="Python"></a>
+<a name="python"></a>
 #### Python
 - [Updating Thumbnail of File on Google Drive using Python](https://gist.github.com/tanaikech/731c412c271828276bf3e24a25235aab)
 - [Uploading Files From Local To Google Drive by Python without Quickstart](https://gist.github.com/tanaikech/8cdfd23807372657dc63d81e25e35153)
 
-<a name="Curl"></a>
+<a name="curl"></a>
 #### Curl
 - [File Upload and Download with File Convert For curl using Drive API](https://tanaikech.github.io/2017/02/08/file-upload-and-download-with-file-convert-for-curl-using-drive-api/)
 - [Downloading Shared Files on Google Drive Using Curl](https://gist.github.com/tanaikech/f0f2d122e05bf5f971611258c22c110f)
