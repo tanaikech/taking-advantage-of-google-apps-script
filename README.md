@@ -188,7 +188,7 @@ Benchmarks
 Sample Scripts
 =====
 
-<a name="gilesingoogledrive"></a>
+<a name="filesingoogledrive"></a>
 #### Files in Google Drive
 - [File upload using doPost on Google Web Apps](https://tanaikech.github.io/2017/02/05/file-upload-using-dopost-on-google-web-apps/)
 - [Retrieving Access Token for Google Drive API using GAS](https://gist.github.com/tanaikech/64175178489d1d72a6090b79be901c23)
