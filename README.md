@@ -9,6 +9,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 - [GAS libraries](#gaslibraries)
 - [Go libraries](#golibraries)
 - [Node.js modules](#nodemodules)
+- [Python library](#pythonlibrary)
 - [Add-ons](#addons)
 - [Reports](#reports)
 - [Benchmarks](#benchmarks)
@@ -80,6 +81,13 @@ Go libraries
 Node.js modules
 =====
 - [node-getfilelist](https://github.com/tanaikech/node-getfilelist) : This is a Node.js module to retrieve the file list with the folder tree from the specific folder of Google Drive.
+
+<br>
+
+<a name="pythonlibrary"></a>
+Python library
+=====
+- [getfilelistpy](https://github.com/tanaikech/getfilelistpy) : This is a python library to retrieve the file list with the folder tree from the specific folder of Google Drive.
 
 <br>
 
