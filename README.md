@@ -74,6 +74,7 @@ GAS libraries
 Go libraries
 =====
 - [go-getfilelist](https://github.com/tanaikech/go-getfilelist) : This is a Golang library to retrieve the file list with the folder tree from the specific folder of Google Drive.
+- [go-gettokenbyserviceaccount](https://github.com/tanaikech/go-gettokenbyserviceaccount) : This is a Golang library to retrieve access token from Service Account of Google without using Google's OAuth2 package.
 
 <br>
 
@@ -319,6 +320,7 @@ Sample Scripts
 - [spreadsheets.values.batchUpdate using Golang](https://gist.github.com/tanaikech/0f5b15fec7f409cdb568b0c2904fccb2)
 - [Uploading CSV File as Spreadsheet and Modifying Permissions using Golang](https://gist.github.com/tanaikech/7ee103c80759a8297da198a5d1e92fc8)
 - [Using String Values to []googleapi.Field for Golang](https://gist.github.com/tanaikech/27d27a1ac7fa99503e0737c28db53056)
+- [Retrieving Access Token using Service Account by Google's OAuth2 package for Golang](https://gist.github.com/tanaikech/4b4cb27ece27573b3f4df0e050b52330)
 
 <a name="python"></a>
 #### Python
