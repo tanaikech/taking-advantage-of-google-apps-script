@@ -252,6 +252,7 @@ Sample Scripts
 - [CLEAN method for Google Apps Script](https://gist.github.com/tanaikech/585597adda7954ba1cde3e724582bac5)
 - [Retrieve Last of Specific Row and Column](https://gist.github.com/tanaikech/044d8651aed41c886f3379fdf5165aa2)
 - [Parsing A1Notations using Google Apps Script](https://gist.github.com/tanaikech/c59b90324c90935b13f9e7b26cbf436a)
+- [Closing Existing Sidebar using Google Apps Script](https://gist.github.com/tanaikech/c1b5fb20342dae623139ca0f48c8c12c)
 
 <a name="documents"></a>
 #### Documents
