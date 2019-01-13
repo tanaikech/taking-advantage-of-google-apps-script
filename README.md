@@ -253,6 +253,7 @@ Sample Scripts
 - [Retrieve Last of Specific Row and Column](https://gist.github.com/tanaikech/044d8651aed41c886f3379fdf5165aa2)
 - [Parsing A1Notations using Google Apps Script](https://gist.github.com/tanaikech/c59b90324c90935b13f9e7b26cbf436a)
 - [Closing Existing Sidebar using Google Apps Script](https://gist.github.com/tanaikech/c1b5fb20342dae623139ca0f48c8c12c)
+- [Opening Dialog Box during Calculation and Retrieving Calculated Result using Google Apps Script](https://gist.github.com/tanaikech/3a4837d4ef0d31522cd9ff29c085c786)
 
 <a name="documents"></a>
 #### Documents
