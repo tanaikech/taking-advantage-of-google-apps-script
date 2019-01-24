@@ -254,6 +254,7 @@ Sample Scripts
 - [Parsing A1Notations using Google Apps Script](https://gist.github.com/tanaikech/c59b90324c90935b13f9e7b26cbf436a)
 - [Closing Existing Sidebar using Google Apps Script](https://gist.github.com/tanaikech/c1b5fb20342dae623139ca0f48c8c12c)
 - [Opening Dialog Box during Calculation and Retrieving Calculated Result using Google Apps Script](https://gist.github.com/tanaikech/3a4837d4ef0d31522cd9ff29c085c786)
+- [Creating One-time Writing Cells using Google Apps Script](https://gist.github.com/tanaikech/4ba859167a84ed625fcbab392c8d34cd)
 
 <a name="documents"></a>
 #### Documents
