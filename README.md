@@ -215,6 +215,7 @@ Sample Scripts
 - [Enhanced makeCopy() using Google Apps Script](https://gist.github.com/tanaikech/ac1b0d50fe1ffaa40e95bbe9faf908b9)
 - [Retrieving file list with folder structure under a specific folder in Google Drive](https://gist.github.com/tanaikech/4fca197b8ec45c8ac6300b1531c2489d)
 - [Uploading Multiple Files From Local To Google Drive using Google Apps Script](https://gist.github.com/tanaikech/88fcae255abb4aac5bec81ad5ca213ef)
+- [tarUnarchiver for Google Apps Script](https://github.com/tanaikech/tarUnarchiver-for-Google-Apps-Script)
 
 <a name="projects"></a>
 #### Projects
