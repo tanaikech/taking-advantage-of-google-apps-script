@@ -226,7 +226,6 @@ Sample Scripts
 
 <a name="spreadsheets"></a>
 #### Spreadsheets
-- [Making charts at spreadsheet](https://tanaikech.github.io/2017/02/13/making-charts-at-spreadsheet/)
 - [Download a CSV File from Spreadsheet Using Google HTML Service](https://tanaikech.github.io/2017/02/16/download-a-csv-file-from-spreadsheet-using-google-html-service/)
 - [Send E-mail with Excel file converted from Spreadsheet](https://tanaikech.github.io/2017/02/16/send-e-mail-with-excel-file-converted-from-spreadsheet/)
 - [Export CSV File from Spreadsheet and Make Download Button](https://tanaikech.github.io/2017/02/20/export-csv-file-from-spreadsheet-and-make-download-button/)
@@ -274,8 +273,10 @@ Sample Scripts
 
 <a name="chart"></a>
 #### Chart
+- [Making charts at spreadsheet](https://tanaikech.github.io/2017/02/13/making-charts-at-spreadsheet/)
 - [Embedding a Chart to a Cell using Custom Function on Spreadsheet](https://gist.github.com/tanaikech/52da88484851ce2e0dea9881bf49f6fa)
 - [Changing Line to Bars for Combo Chart using GAS](https://gist.github.com/tanaikech/bff89176cd269e392c45500274b40810)
+- [Workaround for Adding Title of vAxis to Embedded Chart on Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/41581051298c88db9bdf3ed15dfe00ae)
 
 <a name="slack"></a>
 #### Slack
