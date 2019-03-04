@@ -276,7 +276,7 @@ Sample Scripts
 - [Making charts at spreadsheet](https://tanaikech.github.io/2017/02/13/making-charts-at-spreadsheet/)
 - [Embedding a Chart to a Cell using Custom Function on Spreadsheet](https://gist.github.com/tanaikech/52da88484851ce2e0dea9881bf49f6fa)
 - [Changing Line to Bars for Combo Chart using GAS](https://gist.github.com/tanaikech/bff89176cd269e392c45500274b40810)
-- [Workaround for Adding Title of vAxis to Embedded Chart on Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/41581051298c88db9bdf3ed15dfe00ae)
+- [Adding Title of vAxis to Embedded Chart on Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/4125cc280e15c0fc726cb2fe4f35a3f7)
 
 <a name="slack"></a>
 #### Slack
