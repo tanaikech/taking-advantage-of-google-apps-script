@@ -260,6 +260,7 @@ Sample Scripts
 #### Documents
 - [Retrieving Number of Lines of Google Document](https://gist.github.com/tanaikech/37def8eeeaf7780bb99d3289ee32385e)
 - [Replacing Text to Image for Google Document using Google Apps Script](https://gist.github.com/tanaikech/f84831455dea5c394e48caaee0058b26)
+- [Modify Shading Color of Paragraph on Google Document using Google Apps Script](https://gist.github.com/tanaikech/aadeca550943d07ee25d90d3bda3c9b9)
 
 <a name="slides"></a>
 #### Slides
