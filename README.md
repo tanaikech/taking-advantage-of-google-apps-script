@@ -13,6 +13,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 - [Add-ons](#addons)
 - [Reports](#reports)
 - [Benchmarks](#benchmarks)
+- [Communities](#communities)
 - [Sample Scripts](#samplescripts)
     - [Files in Google Drive](#filesingoogledrive)
     - [Projects](#projects)
@@ -184,6 +185,16 @@ Benchmarks
 >         - When the data size becomes large, the methods of Sheets API are suitable for writing values.
 
 > From these results, it is considered that the methods for reading and writing Spreadsheet of Sheets API are using the different algorithm and/or process from those of Spreadsheet service.
+
+<br>
+
+<a name="communities"></a>
+
+Communities
+=====
+### [Communities for Google Apps Script](https://gist.github.com/tanaikech/6b42d86414c5529fee56367d6bf67516)
+> Consumer (personal) version of Google+ is closed on April 2, 2019. By this, [Apps Script community of Google+](https://plus.google.com/communities/102471985047225101769/) is also closed. This is one of important communities for discussing. So in this post, I would like to introduce the other communities related to Google Apps Script.
+
 
 <br>
 
