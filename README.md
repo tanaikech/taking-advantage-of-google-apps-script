@@ -67,6 +67,8 @@ GAS libraries
 - [RangeListApp](https://github.com/tanaikech/RangeListApp) : RangeListApp is a GAS library for retrieving, putting and replacing values for Spreadsheet by a range list with a1Notation using Google Apps Script (GAS).
 - [DownloadLargeFilesByUrl](https://github.com/tanaikech/DownloadLargeFilesByUrl) : DownloadLargeFilesByUrl is a GAS library for downloading large files from URL to Google Drive using Google Apps Script (GAS).
 - [ArrangeStackingOrder](https://github.com/tanaikech/ArrangeStackingOrder) : ArrangeStackingOrder is a GAS library for arranging the stacking order of page elements on Google Slides using Google Apps Script (GAS).
+- [ProcessApp](https://github.com/tanaikech/ProcessApp) : This is a library for retrieving the process and information of Google Apps Script. For example, one of methods retrieves the total execution time of all functions executed by the time-driven trigger at owner's account.
+- [GistChecker](https://github.com/tanaikech/GistChecker) : This is a GAS library for notifying the change of number of comments, stars and forks of own Gists as an email using Google Apps Script.
 
 <br>
 
@@ -275,6 +277,8 @@ Sample Scripts
 - [Retrieving Number of Lines of Google Document](https://gist.github.com/tanaikech/37def8eeeaf7780bb99d3289ee32385e)
 - [Replacing Text to Image for Google Document using Google Apps Script](https://gist.github.com/tanaikech/f84831455dea5c394e48caaee0058b26)
 - [Modify Shading Color of Paragraph on Google Document using Google Apps Script](https://gist.github.com/tanaikech/aadeca550943d07ee25d90d3bda3c9b9)
+- [Modify Searched Text to Small Capital Letters using Google Apps Script](https://gist.github.com/tanaikech/30e8c778eb1102f651550b2345b6f3c0)
+- [Deleting Positioned Images on Google Document using Google Apps Script](https://gist.github.com/tanaikech/02c4c4ec7cb0ac83771e4306afcd422c)
 
 <a name="slides"></a>
 #### Slides
