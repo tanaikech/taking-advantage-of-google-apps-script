@@ -341,6 +341,8 @@ Sample Scripts
 - [Send mails from Gmail using Nodemailer](https://gist.github.com/tanaikech/d225c7adab818a6dc1dfd7783f8c8e4d)
 - [Create Folder Tree of Google Drive using Node.js](https://gist.github.com/tanaikech/97b336f04c739ae0181a606eab3dff42)
 - [Directly Using Access Token by googleapis for Node.js](https://gist.github.com/tanaikech/ca11c53356c5466e60109f79d9e4d9c9)
+- [Creating New Google Docs and Overwriting Existing Google Docs by Text with Node.js without using googleapis](https://gist.github.com/tanaikech/915f1034749b8b2f451556167663ea19)
+- [Retrieving Access Token using Service Account for Node.js without using googleapis](https://gist.github.com/tanaikech/7aaf2276e4e6104b89802e85957e75ae)
 
 <a name="golang"></a>
 #### Golang
