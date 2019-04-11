@@ -232,6 +232,7 @@ Sample Scripts
 - [Retrieving file list with folder structure under a specific folder in Google Drive](https://gist.github.com/tanaikech/4fca197b8ec45c8ac6300b1531c2489d)
 - [Uploading Multiple Files From Local To Google Drive using Google Apps Script](https://gist.github.com/tanaikech/88fcae255abb4aac5bec81ad5ca213ef)
 - [tarUnarchiver for Google Apps Script](https://github.com/tanaikech/tarUnarchiver-for-Google-Apps-Script)
+- [Converting Many Files to Google Docs using Google Apps Script](https://gist.github.com/tanaikech/d60700b523af7aaf89b9e7c92e35c3c2)
 
 <a name="projects"></a>
 #### Projects
