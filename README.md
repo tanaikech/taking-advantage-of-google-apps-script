@@ -381,6 +381,7 @@ Python library
 - [Retrieving Screen Shots of Sites using Google Apps Script](https://gist.github.com/tanaikech/a434b4ed50d91fe5f56fffcf6bcb3f78)
 - [Retrieving Access Token for Service Account using Google Apps Script](https://gist.github.com/tanaikech/20ea127a8e23a7c609f8d764c8b7ed7c)
 - [Parsing Query Parameters from URL using Google Apps Script](https://gist.github.com/tanaikech/34437522f3ce777bd060458b9cc02bdf)
+- [Split Array by n Elements using Google Apps Script](https://gist.github.com/tanaikech/c1fd2b4bce19597abc609b72818c1d8e)
 
 <a name="nodejs"></a>
 
