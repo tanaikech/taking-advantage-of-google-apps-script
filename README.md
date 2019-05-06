@@ -263,6 +263,7 @@ Python library
 - [Copying and Overwriting GAS Project](https://gist.github.com/tanaikech/3e7608bd8ba87dd6019aedbd09224bd3)
 - [Remove Third-party Apps with Account Access using Google Apps Script](https://gist.github.com/tanaikech/608e65fee105989df1a7b645c20572c2)
 - [Retrieving Reformatted Scripts without Comments in a Project using Google Apps Script](https://gist.github.com/tanaikech/61f69fd2ce181865d3430c260c6a5d0b)
+- [Backup Project as zip File using Google Apps Script](https://gist.github.com/tanaikech/035aa9f6603e7a8698c1cc67ab43e132)
 
 <a name="spreadsheets"></a>
 
