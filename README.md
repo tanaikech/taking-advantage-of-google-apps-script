@@ -7,6 +7,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 
 # Index
 
+- [News](#news)
 - [CLI tools for GAS](#clitool)
 - [GAS libraries](#gaslibraries)
 - [Go libraries](#golibraries)
@@ -35,6 +36,14 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
   - [Curl](#curl)
 
 <br>
+<br>
+
+<a name="news"></a>
+
+# News
+
+- [Specification of Google Apps Script Project was Changed at April 8, 2019](https://gist.github.com/tanaikech/558a5b6da0d9533017b1abe5815989c3)
+
 <br>
 
 <a name="clitool"></a>
