@@ -392,6 +392,7 @@ Python library
 - [Retrieving Access Token for Service Account using Google Apps Script](https://gist.github.com/tanaikech/20ea127a8e23a7c609f8d764c8b7ed7c)
 - [Parsing Query Parameters from URL using Google Apps Script](https://gist.github.com/tanaikech/34437522f3ce777bd060458b9cc02bdf)
 - [Split Array by n Elements using Google Apps Script](https://gist.github.com/tanaikech/c1fd2b4bce19597abc609b72818c1d8e)
+- [Processing Duplicated Rows of 2 Dimensional Arrays using Google Apps Script](https://gist.github.com/tanaikech/5c2d6187c08b2d7b2f7a561de0c75c5e)
 
 <a name="nodejs"></a>
 
