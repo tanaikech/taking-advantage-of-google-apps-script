@@ -319,6 +319,7 @@ Python library
 - [Modify Searched Text to Small Capital Letters using Google Apps Script](https://gist.github.com/tanaikech/30e8c778eb1102f651550b2345b6f3c0)
 - [Deleting Positioned Images on Google Document using Google Apps Script](https://gist.github.com/tanaikech/02c4c4ec7cb0ac83771e4306afcd422c)
 - [Limitations for Inserting Images to Google Docs](https://gist.github.com/tanaikech/9414d22de2ff30216269ca7be4bce462)
+- [Retrieving Total Page of Google Document using Google Apps Script](https://gist.github.com/tanaikech/c78087c647dc9b5547b580ccd3629974)
 
 <a name="slides"></a>
 
