@@ -309,6 +309,7 @@ Python library
 - [Creating One-time Writing Cells using Google Apps Script](https://gist.github.com/tanaikech/4ba859167a84ed625fcbab392c8d34cd)
 - [Limitations for Inserting Images to Google Docs](https://gist.github.com/tanaikech/9414d22de2ff30216269ca7be4bce462)
 - [Possibility of Real Time Processes In a Cell on Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/52e7bbdabf8bfc34ac16d5f27fd8cb80)
+- [Fixing Value Putting by Custom Function of Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/6ebf4bafbdc35116470bd197d00fe614)
 
 <a name="documents"></a>
 
