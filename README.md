@@ -81,6 +81,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 - [ProcessApp](https://github.com/tanaikech/ProcessApp) : This is a library for retrieving the process and information of Google Apps Script. For example, one of methods retrieves the total execution time of all functions executed by the time-driven trigger at owner's account.
 - [GistChecker](https://github.com/tanaikech/GistChecker) : This is a GAS library for notifying the change of number of comments, stars and forks of own Gists as an email using Google Apps Script.
 - [FetchApp](https://github.com/tanaikech/FetchApp) : This is a GAS library for creating and requesting the type of multipart/form-data using Google Apps Script. This library enhances Class UelFetchApp of Google Apps Script.
+- [GetEditType](https://github.com/tanaikech/GetEditType) : GetEditType is a GAS library for retrieving the edit types of the OnEdit event trigger of Spreadsheet using Google Apps Script (GAS).
 
 <br>
 
