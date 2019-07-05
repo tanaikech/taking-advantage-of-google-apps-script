@@ -8,6 +8,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 # Index
 
 - [News](#news)
+- [Settings](#settings)
 - [CLI tools for GAS](#clitool)
 - [GAS libraries](#gaslibraries)
 - [Go libraries](#golibraries)
@@ -43,6 +44,14 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 # News
 
 - [Specification of Google Apps Script Project was Changed at April 8, 2019](https://gist.github.com/tanaikech/558a5b6da0d9533017b1abe5815989c3)
+
+<br>
+
+<a name="settings"></a>
+
+# Settings
+
+- [Linking Cloud Platform Project to Google Apps Script Project](https://gist.github.com/tanaikech/e945c10917fac34a9d5d58cad768832c): At April 8, 2019, the specification of Google Apps Script Project was changed. In this report, the flow for linking Cloud Platform Project to GAS project is explained.
 
 <br>
 
