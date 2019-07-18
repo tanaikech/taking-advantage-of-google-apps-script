@@ -100,6 +100,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 
 - [go-getfilelist](https://github.com/tanaikech/go-getfilelist) : This is a Golang library to retrieve the file list with the folder tree from the specific folder of Google Drive.
 - [go-gettokenbyserviceaccount](https://github.com/tanaikech/go-gettokenbyserviceaccount) : This is a Golang library to retrieve access token from Service Account of Google without using Google's OAuth2 package.
+- [go-gdoctableapp](https://github.com/tanaikech/go-gdoctableapp) : This is a Golang library for managing tables on Google Document using Google Docs API.
 
 <br>
 
@@ -108,6 +109,7 @@ Node.js modules
 =====
 
 - [node-getfilelist](https://github.com/tanaikech/node-getfilelist) : This is a Node.js module to retrieve the file list with the folder tree from the specific folder of Google Drive.
+- [node-gdoctableapp](https://github.com/tanaikech/node-gdoctableapp) : This is a Node.js module to manage the tables on Google Document using Google Docs API.
 
 <br>
 
@@ -116,6 +118,7 @@ Python library
 =====
 
 - [getfilelistpy](https://github.com/tanaikech/getfilelistpy) : This is a python library to retrieve the file list with the folder tree from the specific folder of Google Drive.
+- [gdoctableapppy](https://github.com/tanaikech/gdoctableapppy) : This is a python library to manage the tables on Google Document using Google Docs API.
 
 <br>
 
