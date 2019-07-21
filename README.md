@@ -424,6 +424,7 @@ Python library
 - [Directly Using Access Token by googleapis for Node.js](https://gist.github.com/tanaikech/ca11c53356c5466e60109f79d9e4d9c9)
 - [Creating New Google Docs and Overwriting Existing Google Docs by Text with Node.js without using googleapis](https://gist.github.com/tanaikech/915f1034749b8b2f451556167663ea19)
 - [Retrieving Access Token using Service Account for Node.js without using googleapis](https://gist.github.com/tanaikech/7aaf2276e4e6104b89802e85957e75ae)
+- [Creating a Table to Google Document by Retrieving Values from Google Spreadsheet for Node.jshttps://gist.github.com/tanaikech/e64342de7011228f5fb639d7d1123ebb)
 
 <a name="golang"></a>
 
@@ -434,7 +435,7 @@ Python library
 - [Using String Values to []googleapi.Field for Golang](https://gist.github.com/tanaikech/27d27a1ac7fa99503e0737c28db53056)
 - [Retrieving Access Token using Service Account by Google's OAuth2 package for Golang](https://gist.github.com/tanaikech/4b4cb27ece27573b3f4df0e050b52330)
 - [Sorting for Slice using Golang](https://gist.github.com/tanaikech/4d0075dc21b643245be03d661e8d5f54)
-[Creating a Table to Google Document by Retrieving Values from Google Spreadsheet for Golang](https://gist.github.com/tanaikech/0589a673cae9569181def8ccd10793cf)
+- [Creating a Table to Google Document by Retrieving Values from Google Spreadsheet for Golang](https://gist.github.com/tanaikech/0589a673cae9569181def8ccd10793cf)
 
 <a name="python"></a>
 
@@ -442,6 +443,7 @@ Python library
 
 - [Updating Thumbnail of File on Google Drive using Python](https://gist.github.com/tanaikech/731c412c271828276bf3e24a25235aab)
 - [Uploading Files From Local To Google Drive by Python without Quickstart](https://gist.github.com/tanaikech/8cdfd23807372657dc63d81e25e35153)
+- [Creating a Table to Google Document by Retrieving Values from Google Spreadsheet for Python](https://gist.github.com/tanaikech/305e413696bcdf3a2ee3e86cebf3c7dc)
 
 <a name="curl"></a>
 
