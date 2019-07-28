@@ -325,6 +325,7 @@ Python library
 - [Possibility of Real Time Processes In a Cell on Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/52e7bbdabf8bfc34ac16d5f27fd8cb80)
 - [Fixing Value Putting by Custom Function of Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/6ebf4bafbdc35116470bd197d00fe614)
 - [Protecting Cells of Spreadsheet that Users Copied from Your Google Drive to User's Google Drive using Google Apps Script](https://gist.github.com/tanaikech/847ea7e3e27a4a22004faa88d7b4dedb)
+- [Retrieving Values from Filtered Sheet in Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/053d3ebbe76fa7c0b5e80ea9d6396011)
 
 <a name="documents"></a>
 
