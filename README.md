@@ -415,7 +415,7 @@ Python library
 - [Split Array by n Elements using Google Apps Script](https://gist.github.com/tanaikech/c1fd2b4bce19597abc609b72818c1d8e)
 - [Processing Duplicated Rows of 2 Dimensional Arrays using Google Apps Script](https://gist.github.com/tanaikech/5c2d6187c08b2d7b2f7a561de0c75c5e)
 - [Retrieving Values with and without Duplicating from JSON Object using Google Apps Script](https://gist.github.com/tanaikech/16ba2c77cdc8caa6a02958c9a4006e8a)
-- [Retrieving Tables by Parsing HTML using Google Apps Script](https://gist.github.com/tanaikech/e85193a89d041fed6122583739309786)
+- [Parsing HTML using Google Apps Script](https://gist.github.com/tanaikech/e85193a89d041fed6122583739309786)
 
 <a name="nodejs"></a>
 
