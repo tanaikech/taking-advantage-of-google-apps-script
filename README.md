@@ -229,6 +229,14 @@ Python library
 
 > From these results, it is considered that the methods for reading and writing Spreadsheet of Sheets API are using the different algorithm and/or process from those of Spreadsheet service.
 
+### [Importing CSV Data to Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/030203c695b308606041587e6da269e7)
+
+> In this report, the process cost for importing CSV data to Spreadsheet using GAS has been investigated. As the result, the following results were obtained.
+
+> - It was found that pattern4, which uses `pasteData` of Sheets API, was the lowest cost of all.
+> - When pattern4 is used for importing CSV data to Spreadsheet, the cost can be reduced by 56 % from pattern1 and pattern2, which use the method parsing and putting values.
+> - When pattern4 is used for importing CSV data to Spreadsheet, the cost can be reduced by 72 % from pattern3, which use the method converting mimeType from CSV to Spreadsheet.
+
 <br>
 
 <a name="communities"></a>
