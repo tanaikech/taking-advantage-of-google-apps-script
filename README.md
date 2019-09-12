@@ -14,6 +14,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 - [Go libraries](#golibraries)
 - [Node.js modules](#nodemodules)
 - [Python library](#pythonlibrary)
+- [Javascript library](#javascriptlibrary)
 - [Add-ons](#addons)
 - [Reports](#reports)
 - [Benchmarks](#benchmarks)
@@ -120,6 +121,14 @@ Python library
 
 - [getfilelistpy](https://github.com/tanaikech/getfilelistpy) : This is a python library to retrieve the file list with the folder tree from the specific folder of Google Drive.
 - [gdoctableapppy](https://github.com/tanaikech/gdoctableapppy) : This is a python library to manage the tables on Google Document using Google Docs API.
+
+<br>
+
+<a name="javascriptlibrary"></a>
+Javascript library
+=====
+
+- [GetFileList_js](https://github.com/tanaikech/GetFileList_js) : This is a Javascript library to retrieve the file list with the folder tree from the specific folder (publicly shared folders and own folders) of Google Drive.
 
 <br>
 
