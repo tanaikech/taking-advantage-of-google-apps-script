@@ -129,6 +129,7 @@ Javascript library
 =====
 
 - [GetFileList_js](https://github.com/tanaikech/GetFileList_js) : This is a Javascript library to retrieve the file list with the folder tree from the specific folder (publicly shared folders and own folders) of Google Drive.
+- [syncGoogleScriptRun](https://github.com/tanaikech/syncGoogleScriptRun) : This is a Javascript library to use "google.script.run" with the synchronous process.
 
 <br>
 
