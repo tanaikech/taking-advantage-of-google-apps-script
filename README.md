@@ -295,6 +295,7 @@ Javascript library
 - [Converting Many Files to Google Docs using Google Apps Script](https://gist.github.com/tanaikech/d60700b523af7aaf89b9e7c92e35c3c2)
 - [Creating Google Document by Converting PDF and Image Files with OCR using Google Apps Script](https://gist.github.com/tanaikech/b73396314254f7a5bf571af6b65eac07)
 - [Overwriting Several Google Documents by 2 Text Files using Google Apps Script](https://gist.github.com/tanaikech/55f0a57ed98ff11e7d8780cc773b6dce)
+- [Modifying Revisions of a File on Google Drive using Google Apps Script](https://gist.github.com/tanaikech/9508a9007c1a5196e4b234ea40528f96)
 
 <a name="projects"></a>
 
