@@ -298,6 +298,7 @@ Javascript library
 - [Overwriting Several Google Documents by 2 Text Files using Google Apps Script](https://gist.github.com/tanaikech/55f0a57ed98ff11e7d8780cc773b6dce)
 - [Modifying Revisions of a File on Google Drive using Google Apps Script](https://gist.github.com/tanaikech/9508a9007c1a5196e4b234ea40528f96)
 - [One Time Download for Google Drive](https://github.com/tanaikech/One_Time_Download_for_Google_Drive)
+- [Resumable Upload of Multiple Files with Asynchronous Process for Google Drive](https://github.com/tanaikech/AsynchronousResumableUploadForGoogleDrive)
 
 <a name="projects"></a>
 
