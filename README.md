@@ -333,7 +333,7 @@ Javascript library
 - [Enhanced onEdit(e) using Google Apps Script](https://gist.github.com/tanaikech/73edaed1268a6d07118aed538aa5608d)
 - [Measuring Execution Time of Built-In Functions for Google Spreadsheet](https://gist.github.com/tanaikech/1e7df0d6991d4e39330cd2b353573e72)
 - [Retrieving Instance of User-Interface Environment](https://gist.github.com/tanaikech/f05e7d82b754b0348463b8dec1c741ad)
-- [Automatic Recalculation of Custom Function on Spreadsheet](https://gist.github.com/tanaikech/b8ea7bd7fd87bcd7bb28ddede1781889)
+- [Automatic Recalculation of Custom Function on Spreadsheet Part 1](https://gist.github.com/tanaikech/b8ea7bd7fd87bcd7bb28ddede1781889)
 - [Open Site with New Window using Google Apps Script](https://gist.github.com/tanaikech/9115c70eb83558d3af2eea656e4d9c67)
 - [Append Values by Inserting Rows using Google Sheets API](https://gist.github.com/tanaikech/7846ebcafbab8318ff74c9955a99e06b)
 - [Retrieves All Named Ranges in Spreadsheet as a1Notation](https://gist.github.com/tanaikech/aa744c9a15818c002d90eaea6b4efd03)
@@ -348,6 +348,7 @@ Javascript library
 - [Fixing Value Putting by Custom Function of Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/6ebf4bafbdc35116470bd197d00fe614)
 - [Protecting Cells of Spreadsheet that Users Copied from Your Google Drive to User's Google Drive using Google Apps Script](https://gist.github.com/tanaikech/847ea7e3e27a4a22004faa88d7b4dedb)
 - [Retrieving Values from Filtered Sheet in Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/053d3ebbe76fa7c0b5e80ea9d6396011)
+- [Automatic Recalculation of Custom Function on Spreadsheet Part 2](https://gist.github.com/tanaikech/cb5447616bfc6a01de8a49131c0d2db0)
 
 <a name="documents"></a>
 
