@@ -349,6 +349,7 @@ Javascript library
 - [Protecting Cells of Spreadsheet that Users Copied from Your Google Drive to User's Google Drive using Google Apps Script](https://gist.github.com/tanaikech/847ea7e3e27a4a22004faa88d7b4dedb)
 - [Retrieving Values from Filtered Sheet in Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/053d3ebbe76fa7c0b5e80ea9d6396011)
 - [Automatic Recalculation of Custom Function on Spreadsheet Part 2](https://gist.github.com/tanaikech/cb5447616bfc6a01de8a49131c0d2db0)
+- [Retrieving Values from Sheet Filtered by Slicer in Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/7cc9efb29ba6063da04f81e50d858f52)
 
 <a name="documents"></a>
 
