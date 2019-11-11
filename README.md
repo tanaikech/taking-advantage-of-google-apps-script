@@ -31,6 +31,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
   - [Virtual Currency](#virtualcurrency)
   - [Stackoverflow](#stackoverflow)
   - [Netatmo](#netatmo)
+  - [Figma](#figma)
   - [Etc](#etc)
   - [Node.js](#nodejs)
   - [Golang](#golang)
@@ -418,6 +419,12 @@ Javascript library
 #### Netatmo
 
 - [Notifying with email when Netatmo was down](https://github.com/tanaikech/Notifying-with-email-when-Netatmo-was-down)
+
+<a name="figma"></a>
+
+#### Figma
+
+- [Figma to Google Slides using Google Apps Script](https://gist.github.com/tanaikech/6aeb3ff13765cfba465862e2e2c3dd3b)
 
 <a name="etc"></a>
 
