@@ -300,6 +300,7 @@ Javascript library
 - [Modifying Revisions of a File on Google Drive using Google Apps Script](https://gist.github.com/tanaikech/9508a9007c1a5196e4b234ea40528f96)
 - [One Time Download for Google Drive](https://github.com/tanaikech/One_Time_Download_for_Google_Drive)
 - [Resumable Upload of Multiple Files with Asynchronous Process for Google Drive](https://github.com/tanaikech/AsynchronousResumableUploadForGoogleDrive)
+- [Moving File to Specific Folder using Google Apps Script](https://gist.github.com/tanaikech/84dd9e9f79cad87bedb45e21342c0121)
 
 <a name="projects"></a>
 
