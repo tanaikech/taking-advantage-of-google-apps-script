@@ -93,7 +93,8 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 - [GistChecker](https://github.com/tanaikech/GistChecker) : This is a GAS library for notifying the change of number of comments, stars and forks of own Gists as an email using Google Apps Script.
 - [FetchApp](https://github.com/tanaikech/FetchApp) : This is a GAS library for creating and requesting the type of multipart/form-data using Google Apps Script. This library enhances Class UelFetchApp of Google Apps Script.
 - [GetEditType](https://github.com/tanaikech/GetEditType) : GetEditType is a GAS library for retrieving the edit types of the OnEdit event trigger of Spreadsheet using Google Apps Script (GAS).
-- [UnzipGs](https://github.com/tanaikech/UnzipGs)This is a GAS library for unzipping a Zip file protected by a password using Google Apps Script.
+- [UnzipGs](https://github.com/tanaikech/UnzipGs) : This is a GAS library for unzipping a Zip file protected by a password using Google Apps Script.
+- [GmailToList](https://github.com/tanaikech/GmailToList) : This is a library for exporting all messages of Gmail as a list using Google Apps Script (GAS).
 
 <br>
 
