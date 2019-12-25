@@ -464,6 +464,7 @@ Javascript library
 - [Creating New Google Docs and Overwriting Existing Google Docs by Text with Node.js without using googleapis](https://gist.github.com/tanaikech/915f1034749b8b2f451556167663ea19)
 - [Retrieving Access Token using Service Account for Node.js without using googleapis](https://gist.github.com/tanaikech/7aaf2276e4e6104b89802e85957e75ae)
 - [Creating a Table to Google Document by Retrieving Values from Google Spreadsheet for Node.js](https://gist.github.com/tanaikech/e64342de7011228f5fb639d7d1123ebb)
+- [Music Streaming Player for Discord with Google Drive using Node.js](https://gist.github.com/tanaikech/6029cb2422dd58fe24c3a16a43ce7c35)
 
 <a name="golang"></a>
 
