@@ -8,6 +8,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 # Index
 
 - [News](#news)
+- [Trend of Google Apps Script](#trend)
 - [Settings](#settings)
 - [CLI tools for GAS](#clitool)
 - [GAS libraries](#gaslibraries)
@@ -47,6 +48,16 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 # News
 
 - [Specification of Google Apps Script Project was Changed at April 8, 2019](https://gist.github.com/tanaikech/558a5b6da0d9533017b1abe5815989c3)
+
+<br>
+
+<a name="trend"></a>
+
+# Trend of Google Apps Script
+
+### [Trend of google-apps-script Tag on Stackoverflow 2019](https://gist.github.com/tanaikech/4e4f1ca20b8dbce08f87289db415df7d)
+
+> At Stackoverflow, a lot of people post the questions and answers to the questions every day. There are various tags in Stackoverflow. A lot of discussions are performed at each tag. Their discussions bring the important information and are much useful for a lot of people. As one of tags, there is "google-apps-script". I sometimes discuss at the questions with that tag. When we see the discussions, we can notice that the discussions are changed and progressed by the time, because "Google Apps Script" which is the origin of the tag is updated. This report thinks this change as the trend of tag of "google-apps-script". This trend includes the number of questions, questioners, answerers and tags adding to the tag of "google-apps-script". The trend of tag of "google-apps-script" is deeply related to the progression of Google Apps Script and the various applications for Google Apps Script. In this report, as one of several approaches, the trend of Google Apps Script was investigated by statistically analyzing all questions with the tag of "google-apps-script". As the result, it was found that by investigating all questions with the tag of "google-apps-script", the tags added to this main tag strongly affected to the trend of the tag of "google-apps-script". Also the possibility which can estimate the future trend by investigating the tags adding to the tag of "google-apps-script" was indicated.
 
 <br>
 
@@ -173,10 +184,6 @@ Javascript library
 ### [Asynchronous Processing using Event Triggers](https://gist.github.com/tanaikech/88f7fd5ed14da5e9afde18310da61cb5)
 
 > This is a report about the possibility of asynchronous process using event triggers. `onEdit()` which is a simple trigger is often used as a trigger when the values are modified on Spreadsheet. When users want to use the script including some methods which are required to be authorized as the onEdit event, a installable trigger of onEdit is used. If the trigger is installed for the function of `onEdit()`, when the event trigger is run, `onEdit()` is run 2 times. In order to avoid this, the installable trigger is installed to the functions except for the functions of simple triggers. The functions of simple triggers which is the same events are not used in the project. When I thought about this situation, I thought that both `onEdit()` which is run by the simple trigger and the function which is run by the installable trigger might be able to be used, simultaneously. So I investigated about this situation. As the result, it was found that the following simple triggers and installable triggers work as the asynchronous process.
-
-### [Trend of google-apps-script Tag on Stackoverflow](https://gist.github.com/tanaikech/4e4f1ca20b8dbce08f87289db415df7d)
-
-> At Stackoverflow, a lot of people post the questions and answers to the questions every day. There are various tags in Stackoverflow. A lot of discussions are performed at each tag. Their discussions bring the important information and are much useful for a lot of people. As one of tags, there is "google-apps-script". I sometimes discuss at the questions with that tag. When we see the discussions, we can notice that the discussions are changed and progressed by the time, because "Google Apps Script" which is the origin of the tag is updated. This report thinks this change as the trend of tag of "google-apps-script". This trend includes the number of questions, questioners, answerers and tags adding to the tag of "google-apps-script". The trend of tag of "google-apps-script" is deeply related to the progression of Google Apps Script and the various applications for Google Apps Script. In this report, as one of several approaches, the trend of Google Apps Script was investigated by statistically analyzing all questions with the tag of "google-apps-script". As the result, it was found that by investigating all questions with the tag of "google-apps-script", the tags added to this main tag strongly affected to the trend of the tag of "google-apps-script". Also the possibility which can estimate the future trend by investigating the tags adding to the tag of "google-apps-script" was indicated.
 
 <br>
 
