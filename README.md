@@ -397,6 +397,7 @@ Javascript library
 #### Calendar
 
 - [Running Google Apps Script by Event Notification from Google Calendar](https://gist.github.com/tanaikech/fbbfaa8f2a8a770424974aa16b9b6f3b)
+- [Retrieving Event ID from Event URL of Google Calendar using Google Apps Script](https://gist.github.com/tanaikech/b366be5995be04f689c3d80b18363f5e)
 
 <a name="chart"></a>
 
