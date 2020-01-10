@@ -55,9 +55,11 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 
 # Trend of Google Apps Script
 
-### [Trend of google-apps-script Tag on Stackoverflow 2019](https://gist.github.com/tanaikech/4e4f1ca20b8dbce08f87289db415df7d)
-
 > At Stackoverflow, a lot of people post the questions and answers to the questions every day. There are various tags in Stackoverflow. A lot of discussions are performed at each tag. Their discussions bring the important information and are much useful for a lot of people. As one of tags, there is "google-apps-script". I sometimes discuss at the questions with that tag. When we see the discussions, we can notice that the discussions are changed and progressed by the time, because "Google Apps Script" which is the origin of the tag is updated. This report thinks this change as the trend of tag of "google-apps-script". This trend includes the number of questions, questioners, answerers and tags adding to the tag of "google-apps-script". The trend of tag of "google-apps-script" is deeply related to the progression of Google Apps Script and the various applications for Google Apps Script. In this report, as one of several approaches, the trend of Google Apps Script was investigated by statistically analyzing all questions with the tag of "google-apps-script". As the result, it was found that by investigating all questions with the tag of "google-apps-script", the tags added to this main tag strongly affected to the trend of the tag of "google-apps-script". Also the possibility which can estimate the future trend by investigating the tags adding to the tag of "google-apps-script" was indicated.
+
+- [Trend of google-apps-script Tag on Stackoverflow 2019](https://gist.github.com/tanaikech/4e4f1ca20b8dbce08f87289db415df7d)
+
+- [Trend of google-apps-script Tag on Stackoverflow 2020](https://gist.github.com/tanaikech/fd7dbc6d630fd0550c32159635cecc96)
 
 <br>
 
