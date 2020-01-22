@@ -468,7 +468,7 @@ Javascript library
 - [Processing Duplicated Rows of 2 Dimensional Arrays using Google Apps Script](https://gist.github.com/tanaikech/5c2d6187c08b2d7b2f7a561de0c75c5e)
 - [Retrieving Values with and without Duplicating from JSON Object using Google Apps Script](https://gist.github.com/tanaikech/16ba2c77cdc8caa6a02958c9a4006e8a)
 - [Parsing HTML using Google Apps Script](https://gist.github.com/tanaikech/e85193a89d041fed6122583739309786)
-- [Examples of How to Derive a Signing Key for Signature Version 4 for Google Apps Script](https://gist.github.com/tanaikech/97a2787db7be94180a64e1f4c194d415)
+- [Examples of How to Derive a Signing Key for Signature Version 4 (AWS) for Google Apps Script](https://gist.github.com/tanaikech/97a2787db7be94180a64e1f4c194d415)
 - [Running Functions by Specifying Function Names with Web Apps for Google Apps Script](https://gist.github.com/tanaikech/b2e0325a28efe7c609e4688ec22ee22c)
 
 <a name="nodejs"></a>
