@@ -470,6 +470,7 @@ Javascript library
 - [Parsing HTML using Google Apps Script](https://gist.github.com/tanaikech/e85193a89d041fed6122583739309786)
 - [Examples of How to Derive a Signing Key for Signature Version 4 (AWS) for Google Apps Script](https://gist.github.com/tanaikech/97a2787db7be94180a64e1f4c194d415)
 - [Running Functions by Specifying Function Names with Web Apps for Google Apps Script](https://gist.github.com/tanaikech/b2e0325a28efe7c609e4688ec22ee22c)
+- [URL Encode with Shift-JIS using Google Apps Script](https://gist.github.com/tanaikech/f23755d7e024fea9c0f0e036853484d4)
 
 <a name="nodejs"></a>
 
