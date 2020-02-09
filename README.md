@@ -200,7 +200,7 @@ Javascript library
 
 > - It was found that the process cost of `e.range.getA1Notation()` was 20 % and 10 % for those of `e.source.getActiveCell().getA1Notation()` and `SpreadsheetApp.getActiveSheet().getActiveCell().getA1Notation()`, respectively.
 
-### [Loop for Array Processing using Google Apps Script](https://gist.github.com/tanaikech/848aeafaac1ec676900bb78e3ce220b6)
+### [Loop for Array Processing using Google Apps Script without V8](https://gist.github.com/tanaikech/848aeafaac1ec676900bb78e3ce220b6)
 
 > - In the case of the sample script for retrieving the multiple of 5 from the array, the loop using "map, filter" is the most suitable way.
 > - Ascending order of cost for each method is "map, filter", "Comprehension", "forEach", "for in", "for loop" and "while".
@@ -262,6 +262,16 @@ Javascript library
 > - It was found that pattern4, which uses `pasteData` of Sheets API, was the lowest cost of all.
 > - When pattern4 is used for importing CSV data to Spreadsheet, the cost can be reduced by 56 % from pattern1 and pattern2, which use the method parsing and putting values.
 > - When pattern4 is used for importing CSV data to Spreadsheet, the cost can be reduced by 72 % from pattern3, which use the method converting mimeType from CSV to Spreadsheet.
+
+### [Benchmark: Loop for Array Processing using Google Apps Script with V8](https://gist.github.com/tanaikech/3331e1e631d619abef8f32c4be14ba3a)
+
+> In this report, the process cost of "loop" for the array processing using GAS with using V8 runtime has been investigated. As the result, it was found the following important features for GAS with V8.
+
+> - In the case of the sample script for retrieving the multiple of 5 from the array, the loop costs using "for loop", "while", "forEach", "map, filter" and "reduce" are almost the same.
+> - In the case of "for in", the process cost is higher than those of "for loop", "while", "forEach", "map, filter" and "reduce". But when that is compared with the condition without V8, the cost of "for in" with V8 is much lower than those without V8.
+> - Costs of `push()` and `new Array()` are almost the same.
+> - When v8 runtime is used for the loop process, the process cost could be largely reduced when it is compared with the script without V8.
+>   - For all methods of "for loop", "for in", "while", "forEach", "map, filter" and "reduce", the process costs of 97.0 % for 1D array and 98.4 % for 2D array could be reduced.
 
 <br>
 
