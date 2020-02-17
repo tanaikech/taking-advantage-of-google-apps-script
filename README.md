@@ -90,6 +90,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 <a name="webapps"></a>
 
 # Web Applications
+
 - [Search Google Apps Script Libraries](https://sites.google.com/view/search-gas-libraries) : This is an application for searching Google Apps Script libraries from [the database](https://github.com/tanaikech/Google-Apps-Script-Library-Database).
 
 <br>
@@ -127,6 +128,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 <a name="gaslibrarydatabase"></a>
 
 # GAS library database
+
 - [Google Apps Script Library Database](https://github.com/tanaikech/Google-Apps-Script-Library-Database) : This is for the Google Apps Script Library Database.
 
 <br>
@@ -341,6 +343,7 @@ Javascript library
 - [One Time Download for Google Drive](https://github.com/tanaikech/One_Time_Download_for_Google_Drive)
 - [Resumable Upload of Multiple Files with Asynchronous Process for Google Drive](https://github.com/tanaikech/AsynchronousResumableUploadForGoogleDrive)
 - [Moving File to Specific Folder using Google Apps Script](https://gist.github.com/tanaikech/84dd9e9f79cad87bedb45e21342c0121)
+- [Uploading File to Google Drive using HTML and Google Apps Script](https://gist.github.com/tanaikech/280b782ee0518aa083a4fe0d71384823)
 
 <a name="projects"></a>
 
