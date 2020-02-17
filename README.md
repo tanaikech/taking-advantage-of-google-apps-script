@@ -11,7 +11,9 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 - [Trend of Google Apps Script](#trend)
 - [Settings](#settings)
 - [CLI tools for GAS](#clitool)
+- [Web Applications](#webapps)
 - [GAS libraries](#gaslibraries)
+- [GAS library database](#gaslibrarydatabase)
 - [Go libraries](#golibraries)
 - [Node.js modules](#nodemodules)
 - [Python library](#pythonlibrary)
@@ -85,6 +87,13 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 
 <br>
 
+<a name="webapps"></a>
+
+# Web Applications
+- [Search Google Apps Script Libraries](https://sites.google.com/view/search-gas-libraries) : This is an application for searching Google Apps Script libraries from [the database](https://github.com/tanaikech/Google-Apps-Script-Library-Database).
+
+<br>
+
 <a name="gaslibraries"></a>
 
 # GAS libraries
@@ -112,6 +121,13 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 - [GmailToList](https://github.com/tanaikech/GmailToList) : This is a library for exporting all messages of Gmail as a list using Google Apps Script (GAS).
 - [EncodeApp](https://github.com/tanaikech/EncodeApp) : EncodeApp is a GAS library for retrieving the encoding set (charset) and doing URL encode with the specific encoding set using Google Apps Script (GAS).
 - [DateFinder](https://github.com/tanaikech/DateFinder) : DateFinder is a GAS library for searching the date objects from the cell range on the sheet in the Spreadsheet and retrieving the searched range as the RangeList object using Google Apps Script (GAS).
+
+<br>
+
+<a name="gaslibrarydatabase"></a>
+
+# GAS library database
+- [Google Apps Script Library Database](https://github.com/tanaikech/Google-Apps-Script-Library-Database) : This is for the Google Apps Script Library Database.
 
 <br>
 
