@@ -99,6 +99,8 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 
 # GAS libraries
 
+You can search the GAS libraries at [Search Google Apps Script Libraries](https://sites.google.com/view/search-gas-libraries)
+
 - [BatchRequest](https://github.com/tanaikech/BatchRequest) : This is a library for running Batch Requests using Google Apps Script (GAS).
 - [ConvertNFDtoNFC](https://github.com/tanaikech/ConvertNFDtoNFC) : This is a script for converting strings from NFD (Normalization Form Decomposition) to NFC (Normalization Form Composition) using Google Apps Script.
 - [FilesApp](https://github.com/tanaikech/FilesApp) : FilesApp is a GAS library for retrieving file and folder list in Google Drive using Google Apps Script (GAS). Also this can create a tree from all files and folders in Google Drive.
@@ -122,6 +124,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 - [GmailToList](https://github.com/tanaikech/GmailToList) : This is a library for exporting all messages of Gmail as a list using Google Apps Script (GAS).
 - [EncodeApp](https://github.com/tanaikech/EncodeApp) : EncodeApp is a GAS library for retrieving the encoding set (charset) and doing URL encode with the specific encoding set using Google Apps Script (GAS).
 - [DateFinder](https://github.com/tanaikech/DateFinder) : DateFinder is a GAS library for searching the date objects from the cell range on the sheet in the Spreadsheet and retrieving the searched range as the RangeList object using Google Apps Script (GAS).
+- [RichTextApp](https://github.com/tanaikech/RichTextApp) : This is a GAS library for copying the rich text with the text styles from Google Document to Google Spreadsheet or from Google Spreadsheet to Google Document using Google Apps Script (GAS).
 
 <br>
 
