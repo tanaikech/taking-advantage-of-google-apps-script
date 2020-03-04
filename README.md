@@ -92,6 +92,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 # Web Applications
 
 - [Search Google Apps Script Libraries](https://sites.google.com/view/search-gas-libraries) : This is an application for searching Google Apps Script libraries from [the database](https://github.com/tanaikech/Google-Apps-Script-Library-Database).
+- [Fields Builder For Google APIs](https://sites.google.com/view/fields-builder) : FieldsBuilderForGoogleAPIs is a Web Application for building the fields value for using Google APIs. This is mainly used for developing the scripts for using Google APIs. [GitHub](https://github.com/tanaikech/FieldsBuilderForGoogleAPIs)
 
 <br>
 
