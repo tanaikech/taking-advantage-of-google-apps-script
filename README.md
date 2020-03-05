@@ -522,6 +522,7 @@ Javascript library
 - [Retrieving Access Token using Service Account for Node.js without using googleapis](https://gist.github.com/tanaikech/7aaf2276e4e6104b89802e85957e75ae)
 - [Creating a Table to Google Document by Retrieving Values from Google Spreadsheet for Node.js](https://gist.github.com/tanaikech/e64342de7011228f5fb639d7d1123ebb)
 - [Music Streaming Player for Discord with Google Drive using Node.js](https://gist.github.com/tanaikech/6029cb2422dd58fe24c3a16a43ce7c35)
+- [Simple Script of Resumable Upload with Google Drive API for Node.js](https://gist.github.com/tanaikech/ae451679e8220f3b2d48edb3f8c1a8d3)
 
 <a name="golang"></a>
 
@@ -542,6 +543,7 @@ Javascript library
 - [Updating Thumbnail of File on Google Drive using Python](https://gist.github.com/tanaikech/731c412c271828276bf3e24a25235aab)
 - [Uploading Files From Local To Google Drive by Python without Quickstart](https://gist.github.com/tanaikech/8cdfd23807372657dc63d81e25e35153)
 - [Creating a Table to Google Document by Retrieving Values from Google Spreadsheet for Python](https://gist.github.com/tanaikech/305e413696bcdf3a2ee3e86cebf3c7dc)
+- [Simple Script of Resumable Upload with Google Drive API for Python](https://gist.github.com/tanaikech/f709a952ff6e286027950d0484f6c03e)
 
 <a name="curl"></a>
 
