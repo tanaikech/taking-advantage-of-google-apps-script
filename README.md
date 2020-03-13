@@ -350,6 +350,7 @@ Javascript library
 - [Resumable Upload of Multiple Files with Asynchronous Process for Google Drive](https://github.com/tanaikech/AsynchronousResumableUploadForGoogleDrive)
 - [Moving File to Specific Folder using Google Apps Script](https://gist.github.com/tanaikech/84dd9e9f79cad87bedb45e21342c0121)
 - [Uploading File to Google Drive using HTML and Google Apps Script](https://gist.github.com/tanaikech/280b782ee0518aa083a4fe0d71384823)
+- [Retrieving Files and Folders without Parents in Google Drive](https://gist.github.com/tanaikech/459089e678bad943f0f33e497e04c36f)
 
 <a name="projects"></a>
 
