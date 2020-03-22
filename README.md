@@ -297,6 +297,19 @@ Javascript library
 > - When v8 runtime is used for the loop process, the process cost could be largely reduced when it is compared with the script without V8.
 >   - For all methods of "for loop", "for in", "while", "forEach", "map, filter" and "reduce", the process costs of 97.0 % for 1D array and 98.4 % for 2D array could be reduced.
 
+### [Benchmark: Process Costs under V8 using Google Apps Script](https://gist.github.com/tanaikech/7198bc9019202f4080de8fd2e1b278fb)
+
+> In this report, the process costs of 7 situations under V8 were measured. As the result, the following results could be obtained.
+
+> 1. Process cost with and without the arrow function was almost the same.
+> 2. Process cost "includes" and "indexOf" was almost the same.
+> 3. When the destructuring assignment is used, the cost was about 15 % higher than that without the destructuring assignment.
+> 4. Process cost with and without Map object was almost the same.
+>    - But in this case, the cost of `Object.fromEntries` is added for retrieving the result as the object. And when `Object.fromEntries` is not used, the cost with Map object was about 20 % lower than that without Map object.
+> 5. Process cost of `Array.prototype.push` was the lowest of `Array.prototype.push.apply`, Spread syntax and `concat`. The costs of Spread syntax and `concat` were about 3,040 % and 36,666 % higher than that of `Array.prototype.push`, respectively.
+> 6. Process cost of only `reduce` was the lowest of only `reduce`, `Object.assign` and Spread syntax. The costs of `Object.assign` and Spread syntax were about 265 % and 448,063 % higher than that of only `reduce`, respectively.
+> 7. Process costs of `Array.from` and only map were almost the same. The cost of `Object.entries` was about 131 % higher than that of `Array.from`.
+
 <br>
 
 <a name="communities"></a>
