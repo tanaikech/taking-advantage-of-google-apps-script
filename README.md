@@ -418,6 +418,7 @@ Javascript library
 - [Dynamically Updating Custom Menu of Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/1232a8fd1ffbd84c96ebbb97051c5b59)
 - [Rearranging Columns on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/59dc1398785803d188393fb04673f1bc)
 - [Retrieving Overwrapped Cells Between 2 Ranges on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/492cc2bb0b978fdb344aa821962baf53)
+- [Updated: Expanding A1Notations using Google Apps Script](https://gist.github.com/tanaikech/4fd7d66771d552ed83166df314cb0024)
 
 <a name="documents"></a>
 
