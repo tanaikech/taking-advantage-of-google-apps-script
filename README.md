@@ -214,6 +214,10 @@ Javascript library
 
 > This is a report about the possibility of asynchronous process using event triggers. `onEdit()` which is a simple trigger is often used as a trigger when the values are modified on Spreadsheet. When users want to use the script including some methods which are required to be authorized as the onEdit event, a installable trigger of onEdit is used. If the trigger is installed for the function of `onEdit()`, when the event trigger is run, `onEdit()` is run 2 times. In order to avoid this, the installable trigger is installed to the functions except for the functions of simple triggers. The functions of simple triggers which is the same events are not used in the project. When I thought about this situation, I thought that both `onEdit()` which is run by the simple trigger and the function which is run by the installable trigger might be able to be used, simultaneously. So I investigated about this situation. As the result, it was found that the following simple triggers and installable triggers work as the asynchronous process.
 
+### [Limitation of Array.prototype.push.apply under V8 for Google Apps Script](https://gist.github.com/tanaikech/3e3c16b58f6b30de366eba99de84c861)
+
+> When V8 is enabled, `Array.apply` has the limitation for the number of elements. When it is over the limitation, an error like `RangeError: Maximum call stack size exceeded` occurs, while the issue didn't occur when V8 is disabled. In this case, this issue occurs at both Google Apps Script and Javascript. So please be careful this.
+
 <br>
 
 <a name="benchmarks"></a>
