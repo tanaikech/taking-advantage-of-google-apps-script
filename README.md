@@ -423,6 +423,7 @@ Javascript library
 - [Rearranging Columns on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/59dc1398785803d188393fb04673f1bc)
 - [Retrieving Overwrapped Cells Between 2 Ranges on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/492cc2bb0b978fdb344aa821962baf53)
 - [Updated: Expanding A1Notations using Google Apps Script](https://gist.github.com/tanaikech/4fd7d66771d552ed83166df314cb0024)
+- [Workaround for Retrieving Direct Links of All Sheets from URL of 2PACX-### of Web Published Google Spreadsheet](https://gist.github.com/tanaikech/e6251657d425d2827fee6dd3daf47976)
 
 <a name="documents"></a>
 
