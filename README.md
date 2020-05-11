@@ -218,6 +218,10 @@ Javascript library
 
 > When V8 is enabled, `Array.apply` has the limitation for the number of elements. When it is over the limitation, an error like `RangeError: Maximum call stack size exceeded` occurs, while the issue didn't occur when V8 is disabled. In this case, this issue occurs at both Google Apps Script and Javascript. So please be careful this.
 
+### [When // in template literal is used in a HTML file in script editor, it is used as a comment start](https://gist.github.com/tanaikech/5a6b92f9fcce4046ae4c3c79c28fe958)
+
+> When `//` in template literal is used in a HTML file in script editor, it is used as a comment start.
+
 <br>
 
 <a name="benchmarks"></a>
@@ -424,6 +428,7 @@ Javascript library
 - [Retrieving Overwrapped Cells Between 2 Ranges on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/492cc2bb0b978fdb344aa821962baf53)
 - [Updated: Expanding A1Notations using Google Apps Script](https://gist.github.com/tanaikech/4fd7d66771d552ed83166df314cb0024)
 - [Workaround for Retrieving Direct Links of All Sheets from URL of 2PACX-### of Web Published Google Spreadsheet](https://gist.github.com/tanaikech/e6251657d425d2827fee6dd3daf47976)
+- [Hiding and Deleting Rows and Columns on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/a1e6c0b49043cbf92f8b3c25d18ebeed)
 
 <a name="documents"></a>
 
