@@ -444,6 +444,7 @@ Javascript library
 - [Deleting Pages of Google Document using Google Apps Script](https://gist.github.com/tanaikech/6d33c3ce00cd46e45d3551a587b2ae17)
 - [Creating New Table and Putting Values to Cells using Google Docs API with Google Apps Script](https://gist.github.com/tanaikech/3b5ac06747c8771f70afd3496278b04b)
 - [Deleting Last Empty Page of Google Document using Google Apps Script](https://gist.github.com/tanaikech/8e018892ebb417779e9a7fedfc6a4a7d)
+- [Updated Specification of Google Spreadsheet: Multiple Hyperlinks to a Cell](https://gist.github.com/tanaikech/d39b4b5ccc5a1d50f5b8b75febd807a6)
 
 <a name="slides"></a>
 
