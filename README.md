@@ -429,6 +429,7 @@ Javascript library
 - [Updated: Expanding A1Notations using Google Apps Script](https://gist.github.com/tanaikech/4fd7d66771d552ed83166df314cb0024)
 - [Workaround for Retrieving Direct Links of All Sheets from URL of 2PACX-### of Web Published Google Spreadsheet](https://gist.github.com/tanaikech/e6251657d425d2827fee6dd3daf47976)
 - [Hiding and Deleting Rows and Columns on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/a1e6c0b49043cbf92f8b3c25d18ebeed)
+- [Change Tab Detection on Google Spreadsheet using onSelectionChange Event Trigger with Google Apps Script](https://gist.github.com/tanaikech/524c16dbef722763f80312357d0e4368)
 
 <a name="documents"></a>
 
