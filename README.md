@@ -224,7 +224,7 @@ Javascript library
 
 ### [Characteristics of Response for onSelectionChange](https://gist.github.com/tanaikech/ca5812ed19dd6858879246bd2304266f)
 
-> I have already reported about "Change Tab Detection on Google Spreadsheet using onSelectionChange Event Trigger with Google Apps Script". [Ref](I have already reported about "Change Tab Detection on Google Spreadsheet using onSelectionChange Event Trigger with Google Apps Script". Ref It is considered that when the situation which uses the event trigger of onSelectionChange is thought, the response speed is important. So, here, I investigated the characteristics of response for the event trigger of onSelectionChange.) It is considered that when the situation which uses the event trigger of `onSelectionChange` is thought, the response speed is important. So, here, I investigated the characteristics of response for the event trigger of `onSelectionChange`.
+> I have already reported about "Change Tab Detection on Google Spreadsheet using onSelectionChange Event Trigger with Google Apps Script". [Ref](https://tanaikech.github.io/2020/05/18/change-tab-detection-on-google-spreadsheet-using-onselectionchange-event-trigger-with-google-apps-script/) It is considered that when the situation which uses the event trigger of `onSelectionChange` is thought, the response speed is important. So, here, I investigated the characteristics of response for the event trigger of `onSelectionChange`.
 
 <br>
 
