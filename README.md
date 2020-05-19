@@ -222,6 +222,10 @@ Javascript library
 
 > When `//` in template literal is used in a HTML file in script editor, it is used as a comment start.
 
+### [Characteristics of Response for onSelectionChange](https://gist.github.com/tanaikech/ca5812ed19dd6858879246bd2304266f)
+
+> I have already reported about "Change Tab Detection on Google Spreadsheet using onSelectionChange Event Trigger with Google Apps Script". [Ref](I have already reported about "Change Tab Detection on Google Spreadsheet using onSelectionChange Event Trigger with Google Apps Script". Ref It is considered that when the situation which uses the event trigger of onSelectionChange is thought, the response speed is important. So, here, I investigated the characteristics of response for the event trigger of onSelectionChange.) It is considered that when the situation which uses the event trigger of `onSelectionChange` is thought, the response speed is important. So, here, I investigated the characteristics of response for the event trigger of `onSelectionChange`.
+
 <br>
 
 <a name="benchmarks"></a>
