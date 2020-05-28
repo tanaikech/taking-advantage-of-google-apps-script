@@ -227,6 +227,10 @@ Javascript library
 
 > I have already reported about "Change Tab Detection on Google Spreadsheet using onSelectionChange Event Trigger with Google Apps Script". [Ref](https://tanaikech.github.io/2020/05/18/change-tab-detection-on-google-spreadsheet-using-onselectionchange-event-trigger-with-google-apps-script/) It is considered that when the situation which uses the event trigger of `onSelectionChange` is thought, the response speed is important. So, here, I investigated the characteristics of response for the event trigger of `onSelectionChange`.
 
+### [Detecting Quickly Checked Checkboxes on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/7b1a18a5b768e4d69d519069f4aff440)
+
+> This is a report for detecting quickly checked checkboxes on Google Spreadsheet using Google Apps Script. It supposes that when the checkbox is checked, a function of Google Apps Script is run by the event trigger. In this case, when the multiple checkboxes on Google Spreadsheet are checked quickly, the script cannot be run for all checked checkboxes, because of the response speed of the event trigger. It is considered that to understand the response of event trigger is useful for creating the application for Spreadsheet. In this report, the detection of quickly checked checkboxes on Google Spreadsheet using Google Apps Script has been investigated. From this result, it led to understanding the response of event trigger.
+
 <br>
 
 <a name="benchmarks"></a>
