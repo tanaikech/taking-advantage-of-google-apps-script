@@ -441,6 +441,9 @@ Javascript library
 - [Workaround for Retrieving Direct Links of All Sheets from URL of 2PACX-### of Web Published Google Spreadsheet](https://gist.github.com/tanaikech/e6251657d425d2827fee6dd3daf47976)
 - [Hiding and Deleting Rows and Columns on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/a1e6c0b49043cbf92f8b3c25d18ebeed)
 - [Change Tab Detection on Google Spreadsheet using onSelectionChange Event Trigger with Google Apps Script](https://gist.github.com/tanaikech/524c16dbef722763f80312357d0e4368)
+- [Enhanced Custom Function for Google Spreadsheet using Web Apps as Wrapper](https://github.com/tanaikech/Enhanced-Custom-Function-for-Google-Spreadsheet-using-Web-Apps-as-Wrapper)
+- [Disabling Buttons Put on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/28102d28b929e102f6fe88e7d42e2d64)
+- [Highlighting Row and Column of Selected Cell using Google Apps Script](https://gist.github.com/tanaikech/3e6b6bbc13cd9814aa918c9933fb862f)
 
 <a name="documents"></a>
 
