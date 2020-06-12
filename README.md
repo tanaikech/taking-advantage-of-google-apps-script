@@ -482,6 +482,7 @@ Javascript library
 
 - [Running Google Apps Script by Event Notification from Google Calendar](https://gist.github.com/tanaikech/fbbfaa8f2a8a770424974aa16b9b6f3b)
 - [Retrieving Event ID from Event URL of Google Calendar using Google Apps Script](https://gist.github.com/tanaikech/b366be5995be04f689c3d80b18363f5e)
+- [Managing A Lot Of Google Calendar Events using Batch Requests with Google Apps Script](https://github.com/tanaikech/Managing-A-Lot-Of-Google-Calendar-Events-using-Batch-Requests-with-Google-Apps-Script)
 
 <a name="chart"></a>
 
