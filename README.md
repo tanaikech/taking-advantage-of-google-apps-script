@@ -53,6 +53,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 - [V8 Runtime was added to Google Apps Script at February 7, 2020](https://gist.github.com/tanaikech/8246f89540957b177f0e350f453ea2fb)
 - [Drive API cannot create Google Apps Script project no longer](https://gist.github.com/tanaikech/0609f2cd989c28d6bd49d211b70b453d)
 - [Managing Shared Drive using Drive Service of Google Apps Script](https://gist.github.com/tanaikech/ede1c9ea6eb6a27235df7d4cb16ef48d)
+- [Transfer of owner of files got to be able to be achieved with batch requests of Drive API](https://tanaikech.github.io/2020/06/15/transfer-of-owner-of-files-got-to-be-able-to-be-achieved-with-batch-requests-of-drive-api/)
 
 <br>
 
@@ -383,6 +384,7 @@ Javascript library
 - [Uploading File to Google Drive using HTML and Google Apps Script](https://gist.github.com/tanaikech/280b782ee0518aa083a4fe0d71384823)
 - [Retrieving Files and Folders without Parents in Google Drive](https://gist.github.com/tanaikech/459089e678bad943f0f33e497e04c36f)
 - [Creating Shortcut on Google Drive using Google Apps Script](https://gist.github.com/tanaikech/4639cccc8130cea10d753fee9f900041)
+- [Batch Requests for Drive API using Google Apps Script](https://github.com/tanaikech/Batch-Requests-for-Drive-API-using-Google-Apps-Script)
 
 <a name="projects"></a>
 
