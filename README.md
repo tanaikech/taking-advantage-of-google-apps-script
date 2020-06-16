@@ -128,7 +128,7 @@ You can search the GAS libraries at [Search Google Apps Script Libraries](https:
 - [GmailToList](https://github.com/tanaikech/GmailToList) : This is a library for exporting all messages of Gmail as a list using Google Apps Script (GAS).
 - [EncodeApp](https://github.com/tanaikech/EncodeApp) : EncodeApp is a GAS library for retrieving the encoding set (charset) and doing URL encode with the specific encoding set using Google Apps Script (GAS).
 - [DateFinder](https://github.com/tanaikech/DateFinder) : DateFinder is a GAS library for searching the date objects from the cell range on the sheet in the Spreadsheet and retrieving the searched range as the RangeList object using Google Apps Script (GAS).
-- [RichTextApp](https://github.com/tanaikech/RichTextApp) : This is a GAS library for copying the rich text with the text styles from Google Document to Google Spreadsheet or from Google Spreadsheet to Google Document using Google Apps Script (GAS).
+- [RichTextApp](https://github.com/tanaikech/RichTextApp) : This is a GAS library for copying the rich text with the text styles from Google Document to Google Spreadsheet or from Google Spreadsheet to Google Document using Google Apps Script (GAS). And, also the rich texts in the cells can be converted to HTML format.
 - [GPhotoApp](https://github.com/tanaikech/GPhotoApp) : This is a GAS library for retrieving and creating the albums and media items using Google Photo API using Google Apps Script (GAS).
 - [CopyFolder](https://github.com/tanaikech/CopyFolder) : This is Google Apps Script library for copying folder on Google Drive.
 
