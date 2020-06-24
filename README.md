@@ -470,6 +470,7 @@ Javascript library
 - [Retrieving Size of Tables in Google Slides using Google Apps Script](https://gist.github.com/tanaikech/3143be7e7df8cc595d73427d22ae2e0e)
 - [Summarizing Slides as Thumbnails](https://gist.github.com/tanaikech/79749b9fc411da91f932608b5c01ea5b)
 - [Limitations for Inserting Images to Google Docs](https://gist.github.com/tanaikech/9414d22de2ff30216269ca7be4bce462)
+- [Managing Texts on Google Slides using Google Apps Script](https://gist.github.com/tanaikech/04e7b7657f97ddd7c68b6a9ddc3cdf98)
 
 <a name="gmail"></a>
 
