@@ -447,6 +447,7 @@ Javascript library
 - [Disabling Buttons Put on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/28102d28b929e102f6fe88e7d42e2d64)
 - [Highlighting Row and Column of Selected Cell using Google Apps Script](https://gist.github.com/tanaikech/3e6b6bbc13cd9814aa918c9933fb862f)
 - [Workaround: Putting Multiple Hyperlinks to a Cell using Sheets API](https://gist.github.com/tanaikech/b18c0189a5d0266a849090fdbe6750a5)
+- [Search Dialog Sample using TextFinder with Google Apps Script](https://gist.github.com/tanaikech/64ab751e8fd8727d23e5f159c00e1579)
 
 <a name="documents"></a>
 
