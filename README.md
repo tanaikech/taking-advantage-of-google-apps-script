@@ -233,6 +233,15 @@ Javascript library
 
 > This is a report for detecting quickly checked checkboxes on Google Spreadsheet using Google Apps Script. It supposes that when the checkbox is checked, a function of Google Apps Script is run by the event trigger. In this case, when the multiple checkboxes on Google Spreadsheet are checked quickly, the script cannot be run for all checked checkboxes, because of the response speed of the event trigger. It is considered that to understand the response of event trigger is useful for creating the application for Spreadsheet. In this report, the detection of quickly checked checkboxes on Google Spreadsheet using Google Apps Script has been investigated. From this result, it led to understanding the response of event trigger.
 
+### [Report: Processing to Create New File to Specific Folder using Drive API](https://gist.github.com/tanaikech/d034e38169503c2c22eb0c3352ae30b6)
+
+> In this report, I would like to report for processing to create new file to the specific folder using Drive API. When the new file is created to the specific folder using Drive API, the property of `parents` with the value of folder ID is included in the request body of the method "Files: create". About this process, I had thought that the file is directly created to the specific folder. But, I could confirm that the new file is created by the following process.
+> 
+> 1. Create new file to the root folder.
+> 2. Move the created file to the specific folder.
+> 
+> These process is done by one API call. In this report, I would like to introduce the experimental result for confirming above process. In this case, Drive API v3 is used with Google Apps Script.
+
 <br>
 
 <a name="benchmarks"></a>
