@@ -49,6 +49,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 
 # News
 
+- **July 07, 2020:** [Transfer of owner of files got not to be able to be used with batch requests of Drive API](https://tanaikech.github.io/2020/07/07/transfer-of-owner-of-files-got-not-to-be-able-to-be-used-with-batch-requests-of-drive-api/)
 - **June 15, 2020:** [Transfer of owner of files got to be able to be achieved with batch requests of Drive API](https://tanaikech.github.io/2020/06/15/transfer-of-owner-of-files-got-to-be-able-to-be-achieved-with-batch-requests-of-drive-api/)
 - **June 4, 2020:** [Managing Shared Drive using Drive Service of Google Apps Script](https://gist.github.com/tanaikech/ede1c9ea6eb6a27235df7d4cb16ef48d)
 - **March 11, 2020:** [Drive API cannot create Google Apps Script project no longer](https://gist.github.com/tanaikech/0609f2cd989c28d6bd49d211b70b453d)
@@ -236,10 +237,10 @@ Javascript library
 ### [Report: Processing to Create New File to Specific Folder using Drive API](https://gist.github.com/tanaikech/d034e38169503c2c22eb0c3352ae30b6)
 
 > In this report, I would like to report for processing to create new file to the specific folder using Drive API. When the new file is created to the specific folder using Drive API, the property of `parents` with the value of folder ID is included in the request body of the method "Files: create". About this process, I had thought that the file is directly created to the specific folder. But, I could confirm that the new file is created by the following process.
-> 
+>
 > 1. Create new file to the root folder.
 > 2. Move the created file to the specific folder.
-> 
+>
 > These process is done by one API call. In this report, I would like to introduce the experimental result for confirming above process. In this case, Drive API v3 is used with Google Apps Script.
 
 <br>
