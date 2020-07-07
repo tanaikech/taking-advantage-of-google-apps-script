@@ -49,7 +49,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 
 # News
 
-- **July 07, 2020:** [Transfer of owner of files got not to be able to be used with batch requests of Drive API](https://tanaikech.github.io/2020/07/07/transfer-of-owner-of-files-got-not-to-be-able-to-be-used-with-batch-requests-of-drive-api/)
+- **July 7, 2020:** [Transfer of owner of files got not to be able to be used with batch requests of Drive API](https://tanaikech.github.io/2020/07/07/transfer-of-owner-of-files-got-not-to-be-able-to-be-used-with-batch-requests-of-drive-api/)
 - **June 15, 2020:** [Transfer of owner of files got to be able to be achieved with batch requests of Drive API](https://tanaikech.github.io/2020/06/15/transfer-of-owner-of-files-got-to-be-able-to-be-achieved-with-batch-requests-of-drive-api/)
 - **June 4, 2020:** [Managing Shared Drive using Drive Service of Google Apps Script](https://gist.github.com/tanaikech/ede1c9ea6eb6a27235df7d4cb16ef48d)
 - **March 11, 2020:** [Drive API cannot create Google Apps Script project no longer](https://gist.github.com/tanaikech/0609f2cd989c28d6bd49d211b70b453d)
