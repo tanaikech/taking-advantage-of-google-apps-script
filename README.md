@@ -49,6 +49,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 
 # News
 
+- **July 9, 2020:** [Specification of Files: copy in Drive API was changed](https://tanaikech.github.io/2020/07/09/specification-of-files-copy-in-drive-api-was-changed/)
 - **July 7, 2020:** [Transfer of owner of files got not to be able to be used with batch requests of Drive API](https://tanaikech.github.io/2020/07/07/transfer-of-owner-of-files-got-not-to-be-able-to-be-used-with-batch-requests-of-drive-api/)
 - **June 15, 2020:** [Transfer of owner of files got to be able to be achieved with batch requests of Drive API](https://tanaikech.github.io/2020/06/15/transfer-of-owner-of-files-got-to-be-able-to-be-achieved-with-batch-requests-of-drive-api/)
 - **June 4, 2020:** [Managing Shared Drive using Drive Service of Google Apps Script](https://gist.github.com/tanaikech/ede1c9ea6eb6a27235df7d4cb16ef48d)
