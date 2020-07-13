@@ -134,6 +134,7 @@ You can search the GAS libraries at [Search Google Apps Script Libraries](https:
 - [RichTextApp](https://github.com/tanaikech/RichTextApp) : This is a GAS library for copying the rich text with the text styles from Google Document to Google Spreadsheet or from Google Spreadsheet to Google Document using Google Apps Script (GAS). And, also the rich texts in the cells can be converted to HTML format.
 - [GPhotoApp](https://github.com/tanaikech/GPhotoApp) : This is a GAS library for retrieving and creating the albums and media items using Google Photo API using Google Apps Script (GAS).
 - [CopyFolder](https://github.com/tanaikech/CopyFolder) : This is Google Apps Script library for copying folder on Google Drive.
+- [OwnershipTransfer](https://github.com/tanaikech/OwnershipTransfer) : This is a Google Apps Script library for achieving the ownership-transfer of the specific folder including the files and sub-folders using Drive API.
 
 <br>
 
