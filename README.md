@@ -573,6 +573,7 @@ Javascript library
 - [Running Functions by Specifying Function Names with Web Apps for Google Apps Script](https://gist.github.com/tanaikech/b2e0325a28efe7c609e4688ec22ee22c)
 - [URL Encode with Shift-JIS using Google Apps Script](https://gist.github.com/tanaikech/f23755d7e024fea9c0f0e036853484d4)
 - [Retrieving Difference Between 2 Arrays using Google Apps Script](https://gist.github.com/tanaikech/cc7bdfe67c3b72c48c290fc11c231e72)
+- [Sample Scripts for Requesting to Web Apps by Various Languages](https://gist.github.com/tanaikech/a72aab0242012362c46ec69031c720d5)
 
 <a name="nodejs"></a>
 
