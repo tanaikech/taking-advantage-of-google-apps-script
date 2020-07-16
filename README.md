@@ -31,6 +31,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
   - [Gmail](#gmail)
   - [Calendar](#calendar)
   - [Chart](#chart)
+  - [Analytics](#analytics)
   - [Slack](#slack)
   - [Virtual Currency](#virtualcurrency)
   - [Stackoverflow](#stackoverflow)
@@ -511,6 +512,12 @@ Javascript library
 - [Embedding a Chart to a Cell using Custom Function on Spreadsheet](https://gist.github.com/tanaikech/52da88484851ce2e0dea9881bf49f6fa)
 - [Changing Line to Bars for Combo Chart using GAS](https://gist.github.com/tanaikech/bff89176cd269e392c45500274b40810)
 - [Adding Title of vAxis to Embedded Chart on Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/4125cc280e15c0fc726cb2fe4f35a3f7)
+
+<a name="analytics"></a>
+
+#### Analytics
+
+- [Retrieving Users, Sessions and PageViews of User Summary Report from Google Analytics using Google Apps Script](https://gist.github.com/tanaikech/dc3e9c8dfec9403ed0b1935605ea1476)
 
 <a name="slack"></a>
 
