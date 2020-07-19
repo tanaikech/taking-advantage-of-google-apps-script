@@ -607,6 +607,7 @@ Javascript library
 - [Sorting for Slice using Golang](https://gist.github.com/tanaikech/4d0075dc21b643245be03d661e8d5f54)
 - [Creating a Table to Google Document by Retrieving Values from Google Spreadsheet for Golang](https://gist.github.com/tanaikech/0589a673cae9569181def8ccd10793cf)
 - [Resumable Uploading Files to Google Drive using Golang](https://gist.github.com/tanaikech/19655a8130bac1ba510b29c9c44bbd97)
+- [Setting Number Format of Cells on Google Spreadsheet using batchUpdate in Sheets API with golang](https://gist.github.com/tanaikech/76cde17cecba38f44398c3effe2aedf2)
 
 <a name="python"></a>
 
