@@ -399,6 +399,7 @@ Javascript library
 - [Retrieving Files and Folders without Parents in Google Drive](https://gist.github.com/tanaikech/459089e678bad943f0f33e497e04c36f)
 - [Creating Shortcut on Google Drive using Google Apps Script](https://gist.github.com/tanaikech/4639cccc8130cea10d753fee9f900041)
 - [Batch Requests for Drive API using Google Apps Script](https://github.com/tanaikech/Batch-Requests-for-Drive-API-using-Google-Apps-Script)
+- [Converting SVG Format to PNG Format using Google Apps Script](https://gist.github.com/tanaikech/8a6d46ca43665aa7e62965ed32336598)
 
 <a name="projects"></a>
 
