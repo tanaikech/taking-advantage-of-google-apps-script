@@ -464,6 +464,7 @@ Javascript library
 - [Workaround: Putting Multiple Hyperlinks to a Cell using Sheets API](https://gist.github.com/tanaikech/b18c0189a5d0266a849090fdbe6750a5)
 - [Search Dialog Sample using TextFinder with Google Apps Script](https://gist.github.com/tanaikech/64ab751e8fd8727d23e5f159c00e1579)
 - [Adjusting Text Length to Fit in Cell Width on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/784bae8c41b7d9bcba5b581920dda3f4)
+- [Switching Buttons for Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/2e6cadc1f65d42aa161bcbd24e6cadb7)
 
 <a name="documents"></a>
 
@@ -582,6 +583,8 @@ Javascript library
 - [URL Encode with Shift-JIS using Google Apps Script](https://gist.github.com/tanaikech/f23755d7e024fea9c0f0e036853484d4)
 - [Retrieving Difference Between 2 Arrays using Google Apps Script](https://gist.github.com/tanaikech/cc7bdfe67c3b72c48c290fc11c231e72)
 - [Sample Scripts for Requesting to Web Apps by Various Languages](https://gist.github.com/tanaikech/a72aab0242012362c46ec69031c720d5)
+- [Logs in Web Apps for Google Apps Script](https://gist.github.com/tanaikech/3ccb4dd8ce43de21fdb764a68c14a4d7)
+- [Workaround: Showing Log in Web Apps to Apps Script Dashboard using Javascript](https://gist.github.com/tanaikech/e27581278f8cb464dff1dd83d6f887a7)
 
 <a name="nodejs"></a>
 
