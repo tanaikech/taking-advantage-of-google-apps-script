@@ -137,6 +137,7 @@ You can search the GAS libraries at [Search Google Apps Script Libraries](https:
 - [GPhotoApp](https://github.com/tanaikech/GPhotoApp) : This is a GAS library for retrieving and creating the albums and media items using Google Photo API using Google Apps Script (GAS).
 - [CopyFolder](https://github.com/tanaikech/CopyFolder) : This is Google Apps Script library for copying folder on Google Drive.
 - [OwnershipTransfer](https://github.com/tanaikech/OwnershipTransfer) : This is a Google Apps Script library for achieving the ownership-transfer of the specific folder including the files and sub-folders using Drive API.
+- [GASProjectApp](https://github.com/tanaikech/GASProjectApp) : This is a Google Apps Script library for creating, updating and exporting Google Apps Script project of the standalone type using Drive API. In this case, Apps Script API is not used.
 
 <br>
 
