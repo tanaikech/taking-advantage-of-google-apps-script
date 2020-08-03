@@ -587,6 +587,7 @@ Javascript library
 - [Sample Scripts for Requesting to Web Apps by Various Languages](https://gist.github.com/tanaikech/a72aab0242012362c46ec69031c720d5)
 - [Logs in Web Apps for Google Apps Script](https://gist.github.com/tanaikech/3ccb4dd8ce43de21fdb764a68c14a4d7)
 - [Workaround: Showing Log in Web Apps to Apps Script Dashboard using Javascript](https://gist.github.com/tanaikech/e27581278f8cb464dff1dd83d6f887a7)
+- [IMPORTANT: reduceRight with and without v8 runtime for Google Apps Script](https://gist.github.com/tanaikech/7f13f4297d7307a47ad78f0254ce3353)
 
 <a name="nodejs"></a>
 
