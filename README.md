@@ -402,6 +402,7 @@ Javascript library
 - [Creating Shortcut on Google Drive using Google Apps Script](https://gist.github.com/tanaikech/4639cccc8130cea10d753fee9f900041)
 - [Batch Requests for Drive API using Google Apps Script](https://github.com/tanaikech/Batch-Requests-for-Drive-API-using-Google-Apps-Script)
 - [Converting SVG Format to PNG Format using Google Apps Script](https://gist.github.com/tanaikech/8a6d46ca43665aa7e62965ed32336598)
+- [Uploading File to Google Drive without Authorization using Web Apps created by Google Apps Script](https://gist.github.com/tanaikech/d3e62002e522f9e3f2b35bc56c64b2c9)
 
 <a name="projects"></a>
 
