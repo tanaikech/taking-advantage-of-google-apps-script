@@ -403,6 +403,7 @@ Javascript library
 - [Batch Requests for Drive API using Google Apps Script](https://github.com/tanaikech/Batch-Requests-for-Drive-API-using-Google-Apps-Script)
 - [Converting SVG Format to PNG Format using Google Apps Script](https://gist.github.com/tanaikech/8a6d46ca43665aa7e62965ed32336598)
 - [Uploading File to Google Drive from External HTML without Authorization](https://gist.github.com/tanaikech/d3e62002e522f9e3f2b35bc56c64b2c9)
+- [Using Values Submitted from HTML Form using Google Apps Script](https://gist.github.com/tanaikech/58d96c023468fc1922d67764251b25e0)
 
 <a name="projects"></a>
 
