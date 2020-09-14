@@ -487,6 +487,7 @@ Javascript library
 - [Deleting Last Empty Page of Google Document using Google Apps Script](https://gist.github.com/tanaikech/8e018892ebb417779e9a7fedfc6a4a7d)
 - [Updated Specification of Google Spreadsheet: Multiple Hyperlinks to a Cell](https://gist.github.com/tanaikech/d39b4b5ccc5a1d50f5b8b75febd807a6)
 - [Modifying 1st-Page Header in Google Document using Google Apps Script](https://gist.github.com/tanaikech/d430543089cc687e5d9c2bc96d3178ff)
+- [Retrieving All URLs in Google Document using Google Apps Script](https://gist.github.com/tanaikech/d3ce0c2186885ee27d23e02ddd2696b7)
 
 <a name="slides"></a>
 
