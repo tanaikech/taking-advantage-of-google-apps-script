@@ -346,6 +346,14 @@ Javascript library
 > 6. Process cost of only `reduce` was the lowest of only `reduce`, `Object.assign` and Spread syntax. The costs of `Object.assign` and Spread syntax were about 265 % and 448,063 % higher than that of only `reduce`, respectively.
 > 7. Process costs of `Array.from` and only map were almost the same. The cost of `Object.entries` was about 131 % higher than that of `Array.from`.
 
+### [Benchmark: Process Costs for Searching Values in Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/0a6f03970b471ffa286f1dac0b79359e)
+
+> Here, I would like to report the process costs for searching values in Spreadsheet using Google Apps Script (GAS). When the values are searched in Google Spreadsheet, the following 3 patterns can be considered. [Ref](https://stackoverflow.com/a/56663884)
+> Retrieve all values using getValues, and the values are searched from the retrieved array.
+> Use TextFinder.
+> Use Query language.
+> In these cases, it has already been found that the lowest process cost is to use the Query language. And about finding values from an array, I have already been reported as "[Benchmark: Search for Array Processing using Google Apps Script](https://gist.github.com/tanaikech/eda9234822b5dec80549216a43c52652)". But I had never summarized the process costs for TextFinder and find values from an array. So in this report, I would like to introduce this. As the result, the importance of TextFinder for retrieving the row numbers and the row values by searching a value could be understand.
+
 <br>
 
 <a name="communities"></a>
