@@ -482,6 +482,7 @@ Javascript library
 - [Switching Buttons for Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/2e6cadc1f65d42aa161bcbd24e6cadb7)
 - [Converting Range in Google Spreadsheet as Image using Google Apps Script](https://gist.github.com/tanaikech/6ec4f2278510311ea06b838c69828692)
 - [Creating Spreadsheet with Custom Header and Footer using Google Apps Script](https://gist.github.com/tanaikech/0430c7a8cf28508aa3cb80c22136f7f9)
+- [Google Apps Script: Running Specific Function When Specific Sheet is Edited on Google Spreadsheet](https://gist.github.com/tanaikech/bc09d1e03a0ebed3af894a6ed61cf12d)
 
 <a name="documents"></a>
 
