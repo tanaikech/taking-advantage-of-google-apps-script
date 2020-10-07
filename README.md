@@ -250,6 +250,10 @@ Javascript library
 >
 > These process is done by one API call. In this report, I would like to introduce the experimental result for confirming above process. In this case, Drive API v3 is used with Google Apps Script.
 
+### [Statistical Analysis of Duplicated Questions for `google-apps-script` tag in Stackoverflow](https://gist.github.com/tanaikech/fa8e7002678a377748ae35a33fa5b6eb)
+
+> At Stackoverflow, a lot of people post the questions and answer to the questions every day. By this, there are a lot of important information in Stackoverflow. I have already reported "Trend of google-apps-script Tag on Stackoverflow" using the data retrieved from Stackoverflow. [Ref](https://github.com/tanaikech/taking-advantage-of-google-apps-script#trend-of-google-apps-script) It is found that the important statistical result can be obtained by analyzing the data on Stackoverflow. In this report, I would like to introduce the statistical analysis of duplicated questions for the google-apps-script tag in Stackoverflow. When the duplicated question is analyzed, it is considered that the important issues for users can be known. As the result, it was found that there are the trend that the duplicated questions related to Javascript, Google Spreadsheet, the process cost and the cooperation with HTML and Javascript are posted.
+
 <br>
 
 <a name="benchmarks"></a>
