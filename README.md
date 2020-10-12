@@ -489,6 +489,7 @@ Javascript library
 - [Google Apps Script: Running Specific Function When Specific Sheet is Edited on Google Spreadsheet](https://gist.github.com/tanaikech/bc09d1e03a0ebed3af894a6ed61cf12d)
 - [Setting Alternate Background Colors for Rows in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/89aaa3adcd3a1fc37187ca61f389cbe9)
 - [Sorting Cells on Google Spreadsheet with Background colors using Google Apps Script](https://gist.github.com/tanaikech/8e531fdb4125c843b58cf7bef6165786)
+- [Retrieving All Values from All Sheets from URL of 2PACX- of Web Published Google Spreadsheet using Google Apps Script and Javascript](https://gist.github.com/tanaikech/1876f19638e329253cf352225bd180cd)
 
 <a name="documents"></a>
 
