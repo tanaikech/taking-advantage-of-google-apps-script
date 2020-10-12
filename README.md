@@ -630,6 +630,7 @@ Javascript library
 - [Music Streaming Player for Discord with Google Drive using Node.js](https://gist.github.com/tanaikech/6029cb2422dd58fe24c3a16a43ce7c35)
 - [Simple Script of Resumable Upload with Google Drive API for Node.js](https://gist.github.com/tanaikech/ae451679e8220f3b2d48edb3f8c1a8d3)
 - [Uploading Files of multipart/form-data to Google Drive using Drive API with Node.js](https://gist.github.com/tanaikech/33563b6754e5054f3a5832667100fe91)
+- [Retrieving All Values from All Sheets from URL of 2PACX- of Web Published Google Spreadsheet using Node.js](https://gist.github.com/tanaikech/49e1e6515225d810e849b3487142a90d)
 
 <a name="golang"></a>
 
