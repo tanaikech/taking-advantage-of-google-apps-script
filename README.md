@@ -655,6 +655,7 @@ Javascript library
 - [Uploading Files From Local To Google Drive by Python without Quickstart](https://gist.github.com/tanaikech/8cdfd23807372657dc63d81e25e35153)
 - [Creating a Table to Google Document by Retrieving Values from Google Spreadsheet for Python](https://gist.github.com/tanaikech/305e413696bcdf3a2ee3e86cebf3c7dc)
 - [Simple Script of Resumable Upload with Google Drive API for Python](https://gist.github.com/tanaikech/f709a952ff6e286027950d0484f6c03e)
+- [Retrieving All Values from All Sheets from URL of 2PACX- of Web Published Google Spreadsheet using Python](https://gist.github.com/tanaikech/51628e5e0a2c017329457afdb1936912)
 
 <a name="curl"></a>
 
