@@ -616,6 +616,7 @@ Javascript library
 - [Workaround: Showing Log in Web Apps to Apps Script Dashboard using Javascript](https://gist.github.com/tanaikech/e27581278f8cb464dff1dd83d6f887a7)
 - [IMPORTANT: reduceRight with and without v8 runtime for Google Apps Script](https://gist.github.com/tanaikech/7f13f4297d7307a47ad78f0254ce3353)
 - [Inserting Text on Image using Google Apps Script](https://gist.github.com/tanaikech/835642df109731a559e52d831bd3342d)
+- [Request of multipart/form-data with Simple Request Body using Google Apps Script](https://gist.github.com/tanaikech/5cd0dc9ea7d75e4a2ff65049ed3d78c3)
 
 <a name="nodejs"></a>
 
