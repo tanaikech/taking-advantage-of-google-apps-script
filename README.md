@@ -490,6 +490,7 @@ Javascript library
 - [Setting Alternate Background Colors for Rows in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/89aaa3adcd3a1fc37187ca61f389cbe9)
 - [Sorting Cells on Google Spreadsheet with Background colors using Google Apps Script](https://gist.github.com/tanaikech/8e531fdb4125c843b58cf7bef6165786)
 - [Retrieving All Values from All Sheets from URL of 2PACX- of Web Published Google Spreadsheet using Google Apps Script and Javascript](https://gist.github.com/tanaikech/1876f19638e329253cf352225bd180cd)
+- [Creating Multiple Buttons on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/17d48dbcf4c1a39663424cae658e50cb)
 
 <a name="documents"></a>
 
