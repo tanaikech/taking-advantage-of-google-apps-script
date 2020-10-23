@@ -360,6 +360,17 @@ Javascript library
 >
 > In these cases, it has already been found that the lowest process cost is to use the Query language. And about finding values from an array, I have already been reported as "[Benchmark: Search for Array Processing using Google Apps Script](https://gist.github.com/tanaikech/eda9234822b5dec80549216a43c52652)". But I had never summarized the process costs for TextFinder and find values from an array. So in this report, I would like to introduce this. As the result, the importance of TextFinder for retrieving the row numbers and the row values by searching a value could be understand.
 
+### [Benchmark: Process Costs for Retrieving Values from Arrays for Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/6333d797149ab9d69382d1b368f96e80)
+
+> Here, I would like to report the process costs for retrieving the values from the arrays for Spreadsheet using Google Apps Script (GAS). When Spreadsheet is used with Google Apps Script, we have the following situations.
+
+> 1. Retrieve values from the multiple rows in a column.
+> 2. Retrieve values from the multiple columns in a row.
+
+> When the values are retrieved from above situations, it is required to retrieve the values from 1 dimensional array in the 2 dimensional array. In this report, the process costs for retrieving the values from the 2 dimensional array of above situations have been measured.
+
+> As the result, it was found that when the values are retrieved from the arrays with n rows in a column and n columns in a row, to use the destructuring assignment and to use the index are suitable, respectively.
+
 <br>
 
 <a name="communities"></a>
