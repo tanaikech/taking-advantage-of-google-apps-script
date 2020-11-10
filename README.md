@@ -503,6 +503,7 @@ Javascript library
 - [Retrieving All Values from All Sheets from URL of 2PACX- of Web Published Google Spreadsheet using Google Apps Script and Javascript](https://gist.github.com/tanaikech/1876f19638e329253cf352225bd180cd)
 - [Creating Multiple Buttons on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/17d48dbcf4c1a39663424cae658e50cb)
 - [User Runs Script for Range Protected by Owner using Google Apps Script](https://gist.github.com/tanaikech/5ebf492b53de40fe254dba63c8520391)
+- [Downloading Google Spreadsheet as XLSX and PDF file by Clicking Button](https://gist.github.com/tanaikech/61dea338dfba386f87c592d4ee6c68af)
 
 <a name="documents"></a>
 
