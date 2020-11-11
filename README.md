@@ -371,6 +371,10 @@ Javascript library
 
 > As the result, it was found that when the values are retrieved from the arrays with n rows in a column and n columns in a row, to use the destructuring assignment and to use the index are suitable, respectively.
 
+### [Benchmark: Measuring Process Costs for Formulas in Cells on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/b00be25a02ec283689480ac8138cbfeb)
+
+> When Google Spreadsheet is used, there is the case that the built-in functions and the custom functions in the cells are used. For the functions of Google Apps Script, there is the method for measuring the process cost. [Ref](https://github.com/tanaikech/taking-advantage-of-google-apps-script#benchmarks) But for the built-in functions, it is required to create the script for it. In this report, the script for measuring a function put in a cell has been proposed, and the process cost of the built-in functions has been measured. The proposed script can measure the process cost for the built-in functions and custom functions on Google Spreadsheet. The script is created with using Google Apps Script. When the process cost can be known for the built-in functions and custom functions, it is considered that it will be useful for the developers using Google Spreadsheet.
+
 <br>
 
 <a name="communities"></a>
