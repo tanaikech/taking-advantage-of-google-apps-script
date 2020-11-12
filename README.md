@@ -508,6 +508,7 @@ Javascript library
 - [Creating Multiple Buttons on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/17d48dbcf4c1a39663424cae658e50cb)
 - [User Runs Script for Range Protected by Owner using Google Apps Script](https://gist.github.com/tanaikech/5ebf492b53de40fe254dba63c8520391)
 - [Downloading Google Spreadsheet as XLSX and PDF file by Clicking Button](https://gist.github.com/tanaikech/61dea338dfba386f87c592d4ee6c68af)
+- [Replacing Multiple Values in Google Spreadsheet with Low Process Cost using Google Apps Script](https://gist.github.com/tanaikech/3030603299d1e302821611c834420258)
 
 <a name="documents"></a>
 
