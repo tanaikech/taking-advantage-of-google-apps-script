@@ -636,6 +636,7 @@ Javascript library
 - [IMPORTANT: reduceRight with and without v8 runtime for Google Apps Script](https://gist.github.com/tanaikech/7f13f4297d7307a47ad78f0254ce3353)
 - [Inserting Text on Image using Google Apps Script](https://gist.github.com/tanaikech/835642df109731a559e52d831bd3342d)
 - [Request of multipart/form-data with Simple Request Body using Google Apps Script](https://gist.github.com/tanaikech/5cd0dc9ea7d75e4a2ff65049ed3d78c3)
+- [Converting Texts to Bold, Italic and Bold-Italic Types of Unicode using Google Apps Script](https://gist.github.com/tanaikech/39797ccd1b9280f967fe62b3328d782a)
 
 <a name="nodejs"></a>
 
