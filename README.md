@@ -50,7 +50,6 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 
 # News
 
-- **November 21, 2020:** [New IDE for Google Apps Script has been finally released](https://gist.github.com/tanaikech/df0a47ef629e48f33755b88e922c6878)
 - **July 30, 2020:** [Drive API got to be able to create Google Apps Script project again](https://gist.github.com/tanaikech/36821c7d70f9ce376d043c3d682d404e)
 - **July 10, 2020:** [Transfer of owner of files got to be able to be achieved with batch requests of Drive API](https://tanaikech.github.io/2020/07/10/transfer-of-owner-of-files-got-to-be-able-to-be-achieved-with-batch-requests-of-drive-api/)
 - **July 9, 2020:** [Specification of Files: copy in Drive API was changed](https://tanaikech.github.io/2020/07/09/specification-of-files-copy-in-drive-api-was-changed/)
