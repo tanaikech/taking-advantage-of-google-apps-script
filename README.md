@@ -509,6 +509,7 @@ Javascript library
 - [User Runs Script for Range Protected by Owner using Google Apps Script](https://gist.github.com/tanaikech/5ebf492b53de40fe254dba63c8520391)
 - [Downloading Google Spreadsheet as XLSX and PDF file by Clicking Button](https://gist.github.com/tanaikech/61dea338dfba386f87c592d4ee6c68af)
 - [Replacing Multiple Values in Google Spreadsheet with Low Process Cost using Google Apps Script](https://gist.github.com/tanaikech/3030603299d1e302821611c834420258)
+- [Downloading Active Sheet in Google Spreadsheet as CSV and PDF file by Clicking Button](https://gist.github.com/tanaikech/114dad7d31dde402b4892787e9cceaad)
 
 <a name="documents"></a>
 
