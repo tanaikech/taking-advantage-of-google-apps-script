@@ -434,6 +434,7 @@ Javascript library
 - [Converting SVG Format to PNG Format using Google Apps Script](https://gist.github.com/tanaikech/8a6d46ca43665aa7e62965ed32336598)
 - [Uploading File to Google Drive from External HTML without Authorization](https://gist.github.com/tanaikech/d3e62002e522f9e3f2b35bc56c64b2c9)
 - [Using Values Submitted from HTML Form using Google Apps Script](https://gist.github.com/tanaikech/58d96c023468fc1922d67764251b25e0)
+- [Achieving Search of Files by 'is:unorganized owner:me' using Google Apps Script](https://gist.github.com/tanaikech/ec6aa9f2967d2f837df7c87276a0c168)
 
 <a name="projects"></a>
 
