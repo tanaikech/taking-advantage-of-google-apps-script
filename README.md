@@ -42,6 +42,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
   - [Golang](#golang)
   - [Python](#python)
   - [Curl](#curl)
+  - [Javascript](#javascript)
 
 <br>
 <br>
@@ -688,5 +689,11 @@ Javascript library
 - [File Upload and Download with File Convert For curl using Drive API](https://tanaikech.github.io/2017/02/08/file-upload-and-download-with-file-convert-for-curl-using-drive-api/)
 - [Downloading Shared Files on Google Drive Using Curl](https://gist.github.com/tanaikech/f0f2d122e05bf5f971611258c22c110f)
 - [Updating a File with Resumable Upload using Drive API](https://gist.github.com/tanaikech/bc33a83ac648911d00b43c59a24268fc)
+
+<a name="javascript"></a>
+
+#### Javascript
+
+- [Uploading Image Files to Google Photos using axios](https://gist.github.com/tanaikech/426345c24e46da3ac7268f31b76bb3e4)
 
 [TOP](#TOP)
