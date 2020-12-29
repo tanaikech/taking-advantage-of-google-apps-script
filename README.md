@@ -258,6 +258,12 @@ Javascript library
 
 > At Stackoverflow, a lot of people post the questions and answer to the questions every day. By this, there are a lot of important information in Stackoverflow. I have already reported "Trend of google-apps-script Tag on Stackoverflow" using the data retrieved from Stackoverflow. [Ref](https://github.com/tanaikech/taking-advantage-of-google-apps-script#trend-of-google-apps-script) It is found that the important statistical result can be obtained by analyzing the data on Stackoverflow. In this report, I would like to introduce the statistical analysis of duplicated questions for the google-apps-script tag in Stackoverflow. When the duplicated question is analyzed, it is considered that the important issues for users can be known. As the result, it was found that there are the trend that the duplicated questions related to Javascript, Google Spreadsheet, the process cost and the cooperation with HTML and Javascript are posted.
 
+### [Safe-Uploading for Google Drive by HTML in External Server using Google Apps Script](https://github.com/tanaikech/Safe-Uploading-for-Google-Drive-by-HTML-in-External-Server-using-Google-Apps-Script)
+
+> This is a report for safe-uploading files to Google Drive by HTML put in the external server using Google Apps Script.
+
+> When you want to make the user upload a file to your own Google Drive using the HTML put in the external server of Google side, when the file size is smaller than 50 MB, this can be achieved without using the access token. [Ref](https://tanaikech.github.io/2020/08/13/uploading-file-to-google-drive-from-external-html-without-authorization/) (When the HTML is put in the internal server of Google side, you can also use [`google.script.run`](https://tanaikech.github.io/2020/02/18/uploading-file-to-google-drive-using-html-and-google-apps-script/).) But, when the file size is over 50 MB, it is required to upload the file with the resumable upload. In this case, the access token is required to be used. In this case that the user uploads to your own Google Drive, when the access token is used in the upload, it is considered that this is the weak point of the security. In this report, I would like to propose the method for safe-uploading files to Google Drive by HTML put in the external server using Google Apps Script. Please think of this as one of several methods.
+
 <br>
 
 <a name="benchmarks"></a>
