@@ -188,6 +188,7 @@ Javascript library
 - [GetFileList_js](https://github.com/tanaikech/GetFileList_js) : This is a Javascript library to retrieve the file list with the folder tree from the specific folder (publicly shared folders and own folders) of Google Drive.
 - [syncGoogleScriptRun](https://github.com/tanaikech/syncGoogleScriptRun) : This is a Javascript library to use "google.script.run" with the synchronous process.
 - [ResumableUploadForGoogleDrive_js](https://github.com/tanaikech/ResumableUploadForGoogleDrive_js) : This is a Javascript library to achieve the resumable upload for Google Drive.
+- [BatchRequest_js](https://github.com/tanaikech/BatchRequest_js) : This is a library for running Batch Requests for Google APIs using Javascript.
 
 <br>
 
@@ -438,6 +439,7 @@ Javascript library
 - [Uploading File to Google Drive from External HTML without Authorization](https://gist.github.com/tanaikech/d3e62002e522f9e3f2b35bc56c64b2c9)
 - [Using Values Submitted from HTML Form using Google Apps Script](https://gist.github.com/tanaikech/58d96c023468fc1922d67764251b25e0)
 - [Achieving Search of Files by 'is:unorganized owner:me' using Google Apps Script](https://gist.github.com/tanaikech/ec6aa9f2967d2f837df7c87276a0c168)
+- [Safe-Uploading for Google Drive by HTML in External Server using Google Apps Script](https://github.com/tanaikech/Safe-Uploading-for-Google-Drive-by-HTML-in-External-Server-using-Google-Apps-Script)
 
 <a name="projects"></a>
 
@@ -697,5 +699,6 @@ Javascript library
 #### Javascript
 
 - [Uploading Image Files to Google Photos using axios](https://gist.github.com/tanaikech/426345c24e46da3ac7268f31b76bb3e4)
+- [Retrieving Access Token for Service Account using Javascript](https://gist.github.com/tanaikech/3c7f208cb352a807b3d30b9c1dcf0c82)
 
 [TOP](#TOP)
