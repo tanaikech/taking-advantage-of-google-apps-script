@@ -668,6 +668,7 @@ Javascript library
 - [Uploading Files of multipart/form-data to Google Drive using Drive API with Node.js](https://gist.github.com/tanaikech/33563b6754e5054f3a5832667100fe91)
 - [Retrieving All Values from All Sheets from URL of 2PACX- of Web Published Google Spreadsheet using Node.js](https://gist.github.com/tanaikech/49e1e6515225d810e849b3487142a90d)
 - [Downloading and Uploading File to Google Drive without Saving File with Stream and Resumable Upload using Node.js](https://gist.github.com/tanaikech/99187753ceb5fd55d343b52dcbe176a5)
+- [Simple Script of Resumable Upload with Google Drive API for Axios](https://gist.github.com/tanaikech/0e33b7a850e8c56d111ed0f32df0b485)
 
 <a name="golang"></a>
 
