@@ -551,6 +551,7 @@ Javascript library
 - [Managing Texts on Google Slides using Google Apps Script](https://gist.github.com/tanaikech/04e7b7657f97ddd7c68b6a9ddc3cdf98)
 - [Cropping Images in Google Slides using Google Apps Script](https://gist.github.com/tanaikech/a86781b425fe3f14edd5058ca8d46fe7)
 - [Retrieving Data from QR code on Google Slides using Google Apps Script](https://gist.github.com/tanaikech/4fc0b33493d375e589d61312d2f028b7)
+- [Adding Slide Page Link to Shape using Google Apps Script](https://gist.github.com/tanaikech/444379309f1d0f69287c5a8becdc271d)
 
 <a name="gmail"></a>
 
