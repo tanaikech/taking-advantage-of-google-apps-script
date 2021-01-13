@@ -552,6 +552,7 @@ Javascript library
 - [Cropping Images in Google Slides using Google Apps Script](https://gist.github.com/tanaikech/a86781b425fe3f14edd5058ca8d46fe7)
 - [Retrieving Data from QR code on Google Slides using Google Apps Script](https://gist.github.com/tanaikech/4fc0b33493d375e589d61312d2f028b7)
 - [Adding Slide Page Link to Shape using Google Apps Script](https://gist.github.com/tanaikech/444379309f1d0f69287c5a8becdc271d)
+- [Creating Custom Grid View of Google Slides as Image and Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/c94b79819167e96f6d9268d066989112)
 
 <a name="gmail"></a>
 
