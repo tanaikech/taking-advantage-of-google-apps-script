@@ -75,6 +75,8 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 
 - [Trend of google-apps-script Tag on Stackoverflow 2020](https://gist.github.com/tanaikech/fd7dbc6d630fd0550c32159635cecc96)
 
+- [Trend of google-apps-script Tag on Stackoverflow 2021](https://gist.github.com/tanaikech/18519c3177e284638dce9113ec7ab5b1)
+
 <br>
 
 <a name="settings"></a>
