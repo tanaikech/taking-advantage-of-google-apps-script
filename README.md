@@ -656,6 +656,7 @@ Javascript library
 - [Inserting Text on Image using Google Apps Script](https://gist.github.com/tanaikech/835642df109731a559e52d831bd3342d)
 - [Request of multipart/form-data with Simple Request Body using Google Apps Script](https://gist.github.com/tanaikech/5cd0dc9ea7d75e4a2ff65049ed3d78c3)
 - [Converting Texts to Bold, Italic and Bold-Italic Types of Unicode using Google Apps Script](https://gist.github.com/tanaikech/39797ccd1b9280f967fe62b3328d782a)
+- [Xpath Tester using Web Apps Created by Google Apps Script](https://gist.github.com/tanaikech/8a596d235205ba443452aeb510220477)
 
 <a name="nodejs"></a>
 
