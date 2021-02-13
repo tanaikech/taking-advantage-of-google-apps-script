@@ -191,6 +191,7 @@ Javascript library
 - [syncGoogleScriptRun](https://github.com/tanaikech/syncGoogleScriptRun) : This is a Javascript library to use "google.script.run" with the synchronous process.
 - [ResumableUploadForGoogleDrive_js](https://github.com/tanaikech/ResumableUploadForGoogleDrive_js) : This is a Javascript library to achieve the resumable upload for Google Drive.
 - [BatchRequest_js](https://github.com/tanaikech/BatchRequest_js) : This is a library for running Batch Requests for Google APIs using Javascript.
+- [HtmlFormObjectParserForGoogleAppsScript_js](This is a Javascript library for sending the HTML form object to Google Apps Script using `google.script.run`.)
 
 <br>
 
