@@ -85,6 +85,10 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 
 - [Linking Cloud Platform Project to Google Apps Script Project](https://gist.github.com/tanaikech/e945c10917fac34a9d5d58cad768832c): At April 8, 2019, the specification of Google Apps Script Project was changed. In this report, the flow for linking Cloud Platform Project to GAS project is explained.
 
+- [Linking Google Cloud Platform Project to Google Apps Script Project for New IDE](https://github.com/tanaikech/Linking-Google-Cloud-Platform-Project-to-Google-Apps-Script-Project-for-New-IDE): This is the document for linking Google Cloud Platform Project to Google Apps Script Project for New IDE. And also, several sample scripts using Google Apps Script API and Google Photos API are introduced.
+
+- [Redeploying Web Apps without Changing URL of Web Apps for new IDE](https://gist.github.com/tanaikech/ebf92d8f427d02d53989d6c3464a9c43): At March 15, 2021, one endpoint is created for one deployment. [Ref](https://developers.google.com/apps-script/releases/#march_15_2021) By this, when you redeploy "Web Apps", the endpoint is changed. Because the deployment ID is changed. It seems that this it the new specification. In this report, I would like to introduce the method for redeploying Web Apps without changing the URL of Web Apps for new IDE.
+
 <br>
 
 <a name="clitool"></a>
