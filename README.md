@@ -531,6 +531,7 @@ Javascript library
 - [Replacing Multiple Values in Google Spreadsheet with Low Process Cost using Google Apps Script](https://gist.github.com/tanaikech/3030603299d1e302821611c834420258)
 - [Downloading Active Sheet in Google Spreadsheet as CSV and PDF file by Clicking Button](https://gist.github.com/tanaikech/114dad7d31dde402b4892787e9cceaad)
 - [Copying Protections for Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/b22a76d419a6bdbfa064f5b31f6eae8e)
+- [Creating Colorful Buttons on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/5eedf04fa0f7727570b8e4c45b84a1f1)
 
 <a name="documents"></a>
 
@@ -683,6 +684,7 @@ Javascript library
 - [Retrieving All Values from All Sheets from URL of 2PACX- of Web Published Google Spreadsheet using Node.js](https://gist.github.com/tanaikech/49e1e6515225d810e849b3487142a90d)
 - [Downloading and Uploading File to Google Drive without Saving File with Stream and Resumable Upload using Node.js](https://gist.github.com/tanaikech/99187753ceb5fd55d343b52dcbe176a5)
 - [Simple Script of Resumable Upload with Google Drive API for Axios](https://gist.github.com/tanaikech/0e33b7a850e8c56d111ed0f32df0b485)
+- [Creating PNG Image with Alpha Channel using Google Apps Script](https://github.com/tanaikech/Creating-PNG-Image-with-Alpha-Channel-using-Google-Apps-Script)
 
 <a name="golang"></a>
 
