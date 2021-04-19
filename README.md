@@ -666,6 +666,7 @@ Javascript library
 - [Converting Texts to Bold, Italic and Bold-Italic Types of Unicode using Google Apps Script](https://gist.github.com/tanaikech/39797ccd1b9280f967fe62b3328d782a)
 - [Xpath Tester using Web Apps Created by Google Apps Script](https://gist.github.com/tanaikech/8a596d235205ba443452aeb510220477)
 - [Plotting Points on Image using Google Apps Script](https://gist.github.com/tanaikech/fbb16f1eb43b3bafa93323461a500640)
+- [Creating PNG Image with Alpha Channel using Google Apps Script](https://github.com/tanaikech/Creating-PNG-Image-with-Alpha-Channel-using-Google-Apps-Script)
 
 <a name="nodejs"></a>
 
@@ -684,7 +685,6 @@ Javascript library
 - [Retrieving All Values from All Sheets from URL of 2PACX- of Web Published Google Spreadsheet using Node.js](https://gist.github.com/tanaikech/49e1e6515225d810e849b3487142a90d)
 - [Downloading and Uploading File to Google Drive without Saving File with Stream and Resumable Upload using Node.js](https://gist.github.com/tanaikech/99187753ceb5fd55d343b52dcbe176a5)
 - [Simple Script of Resumable Upload with Google Drive API for Axios](https://gist.github.com/tanaikech/0e33b7a850e8c56d111ed0f32df0b485)
-- [Creating PNG Image with Alpha Channel using Google Apps Script](https://github.com/tanaikech/Creating-PNG-Image-with-Alpha-Channel-using-Google-Apps-Script)
 
 <a name="golang"></a>
 
