@@ -272,6 +272,12 @@ Javascript library
 
 > When you want to make the user upload a file to your own Google Drive using the HTML put in the external server of Google side, when the file size is smaller than 50 MB, this can be achieved without using the access token. [Ref](https://tanaikech.github.io/2020/08/13/uploading-file-to-google-drive-from-external-html-without-authorization/) (When the HTML is put in the internal server of Google side, you can also use [`google.script.run`](https://tanaikech.github.io/2020/02/18/uploading-file-to-google-drive-using-html-and-google-apps-script/).) But, when the file size is over 50 MB, it is required to upload the file with the resumable upload. In this case, the access token is required to be used. In this case that the user uploads to your own Google Drive, when the access token is used in the upload, it is considered that this is the weak point of the security. In this report, I would like to propose the method for safe-uploading files to Google Drive by HTML put in the external server using Google Apps Script. Please think of this as one of several methods.
 
+### [Specification of Search Query for File List Method in Drive API](https://gist.github.com/tanaikech/268baf07f92f3b3962c86c6ea75b786a)
+
+> In this report, I would like to report about the current specification of the search query for the file list method in Drive API.
+
+> Recently, I noticed that the specification of the search query for the file list method in Drive API might have been changed. I thought that to know the change of specification of the search query is important for creating the application using Drive API. In this report, I would like to introduce the current specification of the search query.
+
 <br>
 
 <a name="benchmarks"></a>
@@ -454,7 +460,6 @@ Javascript library
 - [Using Values Submitted from HTML Form using Google Apps Script](https://gist.github.com/tanaikech/58d96c023468fc1922d67764251b25e0)
 - [Achieving Search of Files by 'is:unorganized owner:me' using Google Apps Script](https://gist.github.com/tanaikech/ec6aa9f2967d2f837df7c87276a0c168)
 - [Safe-Uploading for Google Drive by HTML in External Server using Google Apps Script](https://github.com/tanaikech/Safe-Uploading-for-Google-Drive-by-HTML-in-External-Server-using-Google-Apps-Script)
-- [Specification of Search Query for File List Method in Drive API](https://gist.github.com/tanaikech/268baf07f92f3b3962c86c6ea75b786a)
 
 <a name="projects"></a>
 
