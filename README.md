@@ -454,6 +454,7 @@ Javascript library
 - [Using Values Submitted from HTML Form using Google Apps Script](https://gist.github.com/tanaikech/58d96c023468fc1922d67764251b25e0)
 - [Achieving Search of Files by 'is:unorganized owner:me' using Google Apps Script](https://gist.github.com/tanaikech/ec6aa9f2967d2f837df7c87276a0c168)
 - [Safe-Uploading for Google Drive by HTML in External Server using Google Apps Script](https://github.com/tanaikech/Safe-Uploading-for-Google-Drive-by-HTML-in-External-Server-using-Google-Apps-Script)
+- [Specification of Search Query for File List Method in Drive API](https://gist.github.com/tanaikech/268baf07f92f3b3962c86c6ea75b786a)
 
 <a name="projects"></a>
 
