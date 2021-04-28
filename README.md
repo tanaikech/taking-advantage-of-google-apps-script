@@ -556,6 +556,7 @@ Javascript library
 - [Updated Specification of Google Spreadsheet: Multiple Hyperlinks to a Cell](https://gist.github.com/tanaikech/d39b4b5ccc5a1d50f5b8b75febd807a6)
 - [Modifying 1st-Page Header in Google Document using Google Apps Script](https://gist.github.com/tanaikech/d430543089cc687e5d9c2bc96d3178ff)
 - [Retrieving All URLs in Google Document using Google Apps Script](https://gist.github.com/tanaikech/d3ce0c2186885ee27d23e02ddd2696b7)
+- [Changing Font of Selected Text to 'Google Sans' on Google Document using Google Apps Script](https://gist.github.com/tanaikech/4700361cc060ae4333672da905d272c7)
 
 <a name="slides"></a>
 
