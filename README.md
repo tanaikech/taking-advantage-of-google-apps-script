@@ -400,6 +400,20 @@ Javascript library
 
 > When Google Spreadsheet is used, there is the case that the built-in functions and the custom functions in the cells are used. For the functions of Google Apps Script, there is the method for measuring the process cost. [Ref](https://github.com/tanaikech/taking-advantage-of-google-apps-script#benchmarks) But for the built-in functions, it is required to create the script for it. In this report, the script for measuring a function put in a cell has been proposed, and the process cost of the built-in functions has been measured. The proposed script can measure the process cost for the built-in functions and custom functions on Google Spreadsheet. The script is created with using Google Apps Script. When the process cost can be known for the built-in functions and custom functions, it is considered that it will be useful for the developers using Google Spreadsheet.
 
+### [Benchmark: Process Costs for Retrieving 1st Empty Cell and 1st Non Empty Cell of Specific Column in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/61cbda29436795f199a9e4244e0bf5fe)
+
+> Here, I would like to report the process costs for retrieving the 1st empty cell or 1st non empty cell of the specific column of Google Spreadsheet using Google Apps Script (GAS). For this situations, the following 2 patterns can be considered.
+
+> 1. Retrieving 1st empty cell of specific column by searching from **TOP** of sheet
+
+> 2. Retrieving 1st NON empty cell of specific column by searching from **BOTTOM** of sheet
+
+> Actually, when I create the applications using GAS, there is the case that it's required to retrieve the 1st empty cell or 1st non empty cell of the specific column. But, in such case, I would like to make the process cost of this as low as possible comparing with other part of the application. From such my experience, I thought that when the process cost of this can be reduced, it will be also useful for other users. So in this report, I would like to introduce the process cost of this situation. And, the following results were obtained.
+
+> - In order to retrieve the 1st empty cell of the specific column by searching from **TOP** of sheet, the process cost of method using `getNextDataCell` is the lowest of all methods.
+
+> - In order to retrieve 1st NON empty cell of specific column by searching from **BOTTOM** of sheet, the process cost of method using `TextFinder` is the lowest of all methods.
+
 <br>
 
 <a name="communities"></a>
