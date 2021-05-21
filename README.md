@@ -553,6 +553,7 @@ Javascript library
 - [Downloading Active Sheet in Google Spreadsheet as CSV and PDF file by Clicking Button](https://gist.github.com/tanaikech/114dad7d31dde402b4892787e9cceaad)
 - [Copying Protections for Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/b22a76d419a6bdbfa064f5b31f6eae8e)
 - [Creating Colorful Buttons on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/5eedf04fa0f7727570b8e4c45b84a1f1)
+- [Retrieving Hidden Rows and Showing Rows by Filter View on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/43eee17899a3d0a99817f3a2032ae937)
 
 <a name="documents"></a>
 
