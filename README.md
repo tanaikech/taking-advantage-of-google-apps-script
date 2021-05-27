@@ -198,6 +198,7 @@ Javascript library
 - [ResumableUploadForGoogleDrive_js](https://github.com/tanaikech/ResumableUploadForGoogleDrive_js) : This is a Javascript library to achieve the resumable upload for Google Drive.
 - [BatchRequest_js](https://github.com/tanaikech/BatchRequest_js) : This is a library for running Batch Requests for Google APIs using Javascript.
 - [HtmlFormObjectParserForGoogleAppsScript_js](https://github.com/tanaikech/HtmlFormObjectParserForGoogleAppsScript_js) : This is a Javascript library for sending the HTML form object to Google Apps Script using `google.script.run`.
+- [GetAccessTokenFromServiceAccount_js](https://github.com/tanaikech/GetAccessTokenFromServiceAccount_js) : This is a Javascript library to retrieve the access token from the Google Service Account.
 
 <br>
 
