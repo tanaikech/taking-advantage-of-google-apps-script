@@ -280,6 +280,12 @@ Javascript library
 
 > Recently, I noticed that the specification of the search query for the file list method in Drive API might have been changed. I thought that to know the change of specification of the search query is important for creating the application using Drive API. In this report, I would like to introduce the current specification of the search query.
 
+### [Concurrent Writing to Google Spreadsheet using Form](https://gist.github.com/tanaikech/c2f3fccabbf4906a18fdc38463982f31)
+
+> When the users try to write to Spreadsheet using a form, the developers have to consider to the concurrent submission from the form. For example, when the multiple users submit the data with the form simultaneously, all data are possibly not to be saved to the Spreadsheet. So it is considered that it is important to know the information about the concurrent writing to Google Spreadsheet using a form. In this report, such situation was investigated.
+
+> As the result, when the success rate for writing concurrently to Google Spreadsheet is investigated, it was found that the concurrent writing with Google Form is suitable rather than Web Apps created by Google Apps Script. The threshold number of users for succeeding to write all data to Spreadsheet was 35 for Google Form and 26 for Web Apps, respectively. And, when Web Apps is used, it was also found that Lock Service was definitely required to be used for the multiple submission.
+
 <br>
 
 <a name="benchmarks"></a>
