@@ -594,6 +594,7 @@ Javascript library
 - [Adding Slide Page Link to Shape using Google Apps Script](https://gist.github.com/tanaikech/444379309f1d0f69287c5a8becdc271d)
 - [Creating Custom Grid View of Google Slides as Image and Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/c94b79819167e96f6d9268d066989112)
 - [Simple Photo Gallery Created by Google Slides and Web Apps using Google Apps Script](https://github.com/tanaikech/SimplePhotoGalleryUsingGoogleAppsScript)
+- [Simply Editing Texts of Texts Boxes on Google Slides using Google Apps Script](https://gist.github.com/tanaikech/aa0a03ba3c440ca72fc1d7e02f038f7c)
 
 <a name="gmail"></a>
 
