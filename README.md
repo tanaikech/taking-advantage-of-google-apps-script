@@ -580,6 +580,7 @@ Javascript library
 - [Modifying 1st-Page Header in Google Document using Google Apps Script](https://gist.github.com/tanaikech/d430543089cc687e5d9c2bc96d3178ff)
 - [Retrieving All URLs in Google Document using Google Apps Script](https://gist.github.com/tanaikech/d3ce0c2186885ee27d23e02ddd2696b7)
 - [Changing Font of Selected Text to 'Google Sans' on Google Document using Google Apps Script](https://gist.github.com/tanaikech/4700361cc060ae4333672da905d272c7)
+- [Replacing Template Texts with Array in Google Document using Google Apps Script](https://gist.github.com/tanaikech/7fc15c4e8ecccbedd469d8d778880834)
 
 <a name="slides"></a>
 
@@ -741,6 +742,7 @@ Javascript library
 - [Creating a Table to Google Document by Retrieving Values from Google Spreadsheet for Python](https://gist.github.com/tanaikech/305e413696bcdf3a2ee3e86cebf3c7dc)
 - [Simple Script of Resumable Upload with Google Drive API for Python](https://gist.github.com/tanaikech/f709a952ff6e286027950d0484f6c03e)
 - [Retrieving All Values from All Sheets from URL of 2PACX- of Web Published Google Spreadsheet using Python](https://gist.github.com/tanaikech/51628e5e0a2c017329457afdb1936912)
+- [Replacing Template Texts with Array in Google Document using Docs API with Python](https://gist.github.com/tanaikech/f1f9fb91d3432362670c810ae05ba53b)
 
 <a name="curl"></a>
 
