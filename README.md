@@ -30,6 +30,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
   - [Slides](#slides)
   - [Gmail](#gmail)
   - [Calendar](#calendar)
+  - [Form](#form)
   - [Chart](#chart)
   - [Analytics](#analytics)
   - [Slack](#slack)
@@ -612,6 +613,12 @@ Javascript library
 - [Retrieving Event ID from Event URL of Google Calendar using Google Apps Script](https://gist.github.com/tanaikech/b366be5995be04f689c3d80b18363f5e)
 - [Managing A Lot Of Google Calendar Events using Batch Requests with Google Apps Script](https://github.com/tanaikech/Managing-A-Lot-Of-Google-Calendar-Events-using-Batch-Requests-with-Google-Apps-Script)
 - [Sample Scripts for Creating New Event with Google Meet Link to Google Calendar using Various Languages](https://gist.github.com/tanaikech/94791d48823e9659aa376cf7f0161d9b)
+
+<a name="form"></a>
+
+#### Form
+
+- [Directly Submitting Answers to Google Form using Google Apps Script](https://gist.github.com/tanaikech/b4a31a51cbb0ef84c871e6fb96e1502e)
 
 <a name="chart"></a>
 
