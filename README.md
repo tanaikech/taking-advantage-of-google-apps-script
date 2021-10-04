@@ -707,6 +707,7 @@ Javascript library
 - [Plotting Points on Image using Google Apps Script](https://gist.github.com/tanaikech/fbb16f1eb43b3bafa93323461a500640)
 - [Creating PNG Image with Alpha Channel using Google Apps Script](https://github.com/tanaikech/Creating-PNG-Image-with-Alpha-Channel-using-Google-Apps-Script)
 - [Executing Function with Minutes timer in Specific Times using Google Apps Script](https://gist.github.com/tanaikech/6608e901272077cbc3738366ec5fe0b3)
+- [Retrieving List of All Emails of Microsoft Account using Google Apps Script](https://gist.github.com/tanaikech/45a5511cf2a4a42660b52b3409f7b537)
 
 <a name="nodejs"></a>
 
