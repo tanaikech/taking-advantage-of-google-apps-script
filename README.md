@@ -38,6 +38,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
   - [Stackoverflow](#stackoverflow)
   - [Netatmo](#netatmo)
   - [Figma](#figma)
+  - [Microsoft](#microsoft)
   - [Etc](#etc)
   - [Node.js](#nodejs)
   - [Golang](#golang)
@@ -671,6 +672,17 @@ Javascript library
 
 - [Figma to Google Slides using Google Apps Script](https://gist.github.com/tanaikech/6aeb3ff13765cfba465862e2e2c3dd3b)
 
+
+<a name="microsoft"></a>
+
+#### Microsoft
+
+In this case, the APIs and resources of Microsoft are used with Google Apps Script.
+
+- [OnedriveApp](https://github.com/tanaikech/OnedriveApp) : This is a library of Google Apps Script for using Microsoft OneDrive.
+- [Retrieving List of All Emails of Microsoft Account using Google Apps Script](https://gist.github.com/tanaikech/45a5511cf2a4a42660b52b3409f7b537)
+- [Sending Outlook Emails using Microsoft Account with Google Apps Script](https://gist.github.com/tanaikech/0745889227e43c385d190385fff91598)
+
 <a name="etc"></a>
 
 #### Etc
@@ -707,7 +719,6 @@ Javascript library
 - [Plotting Points on Image using Google Apps Script](https://gist.github.com/tanaikech/fbb16f1eb43b3bafa93323461a500640)
 - [Creating PNG Image with Alpha Channel using Google Apps Script](https://github.com/tanaikech/Creating-PNG-Image-with-Alpha-Channel-using-Google-Apps-Script)
 - [Executing Function with Minutes timer in Specific Times using Google Apps Script](https://gist.github.com/tanaikech/6608e901272077cbc3738366ec5fe0b3)
-- [Retrieving List of All Emails of Microsoft Account using Google Apps Script](https://gist.github.com/tanaikech/45a5511cf2a4a42660b52b3409f7b537)
 
 <a name="nodejs"></a>
 
