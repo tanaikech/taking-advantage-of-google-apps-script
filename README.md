@@ -606,6 +606,7 @@ Javascript library
 
 - [How to Retrieve Replied Emails for Gmail](https://gist.github.com/tanaikech/a047e5f67f30b93482986039daa16dbc)
 - [Adding a Label to a Message using Message ID for Gmail](https://gist.github.com/tanaikech/69c7daf910fdad0d6a296ea19f612089)
+- [Sending Gmail with Title and Body Including Emoji using Google Apps Script](https://gist.github.com/tanaikech/187863d97d2b5e60938d8316574a2850)
 
 <a name="calendar"></a>
 
