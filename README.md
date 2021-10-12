@@ -423,6 +423,8 @@ Javascript library
 
 > - In order to retrieve 1st NON empty cell of specific column by searching from **BOTTOM** of sheet, the process cost of method using `TextFinder` is the lowest of all methods.
 
+### [Benchmark: Concurrent Writing to Google Spreadsheet using Form](https://gist.github.com/tanaikech/c2f3fccabbf4906a18fdc38463982f31)
+
 <br>
 
 <a name="communities"></a>
