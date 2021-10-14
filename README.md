@@ -54,6 +54,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 
 # News
 
+- **October 14, 2021:** [Google Cloud Innovators Champions](https://tanaikech.github.io/2021/10/14/google-cloud-innovators-champions/)
 - **April 6, 2021:** [A Bug of New IDE about Time Zone of Google Apps Script project was removed](https://tanaikech.github.io/2021/04/06/a-bug-of-new-ide-about-time-zone-of-google-apps-script-project-was-removed/)
 - **December 15, 2020:** [Meet the Google Workspace Developer Experts](https://tanaikech.github.io/2020/12/15/meet-the-google-workspace-developer-experts/)
 - **December 8, 2020:** [New IDE for Google Apps Script has been finally released](https://tanaikech.github.io/2020/12/08/new-ide-for-google-apps-script-has-been-finally-released/)
@@ -675,7 +676,6 @@ Javascript library
 #### Figma
 
 - [Figma to Google Slides using Google Apps Script](https://gist.github.com/tanaikech/6aeb3ff13765cfba465862e2e2c3dd3b)
-
 
 <a name="microsoft"></a>
 
