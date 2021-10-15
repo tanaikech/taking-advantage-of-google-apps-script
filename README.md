@@ -629,6 +629,7 @@ Javascript library
 #### Form
 
 - [Directly Submitting Answers to Google Form using Google Apps Script](https://gist.github.com/tanaikech/b4a31a51cbb0ef84c871e6fb96e1502e)
+- [Putting All Response Values from Google Form to Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/42ac2d72f62f2107b965f53239c2f398)
 
 <a name="chart"></a>
 
