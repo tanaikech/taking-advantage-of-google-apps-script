@@ -289,6 +289,10 @@ Javascript library
 
 > As the result, when the success rate for writing concurrently to Google Spreadsheet is investigated, it was found that the concurrent writing with Google Form is suitable rather than Web Apps created by Google Apps Script. The threshold number of users for succeeding to write all data to Spreadsheet was 35 for Google Form and 26 for Web Apps, respectively. And, when Web Apps is used, it was also found that Lock Service was definitely required to be used for the multiple submission.
 
+### [Large Decimal Numbers and Exponential Notation for Google Spreadsheet](https://gist.github.com/tanaikech/a1b32bdace0ebdd6c92a547b6f4dfbeb)
+
+> In this report, it has investigated the large decimal numbers and the exponential notation for Google Spreadsheet. When the large decimal numbers are put to the Spreadsheet, the Spreadsheet automatically sets the display value using the exponential notation. In this report, the result when the values are retrieved by Spreadsheet service and Sheets API is shown.
+
 <br>
 
 <a name="benchmarks"></a>
