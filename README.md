@@ -573,6 +573,7 @@ Javascript library
 - [Retrieving Hidden Rows and Showing Rows by Filter View on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/43eee17899a3d0a99817f3a2032ae937)
 - [Compiling Continuous Numbers using Google Apps Script](https://gist.github.com/tanaikech/5a43281964b739ead2b7ae2401400630)
 - [Taking Advantage of TextFinder for Google Spreadsheet](https://gist.github.com/tanaikech/39f719bd10ccbb27edd694c33242e496)
+- [Converting Values of Google Spreadsheet to Object using Google Apps Script](https://gist.github.com/tanaikech/39d6402846c21502d41ecc7f78708e71)
 
 <a name="documents"></a>
 
