@@ -294,6 +294,12 @@ Javascript library
 
 > In this report, it has investigated the large decimal numbers and the exponential notation for Google Spreadsheet. When the large decimal numbers are put to the Spreadsheet, the Spreadsheet automatically sets the display value using the exponential notation. In this report, the result when the values are retrieved by Spreadsheet service and Sheets API is shown.
 
+### [Report: Images put with IMAGE function on Google Spreadsheet](https://gist.github.com/tanaikech/10c55451caab9e291d5a571b157e8020)
+
+> This is a report about images put with "=IMAGE(IMAGE_URL)" function on Google Spreadsheet.
+
+> When "=IMAGE(IMAGE_URL)" is put to a cell "A1" on Spreadsheet, the image is shown in the cell. For this situation, when the cell "A1" is copied with "range.copyTo(range, { contentsOnly: true })", the formula is removed and an image can be seen. I thought that when the image of the URL is removed, how are those images. In this report, such a situation was investigated.
+
 <br>
 
 <a name="benchmarks"></a>
