@@ -600,6 +600,7 @@ Javascript library
 - [Retrieving All URLs in Google Document using Google Apps Script](https://gist.github.com/tanaikech/d3ce0c2186885ee27d23e02ddd2696b7)
 - [Changing Font of Selected Text to 'Google Sans' on Google Document using Google Apps Script](https://gist.github.com/tanaikech/4700361cc060ae4333672da905d272c7)
 - [Replacing Template Texts with Array in Google Document using Google Apps Script](https://gist.github.com/tanaikech/7fc15c4e8ecccbedd469d8d778880834)
+- [Retrieving Glyph Value from List Items of Google Document using Google Apps Script](https://gist.github.com/tanaikech/5f186b006c4803790318a75e65900c36)
 
 <a name="slides"></a>
 
