@@ -616,6 +616,7 @@ Javascript library
 - [Creating Custom Grid View of Google Slides as Image and Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/c94b79819167e96f6d9268d066989112)
 - [Simple Photo Gallery Created by Google Slides and Web Apps using Google Apps Script](https://github.com/tanaikech/SimplePhotoGalleryUsingGoogleAppsScript)
 - [Simply Editing Texts of Texts Boxes on Google Slides using Google Apps Script](https://gist.github.com/tanaikech/aa0a03ba3c440ca72fc1d7e02f038f7c)
+- [Reducing Table Height of Table Inserted from Google Spreadsheet to Google Slides using Google Apps Script](https://gist.github.com/tanaikech/659f3687f4ea5282f39ebf9b6d5ae54c)
 
 <a name="gmail"></a>
 
