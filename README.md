@@ -31,6 +31,7 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
   - [Gmail](#gmail)
   - [Calendar](#calendar)
   - [Form](#form)
+  - [YouTube](#youtube)
   - [Chart](#chart)
   - [Analytics](#analytics)
   - [Slack](#slack)
@@ -643,6 +644,12 @@ Javascript library
 
 - [Directly Submitting Answers to Google Form using Google Apps Script](https://gist.github.com/tanaikech/b4a31a51cbb0ef84c871e6fb96e1502e)
 - [Putting All Response Values from Google Form to Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/42ac2d72f62f2107b965f53239c2f398)
+
+<a name="youtube"></a>
+
+#### YouTube
+
+- [Uploading Movie File on Google Drive to YouTube using Google Apps Script](https://gist.github.com/tanaikech/dc62aeb9a363513d6d27baf119ecfc2d)
 
 <a name="chart"></a>
 
