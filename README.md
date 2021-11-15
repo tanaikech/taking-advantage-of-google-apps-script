@@ -582,6 +582,7 @@ Javascript library
 - [Taking Advantage of TextFinder for Google Spreadsheet](https://gist.github.com/tanaikech/39f719bd10ccbb27edd694c33242e496)
 - [Converting Values of Google Spreadsheet to Object using Google Apps Script](https://gist.github.com/tanaikech/39d6402846c21502d41ecc7f78708e71)
 - [Updating Values of Sheet A with Values of Sheet B using Google Apps Script](https://gist.github.com/tanaikech/bd1e9de7cc22f89d3c8c7f90bf07e943)
+- [Letting Users Running Google Apps Script on Google Spreadsheet without both Authorizing Scopes and Showing Script](https://gist.github.com/tanaikech/82089f55e9e647bbe965a563ab1ce657)
 
 <a name="documents"></a>
 
