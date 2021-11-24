@@ -620,6 +620,7 @@ Javascript library
 - [Simple Photo Gallery Created by Google Slides and Web Apps using Google Apps Script](https://github.com/tanaikech/SimplePhotoGalleryUsingGoogleAppsScript)
 - [Simply Editing Texts of Texts Boxes on Google Slides using Google Apps Script](https://gist.github.com/tanaikech/aa0a03ba3c440ca72fc1d7e02f038f7c)
 - [Reducing Table Height of Table Inserted from Google Spreadsheet to Google Slides using Google Apps Script](https://gist.github.com/tanaikech/659f3687f4ea5282f39ebf9b6d5ae54c)
+- [Exporting All Thumbnail Images Retrieved from Google Slides as Zip File using Google Apps Script](https://gist.github.com/tanaikech/66a83c01e1f99829a85f909f8facb834)
 
 <a name="gmail"></a>
 
