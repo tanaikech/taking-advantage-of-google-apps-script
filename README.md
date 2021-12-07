@@ -584,6 +584,7 @@ Javascript library
 - [Updating Values of Sheet A with Values of Sheet B using Google Apps Script](https://gist.github.com/tanaikech/bd1e9de7cc22f89d3c8c7f90bf07e943)
 - [Letting Users Running Google Apps Script on Google Spreadsheet without both Authorizing Scopes and Showing Script](https://gist.github.com/tanaikech/82089f55e9e647bbe965a563ab1ce657)
 - [Converting Range ID to Range Object on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/3aa69f1a8e2a944c7df926879fa0f34e)
+- [Retrieving Data from Content-Type of 'text/event-stream' using Javascript and Google Apps Script](https://gist.github.com/tanaikech/2ba5f847ae6032d1611875d60cdf79b2)
 
 <a name="documents"></a>
 
