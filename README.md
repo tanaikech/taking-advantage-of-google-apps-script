@@ -55,6 +55,8 @@ Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for 
 
 # News
 
+- **December 9, 2021:** [Google Forms API now available in open beta](https://tanaikech.github.io/2021/12/09/google-forms-api-now-available-in-open-beta/)
+- **December 9, 2021:** [[Fixed] Google Apps Script Web App HTML form file-input fields not in blob compatible format](https://tanaikech.github.io/2021/12/09/fixed-google-apps-script-web-app-html-form-file-input-fields-not-in-blob-compatible-format/)
 - **October 16, 2021:** [Announcing the Google Forms API](https://tanaikech.github.io/2021/10/16/announcing-the-google-forms-api/)
 - **October 14, 2021:** [Google Cloud Innovators Champions](https://tanaikech.github.io/2021/10/14/google-cloud-innovators-champions/)
 - **April 6, 2021:** [A Bug of New IDE about Time Zone of Google Apps Script project was removed](https://tanaikech.github.io/2021/04/06/a-bug-of-new-ide-about-time-zone-of-google-apps-script-project-was-removed/)
