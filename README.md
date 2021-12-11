@@ -651,6 +651,7 @@ Javascript library
 
 - [Directly Submitting Answers to Google Form using Google Apps Script](https://gist.github.com/tanaikech/b4a31a51cbb0ef84c871e6fb96e1502e)
 - [Putting All Response Values from Google Form to Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/42ac2d72f62f2107b965f53239c2f398)
+- [Using Google Forms API with Google Apps Script](https://gist.github.com/tanaikech/bac38226e863a398f55b5c3d817d86ed)
 
 <a name="youtube"></a>
 
