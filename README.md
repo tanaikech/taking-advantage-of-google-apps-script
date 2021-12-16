@@ -587,6 +587,7 @@ Javascript library
 - [Letting Users Running Google Apps Script on Google Spreadsheet without both Authorizing Scopes and Showing Script](https://gist.github.com/tanaikech/82089f55e9e647bbe965a563ab1ce657)
 - [Converting Range ID to Range Object on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/3aa69f1a8e2a944c7df926879fa0f34e)
 - [Retrieving Data from Content-Type of 'text/event-stream' using Javascript and Google Apps Script](https://gist.github.com/tanaikech/2ba5f847ae6032d1611875d60cdf79b2)
+- [Pseudo OnEdit Trigger for Google Spreadsheet without Simple and Installable Triggers using Google Apps Script](https://gist.github.com/tanaikech/05d9922a947232dbda5143b6ac6dc71f)
 
 <a name="documents"></a>
 
