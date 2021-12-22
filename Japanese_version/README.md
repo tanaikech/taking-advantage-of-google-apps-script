@@ -56,22 +56,22 @@
 
 # ニュース
 
-- **2021 年 12 月 9 日：**[Google フォーム API がオープンベータ版で利用可能になりました](https://tanaikech.github.io/2021/12/09/google-forms-api-now-available-in-open -ベータ/)
-- **2021 年 12 月 9 日**[[修正済み] Google Apps Script Web App HTML フォームファイル-入力フィールドが blob 互換形式ではない](https://tanaikech.github.io/2021/12/09/fixed- google-apps-script-web-app-html-form-file-input-fields-not-in-blob-compatible-format /)
-- **2021 年 10 月 16 日：**[Google フォーム API の発表](https://tanaikech.github.io/2021/10/16/announcing-the-google-forms-api/)
-- **2021 年 10 月 14 日：**[Google Cloud Innovators Champions](https://tanaikech.github.io/2021/10/14/google-cloud-innovators-champions/)
-- **2021 年 4 月 6 日：**[Google Apps Script プロジェクトのタイムゾーンに関する新しい IDE のバグが削除されました](https://tanaikech.github.io/2021/04/06/a-bug-of- new-ide-about-time-zone-of-google-apps-script-project-was-removed /)
-- **2020 年 12 月 15 日：**[Google Workspace Developer Experts に会う](https://tanaikech.github.io/2020/12/15/meet-the-google-workspace-developer-experts/)
-- **2020 年 12 月 8 日：**[Google Apps Script 用の新しい IDE がついにリリースされました](https://tanaikech.github.io/2020/12/08/new-ide-for-google-apps-script -has-been-finally-released /)
-- **2020 年 7 月 30 日：**[ドライブ API で GoogleApps Script プロジェクトを再度作成できるようになりました](https://gist.github.com/tanaikech/36821c7d70f9ce376d043c3d682d404e)
-- **2020 年 7 月 10 日：**[ファイルの所有者の転送は、ドライブ API のバッチリクエストで実現できるようになりました](https://tanaikech.github.io/2020/07/10/transfer-of -owner-of-files-got-to-be-able-to-be-achived-with-batch-requests-of-drive-api /)
-- **2020 年 7 月 9 日：**[ファイルの仕様：ドライブ API のコピーが変更されました](https://tanaikech.github.io/2020/07/09/specification-of-files-copy-in-drive -api-was-changed /)
-- **2020 年 7 月 7 日：**[ファイルの所有者の転送は、ドライブ API のバッチリクエストでは使用できなくなりました](https://tanaikech.github.io/2020/07/07/transfer- of-owner-of-files-got-not-to-be-able-to-be-use-with-batch-requests-of-drive-api /)
-- **2020 年 6 月 15 日：**[ファイルの所有者の転送は、ドライブ API のバッチリクエストで実現できるようになりました](https://tanaikech.github.io/2020/06/15/transfer-of -owner-of-files-got-to-be-able-to-be-achived-with-batch-requests-of-drive-api /)
-- **2020 年 6 月 4 日：**[Google Apps Script のドライブサービスを使用した共有ドライブの管理](https://gist.github.com/tanaikech/ede1c9ea6eb6a27235df7d4cb16ef48d)
-- **2020 年 3 月 11 日：**[DriveAPI は GoogleApps Script プロジェクトを作成できなくなりました](https://gist.github.com/tanaikech/0609f2cd989c28d6bd49d211b70b453d)
-- **2020 年 2 月 7 日：**[V8 ランタイムは 2020 年 2 月 7 日に GoogleApps Script に追加されました](https://gist.github.com/tanaikech/8246f89540957b177f0e350f453ea2fb)
-- **2019 年 4 月 8 日：**[Google Apps Script プロジェクトの仕様は 2019 年 4 月 8 日に変更されました](https://gist.github.com/tanaikech/558a5b6da0d9533017b1abe5815989c3)
+- **2021 年 12 月 9 日：** [Google フォーム API がオープンベータ版で利用可能になりました](https://tanaikech.github.io/2021/12/09/google-forms-api-now-available-in-open-beta/)
+- **2021 年 12 月 9 日** [(修正済み) Google Apps Script Web App HTML フォームファイル-入力フィールドが blob 互換形式ではない](https://tanaikech.github.io/2021/12/09/fixed-google-apps-script-web-app-html-form-file-input-fields-not-in-blob-compatible-format/)
+- **2021 年 10 月 16 日：** [Google フォーム API の発表](https://tanaikech.github.io/2021/10/16/announcing-the-google-forms-api/)
+- **2021 年 10 月 14 日：** [Google Cloud Innovators Champions](https://tanaikech.github.io/2021/10/14/google-cloud-innovators-champions/)
+- **2021 年 4 月 6 日：** [Google Apps Script プロジェクトのタイムゾーンに関する新しい IDE のバグが削除されました](https://tanaikech.github.io/2021/04/06/a-bug-of-new-ide-about-time-zone-of-google-apps-script-project-was-removed/)
+- **2020 年 12 月 15 日：** [Google Workspace Developer Experts に会う](https://tanaikech.github.io/2020/12/15/meet-the-google-workspace-developer-experts/)
+- **2020 年 12 月 8 日：** [Google Apps Script 用の新しい IDE がついにリリースされました](https://tanaikech.github.io/2020/12/08/new-ide-for-google-apps-script-has-been-finally-released/)
+- **2020 年 7 月 30 日：** [ドライブ API で GoogleApps Script プロジェクトを再度作成できるようになりました](https://gist.github.com/tanaikech/36821c7d70f9ce376d043c3d682d404e)
+- **2020 年 7 月 10 日：** [ファイルの所有者の転送は、ドライブ API のバッチリクエストで実現できるようになりました](https://tanaikech.github.io/2020/07/10/transfer-of-owner-of-files-got-to-be-able-to-be-achived-with-batch-requests-of-drive-api/)
+- **2020 年 7 月 9 日：** [ファイルの仕様：ドライブ API のコピーが変更されました](https://tanaikech.github.io/2020/07/09/specification-of-files-copy-in-drive-api-was-changed/)
+- **2020 年 7 月 7 日：** [ファイルの所有者の転送は、ドライブ API のバッチリクエストでは使用できなくなりました](https://tanaikech.github.io/2020/07/07/transfer-of-owner-of-files-got-not-to-be-able-to-be-use-with-batch-requests-of-drive-api/)
+- **2020 年 6 月 15 日：** [ファイルの所有者の転送は、ドライブ API のバッチリクエストで実現できるようになりました](https://tanaikech.github.io/2020/06/15/transfer-of-owner-of-files-got-to-be-able-to-be-achived-with-batch-requests-of-drive-api/)
+- **2020 年 6 月 4 日：** [Google Apps Script のドライブサービスを使用した共有ドライブの管理](https://gist.github.com/tanaikech/ede1c9ea6eb6a27235df7d4cb16ef48d)
+- **2020 年 3 月 11 日：** [DriveAPI は GoogleApps Script プロジェクトを作成できなくなりました](https://gist.github.com/tanaikech/0609f2cd989c28d6bd49d211b70b453d)
+- **2020 年 2 月 7 日：** [V8 ランタイムは 2020 年 2 月 7 日に GoogleApps Script に追加されました](https://gist.github.com/tanaikech/8246f89540957b177f0e350f453ea2fb)
+- **2019 年 4 月 8 日：** [Google Apps Script プロジェクトの仕様は 2019 年 4 月 8 日に変更されました](https://gist.github.com/tanaikech/558a5b6da0d9533017b1abe5815989c3)
 
 <br>
 
@@ -95,7 +95,7 @@
 
 - [Cloud PlatformProject と GoogleApps Script Project のリンク](https://gist.github.com/tanaikech/e945c10917fac34a9d5d58cad768832c)：2019 年 4 月 8 日、Google Apps ScriptProject の仕様が変更されました。このレポートでは、Cloud PlatformProject を GAS プロジェクトにリンクするためのフローについて説明します。
 
-- [Google CloudPlatform プロジェクトを新しい IDE 用の GoogleApps Script プロジェクトにリンクする](https://github.com/tanaikech/Linking-Google-Cloud-Platform-Project-to-Google-Apps-Script-Project-for-New -IDE)：これは、Google Cloud PlatformProject を新しい IDE 用の GoogleApps ScriptProject にリンクするためのドキュメントです。また、Google Apps ScriptAPI と GooglePhotosAPI を使用したいくつかのサンプルスクリプトが紹介されています。
+- [Google CloudPlatform プロジェクトを新しい IDE 用の GoogleApps Script プロジェクトにリンクする](https://github.com/tanaikech/Linking-Google-Cloud-Platform-Project-to-Google-Apps-Script-Project-for-New-IDE)：これは、Google Cloud PlatformProject を新しい IDE 用の GoogleApps ScriptProject にリンクするためのドキュメントです。また、Google Apps ScriptAPI と GooglePhotosAPI を使用したいくつかのサンプルスクリプトが紹介されています。
 
 - [新しい IDE の Web アプリの URL を変更せずに Web アプリを再デプロイする](https://gist.github.com/tanaikech/ebf92d8f427d02d53989d6c3464a9c43)：2021 年 3 月 15 日、1 つのデプロイメントに対して 1 つのエンドポイントが作成されます。[参照](https://developers.google.com/apps-script/releases/#march_15_2021)これにより、「Web Apps」を再デプロイすると、エンドポイントが変更されます。デプロイメント ID が変更されたため。これが新仕様のようです。このレポートでは、新しい IDE の Web アプリの URL を変更せずに Web アプリを再デプロイする方法を紹介します。
 
@@ -118,8 +118,8 @@
 
 # Web アプリケーション
 
-- [Google Apps Script ライブラリの検索](https://sites.google.com/view/sea​​rch-gas-libraries)：これは[データベース](https：// github)から GoogleApps スクリプトライブラリを検索するためのアプリケーションです。 com / tanaikech / Google-Apps-Script-Library-Database)。
-- [GoogleAPI のフィールドビルダー](https://sites.google.com/view/fields-builder)：FieldsBuilderForGoogleAPIs は、GoogleAPI を使用するためのフィールド値を構築するための Web アプリケーションです。これは主に、GoogleAPI を使用するためのスクリプトを開発するために使用されます。[GitHub](https://github.com/tanaikech/FieldsBuilderForGoogleAPIs)
+- [Google Apps Script ライブラリの検索](https://sites.google.com/view/sea​​rch-gas-libraries)：これは[the database](https://github.com/tanaikech/Google-Apps-Script-Library-Database)から GoogleApps スクリプトライブラリを検索するためのアプリケーションです。
+- [Fields Builder For Google APIs](https://sites.google.com/view/fields-builder)：FieldsBuilderForGoogleAPIs は、GoogleAPI を使用するためのフィールド値を構築するための Web アプリケーションです。これは主に、GoogleAPI を使用するためのスクリプトを開発するために使用されます。[GitHub](https://github.com/tanaikech/FieldsBuilderForGoogleAPIs)
 
 <br>
 
@@ -267,10 +267,10 @@ Javascript ライブラリ
 
 > このレポートでは、DriveAPI を使用して特定のフォルダーに新しいファイルを作成するための処理についてレポートします。Drive API を使用して特定のフォルダに新しいファイルを作成すると、フォルダ ID の値を持つ `parents`のプロパティが、メソッド「Files：create」のリクエスト本文に含まれます。このプロセスについて、私はファイルが特定のフォルダに直接作成されると思っていました。しかし、次のプロセスで新しいファイルが作成されていることを確認できました。
 >
-> > 1。ルートフォルダに新しいファイルを作成します。
-> > 2。作成したファイルを特定のフォルダに移動します。
-> >
-> > これらのプロセスは 1 回の API 呼び出しで実行されます。本報告では、上記の過程を確認するための実験結果を紹介したいと思います。この場合、Drive APIv3 は GoogleAppsScript で使用されます。
+> 1。ルートフォルダに新しいファイルを作成します。
+> 2。作成したファイルを特定のフォルダに移動します。
+>
+> これらのプロセスは 1 回の API 呼び出しで実行されます。本報告では、上記の過程を確認するための実験結果を紹介したいと思います。この場合、Drive APIv3 は GoogleAppsScript で使用されます。
 
 ### [Stackoverflow の `google-apps-script`タグの重複した質問の統計分析](https://gist.github.com/tanaikech/fa8e7002678a377748ae35a33fa5b6eb)
 
@@ -280,13 +280,13 @@ Javascript ライブラリ
 
 > これは、Google AppsScript を使用して外部サーバーに配置された HTML によってファイルを Google ドライブに安全にアップロードするためのレポートです。
 
-> ユーザーに Google 側の外部サーバーに配置された HTML を使用して自分の Google ドライブにファイルをアップロードさせたい場合、ファイルサイズが 50 MB 未満の場合、アクセストークンを使用せずにこれを実現できます。[参照](https://tanaikech.github.io/2020/08/13/uploading-file-to-google-drive-from-external-html-without-authorization/)(HTML が内部に配置されている場合 Google 側のサーバーでは、[`google.script.run`](https://tanaikech.github.io/2020/02/18/uploading-file-to-google-drive-using-html-and -google-apps-script /)。)ただし、ファイルサイズが 50 MB を超える場合は、再開可能なアップロードでファイルをアップロードする必要があります。この場合、アクセストークンを使用する必要があります。この場合、ユーザーが自分の Google ドライブにアップロードする場合、アップロードでアクセストークンが使用されると、これがセキュリティの弱点と考えられます。このレポートでは、Google AppsScript を使用して外部サーバーに配置された HTML によってファイルを Google ドライブに安全にアップロードする方法を提案したいと思います。これをいくつかの方法の 1 つと考えてください。
+> ユーザーに Google 側の外部サーバーに配置された HTML を使用して自分の Google ドライブにファイルをアップロードさせたい場合、ファイルサイズが 50 MB 未満の場合、アクセストークンを使用せずにこれを実現できます。[参照](https://tanaikech.github.io/2020/08/13/uploading-file-to-google-drive-from-external-html-without-authorization/)(HTML が内部に配置されている場合 Google 側のサーバーでは、[`google.script.run`](https://tanaikech.github.io/2020/02/18/uploading-file-to-google-drive-using-html-and-google-apps-script/)。)ただし、ファイルサイズが 50 MB を超える場合は、再開可能なアップロードでファイルをアップロードする必要があります。この場合、アクセストークンを使用する必要があります。この場合、ユーザーが自分の Google ドライブにアップロードする場合、アップロードでアクセストークンが使用されると、これがセキュリティの弱点と考えられます。このレポートでは、Google Apps Script を使用して外部サーバーに配置された HTML によってファイルを Google ドライブに安全にアップロードする方法を提案したいと思います。これをいくつかの方法の 1 つと考えてください。
 
 ### [ドライブ API のファイルリストメソッドの検索クエリの仕様](https://gist.github.com/tanaikech/268baf07f92f3b3962c86c6ea75b786a)
 
-> このレポートでは、DriveAPI のファイルリストメソッドの検索クエリの現在の仕様について報告したいと思います。
+> このレポートでは、Drive API のファイルリストメソッドの検索クエリの現在の仕様について報告したいと思います。
 
-> 最近、DriveAPI のファイルリストメソッドの検索クエリの仕様が変更されている可能性があることに気付きました。Drive API を使用してアプリケーションを作成するには、検索クエリの仕様の変更を知ることが重要だと思いました。このレポートでは、検索クエリの現在の仕様を紹介します。
+> 最近、Drive API のファイルリストメソッドの検索クエリの仕様が変更されている可能性があることに気付きました。Drive API を使用してアプリケーションを作成するには、検索クエリの仕様の変更を知ることが重要だと思いました。このレポートでは、検索クエリの現在の仕様を紹介します。
 
 ### [フォームを使用した Google スプレッドシートへの同時書き込み](https://gist.github.com/tanaikech/c2f3fccabbf4906a18fdc38463982f31)
 
@@ -296,13 +296,13 @@ Javascript ライブラリ
 
 ### [Google スプレッドシートの大きな 10 進数と指数表記](https://gist.github.com/tanaikech/a1b32bdace0ebdd6c92a547b6f4dfbeb)
 
-> このレポートでは、Google スプレッドシートの大きな 10 進数と指数表記を調査しました。大きな 10 進数がスプレッドシートに入力されると、スプレッドシートは指数表記を使用して表示値を自動的に設定します。このレポートでは、Spreadsheet サービスと SheetsAPI によって値が取得されたときの結果が示されています。
+> このレポートでは、Google スプレッドシートの大きな 10 進数と指数表記を調査しました。大きな 10 進数がスプレッドシートに入力されると、スプレッドシートは指数表記を使用して表示値を自動的に設定します。このレポートでは、Spreadsheet サービスと Sheets API によって値が取得されたときの結果が示されています。
 
 ### [レポート：Google スプレッドシートに IMAGE 関数を使用して配置された画像](https://gist.github.com/tanaikech/10c55451caab9e291d5a571b157e8020)
 
-> これは、Google スプレッドシートに「= IMAGE(IMAGE_URL)」関数を使用して配置された画像に関するレポートです。
+> これは、Google スプレッドシートに「`=IMAGE(IMAGE_URL)`」関数を使用して配置された画像に関するレポートです。
 
-> スプレッドシートのセル「A1」に「= IMAGE(IMAGE_URL)」を付けると、そのセルに画像が表示されます。この場合、セル「A1」を「range.copyTo(range、{contentsOnly：true})」でコピーすると、数式が削除され、画像が表示されます。URL の画像を削除すると、それらの画像はどうなるのかと思いました。このレポートでは、そのような状況を調査しました。
+> スプレッドシートのセル「A1」に「`=IMAGE(IMAGE_URL)`」を付けると、そのセルに画像が表示されます。この場合、セル「A1」を「`range.copyTo(range、{contentsOnly：true})`」でコピーすると、数式が削除され、画像が表示されます。URL の画像を削除すると、それらの画像はどうなるのかと思いました。このレポートでは、そのような状況を調査しました。
 
 <br>
 
@@ -312,36 +312,39 @@ Javascript ライブラリ
 
 ### [Google Apps Script のイベントオブジェクト](https://gist.github.com/tanaikech/4892c97df7ac0504ffd715c2dd6cd546)
 
-> -`e.range.getA1Notation() `のプロセスコストは、`e.source.getActiveCell()。getA1Notation()`と`SpreadsheetApp.getActiveSheet()。getActiveCellのプロセスコストで20％と10％であることがわかりました。 ().getA1Notation()`、それぞれ。
+> - `e.range.getA1Notation()`のプロセスコストは、`e.source.getActiveCell().getA1Notation()` や`SpreadsheetApp.getActiveSheet().getActiveCell().getA1Notation()`のプロセスコストの 20％と 10％程度であることがわかりました。
 
 ### [V8 なしで Google Apps Script を使用した配列処理のループ](https://gist.github.com/tanaikech/848aeafaac1ec676900bb78e3ce220b6)
 
-> -配列から 5 の倍数を取得するためのサンプルスクリプトの場合、「map、filter」を使用したループが最適な方法です。 -各メソッドのコストの昇順は、「map、filter」、「Comprehension」、「forEach」、「for in」、「for loop」、「while」です。 -「forEach」、「Comprehension」、「map、filter」のコストは、「for in」、「for loop」、「while」のコストよりも低くなります。
-> -push()と new Array()のコストはほぼ同じです。 -配列を 1 次元配列から 2 次元配列に変更すると、「Comprehension」、「forEach」、「map、filter」のコストの増加率は、「for in」、「forloop」のコストの増加率よりもはるかに低くなります。 "と" while "。 -「for ループ」を使用する従来の方法については、このレポートの結果を使用して新しい方法を提案できます。 -「reduce」の場合、1 次元配列と 2 次元配列の間のプロセスコストはほぼ同じです。
+> - 配列から 5 の倍数を取得するためのサンプルスクリプトの場合、「map、filter」を使用したループが最適な方法です。各メソッドのコストの昇順は、「map、filter」、「Comprehension」、「forEach」、「for in」、「for loop」、「while」です。
+> - 「forEach」、「Comprehension」、「map、filter」のコストは、「for in」、「for loop」、「while」のコストよりも低くなります。
+> - push()と new Array()のコストはほぼ同じです。 -配列を 1 次元配列から 2 次元配列に変更すると、「Comprehension」、「forEach」、「map、filter」のコストの増加率は、「for in」、「forloop」のコストの増加率よりもはるかに低くなります。 "と" while "。
+> - 「for ループ」を使用する従来の方法については、このレポートの結果を使用して新しい方法を提案できます。
+> - 「reduce」の場合、1 次元配列と 2 次元配列の間のプロセスコストはほぼ同じです。
 
 ### [Google Apps Script 用の UrlFetch サービスの fetchAll メソッド](https://gist.github.com/tanaikech/c0f383034045ab63c19604139ecb0728)
 
-> -fetchAll メソッドが非同期処理によって機能することがわかりました。 -非同期処理で機能した後、戻り値はリクエストの順序で並べ替えられます。 -複数の URL からデータを取得する場合、 `UrlFetchApp.fetchAll()`のプロセスコストは、for ループを使用する `UrlFetchApp.fetch()`のプロセスコストよりもはるかに低いことがわかりました。
+> - fetchAll メソッドが非同期処理によって機能することがわかりました。 -非同期処理で機能した後、戻り値はリクエストの順序で並べ替えられます。 -複数の URL からデータを取得する場合、 `UrlFetchApp.fetchAll()`のプロセスコストは、for ループを使用する `UrlFetchApp.fetch()`のプロセスコストよりもはるかに低いことがわかりました。
 
 ### [Google Apps Script を使用して配列処理を検索](https://gist.github.com/tanaikech/eda9234822b5dec80549216a43c52652)
 
-> -indexOf()による検索のプロセスコストは、すべてのメソッドの中で最低でした。
-> -2 番目と最後の 1 つは、それぞれ for ループによる検索とハッシュによる検索でした。 -ハッシュによる検索については、オブジェクトからのハッシュによる検索のコストは非常に低いですが、ハッシュを検索するためのオブジェクトを作成するためのコストはすべての中で最も高かったです。これにより、ハッシュによる検索が最低ランクになりました。検索対象が既に作成されている場合は、ハッシュによる検索のコストが最も低くなります。
-> -indexOf を使用した検索は、線形検索およびハッシュを使用した検索から 99％以上のプロセスコストを削減できます。 -これらの結果から、indexOf()のスキャンは一般的な for ループとは異なる可能性があると考えられます。
+> - indexOf()による検索のプロセスコストは、すべてのメソッドの中で最低でした。
+> - 2 番目と最後の 1 つは、それぞれ for ループによる検索とハッシュによる検索でした。 -ハッシュによる検索については、オブジェクトからのハッシュによる検索のコストは非常に低いですが、ハッシュを検索するためのオブジェクトを作成するためのコストはすべての中で最も高かったです。これにより、ハッシュによる検索が最低ランクになりました。検索対象が既に作成されている場合は、ハッシュによる検索のコストが最も低くなります。
+> - indexOf を使用した検索は、線形検索およびハッシュを使用した検索から 99％以上のプロセスコストを削減できます。 -これらの結果から、indexOf()のスキャンは一般的な for ループとは異なる可能性があると考えられます。
 
 ### [Google Apps Script を使用した条件分岐](https://gist.github.com/tanaikech/cef47530a58f2d8692cdb1a9d257907b)
 
-> -「三項演算子」のコストは、すべての方法と条件の中で最も低いことがわかりました。 -単一の条件分岐の場合、2 番目は「If」でした。ただし、複数の条件分岐の場合、「スイッチ」は 2 番目の分岐でした。これは、「If」と「Switch」がそれぞれ単一および複数の条件付きブランチ(2 つ以上のブランチ)に適していることを示しています。 -複数の条件分岐の場合、「真」の可能性が高い条件を前面に出すことで、処理コストを削減できます。 -「論理演算子」は、単一および複数の条件分岐の最低ランクでした。「論理演算子」は、コストが高く、読みやすさが低いため、一般的な用途には適さないと考えられます。
+> - 「三項演算子」のコストは、すべての方法と条件の中で最も低いことがわかりました。 -単一の条件分岐の場合、2 番目は「If」でした。ただし、複数の条件分岐の場合、「スイッチ」は 2 番目の分岐でした。これは、「If」と「Switch」がそれぞれ単一および複数の条件付きブランチ(2 つ以上のブランチ)に適していることを示しています。 -複数の条件分岐の場合、「真」の可能性が高い条件を前面に出すことで、処理コストを削減できます。 -「論理演算子」は、単一および複数の条件分岐の最低ランクでした。「論理演算子」は、コストが高く、読みやすさが低いため、一般的な用途には適さないと考えられます。
 
 ### [Google Apps Script を使用した配列処理のループの減少](https://gist.github.com/tanaikech/fdd8462a46179efb156cfa0550695c6e)
 
-> -「逆配列を使用したフィルター」により、「for ループの減少」と比較してプロセスコストが 43％低くなります。 -「逆配列」は、作成されたサンプル配列の「Array.prototype.reverse()」を使用して取得されました。 -「for ループの減少」は「for ループの増加」とほぼ同じです。 -「reverse()」のコストは、「for ループ」と「フィルター」に対して十分に小さいです。
+> - 「逆配列を使用したフィルター」により、「for ループの減少」と比較してプロセスコストが 43％低くなります。 -「逆配列」は、作成されたサンプル配列の「Array.prototype.reverse()」を使用して取得されました。 -「for ループの減少」は「for ループの増加」とほぼ同じです。 -「reverse()」のコストは、「for ループ」と「フィルター」に対して十分に小さいです。
 
 ### [Google Apps Script を使用したスプレッドシートの読み取りと書き込み](https://gist.github.com/tanaikech/d102c9600ba12a162c667287d2f20fe4)
 
 > このレポートでは、スプレッドシートの読み取りと書き込みのプロセスコストを調査しました。この調査から、以下の結果が得られました。
 
-> -スプレッドシートから値を読み取るためのプロセスコスト
+> - スプレッドシートから値を読み取るためのプロセスコスト
 >
 > 1. Spreadsheet Service の getValues()と getSheetValues()の処理コストはほぼ同じです。
 > 1. SheetsAPI の values.get と values.batchGet のプロセスコストはほぼ同じです。
@@ -356,41 +359,44 @@ Javascript ライブラリ
 
 > このレポートでは、GAS を使用して CSV データをスプレッドシートにインポートするためのプロセスコストを調査しました。その結果、以下の結果が得られました。
 
-> -SheetsAPI の `pasteData`を使用する pattern4 が、すべての中で最も低コストであることがわかりました。
-> -CSV データをスプレッドシートにインポートするために pattern4 を使用すると、値の解析と書き込みの方法を使用する pattern1 と pattern2 からコストを 56％削減できます。
-> -CSV データをスプレッドシートにインポートするために pattern4 を使用すると、mimeType を CSV からスプレッドシートに変換するメソッドを使用する pattern3 からコストを 72％削減できます。
+> - SheetsAPI の `pasteData`を使用する pattern4 が、すべての中で最も低コストであることがわかりました。
+> - CSV データをスプレッドシートにインポートするために pattern4 を使用すると、値の解析と書き込みの方法を使用する pattern1 と pattern2 からコストを 56％削減できます。
+> - CSV データをスプレッドシートにインポートするために pattern4 を使用すると、mimeType を CSV からスプレッドシートに変換するメソッドを使用する pattern3 からコストを 72％削減できます。
 
 ### [ベンチマーク：V8 で Google Apps Script を使用した配列処理のループ](https://gist.github.com/tanaikech/3331e1e631d619abef8f32c4be14ba3a)
 
 > このレポートでは、GAS と V8 ランタイムを使用したアレイ処理の「ループ」のプロセスコストを調査しました。その結果、V8 を搭載した GAS の以下の重要な機能が見つかりました。
 
-> -配列から 5 の倍数を取得するためのサンプルスクリプトの場合、「for loop」、「while」、「forEach」、「map、filter」、「reduce」を使用したループコストはほぼ同じです。 -「forin」の場合、プロセスコストは「for loop」、「while」、「forEach」、「map、filter」、「reduce」よりも高くなります。しかし、それを V8 なしの条件と比較すると、V8 を使用した場合の「forin」のコストは、V8 を使用しない場合よりもはるかに低くなります。 -`push() `と`new Array()`のコストはほぼ同じです。 -ループプロセスに v8 ランタイムを使用する場合、V8 を使用しないスクリプトと比較すると、プロセスコストを大幅に削減できます。 -「forloop」、「for in」、「while」、「forEach」、「map、filter」、「reduce」のすべてのメソッドで、1D 配列の場合は 97.0％、2D 配列の場合は 98.4％のプロセスコストが発生する可能性があります。削減されます。
+> - 配列から 5 の倍数を取得するためのサンプルスクリプトの場合、「for loop」、「while」、「forEach」、「map、filter」、「reduce」を使用したループコストはほぼ同じです。 -「forin」の場合、プロセスコストは「for loop」、「while」、「forEach」、「map、filter」、「reduce」よりも高くなります。しかし、それを V8 なしの条件と比較すると、V8 を使用した場合の「forin」のコストは、V8 を使用しない場合よりもはるかに低くなります。 -`push() `と`new Array()`のコストはほぼ同じです。 -ループプロセスに v8 ランタイムを使用する場合、V8 を使用しないスクリプトと比較すると、プロセスコストを大幅に削減できます。 -「forloop」、「for in」、「while」、「forEach」、「map、filter」、「reduce」のすべてのメソッドで、1D 配列の場合は 97.0％、2D 配列の場合は 98.4％のプロセスコストが発生する可能性があります。削減されます。
 
 ### [ベンチマーク：Google Apps Script を使用した V8 でのプロセスコスト](https://gist.github.com/tanaikech/7198bc9019202f4080de8fd2e1b278fb)
 
 > このレポートでは、V8 での 7 つの状況のプロセスコストが測定されました。その結果、以下の結果が得られた。
 
-> 1。矢印機能がある場合とない場合のプロセスコストはほぼ同じでした。
-> 2。プロセスコスト「includes」と「indexOf」はほぼ同じでした。 3.破壊的割り当てを使用した場合、コストは破壊的割り当てを使用しない場合よりも約 15％高くなりました。
-> 4.Map オブジェクトがある場合とない場合のプロセスコストはほぼ同じでした。 -しかし、この場合、結果をオブジェクトとして取得するために、 `Object.fromEntries`のコストが追加されます。また、 `Object.fromEntries`を使用しない場合、Map オブジェクトを使用した場合のコストは Map オブジェクトを使用しない場合よりも約 20％低くなりました。 5. `Array.prototype.push`のプロセスコストは、` Array.prototype.push.apply`、Spread 構文、および `concat`の中で最も低かった。Spread 構文と `concat`のコストは、` Array.prototype.push`よりもそれぞれ約 3,040％と 36,666％高かった。 6. `reduce`のみのプロセスコストは、` reduce`、 `Object.assign`、および Spread 構文のみの中で最も低かった。`Object.assign`と Spread 構文のコストは、` reduce`のみのコストよりもそれぞれ約 265％と 448,063％高かった。 7.`Array.from`とマップのみの処理コストはほぼ同じでした。`Object.entries`のコストは` Array.from`のコストよりも約 131％高かった。
+> 1. 矢印機能がある場合とない場合のプロセスコストはほぼ同じでした。
+> 2. プロセスコスト「includes」と「indexOf」はほぼ同じでした。
+> 3. 破壊的割り当てを使用した場合、コストは破壊的割り当てを使用しない場合よりも約 15％高くなりました。
+> 4. Map オブジェクトがある場合とない場合のプロセスコストはほぼ同じでした。 -しかし、この場合、結果をオブジェクトとして取得するために、 `Object.fromEntries`のコストが追加されます。また、 `Object.fromEntries`を使用しない場合、Map オブジェクトを使用した場合のコストは Map オブジェクトを使用しない場合よりも約 20％低くなりました。
+> 5. `Array.prototype.push`のプロセスコストは、` Array.prototype.push.apply`、Spread 構文、および `concat`の中で最も低かった。Spread 構文と `concat`のコストは、` Array.prototype.push`よりもそれぞれ約 3,040％と 36,666％高かった。
+> 6. `reduce`のみのプロセスコストは、` reduce`、 `Object.assign`、および Spread 構文のみの中で最も低かった。`Object.assign`と Spread 構文のコストは、` reduce`のみのコストよりもそれぞれ約 265％と 448,063％高かった。
+> 7. `Array.from`とマップのみの処理コストはほぼ同じでした。`Object.entries`のコストは` Array.from`のコストよりも約 131％高かった。
 
 ### [ベンチマーク：Google Apps Script を使用してスプレッドシートで値を検索するためのプロセスコスト](https://gist.github.com/tanaikech/0a6f03970b471ffa286f1dac0b79359e)
 
 > ここでは、Google Apps Script(GAS)を使用してスプレッドシートで値を検索するためのプロセスコストを報告したいと思います。Google スプレッドシートで値を検索すると、次の 3 つのパターンが考えられます。[参照](https://stackoverflow.com/a/56663884)
 >
-> >
->
 > 1. getValues を使用してすべての値を取得し、取得した配列から値を検索します。
->    2.TextFinder を使用します。
->    3。クエリ言語を使用します。
->    > これらの場合、最も低いプロセスコストはクエリ言語を使用することであることがすでにわかっています。そして、配列から値を見つけることについて、私はすでに「[ベンチマーク：Google Apps Script を使用した配列処理の検索](https://gist.github.com/tanaikech/eda9234822b5dec80549216a43c52652)」として報告されています。しかし、TextFinder のプロセスコストを要約して、配列から値を見つけることは一度もありませんでした。そこで、このレポートでは、これを紹介したいと思います。その結果、値を検索して行番号と行値を取得するための TextFinder の重要性を理解することができました。
+> 2. TextFinder を使用します。
+> 3. クエリ言語を使用します。
+>
+> これらの場合、最も低いプロセスコストはクエリ言語を使用することであることがすでにわかっています。そして、配列から値を見つけることについて、私はすでに「[ベンチマーク：Google Apps Script を使用した配列処理の検索](https://gist.github.com/tanaikech/eda9234822b5dec80549216a43c52652)」として報告されています。しかし、TextFinder のプロセスコストを要約して、配列から値を見つけることは一度もありませんでした。そこで、このレポートでは、これを紹介したいと思います。その結果、値を検索して行番号と行値を取得するための TextFinder の重要性を理解することができました。
 
 ### [ベンチマーク：Google Apps Script を使用してスプレッドシートの配列から値を取得するためのプロセスコスト](https://gist.github.com/tanaikech/6333d797149ab9d69382d1b368f96e80)
 
 > ここでは、Google Apps Script(GAS)を使用してスプレッドシートの配列から値を取得するためのプロセスコストを報告します。Spreadsheet を GoogleApps Script で使用すると、次のような状況になります。
 
-> 1。列の複数の行から値を取得します。
-> 2。行の複数の列から値を取得します。
+> 1. 列の複数の行から値を取得します。
+> 2. 行の複数の列から値を取得します。
 
 > 上記の状況から値を取得する場合、2 次元配列の 1 次元配列から値を取得する必要があります。このレポートでは、上記の状況の 2 次元配列から値を取得するためのプロセスコストが測定されています。
 
@@ -404,15 +410,15 @@ Javascript ライブラリ
 
 > ここでは、Google Apps Script(GAS)を使用して、GoogleSpreadsheet の特定の列の最初の空のセルまたは最初の空でないセルを取得するためのプロセスコストを報告します。この場合、次の 2 つのパターンが考えられます。
 
-> 1。シートの**TOP **から検索して、特定の列の最初の空のセルを取得します
+> 1. シートの**TOP**から検索して、特定の列の最初の空のセルを取得します
 
-> 2。シートの**BOTTOM **から検索して、特定の列の最初の非空のセルを取得します
+> 2. シートの**BOTTOM**から検索して、特定の列の最初の非空のセルを取得します
 
 > 実際、GAS を使用してアプリケーションを作成する場合、特定の列の最初の空のセルまたは最初の空でないセルを取得する必要がある場合があります。ただし、その場合は、アプリケーションの他の部分と比較して、このプロセスコストを可能な限り低くしたいと思います。このような経験から、この処理コストを削減できれば、他のユーザーにも役立つと思いました。そこで、このレポートでは、この状況のプロセスコストを紹介したいと思います。そして、以下の結果が得られた。
 
-> -シートの**TOP **から検索して特定の列の最初の空のセルを取得するには、 `getNextDataCell`を使用するメソッドのプロセスコストがすべてのメソッドの中で最も低くなります。
+> - シートの**TOP **から検索して特定の列の最初の空のセルを取得するには、 `getNextDataCell`を使用するメソッドのプロセスコストがすべてのメソッドの中で最も低くなります。
 
-> -シートの**BOTTOM **から検索して、特定の列の最初の非空のセルを取得するには、 `TextFinder`を使用するメソッドのプロセスコストがすべてのメソッドの中で最も低くなります。
+> - シートの**BOTTOM **から検索して、特定の列の最初の非空のセルを取得するには、 `TextFinder`を使用するメソッドのプロセスコストがすべてのメソッドの中で最も低くなります。
 
 ### [ベンチマーク：フォームを使用した Google スプレッドシートへの同時書き込み](https://gist.github.com/tanaikech/c2f3fccabbf4906a18fdc38463982f31)
 
@@ -476,7 +482,7 @@ Javascript ライブラリ
 - [認証なしで外部 HTML から Google ドライブにファイルをアップロードする](https://gist.github.com/tanaikech/d3e62002e522f9e3f2b35bc56c64b2c9)
 - [Google Apps Script を使用して HTML フォームから送信された値を使用する](https://gist.github.com/tanaikech/58d96c023468fc1922d67764251b25e0)
 - [Google Apps Script を使用して 'is：unorganized owner：me'でファイルを検索する](https://gist.github.com/tanaikech/ec6aa9f2967d2f837df7c87276a0c168)
-- [Google AppsScript を使用した外部サーバーでの HTML による Google ドライブの安全なアップロード](https://github.com/tanaikech/Safe-Uploading-for-Google-Drive-by-HTML-in-External-Server-using -Google-Apps-Script)
+- [Google AppsScript を使用した外部サーバーでの HTML による Google ドライブの安全なアップロード](https://github.com/tanaikech/Safe-Uploading-for-Google-Drive-by-HTML-in-External-Server-using-Google-Apps-Script)
 
 <a name="projects"> </a>
 
@@ -619,7 +625,7 @@ Javascript ライブラリ
 
 - [Google カレンダーからのイベント通知による GoogleApps Script の実行](https://gist.github.com/tanaikech/fbbfaa8f2a8a770424974aa16b9b6f3b)
 - [Google Apps Script を使用して Google カレンダーのイベント URL からイベント ID を取得する](https://gist.github.com/tanaikech/b366be5995be04f689c3d80b18363f5e)
-- [Google Apps Script でバッチリクエストを使用して多数の Google カレンダーイベントを管理する](https://github.com/tanaikech/Managing-A-Lot-Of-Google-Calendar-Events-using-Batch-Requests-with- Google-Apps-Script)
+- [Google Apps Script でバッチリクエストを使用して多数の Google カレンダーイベントを管理する](https://github.com/tanaikech/Managing-A-Lot-Of-Google-Calendar-Events-using-Batch-Requests-with-Google-Apps-Script)
 - [さまざまな言語を使用して GoogleMeet で新しいイベントを作成するためのサンプルスクリプト Google カレンダーへのリンク](https://gist.github.com/tanaikech/94791d48823e9659aa376cf7f0161d9b)
 
 <a name="form"> </a>
@@ -782,7 +788,7 @@ Javascript ライブラリ
 
 #### Curl
 
-- [ドライブ API を使用した curl のファイル変換によるファイルのアップロードとダウンロード](https://tanaikech.github.io/2017/02/08/file-upload-and-download-with-file-convert-for-curl- using-drive-api /)
+- [ドライブ API を使用した curl のファイル変換によるファイルのアップロードとダウンロード](https://tanaikech.github.io/2017/02/08/file-upload-and-download-with-file-convert-for-curl-using-drive-api/)
 - [Curl を使用して Google ドライブに共有ファイルをダウンロードする](https://gist.github.com/tanaikech/f0f2d122e05bf5f971611258c22c110f)
 - [ドライブ API を使用して再開可能なアップロードでファイルを更新する](https://gist.github.com/tanaikech/bc33a83ac648911d00b43c59a24268fc)
 
