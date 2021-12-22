@@ -1,0 +1,828 @@
+# Google Apps Scriptを活用する(Tanaikeリスト)
+
+<a name="top"> </a>
+
+ここでは、私の[Blog](https://tanaikech.github.io/)、[Gists](https://gist.github.com/tanaikech)や[GitHub](https://github.com/tanaikech)で公開しているGoogle Apps Scriptを利用するためのCLIツール、ライブラリ、アドオン、レポート、ベンチマーク、サンプルスクリプトなどを紹介します。
+
+<br>
+
+# 索引
+
+-[ニュース](#news)
+-[Google Apps Scriptのトレンド](#trend)
+-[設定](#settings)
+-[GAS用のCLIツール](#clitool)
+-[Webアプリケーション](#webapps)
+-[GASライブラリ](#gaslibraries)
+-[GASライブラリデータベース](#gaslibrarydatabase)
+-[ライブラリに移動](#golibraries)
+-[Node.jsモジュール](#nodemodules)
+-[Pythonライブラリ](#pythonlibrary)
+-[Javascriptライブラリ](#javascriptlibrary)
+-[アドオン](#addons)
+-[レポート](#reports)
+-[ベンチマーク](#benchmarks)
+-[コミュニティ](#communities)
+-[サンプルスクリプト](#samplescripts)
+  -[Googleドライブ内のファイル](#filesingoogledrive)
+  -[プロジェクト](#projects)
+  -[スプレッドシート](#spreadsheets)
+  -[ドキュメント](#documents)
+  -[スライド](#slides)
+  -[Gmail](#gmail)
+  -[カレンダー](#calendar)
+  -[フォーム](#form)
+  -[YouTube](#youtube)
+  -[チャート](#chart)
+  -[分析](#analytics)
+  -[Slack](#slack)
+  -[仮想通貨](#virtualcurrency)
+  -[Stackoverflow](#stackoverflow)
+  -[Netatmo](#netatmo)
+  -[Figma](#figma)
+  -[Microsoft](#microsoft)
+  -[その他](#etc)
+  -[Node.js](#nodejs)
+  -[Golang](#golang)
+  -[Python](#python)
+  -[カール](#curl)
+  -[Javascript](#javascript)
+  -[PHP](#php)
+
+<br>
+<br>
+
+<a name="news"> </a>
+
+# ニュース
+
+-** 2021年12月9日：** [GoogleフォームAPIがオープンベータ版で利用可能になりました](https://tanaikech.github.io/2021/12/09/google-forms-api-now-available-in-open -ベータ/)
+-** 2021年12月9日** [[修正済み] Google Apps Script Web App HTMLフォームファイル-入力フィールドがblob互換形式ではない](https://tanaikech.github.io/2021/12/09/fixed- google-apps-script-web-app-html-form-file-input-fields-not-in-blob-compatible-format /)
+-** 2021年10月16日：** [GoogleフォームAPIの発表](https://tanaikech.github.io/2021/10/16/announcing-the-google-forms-api/)
+-** 2021年10月14日：** [Google Cloud Innovators Champions](https://tanaikech.github.io/2021/10/14/google-cloud-innovators-champions/)
+-** 2021年4月6日：** [Google Apps Scriptプロジェクトのタイムゾーンに関する新しいIDEのバグが削除されました](https://tanaikech.github.io/2021/04/06/a-bug-of- new-ide-about-time-zone-of-google-apps-script-project-was-removed /)
+-** 2020年12月15日：** [Google Workspace Developer Expertsに会う](https://tanaikech.github.io/2020/12/15/meet-the-google-workspace-developer-experts/)
+-** 2020年12月8日：** [Google Apps Script用の新しいIDEがついにリリースされました](https://tanaikech.github.io/2020/12/08/new-ide-for-google-apps-script -has-been-finally-released /)
+-** 2020年7月30日：** [ドライブAPIでGoogleApps Scriptプロジェクトを再度作成できるようになりました](https://gist.github.com/tanaikech/36821c7d70f9ce376d043c3d682d404e)
+-** 2020年7月10日：** [ファイルの所有者の転送は、ドライブAPIのバッチリクエストで実現できるようになりました](https://tanaikech.github.io/2020/07/10/transfer-of -owner-of-files-got-to-be-able-to-be-achived-with-batch-requests-of-drive-api /)
+-** 2020年7月9日：** [ファイルの仕様：ドライブAPIのコピーが変更されました](https://tanaikech.github.io/2020/07/09/specification-of-files-copy-in-drive -api-was-changed /)
+-** 2020年7月7日：** [ファイルの所有者の転送は、ドライブAPIのバッチリクエストでは使用できなくなりました](https://tanaikech.github.io/2020/07/07/transfer- of-owner-of-files-got-not-to-be-able-to-be-use-with-batch-requests-of-drive-api /)
+-** 2020年6月15日：** [ファイルの所有者の転送は、ドライブAPIのバッチリクエストで実現できるようになりました](https://tanaikech.github.io/2020/06/15/transfer-of -owner-of-files-got-to-be-able-to-be-achived-with-batch-requests-of-drive-api /)
+-** 2020年6月4日：** [Google Apps Scriptのドライブサービスを使用した共有ドライブの管理](https://gist.github.com/tanaikech/ede1c9ea6eb6a27235df7d4cb16ef48d)
+-** 2020年3月11日：** [DriveAPIはGoogleApps Scriptプロジェクトを作成できなくなりました](https://gist.github.com/tanaikech/0609f2cd989c28d6bd49d211b70b453d)
+-** 2020年2月7日：** [V8ランタイムは2020年2月7日にGoogleApps Scriptに追加されました](https://gist.github.com/tanaikech/8246f89540957b177f0e350f453ea2fb)
+-** 2019年4月8日：** [Google Apps Scriptプロジェクトの仕様は2019年4月8日に変更されました](https://gist.github.com/tanaikech/558a5b6da0d9533017b1abe5815989c3)
+
+<br>
+
+<a name="trend"> </a>
+
+# Google AppsScriptのトレンド
+
+> Stackoverflowでは、多くの人が毎日質問と質問への回答を投稿しています。Stackoverflowにはさまざまなタグがあります。各タグで多くの議論が行われます。彼らの議論は重要な情報をもたらし、多くの人々にとって非常に役立ちます。タグの1つとして、「google-apps-script」があります。私は時々そのタグで質問で話し合います。ディスカッションを見ると、タグの原点である「Google Apps Script」が更新されているため、時間の経過とともにディスカッションが変化し、進行していることがわかります。このレポートでは、この変更を「google-apps-script」のタグのトレンドと考えています。この傾向には、「google-apps-script」のタグに追加される質問、質問者、回答者、タグの数が含まれます。「google-apps-script」のタグのトレンド Google AppsScriptの進歩とGoogleAppsScriptのさまざまなアプリケーションに深く関係しています。このレポートでは、いくつかのアプローチの1つとして、「google-apps-script」のタグが付いたすべての質問を統計的に分析することにより、Google AppsScriptの傾向を調査しました。その結果、「google-apps-script」のタグを付けてすべての質問を調査したところ、このメインタグに追加されたタグが「google-apps-script」のタグの傾向に強く影響していることがわかりました。また、「google-apps-script」のタグに追加されたタグを調査することで、将来のトレンドを推定できる可能性が示されました。Google Apps Scriptの傾向は、「google-apps-script」のタグが付いたすべての質問を統計的に分析することによって調査されました。その結果、「google-apps-script」のタグを付けてすべての質問を調査したところ、このメインタグに追加されたタグが「google-apps-script」のタグの傾向に強く影響していることがわかりました。また、「google-apps-script」のタグに追加されたタグを調査することで、将来のトレンドを推定できる可能性が示されました。Google Apps Scriptの傾向は、「google-apps-script」のタグが付いたすべての質問を統計的に分析することによって調査されました。その結果、「google-apps-script」のタグを付けてすべての質問を調査したところ、このメインタグに追加されたタグが「google-apps-script」のタグの傾向に強く影響していることがわかりました。また、「google-apps-script」のタグに追加されたタグを調査することで、将来のトレンドを推定できる可能性が示されました。
+
+-[Stackoverflow 2019でのgoogle-apps-scriptタグの傾向](https://gist.github.com/tanaikech/4e4f1ca20b8dbce08f87289db415df7d)
+
+-[Stackoverflow 2020でのgoogle-apps-scriptタグの傾向](https://gist.github.com/tanaikech/fd7dbc6d630fd0550c32159635cecc96)
+
+-[Stackoverflow 2021でのgoogle-apps-scriptタグの傾向](https://gist.github.com/tanaikech/18519c3177e284638dce9113ec7ab5b1)
+
+<br>
+
+<a name="settings"> </a>
+
+# 設定
+
+-[Cloud PlatformProjectとGoogleApps Script Projectのリンク](https://gist.github.com/tanaikech/e945c10917fac34a9d5d58cad768832c)：2019年4月8日、Google Apps ScriptProjectの仕様が変更されました。このレポートでは、Cloud PlatformProjectをGASプロジェクトにリンクするためのフローについて説明します。
+
+-[Google CloudPlatformプロジェクトを新しいIDE用のGoogleApps Scriptプロジェクトにリンクする](https://github.com/tanaikech/Linking-Google-Cloud-Platform-Project-to-Google-Apps-Script-Project-for-New -IDE)：これは、Google Cloud PlatformProjectを新しいIDE用のGoogleApps ScriptProjectにリンクするためのドキュメントです。また、Google Apps ScriptAPIとGooglePhotosAPIを使用したいくつかのサンプルスクリプトが紹介されています。
+
+-[新しいIDEのWebアプリのURLを変更せずにWebアプリを再デプロイする](https://gist.github.com/tanaikech/ebf92d8f427d02d53989d6c3464a9c43)：2021年3月15日、1つのデプロイメントに対して1つのエンドポイントが作成されます。[参照](https://developers.google.com/apps-script/releases/#march_15_2021)これにより、「Web Apps」を再デプロイすると、エンドポイントが変更されます。デプロイメントIDが変更されたため。これが新仕様のようです。このレポートでは、新しいIDEのWebアプリのURLを変更せずにWebアプリを再デプロイする方法を紹介します。
+
+<br>
+
+<a name="clitool"> </a>
+
+# GAS用のCLIツール
+
+-[ggsrun](https://github.com/tanaikech/ggsrun)：ローカルPCの独自の端末でGoogle Apps Script(GAS)を実行します。
+-[gislack](https://github.com/tanaikech/gislack)：ファイルをGistとSlackの両方に送信します。
+-[goris](https://github.com/tanaikech/goris)：Google逆画像検索(goris)で画像を検索します。
+-[gogauth](https://github.com/tanaikech/gogauth)：GoogleでAPIを使用するためのアクセストークンを簡単に取得できます。
+-[gorearrange](https://github.com/tanaikech/gorearrange)：端末上のテキストデータをインタラクティブに再配置します。
+-[goodls](https://github.com/tanaikech/goodls)：Googleドライブから共有ファイルをダウンロードします。
+
+<br>
+
+<a name="webapps"> </a>
+
+# Webアプリケーション
+
+-[Google Apps Scriptライブラリの検索](https://sites.google.com/view/sea​​rch-gas-libraries)：これは[データベース](https：// github)からGoogleAppsスクリプトライブラリを検索するためのアプリケーションです。 com / tanaikech / Google-Apps-Script-Library-Database)。
+-[GoogleAPIのフィールドビルダー](https://sites.google.com/view/fields-builder)：FieldsBuilderForGoogleAPIsは、GoogleAPIを使用するためのフィールド値を構築するためのWebアプリケーションです。これは主に、GoogleAPIを使用するためのスクリプトを開発するために使用されます。[GitHub](https://github.com/tanaikech/FieldsBuilderForGoogleAPIs)
+
+<br>
+
+<a name="gaslibraries"> </a>
+
+# GASライブラリ
+
+GASライブラリは、[Google Apps Scriptライブラリの検索](https://sites.google.com/view/sea​​rch-gas-libraries)で検索できます。
+
+-[BatchRequest](https://github.com/tanaikech/BatchRequest)：これはGoogle Apps Script(GAS)を使用してバッチリクエストを実行するためのライブラリです。
+-[ConvertNFDtoNFC](https://github.com/tanaikech/ConvertNFDtoNFC)：これは、Google Apps Scriptを使用して文字列をNFD(正規化フォーム分解)からNFC(正規化フォーム合成)に変換するためのスクリプトです。
+-[FilesApp](https://github.com/tanaikech/FilesApp)：FilesAppは、Google Apps Script(GAS)を使用してGoogleドライブのファイルとフォルダのリストを取得するためのGASライブラリです。また、これにより、Googleドライブ内のすべてのファイルとフォルダからツリーを作成できます。
+-[ImgApp](https://github.com/tanaikech/ImgApp)：これはGoogle AppsScript用の画像ツールのライブラリです。
+-[ManifestsApp](https://github.com/tanaikech/ManifestsApp)：これはGoogle AppsScriptsのマニフェストライブラリです。
+-[ProjectApp](https://github.com/tanaikech/ProjectApp)：これはGoogle Apps Script(GAS)用のプロジェクトライブラリです。
+-[ProjectApp2](https://github.com/tanaikech/ProjectApp2)：これはGoogle Apps Script(GAS)用のGASプロジェクトライブラリです。このライブラリは、スタンドアロンスクリプトタイプとコンテナバインドスクリプトタイプの両方のプロジェクトに使用できます。
+-[OnedriveApp](https://github.com/tanaikech/OnedriveApp)：これはMicrosoftOneDriveを使用するためのGoogleAppsScriptのライブラリです。
+-[Resumable_Upload_For_WebApps](https://github.com/tanaikech/Resumable_Upload_For_WebApps)：これは、Google Apps Script(GAS)を使用してWeb Appsで大きなサイズ(> 50 MB)のファイルをアップロードするためのサンプルスクリプトです。再開可能なアップロード方法は、ファイルのアップロードに使用されます。このスクリプトは、javascriptのgapiを使用してスクリプトに適用することもできます。
+-[RunAll](https://github.com/tanaikech/RunAll)：これは、ネイティブのGoogle Apps Script(GAS)のみを使用して並行処理を実行するためのライブラリです。
+-[SOUWA_GAS](https://github.com/tanaikech/SOUWA_GAS)：配列内の文字列要素を高速で合計するためのGASライブラリ
+-[ZipFolder](https://github.com/tanaikech/ZipFolder)：これはGoogle AppsScriptsを使用してフォルダーを圧縮するためのライブラリです。
+-[RangeListApp](https://github.com/tanaikech/RangeListApp)：RangeListAppは、Google Apps Script(GAS)を使用してスプレッドシートの値をa1Notationの範囲リストで取得、配置、置換するためのGASライブラリです。
+-[DownloadLargeFilesByUrl](https://github.com/tanaikech/DownloadLargeFilesByUrl)：DownloadLargeFilesByUrlは、Google Apps Script(GAS)を使用してURLからGoogleドライブに大きなファイルをダウンロードするためのGASライブラリです。
+-[ArrangeStackingOrder](https://github.com/tanaikech/ArrangeStackingOrder)：ArrangeStackingOrderは、Google Apps Script(GAS)を使用してGoogleスライド上のページ要素のスタック順序を調整するためのGASライブラリです。
+-[ProcessApp](https://github.com/tanaikech/ProcessApp)：これはGoogle AppsScriptのプロセスと情報を取得するためのライブラリです。たとえば、メソッドの1つは、所有者のアカウントで時間駆動型トリガーによって実行されたすべての関数の合計実行時間を取得します。
+-[GistChecker](https://github.com/tanaikech/GistChecker)：これは、Google Apps Scriptを使用して、自分のGistsのコメント、スター、フォークの数の変更をメールで通知するためのGASライブラリです。
+-[FetchApp](https://github.com/tanaikech/FetchApp)：これは、Google AppsScriptを使用してmultipart / form-dataのタイプを作成および要求するためのGASライブラリです。このライブラリは、Google AppsScriptのクラスUelFetchAppを拡張します。
+-[GetEditType](https://github.com/tanaikech/GetEditType)：GetEditTypeは、Google Apps Script(GAS)を使用してスプレッドシートのOnEditイベントトリガーの編集タイプを取得するためのGASライブラリです。
+-[UnzipGs](https://github.com/tanaikech/UnzipGs)：これは、Google AppsScriptを使用してパスワードで保護されたZipファイルを解凍するためのGASライブラリです。
+-[GmailToList](https://github.com/tanaikech/GmailToList)：これは、Google Apps Script(GAS)を使用してGmailのすべてのメッセージをリストとしてエクスポートするためのライブラリです。
+-[EncodeApp](https://github.com/tanaikech/EncodeApp)：EncodeAppは、エンコードセット(charset)を取得し、Google Apps Script(GAS)を使用して特定のエンコードセットでURLエンコードを行うためのGASライブラリです。
+-[DateFinder](https://github.com/tanaikech/DateFinder)：DateFinderは、スプレッドシートのシートのセル範囲から日付オブジェクトを検索し、GoogleAppsを使用して検索範囲をRangeListオブジェクトとして取得するためのGASライブラリです。スクリプト(GAS)。
+-[RichTextApp](https://github.com/tanaikech/RichTextApp)：これは、テキストスタイルのリッチテキストをGoogleDocumentからGoogleSpreadsheetに、またはGoogleSpreadsheetからGoogleApps Scriptを使用してGoogleDocumentにコピーするためのGASライブラリです(ガス)。また、セル内のリッチテキストをHTML形式に変換することもできます。
+-[GPhotoApp](https://github.com/tanaikech/GPhotoApp)：これは、Google Apps Script(GAS)を使用してGoogle PhotoAPIを使用してアルバムとメディアアイテムを取得および作成するためのGASライブラリです。
+-[CopyFolder](https://github.com/tanaikech/CopyFolder)：これはGoogleドライブ上のフォルダをコピーするためのGoogle AppsScriptライブラリです。
+-[OwnershipTransfer](https://github.com/tanaikech/OwnershipTransfer)：これは、ドライブAPIを使用してファイルやサブフォルダーを含む特定のフォルダーの所有権の譲渡を実現するためのGoogle AppsScriptライブラリです。
+-[GASProjectApp](https://github.com/tanaikech/GASProjectApp)：これは、ドライブAPIを使用してスタンドアロンタイプのGoogle Apps Scriptプロジェクトを作成、更新、エクスポートするためのGoogle AppsScriptライブラリです。この場合、Apps ScriptAPIは使用されません。
+-[DocsServiceApp](https://github.com/tanaikech/DocsServiceApp)：これは、ドキュメントサービス、ドキュメントAPI、スプレッドシートサービス、スプレッドシートAPI、スライドサービス、スライドAPIをサポートするためのGoogle AppsScriptライブラリです。このライブラリの目的は、サービスが達成できないプロセスを補うことです。
+
+<br>
+
+<a name="gaslibrarydatabase"> </a>
+
+# GASライブラリデータベース
+
+-[Google Apps Script Libraryデータベース](https://github.com/tanaikech/Google-Apps-Script-Library-Database)：これはGoogleAppsスクリプトライブラリデータベース用です。
+
+<br>
+
+<a name="golibraries"> </a>
+
+# Go ライブラリ
+
+-[go-getfilelist](https://github.com/tanaikech/go-getfilelist)：これは、Googleドライブの特定のフォルダーからフォルダーツリーを含むファイルリストを取得するためのGolangライブラリです。
+-[go-gettokenbyserviceaccount](https://github.com/tanaikech/go-gettokenbyserviceaccount)：これは、GoogleのOAuth2パッケージを使用せずにGoogleのサービスアカウントからアクセストークンを取得するためのGolangライブラリです。
+-[go-gdoctableapp](https://github.com/tanaikech/go-gdoctableapp)：これは、Google DocsAPIを使用してGoogleドキュメントのテーブルを管理するためのGolangライブラリです。
+
+<br>
+
+<a name="nodemodules"> </a>
+Node.jsモジュール
+=====
+
+-[node-getfilelist](https://github.com/tanaikech/node-getfilelist)：これは、Googleドライブの特定のフォルダーからフォルダーツリーを含むファイルリストを取得するためのNode.jsモジュールです。
+-[node-gdoctableapp](https://github.com/tanaikech/node-gdoctableapp)：これは、Google DocsAPIを使用してGoogleドキュメントのテーブルを管理するNode.jsモジュールです。
+
+<br>
+
+<a name="pythonlibrary"> </a>
+Pythonライブラリ
+=====
+
+-[getfilelistpy](https://github.com/tanaikech/getfilelistpy)：これは、Googleドライブの特定のフォルダーからフォルダーツリーを含むファイルリストを取得するためのPythonライブラリです。
+-[gdoctableapppy](https://github.com/tanaikech/gdoctableapppy)：これは、Google DocsAPIを使用してGoogleドキュメントのテーブルを管理するためのPythonライブラリです。
+
+<br>
+
+<a name="javascriptlibrary"> </a>
+Javascriptライブラリ
+=====
+
+-[GetFileList_js](https://github.com/tanaikech/GetFileList_js)：これは、Googleドライブの特定のフォルダー(パブリック共有フォルダーと独自のフォルダー)からフォルダーツリーを含むファイルリストを取得するためのJavascriptライブラリです。
+-[syncGoogleScriptRun](https://github.com/tanaikech/syncGoogleScriptRun)：これは同期プロセスで「google.script.run」を使用するためのJavascriptライブラリです。
+-[ResumableUploadForGoogleDrive_js](https://github.com/tanaikech/ResumableUploadForGoogleDrive_js)：これは、Googleドライブの再開可能なアップロードを実現するためのJavascriptライブラリです。
+-[BatchRequest_js](https://github.com/tanaikech/BatchRequest_js)：これは、Javascriptを使用してGoogleAPIのバッチリクエストを実行するためのライブラリです。
+-[HtmlFormObjectParserForGoogleAppsScript_js](https://github.com/tanaikech/HtmlFormObjectParserForGoogleAppsScript_js)：これは、 `google.script.run`を使用してHTMLフォームオブジェクトをGoogleAppsScriptに送信するためのJavascriptライブラリです。
+-[GetAccessTokenFromServiceAccount_js](https://github.com/tanaikech/GetAccessTokenFromServiceAccount_js)：これは、Googleサービスアカウントからアクセストークンを取得するためのJavascriptライブラリです。
+
+<br>
+
+<a name="addons"> </a>
+
+# アドオン
+
+-[RearrangeScript](https://chrome.google.com/webstore/detail/rearrangescripts/ndaicidjkbcpajgejcclgfdcncpoekml)：スクリプトエディターで表示できるプロジェクトでGoogle Apps Scripts(GAS)を再配置します。[GitHub](https://github.com/tanaikech/RearrangeScripts)
+-[ShapeApp](https://chrome.google.com/webstore/detail/shapeapp/nmbimbgfafgmkhioolneofjchigbpkhf)：Googleスライドで図形を操作します。パラメータを入力して図形を作成・更新したり、図形を配置したりできます。これは、Google Apps Scripts(GAS)で構成されています。[GitHub](https://github.com/tanaikech/ShapeApp)
+
+<br>
+
+<a name="reports"> </a>
+
+# レポート
+
+### [配列の合計のための改善されたアルゴリズム](https://tanaikech.github.io/2016/10/13/improved-algorithms-for-summation-of-array-elements/)
+
+>配列要素を合計するための効率的なアルゴリズムを検討しました。配列内のすべての要素は文字列です。これらの要素をスクリプトを使用して合計する場合、標準的な方法は、各要素を順番に追加することです。スクリプトを最適化せずに実行すると、合計プロセス中のアクティブなデータの合計量が配列要素の数の2乗に比例するため、プロセスは徐々に遅くなります。これは、高いプロセスコストに直接つながります。このような現象は、特にGoogle Apps Script(GAS)で発生します。このレポートでは、ピラミッド法の新しいアルゴリズムを使用したこの問題の解決について説明しています。ピラミッド法では、アクティブなデータの総量が配列要素の数の線形に比例して増加します。これで、処理時間は、標準的な方法を使用するプロセスよりもはるかに短くなります。ピラミッド法は、GASの標準法と比較して99.7％のプロセスコスト削減を達成しました。身近な日常のシーンに新たな発見が隠されていることに改めて気づきました。
+
+### [GASライブラリによるマニフェストの活用](https://gist.github.com/tanaikech/23ddf599a4155b66f1029978bba8153b)
+
+>最近のGoogleアップデート(2017年10月24日のGoogleアップデート)によって、GAS開発者にさまざまな新しい風が吹きました。新しい風の一つとして「マニフェスト」があります。「マニフェスト」を使用すると、JSONを使用してプロジェクトを管理できます。特に、OAuth2プロセスを使用する必要がある特別なスコープは、マニフェストに設定するだけで使用できます。これが最大の変更だと思います。ただし、マニフェストを使用してスコープをプロジェクトに追加する場合、プロジェクトを使用するユーザーは、追加されたスコープのみを使用できます。つまり、ユーザーがプロジェクトでスクリプトを作成するときに、追加する必要のあるスコープがある場合、そのようなスコープを自動的に追加することはできません。そのため、「権限が不十分です」というエラーが発生します。このレポートでは、この問題を回避するための回避策を紹介します。
+
+### [Googleスライドの形状の指定された値と取得された値の違い](https://gist.github.com/tanaikech/953e630855e65de55d8e5bd448ad764f)
+
+>これは、Googleスライドの図形の特定の値と取得された値の違いを説明するためのドキュメントです。
+
+### [Google Apps ScriptでWebアプリを活用する](https://github.com/tanaikech/taking-advantage-of-Web-Apps-with-google-apps-script)
+
+> Google Apps Script(GAS)を使用するアプリケーションの1つとしてWebAppsがあります。私は時々このWebアプリを使用します。しかし、私はWebアプリの仕様に関する情報を少ししか持っていません。そこで、Webアプリをさらに活用するために、これについて調査して要約しました。このレポートの目的は、GASでWebアプリを使用してさまざまなアプリケーションを作成するための基本情報の1つになることです。
+
+### [Google Apps Scriptを使用してスプレッドシートに挿入する画像の制限](https://gist.github.com/tanaikech/825f1ebfe7822780316d7c15f89dea11)
+
+>ここでは、Google Apps Script(GAS)を使用してスプレッドシートに挿入するための画像の制限について紹介します。GASを使用してスプレッドシートに画像を挿入する場合、通常、この状況ではクラスSheetのinsertImage()が使用されます。このとき、エラーが発生することがあります。これは、スプレッドシートへの画像の挿入に制限があることを示しています。そこで、制限を調べました。その結果、制限はファイルサイズではなく画像領域(pixels ^ 2)に依存することがわかりました。挿入できる画像の最大面積は1,048,576ピクセル^ 2でした。
+
+### [イベントトリガーを使用した非同期処理](https://gist.github.com/tanaikech/88f7fd5ed14da5e9afde18310da61cb5)
+
+>これは、イベントトリガーを使用した非同期プロセスの可能性に関するレポートです。単純なトリガーである `onEdit()`は、スプレッドシートで値が変更されたときのトリガーとしてよく使用されます。ユーザーがonEditイベントとして承認される必要があるいくつかのメソッドを含むスクリプトを使用したい場合、onEditのインストール可能なトリガーが使用されます。`onEdit()`の機能のためにトリガーがインストールされている場合、イベントトリガーを実行すると、 `onEdit()`が2回実行されます。これを回避するために、単純なトリガーの機能以外の機能にインストール可能なトリガーをインストールします。同じイベントである単純なトリガーの機能は、プロジェクトでは使用されません。この状況を考えたとき、単純なトリガーで実行される `onEdit()`とインストール可能なトリガーで実行される関数の両方を同時に使用できるのではないかと思いました。そこで私はこの状況について調査しました。その結果、以下の単純なトリガーとインストール可能なトリガーが非同期プロセスとして機能することがわかりました。
+
+### [Google Apps ScriptのV8でのArray.prototype.push.applyの制限](https://gist.github.com/tanaikech/3e3c16b58f6b30de366eba99de84c861)
+
+> V8が有効になっている場合、 `Array.apply`には要素数の制限があります。制限を超えると、「RangeError：最大呼び出しスタックサイズを超えました」などのエラーが発生しますが、V8が無効になっている場合は問題は発生しませんでした。この場合、この問題はGoogle AppsScriptとJavascriptの両方で発生します。ですのでご注意ください。
+
+### [//テンプレート内のリテラルがスクリプトエディタのHTMLファイルで使用される場合、コメントの開始として使用されます](https://gist.github.com/tanaikech/5a6b92f9fcce4046ae4c3c79c28fe958)
+
+>テンプレートリテラルの `//`がスクリプトエディタのHTMLファイルで使用される場合、コメントの開始として使用されます。
+
+### [onSelectionChangeの応答の特性](https://gist.github.com/tanaikech/ca5812ed19dd6858879246bd2304266f)
+
+>「GoogleAppsScriptでonSelectionChangeイベントトリガーを使用したGoogleスプレッドシートでのタブの変更の検出」についてはすでに報告しました。[参照](https://tanaikech.github.io/2020/05/18/change-tab-detection-on-google-spreadsheet-using-onselectionchange-event-trigger-with-google-apps-script/)It `onSelectionChange`のイベントトリガーを使用する状況を考える場合、応答速度が重要であると考えられます。そこで、ここでは、 `onSelectionChange`のイベントトリガーに対する応答の特性を調査しました。
+
+### [Google Apps Scriptを使用してGoogleスプレッドシートですばやくチェックされたチェックボックスを検出する](https://gist.github.com/tanaikech/7b1a18a5b768e4d69d519069f4aff440)
+
+>これは、Google AppsScriptを使用してGoogleスプレッドシートですばやくチェックされたチェックボックスを検出するためのレポートです。チェックボックスをオンにすると、イベントトリガーによってGoogle AppsScriptの機能が実行されると想定しています。この場合、Googleスプレッドシートの複数のチェックボックスをすばやくオンにすると、イベントトリガーの応答速度が原因で、チェックしたすべてのチェックボックスに対してスクリプトを実行できません。イベントトリガーの応答を理解することは、スプレッドシートのアプリケーションを作成するのに役立つと考えられます。このレポートでは、Google AppsScriptを使用してGoogleスプレッドシートですばやくチェックされたチェックボックスの検出について調査しました。この結果から、イベントトリガーの応答を理解することができました。
+
+### [レポート：ドライブAPIを使用して特定のフォルダーに新しいファイルを作成する処理](https://gist.github.com/tanaikech/d034e38169503c2c22eb0c3352ae30b6)
+
+>このレポートでは、DriveAPIを使用して特定のフォルダーに新しいファイルを作成するための処理についてレポートします。Drive APIを使用して特定のフォルダに新しいファイルを作成すると、フォルダIDの値を持つ `parents`のプロパティが、メソッド「Files：create」のリクエスト本文に含まれます。このプロセスについて、私はファイルが特定のフォルダに直接作成されると思っていました。しかし、次のプロセスで新しいファイルが作成されていることを確認できました。
+>>
+> 1。ルートフォルダに新しいファイルを作成します。
+> 2。作成したファイルを特定のフォルダに移動します。
+>>
+>これらのプロセスは1回のAPI呼び出しで実行されます。本報告では、上記の過程を確認するための実験結果を紹介したいと思います。この場合、Drive APIv3はGoogleAppsScriptで使用されます。
+
+### [Stackoverflowの `google-apps-script`タグの重複した質問の統計分析](https://gist.github.com/tanaikech/fa8e7002678a377748ae35a33fa5b6eb)
+
+> Stackoverflowでは、多くの人が毎日質問を投稿して回答しています。これにより、Stackoverflowには多くの重要な情報があります。Stackoverflowから取得したデータを使用して、「Stackoverflowでのgoogle-apps-scriptタグの傾向」をすでに報告しました。[参照](https://github.com/tanaikech/taking-advantage-of-google-apps-script#trend-of-google-apps-script)重要な統計結果は、 Stackoverflowのデータ。このレポートでは、Stackoverflowのgoogle-apps-scriptタグの重複した質問の統計分析を紹介します。重複した質問を分析すると、ユーザーにとって重要な問題を知ることができると考えられます。その結果、Javascriptに関連する質問が重複する傾向があることがわかりました。
+
+### [Google AppsScriptを使用した外部サーバーでのHTMLによるGoogleドライブの安全なアップロード](https://github.com/tanaikech/Safe-Uploading-for-Google-Drive-by-HTML-in-External-Server -using-Google-Apps-Script)
+
+>これは、Google AppsScriptを使用して外部サーバーに配置されたHTMLによってファイルをGoogleドライブに安全にアップロードするためのレポートです。
+
+>ユーザーにGoogle側の外部サーバーに配置されたHTMLを使用して自分のGoogleドライブにファイルをアップロードさせたい場合、ファイルサイズが50 MB未満の場合、アクセストークンを使用せずにこれを実現できます。[参照](https://tanaikech.github.io/2020/08/13/uploading-file-to-google-drive-from-external-html-without-authorization/)(HTMLが内部に配置されている場合Google側のサーバーでは、[`google.script.run`](https://tanaikech.github.io/2020/02/18/uploading-file-to-google-drive-using-html-and -google-apps-script /)。)ただし、ファイルサイズが50 MBを超える場合は、再開可能なアップロードでファイルをアップロードする必要があります。この場合、アクセストークンを使用する必要があります。この場合、ユーザーが自分のGoogleドライブにアップロードする場合、アップロードでアクセストークンが使用されると、これがセキュリティの弱点と考えられます。このレポートでは、Google AppsScriptを使用して外部サーバーに配置されたHTMLによってファイルをGoogleドライブに安全にアップロードする方法を提案したいと思います。これをいくつかの方法の1つと考えてください。
+
+### [ドライブAPIのファイルリストメソッドの検索クエリの仕様](https://gist.github.com/tanaikech/268baf07f92f3b3962c86c6ea75b786a)
+
+>このレポートでは、DriveAPIのファイルリストメソッドの検索クエリの現在の仕様について報告したいと思います。
+
+>最近、DriveAPIのファイルリストメソッドの検索クエリの仕様が変更されている可能性があることに気付きました。Drive APIを使用してアプリケーションを作成するには、検索クエリの仕様の変更を知ることが重要だと思いました。このレポートでは、検索クエリの現在の仕様を紹介します。
+
+### [フォームを使用したGoogleスプレッドシートへの同時書き込み](https://gist.github.com/tanaikech/c2f3fccabbf4906a18fdc38463982f31)
+
+>ユーザーがフォームを使用してスプレッドシートに書き込もうとする場合、開発者はフォームからの同時送信を考慮する必要があります。たとえば、複数のユーザーがフォームを使用してデータを同時に送信した場合、すべてのデータがスプレッドシートに保存されない可能性があります。そのため、フォームを使用したGoogleスプレッドシートへの同時書き込みに関する情報を知ることが重要であると考えられます。このレポートでは、そのような状況を調査しました。
+
+>その結果、Google Spreadsheetへの同時書き込みの成功率を調査したところ、Google AppsScriptで作成したWebAppsよりもGoogleFormとの同時書き込みの方が適していることがわかりました。スプレッドシートへのすべてのデータの書き込みに成功するためのユーザーのしきい値数は、Googleフォームでそれぞれ35、Webアプリで26でした。また、Web Appsを使用する場合、複数の送信には必ずLockServiceを使用する必要があることがわかりました。
+
+### [Googleスプレッドシートの大きな10進数と指数表記](https://gist.github.com/tanaikech/a1b32bdace0ebdd6c92a547b6f4dfbeb)
+
+>このレポートでは、Googleスプレッドシートの大きな10進数と指数表記を調査しました。大きな10進数がスプレッドシートに入力されると、スプレッドシートは指数表記を使用して表示値を自動的に設定します。このレポートでは、SpreadsheetサービスとSheetsAPIによって値が取得されたときの結果が示されています。
+
+### [レポート：GoogleスプレッドシートにIMAGE関数を使用して配置された画像](https://gist.github.com/tanaikech/10c55451caab9e291d5a571b157e8020)
+
+>これは、Googleスプレッドシートに「= IMAGE(IMAGE_URL)」関数を使用して配置された画像に関するレポートです。
+
+>スプレッドシートのセル「A1」に「= IMAGE(IMAGE_URL)」を付けると、そのセルに画像が表示されます。この場合、セル「A1」を「range.copyTo(range、{contentsOnly：true})」でコピーすると、数式が削除され、画像が表示されます。URLの画像を削除すると、それらの画像はどうなるのかと思いました。このレポートでは、そのような状況を調査しました。
+
+<br>
+
+<a name="benchmarks"> </a>
+
+# ベンチマーク
+
+### [Google Apps Scriptのイベントオブジェクト](https://gist.github.com/tanaikech/4892c97df7ac0504ffd715c2dd6cd546)
+
+> -`e.range.getA1Notation() `のプロセスコストは、` e.source.getActiveCell()。getA1Notation() `と` SpreadsheetApp.getActiveSheet()。getActiveCellのプロセスコストで20％と10％であることがわかりました。 ().getA1Notation() `、それぞれ。
+
+### [V8なしでGoogle Apps Scriptを使用した配列処理のループ](https://gist.github.com/tanaikech/848aeafaac1ec676900bb78e3ce220b6)
+
+>-配列から5の倍数を取得するためのサンプルスクリプトの場合、「map、filter」を使用したループが最適な方法です。
+>-各メソッドのコストの昇順は、「map、filter」、「Comprehension」、「forEach」、「for in」、「for loop」、「while」です。
+>-「forEach」、「Comprehension」、「map、filter」のコストは、「for in」、「for loop」、「while」のコストよりも低くなります。
+> -push()とnew Array()のコストはほぼ同じです。
+>-配列を1次元配列から2次元配列に変更すると、「Comprehension」、「forEach」、「map、filter」のコストの増加率は、「for in」、「forloop」のコストの増加率よりもはるかに低くなります。 "と" while "。
+>-「forループ」を使用する従来の方法については、このレポートの結果を使用して新しい方法を提案できます。
+>-「reduce」の場合、1次元配列と2次元配列の間のプロセスコストはほぼ同じです。
+
+### [Google Apps Script用のUrlFetchサービスのfetchAllメソッド](https://gist.github.com/tanaikech/c0f383034045ab63c19604139ecb0728)
+
+> -fetchAllメソッドが非同期処理によって機能することがわかりました。
+>-非同期処理で機能した後、戻り値はリクエストの順序で並べ替えられます。
+>-複数のURLからデータを取得する場合、 `UrlFetchApp.fetchAll()`のプロセスコストは、forループを使用する `UrlFetchApp.fetch()`のプロセスコストよりもはるかに低いことがわかりました。
+
+### [Google Apps Scriptを使用して配列処理を検索](https://gist.github.com/tanaikech/eda9234822b5dec80549216a43c52652)
+
+> -indexOf()による検索のプロセスコストは、すべてのメソッドの中で最低でした。
+> -2番目と最後の1つは、それぞれforループによる検索とハッシュによる検索でした。
+>-ハッシュによる検索については、オブジェクトからのハッシュによる検索のコストは非常に低いですが、ハッシュを検索するためのオブジェクトを作成するためのコストはすべての中で最も高かったです。これにより、ハッシュによる検索が最低ランクになりました。検索対象が既に作成されている場合は、ハッシュによる検索のコストが最も低くなります。
+> -indexOfを使用した検索は、線形検索およびハッシュを使用した検索から99％以上のプロセスコストを削減できます。
+>-これらの結果から、indexOf()のスキャンは一般的なforループとは異なる可能性があると考えられます。
+
+### [Google Apps Scriptを使用した条件分岐](https://gist.github.com/tanaikech/cef47530a58f2d8692cdb1a9d257907b)
+
+>-「三項演算子」のコストは、すべての方法と条件の中で最も低いことがわかりました。
+>-単一の条件分岐の場合、2番目は「If」でした。ただし、複数の条件分岐の場合、「スイッチ」は2番目の分岐でした。これは、「If」と「Switch」がそれぞれ単一および複数の条件付きブランチ(2つ以上のブランチ)に適していることを示しています。
+>-複数の条件分岐の場合、「真」の可能性が高い条件を前面に出すことで、処理コストを削減できます。
+>-「論理演算子」は、単一および複数の条件分岐の最低ランクでした。「論理演算子」は、コストが高く、読みやすさが低いため、一般的な用途には適さないと考えられます。
+
+### [Google Apps Scriptを使用した配列処理のループの減少](https://gist.github.com/tanaikech/fdd8462a46179efb156cfa0550695c6e)
+
+>-「逆配列を使用したフィルター」により、「forループの減少」と比較してプロセスコストが43％低くなります。
+>-「逆配列」は、作成されたサンプル配列の「Array.prototype.reverse()」を使用して取得されました。
+>-「forループの減少」は「forループの増加」とほぼ同じです。
+>-「reverse()」のコストは、「forループ」と「フィルター」に対して十分に小さいです。
+
+### [Google Apps Scriptを使用したスプレッドシートの読み取りと書き込み](https://gist.github.com/tanaikech/d102c9600ba12a162c667287d2f20fe4)
+
+>このレポートでは、スプレッドシートの読み取りと書き込みのプロセスコストを調査しました。この調査から、以下の結果が得られました。
+
+>-スプレッドシートから値を読み取るためのプロセスコスト
+> 1. Spreadsheet ServiceのgetValues()とgetSheetValues()の処理コストはほぼ同じです。
+> 1. SheetsAPIのvalues.getとvalues.batchGetのプロセスコストはほぼ同じです。
+> 1. Sheets APIのメソッドは、Spreadsheet Serviceのプロセスコストから約35％のプロセスコストを削減できます。
+>-スプレッドシートから値を書き込むためのプロセスコスト
+> 1. Sheets APIのvalues.update、values.batchUpdate、values.appendのプロセスコストはほぼ同じです。
+> 1. Sheets APIのメソッドは、Spreadsheet Serviceのプロセスコストから約19％のプロセスコストを削減できます。
+> 1. Spreadsheet ServiceのsetValues()とSheetsAPIのメソッドの間には反転点があります。
+>-データサイズが小さい場合、setValues()は値の書き込みに適しています。
+>-データサイズが大きくなると、SheetsAPIのメソッドが値の書き込みに適しています。
+
+>これらの結果から、Spreadsheet of Sheets APIの読み取りと書き込みの方法は、Spreadsheetサービスの方法とは異なるアルゴリズムやプロセスを使用していると考えられます。
+
+### [Google Apps Scriptを使用したスプレッドシートへのCSVデータのインポート](https://gist.github.com/tanaikech/030203c695b308606041587e6da269e7)
+
+>このレポートでは、GASを使用してCSVデータをスプレッドシートにインポートするためのプロセスコストを調査しました。その結果、以下の結果が得られました。
+
+> -SheetsAPIの `pasteData`を使用するpattern4が、すべての中で最も低コストであることがわかりました。
+> -CSVデータをスプレッドシートにインポートするためにpattern4を使用すると、値の解析と書き込みの方法を使用するpattern1とpattern2からコストを56％削減できます。
+> -CSVデータをスプレッドシートにインポートするためにpattern4を使用すると、mimeTypeをCSVからスプレッドシートに変換するメソッドを使用するpattern3からコストを72％削減できます。
+
+### [ベンチマーク：V8でGoogle Apps Scriptを使用した配列処理のループ](https://gist.github.com/tanaikech/3331e1e631d619abef8f32c4be14ba3a)
+
+>このレポートでは、GASとV8ランタイムを使用したアレイ処理の「ループ」のプロセスコストを調査しました。その結果、V8を搭載したGASの以下の重要な機能が見つかりました。
+
+>-配列から5の倍数を取得するためのサンプルスクリプトの場合、「for loop」、「while」、「forEach」、「map、filter」、「reduce」を使用したループコストはほぼ同じです。
+>-「forin」の場合、プロセスコストは「for loop」、「while」、「forEach」、「map、filter」、「reduce」よりも高くなります。しかし、それをV8なしの条件と比較すると、V8を使用した場合の「forin」のコストは、V8を使用しない場合よりもはるかに低くなります。
+> -`push() `と` new Array() `のコストはほぼ同じです。
+>-ループプロセスにv8ランタイムを使用する場合、V8を使用しないスクリプトと比較すると、プロセスコストを大幅に削減できます。
+>-「forloop」、「for in」、「while」、「forEach」、「map、filter」、「reduce」のすべてのメソッドで、1D配列の場合は97.0％、2D配列の場合は98.4％のプロセスコストが発生する可能性があります。削減されます。
+
+### [ベンチマーク：Google Apps Scriptを使用したV8でのプロセスコスト](https://gist.github.com/tanaikech/7198bc9019202f4080de8fd2e1b278fb)
+
+>このレポートでは、V8での7つの状況のプロセスコストが測定されました。その結果、以下の結果が得られた。
+
+> 1。矢印機能がある場合とない場合のプロセスコストはほぼ同じでした。
+> 2。プロセスコスト「includes」と「indexOf」はほぼ同じでした。
+> 3.破壊的割り当てを使用した場合、コストは破壊的割り当てを使用しない場合よりも約15％高くなりました。
+> 4.Mapオブジェクトがある場合とない場合のプロセスコストはほぼ同じでした。
+>-しかし、この場合、結果をオブジェクトとして取得するために、 `Object.fromEntries`のコストが追加されます。また、 `Object.fromEntries`を使用しない場合、Mapオブジェクトを使用した場合のコストはMapオブジェクトを使用しない場合よりも約20％低くなりました。
+> 5. `Array.prototype.push`のプロセスコストは、` Array.prototype.push.apply`、Spread構文、および `concat`の中で最も低かった。Spread構文と `concat`のコストは、` Array.prototype.push`よりもそれぞれ約3,040％と36,666％高かった。
+> 6. `reduce`のみのプロセスコストは、` reduce`、 `Object.assign`、およびSpread構文のみの中で最も低かった。`Object.assign`とSpread構文のコストは、` reduce`のみのコストよりもそれぞれ約265％と448,063％高かった。
+> 7.`Array.from`とマップのみの処理コストはほぼ同じでした。`Object.entries`のコストは` Array.from`のコストよりも約131％高かった。
+
+### [ベンチマーク：Google Apps Scriptを使用してスプレッドシートで値を検索するためのプロセスコスト](https://gist.github.com/tanaikech/0a6f03970b471ffa286f1dac0b79359e)
+
+>ここでは、Google Apps Script(GAS)を使用してスプレッドシートで値を検索するためのプロセスコストを報告したいと思います。Googleスプレッドシートで値を検索すると、次の3つのパターンが考えられます。[参照](https://stackoverflow.com/a/56663884)
+>>
+> 1. getValuesを使用してすべての値を取得し、取得した配列から値を検索します。
+> 2.TextFinderを使用します。
+> 3。クエリ言語を使用します。
+>>
+>これらの場合、最も低いプロセスコストはクエリ言語を使用することであることがすでにわかっています。そして、配列から値を見つけることについて、私はすでに「[ベンチマーク：Google Apps Scriptを使用した配列処理の検索](https://gist.github.com/tanaikech/eda9234822b5dec80549216a43c52652)」として報告されています。しかし、TextFinderのプロセスコストを要約して、配列から値を見つけることは一度もありませんでした。そこで、このレポートでは、これを紹介したいと思います。その結果、値を検索して行番号と行値を取得するためのTextFinderの重要性を理解することができました。
+
+### [ベンチマーク：Google Apps Scriptを使用してスプレッドシートの配列から値を取得するためのプロセスコスト](https://gist.github.com/tanaikech/6333d797149ab9d69382d1b368f96e80)
+
+>ここでは、Google Apps Script(GAS)を使用してスプレッドシートの配列から値を取得するためのプロセスコストを報告します。SpreadsheetをGoogleApps Scriptで使用すると、次のような状況になります。
+
+> 1。列の複数の行から値を取得します。
+> 2。行の複数の列から値を取得します。
+
+>上記の状況から値を取得する場合、2次元配列の1次元配列から値を取得する必要があります。このレポートでは、上記の状況の2次元配列から値を取得するためのプロセスコストが測定されています。
+
+>その結果、1列にn行、1行にn列の配列から値を取得する場合、破壊代入を使用する場合とインデックスを使用する場合がそれぞれ適切であることがわかりました。
+
+### [ベンチマーク：Google Apps Scriptを使用したGoogleスプレッドシート上のセル内の数式のプロセスコストの測定](https://gist.github.com/tanaikech/b00be25a02ec283689480ac8138cbfeb)
+
+> Googleスプレッドシートを使用する場合、セル内の組み込み関数とカスタム関数が使用される場合があります。Google Apps Scriptの機能には、プロセスコストを測定する方法があります。[参照](https://github.com/tanaikech/taking-advantage-of-google-apps-script#benchmarks)ただし、組み込み関数の場合は、そのスクリプトを作成する必要があります。このレポートでは、セルに配置された関数を測定するためのスクリプトを提案し、組み込み関数のプロセスコストを測定しました。提案されたスクリプトは、Googleスプレッドシートの組み込み関数とカスタム関数のプロセスコストを測定できます。スクリプトは、Google AppsScriptを使用して作成されます。組み込み関数とカスタム関数のプロセスコストがわかる場合、
+
+### [ベンチマーク：Google Apps Scriptを使用してGoogleスプレッドシートの特定の列の最初の空のセルと最初の空でないセルを取得するためのプロセスコスト](https://gist.github.com/tanaikech/61cbda29436795f199a9e4244e0bf5fe)
+
+>ここでは、Google Apps Script(GAS)を使用して、GoogleSpreadsheetの特定の列の最初の空のセルまたは最初の空でないセルを取得するためのプロセスコストを報告します。この場合、次の2つのパターンが考えられます。
+
+> 1。シートの** TOP **から検索して、特定の列の最初の空のセルを取得します
+
+> 2。シートの** BOTTOM **から検索して、特定の列の最初の非空のセルを取得します
+
+>実際、GASを使用してアプリケーションを作成する場合、特定の列の最初の空のセルまたは最初の空でないセルを取得する必要がある場合があります。ただし、その場合は、アプリケーションの他の部分と比較して、このプロセスコストを可能な限り低くしたいと思います。このような経験から、この処理コストを削減できれば、他のユーザーにも役立つと思いました。そこで、このレポートでは、この状況のプロセスコストを紹介したいと思います。そして、以下の結果が得られた。
+
+>-シートの** TOP **から検索して特定の列の最初の空のセルを取得するには、 `getNextDataCell`を使用するメソッドのプロセスコストがすべてのメソッドの中で最も低くなります。
+
+>-シートの** BOTTOM **から検索して、特定の列の最初の非空のセルを取得するには、 `TextFinder`を使用するメソッドのプロセスコストがすべてのメソッドの中で最も低くなります。
+
+### [ベンチマーク：フォームを使用したGoogleスプレッドシートへの同時書き込み](https://gist.github.com/tanaikech/c2f3fccabbf4906a18fdc38463982f31)
+
+<br>
+
+<a name="communities"> </a>
+
+# コミュニティ
+
+### [Google Apps Scriptのコミュニティ](https://gist.github.com/tanaikech/6b42d86414c5529fee56367d6bf67516)
+
+> Google+のコンシューマー(パーソナル)バージョンは2019年4月2日に閉鎖されます。これにより、[Google+のApps Scriptコミュニティ](https://plus.google.com/communities/102471985047225101769/)も閉鎖されます。これは、議論するための重要なコミュニティの1つです。そこで、この投稿では、Google AppsScriptに関連する他のコミュニティを紹介したいと思います。
+
+<br>
+
+<a name="samplescripts"> </a>
+
+# サンプルスクリプト
+
+<a name="filesingoogledrive"> </a>
+
+#### Googleドライブのファイル
+
+-[Google Web AppsでdoPostを使用してファイルをアップロード](https://tanaikech.github.io/2017/02/05/file-upload-using-dopost-on-google-web-apps/)
+-[GASを使用したGoogleドライブAPIのアクセストークンの取得](https://gist.github.com/tanaikech/64175178489d1d72a6090b79be901c23)
+-[Googleドライブにフォルダツリーを作成](https://tanaikech.github.io/2017/03/13/create-folder-tree-on-google-drive/)
+-[Googleドライブから許可なくファイルをダウンロード](https://tanaikech.github.io/2017/03/20/download-files-without-authorization-from-google-drive/)
+-[ドライブAPIの「フィールド」の使用方法](https://tanaikech.github.io/2017/03/30/how-to-use-fields-of-drive-apis/)
+-[承認なしのGoogleドライブのファイル転送](https://github.com/tanaikech/FileTransfer)
+-[PDFをTXTに変換](https://gist.github.com/tanaikech/825f4b848a8cbff7018f71d33399e99b)
+-[Google APIのアクセストークンの取得](https://gist.github.com/tanaikech/247e4db66098e94f9e7da1b857f0a9be)
+-[ブラウザを使用して許可なくGoogleドライブからファイルをダウンロードする](https://gist.github.com/tanaikech/c5b2811bce01cbcc26ffa357df496379)
+-[(NEW)Googleドライブから古いリビジョンファイルを取得する](https://gist.github.com/tanaikech/9ab6683e78de0044b4f670ff3761af19)
+-[Googleドライブのフォルダの下にあるファイルリストを取得](https://gist.github.com/tanaikech/8e9b6fd667efcb483c9c742da9cd4e19)
+-[Google Apps Scriptを使用してOneDriveからアクセストークンを取得する](https://gist.github.com/tanaikech/d9674f0ead7e3320c5e3184f5d1b05cc)
+-[GoogleドキュメントとMicrosoftドキュメント間の相互変換](https://gist.github.com/tanaikech/8d639542577a594f6104b7f6fb753064)
+-[Google Apps Scriptを使用したファイル名に含まれる特殊文字を含むファイルの取得](https://gist.github.com/tanaikech/e74ead2537b7b3718fc824b6ca60a531)
+-[Google Apps Scriptの選択ボックスを使用したGoogleドライブ内のファイルの選択](https://gist.github.com/tanaikech/96166a32e7781fee22da9e498b2289d0)
+-[HTMLフォームを使用して許可なくローカルファイルをGoogleドライブにアップロードする](https://gist.github.com/tanaikech/2f16f467c94612dc83920a3158614d95)
+-[Googleドライブ上のPDFファイルから最新の作成ファイルを取得する](https://gist.github.com/tanaikech/0f452b2f951dddb57363dbb816487c33)
+-[Googleドキュメントのダイアログボックスのボタンを使用してファイルをダウンロードする](https://gist.github.com/tanaikech/0f1fd11b7e4d45b016d45bbeeb06aa46)
+-[DriveApp.searchFiles()に使用されるDrive API v2またはv3はどれですか？](https://gist.github.com/tanaikech/242f644026837dd071f0ce95b2fd107a)
+-[ファイルを分割することにより、大きなサイズ(> 50 MB)のCSVファイルから複数のスプレッドシートへの再開可能な変換](https://gist.github.com/tanaikech/3e44c779f05374d19333444c9a4dd5ba)
+-[Javascriptを使用してファイルをGoogleドライブにアップロード](https://gist.github.com/tanaikech/bd53b366aedef70e35a35f449c51eced)
+-[Google Apps Scriptを使用した拡張makeCopy()](https://gist.github.com/tanaikech/ac1b0d50fe1ffaa40e95bbe9faf908b9)
+-[Googleドライブの特定のフォルダの下にあるフォルダ構造のファイルリストを取得しています](https://gist.github.com/tanaikech/4fca197b8ec45c8ac6300b1531c2489d)
+-[Google Apps Scriptを使用してローカルからGoogleドライブに複数のファイルをアップロードする](https://gist.github.com/tanaikech/88fcae255abb4aac5bec81ad5ca213ef)
+-[Google Apps Script用のtarUnarchiver](https://github.com/tanaikech/tarUnarchiver-for-Google-Apps-Script)
+-[Google Apps Scriptを使用して多くのファイルをGoogleドキュメントに変換する](https://gist.github.com/tanaikech/d60700b523af7aaf89b9e7c92e35c3c2)
+-[Google Apps Scriptを使用してOCRでPDFおよび画像ファイルを変換してGoogleドキュメントを作成する](https://gist.github.com/tanaikech/b73396314254f7a5bf571af6b65eac07)
+-[Google Apps Scriptを使用して複数のGoogleドキュメントを2つのテキストファイルで上書きする](https://gist.github.com/tanaikech/55f0a57ed98ff11e7d8780cc773b6dce)
+-[Google Apps Scriptを使用したGoogleドライブ上のファイルのリビジョンの変更](https://gist.github.com/tanaikech/9508a9007c1a5196e4b234ea40528f96)
+-[Googleドライブのワンタイムダウンロード](https://github.com/tanaikech/One_Time_Download_for_Google_Drive)
+-[Googleドライブの非同期プロセスを使用した複数のファイルの再開可能なアップロード](https://github.com/tanaikech/AsynchronousResumableUploadForGoogleDrive)
+-[Google Apps Scriptを使用してファイルを特定のフォルダに移動する](https://gist.github.com/tanaikech/84dd9e9f79cad87bedb45e21342c0121)
+-[HTMLおよびGoogleApps Scriptを使用してファイルをGoogleドライブにアップロードする](https://gist.github.com/tanaikech/280b782ee0518aa083a4fe0d71384823)
+-[Googleドライブで親なしでファイルとフォルダを取得する](https://gist.github.com/tanaikech/459089e678bad943f0f33e497e04c36f)
+-[Google Apps Scriptを使用してGoogleドライブにショートカットを作成する](https://gist.github.com/tanaikech/4639cccc8130cea10d753fee9f900041)
+-[Google Apps Scriptを使用したドライブAPIのバッチリクエスト](https://github.com/tanaikech/Batch-Requests-for-Drive-API-using-Google-Apps-Script)
+-[Google Apps Scriptを使用してSVG形式をPNG形式に変換する](https://gist.github.com/tanaikech/8a6d46ca43665aa7e62965ed32336598)
+-[認証なしで外部HTMLからGoogleドライブにファイルをアップロードする](https://gist.github.com/tanaikech/d3e62002e522f9e3f2b35bc56c64b2c9)
+-[Google Apps Scriptを使用してHTMLフォームから送信された値を使用する](https://gist.github.com/tanaikech/58d96c023468fc1922d67764251b25e0)
+-[Google Apps Scriptを使用して 'is：unorganized owner：me'でファイルを検索する](https://gist.github.com/tanaikech/ec6aa9f2967d2f837df7c87276a0c168)
+-[Google AppsScriptを使用した外部サーバーでのHTMLによるGoogleドライブの安全なアップロード](https://github.com/tanaikech/Safe-Uploading-for-Google-Drive-by-HTML-in-External-Server-using -Google-Apps-Script)
+
+<a name="projects"> </a>
+
+#### Projects
+
+-[Google Apps Scriptを使用してClientIdを取得する](https://gist.github.com/tanaikech/4656b1b01128d27f291cee317553ea6d)
+-[GASプロジェクトのコピーと上書き](https://gist.github.com/tanaikech/3e7608bd8ba87dd6019aedbd09224bd3)
+-[Google Apps Scriptを使用してアカウントアクセスでサードパーティのアプリを削除する](https://gist.github.com/tanaikech/608e65fee105989df1a7b645c20572c2)
+-[Google Apps Scriptを使用したプロジェクトでコメントなしで再フォーマットされたスクリプトを取得する](https://gist.github.com/tanaikech/61f69fd2ce181865d3430c260c6a5d0b)
+-[Google Apps Scriptを使用してプロジェクトをzipファイルとしてバックアップ](https://gist.github.com/tanaikech/035aa9f6603e7a8698c1cc67ab43e132)
+
+<a name="spreadsheets"> </a>
+
+#### Spreadsheets
+
+-[Google HTMLサービスを使用してスプレッドシートからCSVファイルをダウンロード](https://tanaikech.github.io/2017/02/16/download-a-csv-file-from-spreadsheet-using-google-html-service/ )。
+-[スプレッドシートから変換されたExcelファイルを使用して電子メールを送信](https://tanaikech.github.io/2017/02/16/send-e-mail-with-excel-file-converted-from-spreadsheet/)
+-[スプレッドシートからCSVファイルをエクスポートしてダウンロードボタンを作成](https://tanaikech.github.io/2017/02/20/export-csv-file-from-spreadsheet-and-make-download-button/)
+-[ダウンロードしたExcelファイルをスプレッドシートとして作成](https://tanaikech.github.io/2017/04/14/creating-downloaded-excel-file-as-spreadsheet/)
+-[Excelファイルからスプレッドシートを作成する](https://tanaikech.github.io/2017/04/15/creating-spreadsheet-from-excel-file/)
+-[スプレッドシートをPDFに変換](https://tanaikech.github.io/2017/04/20/converting-spreadsheet-to-pdf/)
+-[スプレッドシートを既存のExcelファイルに上書きする](https://tanaikech.github.io/2017/04/21/overwriting-spreadsheet-to-existing-excel-file/)
+-[共有スプレッドシートを使用したユーザー情報の取得](https://gist.github.com/tanaikech/a4a23d66134a900ddcb1652a4d420a58)
+-[スプレッドシートのカスタム関数を使用してセルにマップを埋め込む](https://gist.github.com/tanaikech/408f0eb58b18b08c4aa3783e5ee7463e)
+-[スプレッドシートのセルにアニメーションGIFを埋め込む](https://gist.github.com/tanaikech/9b540220a9f408c05213c82e085c891a)
+-[スプレッドシートのカスタム関数を使用してルートと埋め込みマップを検索](https://gist.github.com/tanaikech/e2d49b88b5d45cf2f26e6aaa14eafe91)
+-[Googleスプレッドシートを使用した疑似ブラウザ](https://gist.github.com/tanaikech/a290509e3d3f6997d248b88763fc69b9)
+-[スプレッドシートでの画像の取得](https://gist.github.com/tanaikech/d6594dc5c6c49a015c7d408c90e58bdc)
+-[Google Sheets APIのa1NotationをGridRangeに変換](https://gist.github.com/tanaikech/95c7cd650837f33a564babcaf013cae0)
+-[スプレッドシートのヘッダータイトルによる値の取得](https://gist.github.com/tanaikech/3036ee0199e2261f377aacbd7e458d1c)
+-[Google Apps Scriptを使用して範囲からスプレッドシートIDを取得する](https://gist.github.com/tanaikech/d4b033014c36c3506ad3ec38ce1eae4f)
+-[Google Apps Scriptを使用してonEdit(e)を拡張](https://gist.github.com/tanaikech/73edaed1268a6d07118aed538aa5608d)
+-[Googleスプレッドシートの組み込み関数の実行時間の測定](https://gist.github.com/tanaikech/1e7df0d6991d4e39330cd2b353573e72)
+-[ユーザーインターフェイス環境のインスタンスの取得](https://gist.github.com/tanaikech/f05e7d82b754b0348463b8dec1c741ad)
+-[スプレッドシートパート1のカスタム関数の自動再計算](https://gist.github.com/tanaikech/b8ea7bd7fd87bcd7bb28ddede1781889)
+-[Google Apps Scriptを使用して新しいウィンドウでサイトを開く](https://gist.github.com/tanaikech/9115c70eb83558d3af2eea656e4d9c67)
+-[Google Sheets APIを使用して行を挿入して値を追加](https://gist.github.com/tanaikech/7846ebcafbab8318ff74c9955a99e06b)
+-[スプレッドシート内のすべての名前付き範囲をa1Notationとして取得](https://gist.github.com/tanaikech/aa744c9a15​​818c002d90eaea6b4efd03)
+-[Google Apps ScriptのCLEANメソッド](https://gist.github.com/tanaikech/585597adda7954ba1cde3e724582bac5)
+-[特定の行と列の最後を取得](https://gist.github.com/tanaikech/044d8651aed41c886f3379fdf5165aa2)
+-[Google Apps Scriptを使用したA1Notationsの解析](https://gist.github.com/tanaikech/c59b90324c90935b13f9e7b26cbf436a)
+-[Google Apps Scriptを使用して既存のサイドバーを閉じる](https://gist.github.com/tanaikech/c1b5fb20342dae623139ca0f48c8c12c)
+-[計算中にダイアログボックスを開き、Google Apps Scriptを使用して計算結果を取得する](https://gist.github.com/tanaikech/3a4837d4ef0d31522cd9ff29c085c786)
+-[Google Apps Scriptを使用したワンタイムライティングセルの作成](https://gist.github.com/tanaikech/4ba859167a84ed625fcbab392c8d34cd)
+-[Googleドキュメントへの画像挿入の制限](https://gist.github.com/tanaikech/9414d22de2ff30216269ca7be4bce462)
+-[Google Apps Scriptを使用したスプレッドシート上のセル内のリアルタイムプロセスの可能性](https://gist.github.com/tanaikech/52e7bbdabf8bfc34ac16d5f27fd8cb80)
+-[Google Apps Scriptを使用したスプレッドシートのカスタム関数による値付けの修正](https://gist.github.com/tanaikech/6ebf4bafbdc35116470bd197d00fe614)
+-[ユーザーがGoogleAppsスクリプトを使用してGoogleドライブからユーザーのGoogleドライブにコピーしたスプレッドシートのセルを保護する](https://gist.github.com/tanaikech/847ea7e3e27a4a22004faa88d7b4dedb)
+-[Google Apps Scriptを使用してスプレッドシートのフィルター処理されたシートから値を取得する](https://gist.github.com/tanaikech/053d3ebbe76fa7c0b5e80ea9d6396011)
+-[スプレッドシートパート2のカスタム関数の自動再計算](https://gist.github.com/tanaikech/cb5447616bfc6a01de8a49131c0d2db0)
+-[Google Apps Scriptを使用してスプレッドシートでスライサーによってフィルタリングされたシートから値を取得する](https://gist.github.com/tanaikech/7cc9efb29ba6063da04f81e50d858f52)
+-[Google Apps Scriptを使用してGoogleスプレッドシートのカスタムメニューを動的に更新する](https://gist.github.com/tanaikech/1232a8fd1ffbd84c96ebbb97051c5b59)
+-[Google Apps Scriptを使用したGoogleスプレッドシートの列の再配置](https://gist.github.com/tanaikech/59dc1398785803d188393fb04673f1bc)
+-[Google Apps Scriptを使用してGoogleスプレッドシートの2つの範囲の間でオーバーラップされたセルを取得する](https://gist.github.com/tanaikech/492cc2bb0b978fdb344aa821962baf53)
+-[更新：Google Apps Scriptを使用したA1Notationsの拡張](https://gist.github.com/tanaikech/4fd7d66771d552ed83166df314cb0024)
+-[2PACXのURLからすべてのシートの直接リンクを取得するための回避策-Webで公開されたGoogleスプレッドシートの###](https://gist.github.com/tanaikech/e6251657d425d2827fee6dd3daf47976)
+-[Google Apps Scriptを使用したGoogleスプレッドシートの行と列の非表示と削除](https://gist.github.com/tanaikech/a1e6c0b49043cbf92f8b3c25d18ebeed)
+-[Google Apps ScriptでonSelectionChangeイベントトリガーを使用したGoogleスプレッドシートのタブ検出の変更](https://gist.github.com/tanaikech/524c16dbef722763f80312357d0e4368)
+-[Webアプリをラッパーとして使用するGoogleスプレッドシートの拡張カスタム関数](https://github.com/tanaikech/Enhanced-Custom-Function-for-Google-Spreadsheet-using-Web-Apps-as-Wrapper)
+-[Google Apps Scriptを使用してGoogleスプレッドシートに配置されたボタンを無効にする](https://gist.github.com/tanaikech/28102d28b929e102f6fe88e7d42e2d64)
+-[Google Apps Scriptを使用して選択したセルの行と列を強調表示](https://gist.github.com/tanaikech/3e6b6bbc13cd9814aa918c9933fb862f)
+-[回避策：Sheets APIを使用してセルに複数のハイパーリンクを配置する](https://gist.github.com/tanaikech/b18c0189a5d0266a849090fdbe6750a5)
+-[Google Apps ScriptでTextFinderを使用した検索ダイアログサンプル](https://gist.github.com/tanaikech/64ab751e8fd8727d23e5f159c00e1579)
+-[Google Apps Scriptを使用してGoogleスプレッドシートのセル幅に収まるようにテキストの長さを調整する](https://gist.github.com/tanaikech/784bae8c41b7d9bcba5b581920dda3f4)
+-[Google Apps Scriptを使用したGoogleスプレッドシートのボタンの切り替え](https://gist.github.com/tanaikech/2e6cadc1f65d42aa161bcbd24e6cadb7)
+-[Google Apps Scriptを使用してGoogleスプレッドシートの範囲を画像として変換](https://gist.github.com/tanaikech/6ec4f2278510311ea06b838c69828692)
+-[Google Apps Scriptを使用したカスタムヘッダーとフッターを使用したスプレッドシートの作成](https://gist.github.com/tanaikech/0430c7a8cf28508aa3cb80c22136f7f9)
+-[Google Apps Script：Googleスプレッドシートで特定のシートを編集したときに特定の機能を実行する](https://gist.github.com/tanaikech/bc09d1e03a0ebed3af894a6ed61cf12d)
+-[Google Apps Scriptを使用したGoogleスプレッドシートの行の代替背景色の設定](https://gist.github.com/tanaikech/89aaa3adcd3a1fc37187ca61f389cbe9)
+-[Google Apps Scriptを使用して背景色でGoogleスプレッドシートにセルを並べ替える](https://gist.github.com/tanaikech/8e531fdb4125c843b58cf7bef6165786)
+-[Google Apps ScriptとJavascriptを使用してWebで公開されたGoogleスプレッドシートの2PACX-のURLからすべてのシートからすべての値を取得する](https://gist.github.com/tanaikech/1876f19638e329253cf352225bd180cd)
+-[Google Apps Scriptを使用してGoogleスプレッドシートに複数のボタンを作成する](https://gist.github.com/tanaikech/17d48dbcf4c1a39663424cae658e50cb)
+-[ユーザーがGoogleApps Scriptを使用して所有者によって保護された範囲のスクリプトを実行する](https://gist.github.com/tanaikech/5ebf492b53de40fe254dba63c8520391)
+-[ボタンをクリックしてGoogleスプレッドシートをXLSXおよびPDFファイルとしてダウンロード](https://gist.github.com/tanaikech/61dea338dfba386f87c592d4ee6c68af)
+-[Google Apps Scriptを使用してGoogleスプレッドシートの複数の値を低いプロセスコストで置き換える](https://gist.github.com/tanaikech/3030603299d1e302821611c834420258)
+-[ボタンをクリックしてGoogleスプレッドシートのアクティブシートをCSVおよびPDFファイルとしてダウンロード](https://gist.github.com/tanaikech/114dad7d31dde402b4892787e9cceaad)
+-[Google Apps Scriptを使用したスプレッドシートの保護のコピー](https://gist.github.com/tanaikech/b22a76d419a6bdbfa064f5b31f6eae8e)
+-[Google Apps Scriptを使用してGoogleスプレッドシートにカラフルなボタンを作成する](https://gist.github.com/tanaikech/5eedf04fa0f7727570b8e4c45b84a1f1)
+-[Google Apps Scriptを使用したGoogleスプレッドシートのフィルタービューによる非表示の行の取得と行の表示](https://gist.github.com/tanaikech/43eee17899a3d0a99817f3a2032ae937)
+-[Google Apps Scriptを使用した連続数値のコンパイル](https://gist.github.com/tanaikech/5a43281964b739ead2b7ae2401400630)
+-[GoogleスプレッドシートでTextFinderを活用する](https://gist.github.com/tanaikech/39f719bd10ccbb27edd694c33242e496)
+-[Google Apps Scriptを使用してGoogleスプレッドシートの値をオブジェクトに変換する](https://gist.github.com/tanaikech/39d6402846c21502d41ecc7f78708e71)
+-[Google Apps Scriptを使用してシートAの値をシートBの値で更新する](https://gist.github.com/tanaikech/bd1e9de7cc22f89d3c8c7f90bf07e943)
+-[スコープの承認とスクリプトの表示の両方を行わずにユーザーにGoogleSpreadsheetでGoogleApps Scriptを実行させる](https://gist.github.com/tanaikech/82089f55e9e647bbe965a563ab1ce657)
+-[Google Apps Scriptを使用して範囲IDをGoogleスプレッドシート上の範囲オブジェクトに変換する](https://gist.github.com/tanaikech/3aa69f1a8e2a944c7df926879fa0f34e)
+-[JavascriptとGoogleAppsScriptを使用した「text / event-stream」のコンテンツタイプからのデータの取得](https://gist.github.com/tanaikech/2ba5f847ae6032d1611875d60cdf79b2)
+-[Google Apps Scriptを使用したシンプルでインストール可能なトリガーを使用しないGoogleスプレッドシート用の疑似OnEditトリガー](https://gist.github.com/tanaikech/05d9922a947232dbda5143b6ac6dc71f)
+
+<a name="documents"> </a>
+
+#### Documents
+
+-[Googleドキュメントの行数を取得しています](https://gist.github.com/tanaikech/37def8eeeaf7780bb99d3289ee32385e)
+-[Google Apps Scriptを使用してGoogleドキュメントのテキストを画像に置き換える](https://gist.github.com/tanaikech/f84831455dea5c394e48caaee0058b26)
+-[Google Apps Scriptを使用してGoogleドキュメントの段落の陰影の色を変更する](https://gist.github.com/tanaikech/aadeca550943d07ee25d90d3bda3c9b9)
+-[Google Apps Scriptを使用して検索テキストを小文字に変更](https://gist.github.com/tanaikech/30e8c778eb1102f651550b2345b6f3c0)
+-[Google Apps Scriptを使用してGoogleドキュメント上の配置された画像を削除する](https://gist.github.com/tanaikech/02c4c4ec7cb0ac83771e4306afcd422c)
+-[Googleドキュメントへの画像挿入の制限](https://gist.github.com/tanaikech/9414d22de2ff30216269ca7be4bce462)
+-[Google Apps Scriptを使用してGoogleドキュメントの全ページを取得する](https://gist.github.com/tanaikech/c78087c647dc9b5547b580ccd3629974)
+-[Google Apps Scriptを使用したGoogleドキュメントのページの削除](https://gist.github.com/tanaikech/6d33c3ce00cd46e45d3551a587b2ae17)
+-[Google AppsScriptでGoogleDocs APIを使用して新しいテーブルを作成し、セルに値を設定する](https://gist.github.com/tanaikech/3b5ac06747c8771f70afd3496278b04b)
+-[Google Apps Scriptを使用してGoogleドキュメントの最後の空のページを削除する](https://gist.github.com/tanaikech/8e018892ebb417779e9a7fedfc6a4a7d)
+-[Googleスプレッドシートの更新された仕様：セルへの複数のハイパーリンク](https://gist.github.com/tanaikech/d39b4b5ccc5a1d50f5b8b75febd807a6)
+-[Google Apps Scriptを使用したGoogleドキュメントの1ページ目のヘッダーの変更](https://gist.github.com/tanaikech/d430543089cc687e5d9c2bc96d3178ff)
+-[Google Apps Scriptを使用してGoogleドキュメント内のすべてのURLを取得する](https://gist.github.com/tanaikech/d3ce0c2186885ee27d23e02ddd2696b7)
+-[Google Apps Scriptを使用して選択したテキストのフォントをGoogleドキュメントの「GoogleSans」に変更する](https://gist.github.com/tanaikech/4700361cc060ae4333672da905d272c7)
+-[Googleアプリのスクリプトを使用してGoogleドキュメントのテンプレートテキストを配列に置き換える](https://gist.github.com/tanaikech/7fc15c4e8ecccbedd469d8d778880834)
+-[Google Apps Scriptを使用してGoogleドキュメントのリストアイテムからグリフ値を取得する](https://gist.github.com/tanaikech/5f186b006c4803790318a75e65900c36)
+-[Google Apps Scriptを使用したGoogleドキュメントの疑似OnEditトリガー](https://gist.github.com/tanaikech/f27d427f07b20ca9fedec21e643c4a3e)
+
+<a name="slides"> </a>
+
+#### Slides
+
+-[Google Apps Scriptを使用してGoogleスライドのテーブルのサイズを取得する](https://gist.github.com/tanaikech/3143be7e7df8cc595d73427d22ae2e0e)
+-[サムネイルとしてのスライドの要約](https://gist.github.com/tanaikech/79749b9fc411da91f932608b5c01ea5b)
+-[Googleドキュメントへの画像挿入の制限](https://gist.github.com/tanaikech/9414d22de2ff30216269ca7be4bce462)
+-[Google Apps Scriptを使用したGoogleスライド上のテキストの管理](https://gist.github.com/tanaikech/04e7b7657f97ddd7c68b6a9ddc3cdf98)
+-[Google Apps Scriptを使用してGoogleスライドで画像を切り抜く](https://gist.github.com/tanaikech/a86781b425fe3f14edd5058ca8d46fe7)
+-[Google Apps Scriptを使用してGoogleスライドのQRコードからデータを取得する](https://gist.github.com/tanaikech/4fc0b33493d375e589d61312d2f028b7)
+-[Google Apps Scriptを使用したShapeへのスライドページリンクの追加](https://gist.github.com/tanaikech/444379309f1d0f69287c5a8becdc271d)
+-[Google Apps Scriptを使用してGoogleスライドのカスタムグリッドビューを画像およびスプレッドシートとして作成する](https://gist.github.com/tanaikech/c94b79819167e96f6d9268d066989112)
+-[Google AppsScriptを使用してGoogleスライドとWebアプリによって作成されたシンプルなフォトギャラリー](https://github.com/tanaikech/SimplePhotoGalleryUsingGoogleAppsScript)
+-[Google Apps Scriptを使用してGoogleスライドのテキストボックスのテキストを編集するだけ](https://gist.github.com/tanaikech/aa0a03ba3c440ca72fc1d7e02f038f7c)
+-[Google Apps Scriptを使用してGoogleスプレッドシートからGoogleスライドに挿入されたテーブルのテーブルの高さを減らす](https://gist.github.com/tanaikech/659f3687f4ea5282f39ebf9b6d5ae54c)
+-[Google Apps Scriptを使用してGoogleスライドから取得したすべてのサムネイル画像をZipファイルとしてエクスポート](https://gist.github.com/tanaikech/66a83c01e1f99829a85f909f8facb834)
+
+<a name="gmail"> </a>
+
+#### Gmail
+
+-[Gmailの返信メールを取得する方法](https://gist.github.com/tanaikech/a047e5f67f30b93482986039daa16dbc)
+-[GmailのメッセージIDを使用してメッセージにラベルを追加する](https://gist.github.com/tanaikech/69c7daf910fdad0d6a296ea19f612089)
+-[Google Apps Scriptを使用して絵文字を含むタイトルと本文を含むGmailを送信する](https://gist.github.com/tanaikech/187863d97d2b5e60938d8316574a2850)
+-[Google AppsScriptを使用したGmailAPIでバッチリクエストを使用して複数のメールを送信する](https://gist.github.com/tanaikech/44e055214ab470c9b3143a469d7a7d21)
+
+<a name="calendar"> </a>
+
+#### Calendar
+
+-[Googleカレンダーからのイベント通知によるGoogleApps Scriptの実行](https://gist.github.com/tanaikech/fbbfaa8f2a8a770424974aa16b9b6f3b)
+-[Google Apps Scriptを使用してGoogleカレンダーのイベントURLからイベントIDを取得する](https://gist.github.com/tanaikech/b366be5995be04f689c3d80b18363f5e)
+-[Google Apps Scriptでバッチリクエストを使用して多数のGoogleカレンダーイベントを管理する](https://github.com/tanaikech/Managing-A-Lot-Of-Google-Calendar-Events-using-Batch-Requests-with- Google-Apps-Script)
+-[さまざまな言語を使用してGoogleMeetで新しいイベントを作成するためのサンプルスクリプトGoogleカレンダーへのリンク](https://gist.github.com/tanaikech/94791d48823e9659aa376cf7f0161d9b)
+
+<a name="form"> </a>
+
+#### Form
+
+-[Google Apps Scriptを使用してGoogleフォームに回答を直接送信する](https://gist.github.com/tanaikech/b4a31a51cbb0ef84c871e6fb96e1502e)
+-[Google Apps Scriptを使用してGoogleフォームからGoogleスプレッドシートにすべての回答値を入力する](https://gist.github.com/tanaikech/42ac2d72f62f2107b965f53239c2f398)
+-[Google AppsScriptでのGoogleForms APIの使用](https://gist.github.com/tanaikech/bac38226e863a398f55b5c3d817d86ed)
+
+<a name="youtube"> </a>
+
+#### YouTube
+
+-[Google Apps Scriptを使用してGoogleドライブ上のムービーファイルをYouTubeにアップロードする](https://gist.github.com/tanaikech/dc62aeb9a363513d6d27baf119ecfc2d)
+
+<a name="chart"> </a>
+
+#### Chart
+
+-[スプレッドシートでグラフを作成する](https://tanaikech.github.io/2017/02/13/making-charts-at-spreadsheet/)
+-[スプレッドシートのカスタム関数を使用してセルにグラフを埋め込む](https://gist.github.com/tanaikech/52da88484851ce2e0dea9881bf49f6fa)
+-[GASを使用したコンボチャートのバーへのラインの変更](https://gist.github.com/tanaikech/bff89176cd269e392c45500274b40810)
+-[Google Apps Scriptを使用してスプレッドシートの埋め込みグラフにvAxisのタイトルを追加する](https://gist.github.com/tanaikech/4125cc280e15c0fc726cb2fe4f35a3f7)
+
+<a name="analytics"> </a>
+
+#### Analytics
+
+-[Google Apps Scriptを使用してGoogleAnalyticsからユーザー概要レポートのユーザー、セッション、PageViewを取得する](https://gist.github.com/tanaikech/dc3e9c8dfec9403ed0b1935605ea1476)
+
+<a name="slack"> </a>
+
+#### Slack
+
+-[Google Apps Scriptを使用したSlackステータスの変更](https://tanaikech.github.io/2017/05/09/changing-slack-status-using-google-apps-script/)
+-[Google Apps Scriptによる着信Webhookを使用したSlackへの画像ファイルのアップロード](https://gist.github.com/tanaikech/159cec05583c6f206e144f33b4042559)
+-[Google Apps ScriptによるSlackのダイアログボックスの使用](https://gist.github.com/tanaikech/c111f5560d21a07529e0da870af06a7d)
+
+<a name="virtualcurrency"> </a>
+
+#### 仮想通貨
+
+-[Google AppsScript用のBitfinexAPI](https://gist.github.com/tanaikech/1104d039341f198f95eee66af57c0abf)
+-[Google AppsScript用のBinanceAPI](https://gist.github.com/tanaikech/175067567819577fd8eba9b82eabd1a6)
+-[Google AppsScript用のBittrexAPI](https://gist.github.com/tanaikech/07fb768cf6d8256b3a72716a72e99f91)
+-[Zaif API for Google Apps Script](https://gist.github.com/tanaikech/77481c2621dc7429449194c0f1dbd58c)
+-[Google AppsScript用CryptopiaAPI](https://gist.github.com/tanaikech/58f092a544eb1cfbb19bc0252f36e4cb)
+
+<a name="stackoverflow"> </a>
+
+#### Stackoverflow
+
+-[Google Apps Scriptを使用したメールによるStackoverflowでのコメントの通知](https://github.com/tanaikech/Notifying-Comments-at-Stackoverflow-by-Email)
+
+<a name="netatmo"> </a>
+
+#### Netatmo
+
+-[Netatmoがダウンしたときにメールで通知](https://github.com/tanaikech/Notifying-with-email-when-Netatmo-was-down)
+
+<a name="figma"> </a>
+
+#### Figma
+
+-[Google Apps Scriptを使用したFigmaからGoogleスライドへ](https://gist.github.com/tanaikech/6aeb3ff13765cfba465862e2e2c3dd3b)
+
+<a name="microsoft"> </a>
+
+#### Microsoft
+
+この場合、MicrosoftのAPIとリソースはGoogle AppsScriptで使用されます。
+
+-[OnedriveApp](https://github.com/tanaikech/OnedriveApp)：これはMicrosoftOneDriveを使用するためのGoogleAppsScriptのライブラリです。
+-[Google Apps Scriptを使用してMicrosoftアカウントのすべてのメールのリストを取得する](https://gist.github.com/tanaikech/45a5511cf2a4a42660b52b3409f7b537)
+-[Google Apps ScriptでMicrosoftアカウントを使用してOutlookメールを送信する](https://gist.github.com/tanaikech/0745889227e43c385d190385fff91598)
+
+<a name="etc"> </a>
+
+#### Etc
+
+-[GoogleドライブAPIを使用したOCR](https://gist.github.com/tanaikech/8c808bf8c060455fe5401ecacad07b94)
+-[Google Apps Scriptを使用したマルチパートPOSTリクエスト](https://gist.github.com/tanaikech/d595d30a592979bbf0c692d1193d260c)
+-[JSON for Javascriptの重複値をチェックして値を変更する](https://gist.github.com/tanaikech/4c659fbb7cf8df0bc2c063dafa10e36c)
+-[Google Apps Scriptを使用した2次元配列の要素の矯正](https://gist.github.com/tanaikech/6a8b169cdcbda5a84f19964b81e447d9)
+-[Google Apps Scriptのバッチリクエスト](https://gist.github.com/tanaikech/f167b9280a8e710804e4061571b53fb9)
+-[Google Apps Scriptを使用したJSONオブジェクトの変換](https://gist.github.com/tanaikech/806fe728f8cf964078ef1354307a433d)
+-[Google Apps Scriptを使用して2次元配列の違いを取得する](https://gist.github.com/tanaikech/2abf57eefc667d6c71310db6aa95a44d)
+-[更新されたUtilities.computeHmacSignature()について](https://gist.github.com/tanaikech/9e9ab42ad225e127c59ae8ae598aacac)
+-[オブジェクトから最大値のキーを取得する](https://gist.github.com/tanaikech/fcbc0204e92d8f1cdde74dc5ac820753)
+-[Google Apps Scriptを使用してURLにクエリパラメータを追加する](https://gist.github.com/tanaikech/70503e0ea6998083fcb05c6d2a857107)
+-[Google Apps Scriptを使用したサイトのスクリーンショットの取得](https://gist.github.com/tanaikech/a434b4ed50d91fe5f56fffcf6bcb3f78)
+-[Google Apps Scriptを使用したサービスアカウントのアクセストークンの取得](https://gist.github.com/tanaikech/20ea127a8e23a7c609f8d764c8b7ed7c)
+-[Google Apps Scriptを使用してURLからクエリパラメータを解析する](https://gist.github.com/tanaikech/34437522f3ce777bd060458b9cc02bdf)
+-[Google Apps Scriptを使用して配列をn個の要素で分割](https://gist.github.com/tanaikech/c1fd2b4bce19597abc609b72818c1d8e)
+-[Google Apps Scriptを使用した2次元配列の重複行の処理](https://gist.github.com/tanaikech/5c2d6187c08b2d7b2f7a561de0c75c5e)
+-[Google Apps Scriptを使用してJSONオブジェクトから複製する場合としない場合の値を取得する](https://gist.github.com/tanaikech/16ba2c77cdc8caa6a02958c9a4006e8a)
+-[Google Apps Scriptを使用したHTMLの解析](https://gist.github.com/tanaikech/e85193a89d041fed6122583739309786)
+-[Google Apps Scriptの署名バージョン4(AWS)の署名キーを取得する方法の例](https://gist.github.com/tanaikech/97a2787db7be94180a64e1f4c194d415)
+-[Google Apps Script用のWebアプリで関数名を指定して関数を実行する](https://gist.github.com/tanaikech/b2e0325a28efe7c609e4688ec22ee22c)
+-[Google Apps Scriptを使用したShift-JISによるURLエンコード](https://gist.github.com/tanaikech/f23755d7e024fea9c0f0e036853484d4)
+-[Google Apps Scriptを使用して2つのアレイの違いを取得する](https://gist.github.com/tanaikech/cc7bdfe67c3b72c48c290fc11c231e72)
+-[さまざまな言語でWebアプリにリクエストするためのサンプルスクリプト](https://gist.github.com/tanaikech/a72aab0242012362c46ec69031c720d5)
+-[Google Apps Script用のWebアプリにログイン](https://gist.github.com/tanaikech/3ccb4dd8ce43de21fdb764a68c14a4d7)
+-[回避策：Javascriptを使用してログインWebアプリをApps Script Dashboardに表示する](https://gist.github.com/tanaikech/e27581278f8cb464dff1dd83d6f887a7)
+-[重要：Google Apps Scriptのv8ランタイムがある場合とない場合のreduceRight](https://gist.github.com/tanaikech/7f13f4297d7307a47ad78f0254ce3353)
+-[Google Apps Scriptを使用して画像にテキストを挿入](https://gist.github.com/tanaikech/835642df109731a559e52d831bd3342d)
+-[Google AppsScriptを使用したSimpleRequestBodyを使用したmultipart / form-dataのリクエスト](https://gist.github.com/tanaikech/5cd0dc9ea7d75e4a2ff65049ed3d78c3)
+-[Google Apps Scriptを使用してテキストを太字、斜体、太字-斜体のUnicodeに変換する](https://gist.github.com/tanaikech/39797ccd1b9280f967fe62b3328d782a)
+-[Google Apps Scriptによって作成されたWebアプリを使用するXpathテスター](https://gist.github.com/tanaikech/8a596d235205ba443452aeb510220477)
+-[Google Apps Scriptを使用して画像にポイントをプロット](https://gist.github.com/tanaikech/fbb16f1eb43b3bafa93323461a500640)
+-[Google Apps Scriptを使用してアルファチャネルでPNG画像を作成する](https://github.com/tanaikech/Creating-PNG-Image-with-Alpha-Channel-using-Google-Apps-Script)
+-[Google Apps Scriptを使用して特定の時間に分タイマーで関数を実行する](https://gist.github.com/tanaikech/6608e901272077cbc3738366ec5fe0b3)
+-[Google Appsスクリプトを使用した文字列から16進数への変換、16進数からバイトへの変換、バイトから文字列への変換](https://gist.github.com/tanaikech/707b2cd2705f665a11b1ceb2febae91e)
+
+<a name="nodejs"> </a>
+
+#### Node.js
+
+-[Node.jsを使用して特定のフォルダーの下にファイルをダウンロードする](https://gist.github.com/tanaikech/38b536923b1765da052c21aab093649d)
+-[Nodemailerを使用してGmailからメールを送信する](https://gist.github.com/tanaikech/d225c7adab818a6dc1dfd7783f8c8e4d)
+-[Node.jsを使用してGoogleドライブのフォルダツリーを作成](https://gist.github.com/tanaikech/97b336f04c739ae0181a606eab3dff42)
+-[Node.js用のgoogleapisによるアクセストークンを直接使用する](https://gist.github.com/tanaikech/ca11c53356c5466e60109f79d9e4d9c9)
+-[googleapisを使用せずにNode.jsを使用してテキストで新しいGoogleドキュメントを作成し、既存のGoogleドキュメントを上書きする](https://gist.github.com/tanaikech/915f1034749b8b2f451556167663ea19)
+-[googleapisを使用せずにNode.jsのサービスアカウントを使用してアクセストークンを取得する](https://gist.github.com/tanaikech/7aaf2276e4e6104b89802e85957e75ae)
+-[Node.jsのGoogleスプレッドシートから値を取得してGoogleドキュメントにテーブルを作成する](https://gist.github.com/tanaikech/e64342de7011228f5fb639d7d1123ebb)
+-[Node.jsを使用したGoogleドライブとの不和のための音楽ストリーミングプレーヤー](https://gist.github.com/tanaikech/6029cb2422dd58fe24c3a16a43ce7c35)
+-[Node.js用のGoogleドライブAPIを使用した再開可能なアップロードの簡単なスクリプト](https://gist.github.com/tanaikech/ae451679e8220f3b2d48edb3f8c1a8d3)
+-[Node.jsでドライブAPIを使用してmultipart / form-dataのファイルをGoogleドライブにアップロードする](https://gist.github.com/tanaikech/33563b6754e5054f3a5832667100fe91)
+-[Node.jsを使用してWebで公開されたGoogleスプレッドシートの2PACX-のURLからすべてのシートからすべての値を取得する](https://gist.github.com/tanaikech/49e1e6515225d810e849b3487142a90d)
+-[Node.jsを使用してストリームと再開可能なアップロードでファイルを保存せずにファイルをダウンロードしてGoogleドライブにアップロード](https://gist.github.com/tanaikech/99187753ceb5fd55d343b52dcbe176a5)
+-[Axios用のGoogleドライブAPIを使用した再開可能なアップロードの簡単なスクリプト](https://gist.github.com/tanaikech/0e33b7a850e8c56d111ed0f32df0b485)
+
+<a name="golang"> </a>
+
+#### Golang
+
+-[Golangを使用したspreadsheets.values.batchUpdate](https://gist.github.com/tanaikech/0f5b15fec7f409cdb568b0c2904fccb2)
+-[スプレッドシートとしてCSVファイルをアップロードし、Golangを使用して権限を変更する](https://gist.github.com/tanaikech/7ee103c80759a8297da198a5d1e92fc8)
+-[文字列値を使用してGolangの[] googleapi.Field](https://gist.github.com/tanaikech/27d27a1ac7fa99503e0737c28db53056)
+-[Golang用のGoogleのOAuth2パッケージによるサービスアカウントを使用したアクセストークンの取得](https://gist.github.com/tanaikech/4b4cb27ece27573b3f4df0e050b52330)
+-[Golangを使用したスライスの並べ替え](https://gist.github.com/tanaikech/4d0075dc21b643245be03d661e8d5f54)
+-[GolangのGoogleスプレッドシートから値を取得してGoogleドキュメントにテーブルを作成する](https://gist.github.com/tanaikech/0589a673cae9569181def8ccd10793cf)
+-[Golangを使用したGoogleドライブへのファイルのアップロードの再開](https://gist.github.com/tanaikech/19655a8130bac1ba510b29c9c44bbd97)
+-[Golangを使用したSheetsAPIのbatchUpdateを使用したGoogleスプレッドシートのセルの数値形式の設定](https://gist.github.com/tanaikech/76cde17cecba38f44398c3effe2aedf2)
+-[golangのgoogleapisを使用したGoogleAPIの文字列JSONのリクエスト本文の使用](https://gist.github.com/tanaikech/3f1c8e9f40e78263ec1ade2cb9461dcc)
+
+<a name="python"> </a>
+
+#### Python
+
+-[Pythonを使用してGoogleドライブ上のファイルのサムネイルを更新する](https://gist.github.com/tanaikech/731c412c271828276bf3e24a25235aab)
+-[クイックスタートなしでPythonによってローカルからGoogleドライブにファイルをアップロードする](https://gist.github.com/tanaikech/8cdfd23807372657dc63d81e25e35153)
+-[Python用Googleスプレッドシートから値を取得してGoogleドキュメントにテーブルを作成する](https://gist.github.com/tanaikech/305e413696bcdf3a2ee3e86cebf3c7dc)
+-[Python用GoogleドライブAPIを使用した再開可能なアップロードの簡単なスクリプト](https://gist.github.com/tanaikech/f709a952ff6e286027950d0484f6c03e)
+-[Pythonを使用してWebで公開されたGoogleスプレッドシートの2PACX-のURLからすべてのシートからすべての値を取得する](https://gist.github.com/tanaikech/51628e5e0a2c017329457afdb1936912)
+-[PythonでDocsAPIを使用してGoogleドキュメントのテンプレートテキストを配列に置き換える](https://gist.github.com/tanaikech/f1f9fb91d3432362670c810ae05ba53b)
+
+<a name="curl"> </a>
+
+#### Curl
+
+-[ドライブAPIを使用したcurlのファイル変換によるファイルのアップロードとダウンロード](https://tanaikech.github.io/2017/02/08/file-upload-and-download-with-file-convert-for-curl- using-drive-api /)
+-[Curlを使用してGoogleドライブに共有ファイルをダウンロードする](https://gist.github.com/tanaikech/f0f2d122e05bf5f971611258c22c110f)
+-[ドライブAPIを使用して再開可能なアップロードでファイルを更新する](https://gist.github.com/tanaikech/bc33a83ac648911d00b43c59a24268fc)
+
+<a name="javascript"> </a>
+
+#### Javascript
+
+-[axiosを使用してGoogleフォトに画像ファイルをアップロードする](https://gist.github.com/tanaikech/426345c24e46da3ac7268f31b76bb3e4)
+-[Javascriptを使用したサービスアカウントのアクセストークンの取得](https://gist.github.com/tanaikech/3c7f208cb352a807b3d30b9c1dcf0c82)
+-[サービスアカウントでJavaScriptにGoogleAPIクライアントライブラリ(gapi)を使用する](https://gist.github.com/tanaikech/603102a64587cb9bff2e165994f6b6a1)
+
+<a name="php"> </a>
+
+#### PHP
+
+-[googleapisを使用せずにPHPのサービスアカウントを使用してアクセストークンを取得する](https://gist.github.com/tanaikech/1b47cfec588454963ee40c5a50943194)
+
+[TOP](#top)
