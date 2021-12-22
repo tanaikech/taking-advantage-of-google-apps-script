@@ -3,6 +3,8 @@
 <a name="top"></a>
 Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for taking advantage of Google Apps Script which are publishing in my [blog](https://tanaikech.github.io/), [Gists](https://gist.github.com/tanaikech) and [GitHub](https://github.com/tanaikech) are summarized. If these are useful for you, I'm glad.
 
+Japanese version of this list is [here](https://github.com/tanaikech/taking-advantage-of-google-apps-script/blob/master/Japanese_version/README.md).
+
 <br>
 
 # Index
