@@ -56,22 +56,22 @@
 
 # ニュース
 
-- ** 2021 年 12 月 9 日：** [Google フォーム API がオープンベータ版で利用可能になりました](https://tanaikech.github.io/2021/12/09/google-forms-api-now-available-in-open -ベータ/)
-- ** 2021 年 12 月 9 日** [[修正済み] Google Apps Script Web App HTML フォームファイル-入力フィールドが blob 互換形式ではない](https://tanaikech.github.io/2021/12/09/fixed- google-apps-script-web-app-html-form-file-input-fields-not-in-blob-compatible-format /)
-- ** 2021 年 10 月 16 日：** [Google フォーム API の発表](https://tanaikech.github.io/2021/10/16/announcing-the-google-forms-api/)
-- ** 2021 年 10 月 14 日：** [Google Cloud Innovators Champions](https://tanaikech.github.io/2021/10/14/google-cloud-innovators-champions/)
-- ** 2021 年 4 月 6 日：** [Google Apps Script プロジェクトのタイムゾーンに関する新しい IDE のバグが削除されました](https://tanaikech.github.io/2021/04/06/a-bug-of- new-ide-about-time-zone-of-google-apps-script-project-was-removed /)
-- ** 2020 年 12 月 15 日：** [Google Workspace Developer Experts に会う](https://tanaikech.github.io/2020/12/15/meet-the-google-workspace-developer-experts/)
-- ** 2020 年 12 月 8 日：** [Google Apps Script 用の新しい IDE がついにリリースされました](https://tanaikech.github.io/2020/12/08/new-ide-for-google-apps-script -has-been-finally-released /)
-- ** 2020 年 7 月 30 日：** [ドライブ API で GoogleApps Script プロジェクトを再度作成できるようになりました](https://gist.github.com/tanaikech/36821c7d70f9ce376d043c3d682d404e)
-- ** 2020 年 7 月 10 日：** [ファイルの所有者の転送は、ドライブ API のバッチリクエストで実現できるようになりました](https://tanaikech.github.io/2020/07/10/transfer-of -owner-of-files-got-to-be-able-to-be-achived-with-batch-requests-of-drive-api /)
-- ** 2020 年 7 月 9 日：** [ファイルの仕様：ドライブ API のコピーが変更されました](https://tanaikech.github.io/2020/07/09/specification-of-files-copy-in-drive -api-was-changed /)
-- ** 2020 年 7 月 7 日：** [ファイルの所有者の転送は、ドライブ API のバッチリクエストでは使用できなくなりました](https://tanaikech.github.io/2020/07/07/transfer- of-owner-of-files-got-not-to-be-able-to-be-use-with-batch-requests-of-drive-api /)
-- ** 2020 年 6 月 15 日：** [ファイルの所有者の転送は、ドライブ API のバッチリクエストで実現できるようになりました](https://tanaikech.github.io/2020/06/15/transfer-of -owner-of-files-got-to-be-able-to-be-achived-with-batch-requests-of-drive-api /)
-- ** 2020 年 6 月 4 日：** [Google Apps Script のドライブサービスを使用した共有ドライブの管理](https://gist.github.com/tanaikech/ede1c9ea6eb6a27235df7d4cb16ef48d)
-- ** 2020 年 3 月 11 日：** [DriveAPI は GoogleApps Script プロジェクトを作成できなくなりました](https://gist.github.com/tanaikech/0609f2cd989c28d6bd49d211b70b453d)
-- ** 2020 年 2 月 7 日：** [V8 ランタイムは 2020 年 2 月 7 日に GoogleApps Script に追加されました](https://gist.github.com/tanaikech/8246f89540957b177f0e350f453ea2fb)
-- ** 2019 年 4 月 8 日：** [Google Apps Script プロジェクトの仕様は 2019 年 4 月 8 日に変更されました](https://gist.github.com/tanaikech/558a5b6da0d9533017b1abe5815989c3)
+- **2021 年 12 月 9 日：**[Google フォーム API がオープンベータ版で利用可能になりました](https://tanaikech.github.io/2021/12/09/google-forms-api-now-available-in-open -ベータ/)
+- **2021 年 12 月 9 日**[[修正済み] Google Apps Script Web App HTML フォームファイル-入力フィールドが blob 互換形式ではない](https://tanaikech.github.io/2021/12/09/fixed- google-apps-script-web-app-html-form-file-input-fields-not-in-blob-compatible-format /)
+- **2021 年 10 月 16 日：**[Google フォーム API の発表](https://tanaikech.github.io/2021/10/16/announcing-the-google-forms-api/)
+- **2021 年 10 月 14 日：**[Google Cloud Innovators Champions](https://tanaikech.github.io/2021/10/14/google-cloud-innovators-champions/)
+- **2021 年 4 月 6 日：**[Google Apps Script プロジェクトのタイムゾーンに関する新しい IDE のバグが削除されました](https://tanaikech.github.io/2021/04/06/a-bug-of- new-ide-about-time-zone-of-google-apps-script-project-was-removed /)
+- **2020 年 12 月 15 日：**[Google Workspace Developer Experts に会う](https://tanaikech.github.io/2020/12/15/meet-the-google-workspace-developer-experts/)
+- **2020 年 12 月 8 日：**[Google Apps Script 用の新しい IDE がついにリリースされました](https://tanaikech.github.io/2020/12/08/new-ide-for-google-apps-script -has-been-finally-released /)
+- **2020 年 7 月 30 日：**[ドライブ API で GoogleApps Script プロジェクトを再度作成できるようになりました](https://gist.github.com/tanaikech/36821c7d70f9ce376d043c3d682d404e)
+- **2020 年 7 月 10 日：**[ファイルの所有者の転送は、ドライブ API のバッチリクエストで実現できるようになりました](https://tanaikech.github.io/2020/07/10/transfer-of -owner-of-files-got-to-be-able-to-be-achived-with-batch-requests-of-drive-api /)
+- **2020 年 7 月 9 日：**[ファイルの仕様：ドライブ API のコピーが変更されました](https://tanaikech.github.io/2020/07/09/specification-of-files-copy-in-drive -api-was-changed /)
+- **2020 年 7 月 7 日：**[ファイルの所有者の転送は、ドライブ API のバッチリクエストでは使用できなくなりました](https://tanaikech.github.io/2020/07/07/transfer- of-owner-of-files-got-not-to-be-able-to-be-use-with-batch-requests-of-drive-api /)
+- **2020 年 6 月 15 日：**[ファイルの所有者の転送は、ドライブ API のバッチリクエストで実現できるようになりました](https://tanaikech.github.io/2020/06/15/transfer-of -owner-of-files-got-to-be-able-to-be-achived-with-batch-requests-of-drive-api /)
+- **2020 年 6 月 4 日：**[Google Apps Script のドライブサービスを使用した共有ドライブの管理](https://gist.github.com/tanaikech/ede1c9ea6eb6a27235df7d4cb16ef48d)
+- **2020 年 3 月 11 日：**[DriveAPI は GoogleApps Script プロジェクトを作成できなくなりました](https://gist.github.com/tanaikech/0609f2cd989c28d6bd49d211b70b453d)
+- **2020 年 2 月 7 日：**[V8 ランタイムは 2020 年 2 月 7 日に GoogleApps Script に追加されました](https://gist.github.com/tanaikech/8246f89540957b177f0e350f453ea2fb)
+- **2019 年 4 月 8 日：**[Google Apps Script プロジェクトの仕様は 2019 年 4 月 8 日に変更されました](https://gist.github.com/tanaikech/558a5b6da0d9533017b1abe5815989c3)
 
 <br>
 
@@ -404,15 +404,15 @@ Javascript ライブラリ
 
 > ここでは、Google Apps Script(GAS)を使用して、GoogleSpreadsheet の特定の列の最初の空のセルまたは最初の空でないセルを取得するためのプロセスコストを報告します。この場合、次の 2 つのパターンが考えられます。
 
-> 1。シートの** TOP **から検索して、特定の列の最初の空のセルを取得します
+> 1。シートの**TOP **から検索して、特定の列の最初の空のセルを取得します
 
-> 2。シートの** BOTTOM **から検索して、特定の列の最初の非空のセルを取得します
+> 2。シートの**BOTTOM **から検索して、特定の列の最初の非空のセルを取得します
 
 > 実際、GAS を使用してアプリケーションを作成する場合、特定の列の最初の空のセルまたは最初の空でないセルを取得する必要がある場合があります。ただし、その場合は、アプリケーションの他の部分と比較して、このプロセスコストを可能な限り低くしたいと思います。このような経験から、この処理コストを削減できれば、他のユーザーにも役立つと思いました。そこで、このレポートでは、この状況のプロセスコストを紹介したいと思います。そして、以下の結果が得られた。
 
-> -シートの** TOP **から検索して特定の列の最初の空のセルを取得するには、 `getNextDataCell`を使用するメソッドのプロセスコストがすべてのメソッドの中で最も低くなります。
+> -シートの**TOP **から検索して特定の列の最初の空のセルを取得するには、 `getNextDataCell`を使用するメソッドのプロセスコストがすべてのメソッドの中で最も低くなります。
 
-> -シートの** BOTTOM **から検索して、特定の列の最初の非空のセルを取得するには、 `TextFinder`を使用するメソッドのプロセスコストがすべてのメソッドの中で最も低くなります。
+> -シートの**BOTTOM **から検索して、特定の列の最初の非空のセルを取得するには、 `TextFinder`を使用するメソッドのプロセスコストがすべてのメソッドの中で最も低くなります。
 
 ### [ベンチマーク：フォームを使用した Google スプレッドシートへの同時書き込み](https://gist.github.com/tanaikech/c2f3fccabbf4906a18fdc38463982f31)
 
