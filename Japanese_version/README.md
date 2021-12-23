@@ -4,6 +4,8 @@
 
 ここでは、私の[Blog](https://tanaikech.github.io/)、[Gists](https://gist.github.com/tanaikech)や[GitHub](https://github.com/tanaikech), [Stackoverflowでの私の回答](https://stackoverflow.com/users/7108653/tanaike?tab=answers)で公開している Google Apps Script を利用するための CLI ツール、ライブラリ、アドオン、レポート、ベンチマーク、サンプルスクリプトなどを紹介します。
 
+（注意）オリジナルは[こちら（英語）](https://github.com/tanaikech/taking-advantage-of-google-apps-script)です。このリストのみを日本語に自動翻訳させています。リストにある各リンク先は英語です。
+
 <br>
 
 # 索引
