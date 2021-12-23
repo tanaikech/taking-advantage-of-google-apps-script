@@ -570,6 +570,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して範囲 ID を Google スプレッドシート上の範囲オブジェクトに変換する](https://gist.github.com/tanaikech/3aa69f1a8e2a944c7df926879fa0f34e)
 - [Javascript と GoogleAppsScript を使用した「text / event-stream」のコンテンツタイプからのデータの取得](https://gist.github.com/tanaikech/2ba5f847ae6032d1611875d60cdf79b2)
 - [Google Apps Script を使用したシンプルでインストール可能なトリガーを使用しない Google スプレッドシート用の疑似 OnEdit トリガー](https://gist.github.com/tanaikech/05d9922a947232dbda5143b6ac6dc71f)
+- [Google Apps Script を使用して Google スプレッドシートのセルにチェックボックスがあるかどうかを確認する](https://gist.github.com/tanaikech/763ac2328d60805a3f971537e8b6e7c3)
 
 <a name="documents"> </a>
 

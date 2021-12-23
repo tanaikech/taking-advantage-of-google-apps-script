@@ -590,6 +590,7 @@ Javascript library
 - [Converting Range ID to Range Object on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/3aa69f1a8e2a944c7df926879fa0f34e)
 - [Retrieving Data from Content-Type of 'text/event-stream' using Javascript and Google Apps Script](https://gist.github.com/tanaikech/2ba5f847ae6032d1611875d60cdf79b2)
 - [Pseudo OnEdit Trigger for Google Spreadsheet without Simple and Installable Triggers using Google Apps Script](https://gist.github.com/tanaikech/05d9922a947232dbda5143b6ac6dc71f)
+- [Checking whether Cells on Google Spreadsheet have Checkboxes using Google Apps Script](https://gist.github.com/tanaikech/763ac2328d60805a3f971537e8b6e7c3)
 
 <a name="documents"></a>
 
