@@ -1,8 +1,8 @@
-# Google Apps Script を活用する(Tanaike リスト)
+# Google Apps Scriptを活用しよう
 
 <a name="top"> </a>
 
-ここでは、私の[Blog](https://tanaikech.github.io/)、[Gists](https://gist.github.com/tanaikech)や[GitHub](https://github.com/tanaikech)で公開している Google Apps Script を利用するための CLI ツール、ライブラリ、アドオン、レポート、ベンチマーク、サンプルスクリプトなどを紹介します。
+ここでは、私の[Blog](https://tanaikech.github.io/)、[Gists](https://gist.github.com/tanaikech)や[GitHub](https://github.com/tanaikech), [Stackoverflowでの私の回答](https://stackoverflow.com/users/7108653/tanaike?tab=answers)で公開している Google Apps Script を利用するための CLI ツール、ライブラリ、アドオン、レポート、ベンチマーク、サンプルスクリプトなどを紹介します。
 
 <br>
 
