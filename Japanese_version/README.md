@@ -573,6 +573,7 @@ Javascript ライブラリ
 - [Javascript と GoogleAppsScript を使用した「text / event-stream」のコンテンツタイプからのデータの取得](https://gist.github.com/tanaikech/2ba5f847ae6032d1611875d60cdf79b2)
 - [Google Apps Script を使用したシンプルでインストール可能なトリガーを使用しない Google スプレッドシート用の疑似 OnEdit トリガー](https://gist.github.com/tanaikech/05d9922a947232dbda5143b6ac6dc71f)
 - [Google Apps Script を使用して Google スプレッドシートのセルにチェックボックスがあるかどうかを確認する](https://gist.github.com/tanaikech/763ac2328d60805a3f971537e8b6e7c3)
+- [Google AppsScriptを使用してGoogleスプレッドシートで選択した範囲を反転する](https://gist.github.com/tanaikech/c08b9ea7a0f54b3e6074bba510e1efb4)
 
 <a name="documents"> </a>
 

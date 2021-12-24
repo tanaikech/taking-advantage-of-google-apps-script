@@ -591,6 +591,7 @@ Javascript library
 - [Retrieving Data from Content-Type of 'text/event-stream' using Javascript and Google Apps Script](https://gist.github.com/tanaikech/2ba5f847ae6032d1611875d60cdf79b2)
 - [Pseudo OnEdit Trigger for Google Spreadsheet without Simple and Installable Triggers using Google Apps Script](https://gist.github.com/tanaikech/05d9922a947232dbda5143b6ac6dc71f)
 - [Checking whether Cells on Google Spreadsheet have Checkboxes using Google Apps Script](https://gist.github.com/tanaikech/763ac2328d60805a3f971537e8b6e7c3)
+- [Inverting Selected Ranges on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/c08b9ea7a0f54b3e6074bba510e1efb4)
 
 <a name="documents"></a>
 
