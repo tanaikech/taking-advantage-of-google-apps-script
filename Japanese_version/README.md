@@ -47,7 +47,7 @@
   - [Node.js](#nodejs)
   - [Golang](#golang)
   - [Python](#python)
-  - [カール](#curl)
+  - [Curl](#curl)
   - [Javascript](#javascript)
   - [PHP](#php)
 
@@ -709,7 +709,7 @@ Javascript ライブラリ
 
 <a name="etc"> </a>
 
-#### Etc
+#### その他
 
 - [Google ドライブ API を使用した OCR](https://gist.github.com/tanaikech/8c808bf8c060455fe5401ecacad07b94)
 - [Google Apps Script を使用したマルチパート POST リクエスト](https://gist.github.com/tanaikech/d595d30a592979bbf0c692d1193d260c)
@@ -744,6 +744,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用してアルファチャネルで PNG 画像を作成する](https://github.com/tanaikech/Creating-PNG-Image-with-Alpha-Channel-using-Google-Apps-Script)
 - [Google Apps Script を使用して特定の時間に分タイマーで関数を実行する](https://gist.github.com/tanaikech/6608e901272077cbc3738366ec5fe0b3)
 - [Google Apps スクリプトを使用した文字列から 16 進数への変換、16 進数からバイトへの変換、バイトから文字列への変換](https://gist.github.com/tanaikech/707b2cd2705f665a11b1ceb2febae91e)
+- [ggsrunを簡単な設定で使用する方法](https://gist.github.com/tanaikech/695f7016b04e4c4156ad928e9482ead9)
 
 <a name="nodejs"> </a>
 

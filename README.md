@@ -631,6 +631,7 @@ Javascript library
 - [Simply Editing Texts of Texts Boxes on Google Slides using Google Apps Script](https://gist.github.com/tanaikech/aa0a03ba3c440ca72fc1d7e02f038f7c)
 - [Reducing Table Height of Table Inserted from Google Spreadsheet to Google Slides using Google Apps Script](https://gist.github.com/tanaikech/659f3687f4ea5282f39ebf9b6d5ae54c)
 - [Exporting All Thumbnail Images Retrieved from Google Slides as Zip File using Google Apps Script](https://gist.github.com/tanaikech/66a83c01e1f99829a85f909f8facb834)
+- [Inverting Selected Objects on Google Slides using Google Apps Script](https://gist.github.com/tanaikech/8eb87e6499631a79dade7d4f83e372f7)
 
 <a name="gmail"></a>
 
@@ -762,6 +763,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Creating PNG Image with Alpha Channel using Google Apps Script](https://github.com/tanaikech/Creating-PNG-Image-with-Alpha-Channel-using-Google-Apps-Script)
 - [Executing Function with Minutes timer in Specific Times using Google Apps Script](https://gist.github.com/tanaikech/6608e901272077cbc3738366ec5fe0b3)
 - [Converting from String to Hex, from Hex to Bytes, from Bytes to String using Google Apps script](https://gist.github.com/tanaikech/707b2cd2705f665a11b1ceb2febae91e)
+- [Simple Method for using ggsrun](https://gist.github.com/tanaikech/695f7016b04e4c4156ad928e9482ead9)
 
 <a name="nodejs"></a>
 
