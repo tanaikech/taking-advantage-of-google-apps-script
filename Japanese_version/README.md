@@ -1,8 +1,8 @@
-# Google Apps Scriptを活用しよう
+# Google Apps Script を活用しよう
 
 <a name="top"> </a>
 
-ここでは、私の[Blog](https://tanaikech.github.io/)、[Gists](https://gist.github.com/tanaikech)や[GitHub](https://github.com/tanaikech), [Stackoverflowでの私の回答](https://stackoverflow.com/users/7108653/tanaike?tab=answers)で公開している Google Apps Script を利用するための CLI ツール、ライブラリ、アドオン、レポート、ベンチマーク、サンプルスクリプトなどを紹介します。
+ここでは、私の[Blog](https://tanaikech.github.io/)、[Gists](https://gist.github.com/tanaikech)や[GitHub](https://github.com/tanaikech), [Stackoverflow での私の回答](https://stackoverflow.com/users/7108653/tanaike?tab=answers)で公開している Google Apps Script を利用するための CLI ツール、ライブラリ、アドオン、レポート、ベンチマーク、サンプルスクリプトなどを紹介します。
 
 （注意）オリジナルは[こちら（英語）](https://github.com/tanaikech/taking-advantage-of-google-apps-script)です。このリストのみを日本語に自動翻訳させています。リストにある各リンク先は英語です。
 
@@ -573,7 +573,8 @@ Javascript ライブラリ
 - [Javascript と GoogleAppsScript を使用した「text / event-stream」のコンテンツタイプからのデータの取得](https://gist.github.com/tanaikech/2ba5f847ae6032d1611875d60cdf79b2)
 - [Google Apps Script を使用したシンプルでインストール可能なトリガーを使用しない Google スプレッドシート用の疑似 OnEdit トリガー](https://gist.github.com/tanaikech/05d9922a947232dbda5143b6ac6dc71f)
 - [Google Apps Script を使用して Google スプレッドシートのセルにチェックボックスがあるかどうかを確認する](https://gist.github.com/tanaikech/763ac2328d60805a3f971537e8b6e7c3)
-- [Google AppsScriptを使用してGoogleスプレッドシートで選択した範囲を反転する](https://gist.github.com/tanaikech/c08b9ea7a0f54b3e6074bba510e1efb4)
+- [Google AppsScript を使用して Google スプレッドシートで選択した範囲を反転する](https://gist.github.com/tanaikech/c08b9ea7a0f54b3e6074bba510e1efb4)
+- [Google Apps Script を使用した所有者、特定のユーザー、匿名ユーザーによる GoogleSpreadsheet への操作の検出](https://gist.github.com/tanaikech/4c0067b5faec34e4c8a4b8d24a9350e5)
 
 <a name="documents"> </a>
 
@@ -744,7 +745,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用してアルファチャネルで PNG 画像を作成する](https://github.com/tanaikech/Creating-PNG-Image-with-Alpha-Channel-using-Google-Apps-Script)
 - [Google Apps Script を使用して特定の時間に分タイマーで関数を実行する](https://gist.github.com/tanaikech/6608e901272077cbc3738366ec5fe0b3)
 - [Google Apps スクリプトを使用した文字列から 16 進数への変換、16 進数からバイトへの変換、バイトから文字列への変換](https://gist.github.com/tanaikech/707b2cd2705f665a11b1ceb2febae91e)
-- [ggsrunを簡単な設定で使用する方法](https://gist.github.com/tanaikech/695f7016b04e4c4156ad928e9482ead9)
+- [ggsrun を簡単な設定で使用する方法](https://gist.github.com/tanaikech/695f7016b04e4c4156ad928e9482ead9)
 
 <a name="nodejs"> </a>
 
