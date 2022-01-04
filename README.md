@@ -592,6 +592,7 @@ Javascript library
 - [Pseudo OnEdit Trigger for Google Spreadsheet without Simple and Installable Triggers using Google Apps Script](https://gist.github.com/tanaikech/05d9922a947232dbda5143b6ac6dc71f)
 - [Checking whether Cells on Google Spreadsheet have Checkboxes using Google Apps Script](https://gist.github.com/tanaikech/763ac2328d60805a3f971537e8b6e7c3)
 - [Inverting Selected Ranges on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/c08b9ea7a0f54b3e6074bba510e1efb4)
+- [Detecting Operations to Google Spreadsheet by Owner, Specific Users, and Anonymous Users using Google Apps Script](https://gist.github.com/tanaikech/4c0067b5faec34e4c8a4b8d24a9350e5)
 
 <a name="documents"></a>
 
