@@ -83,13 +83,13 @@
 
 > Stackoverflow では、多くの人が毎日質問と質問への回答を投稿しています。Stackoverflow にはさまざまなタグがあります。各タグで多くの議論が行われます。彼らの議論は重要な情報をもたらし、多くの人々にとって非常に役立ちます。タグの 1 つとして、「google-apps-script」があります。私は時々そのタグで質問で話し合います。ディスカッションを見ると、タグの原点である「Google Apps Script」が更新されているため、時間の経過とともにディスカッションが変化し、進行していることがわかります。このレポートでは、この変更を「google-apps-script」のタグのトレンドと考えています。この傾向には、「google-apps-script」のタグに追加される質問、質問者、回答者、タグの数が含まれます。「google-apps-script」のタグのトレンド Google AppsScript の進歩と GoogleAppsScript のさまざまなアプリケーションに深く関係しています。このレポートでは、いくつかのアプローチの 1 つとして、「google-apps-script」のタグが付いたすべての質問を統計的に分析することにより、Google AppsScript の傾向を調査しました。その結果、「google-apps-script」のタグを付けてすべての質問を調査したところ、このメインタグに追加されたタグが「google-apps-script」のタグの傾向に強く影響していることがわかりました。また、「google-apps-script」のタグに追加されたタグを調査することで、将来のトレンドを推定できる可能性が示されました。Google Apps Script の傾向は、「google-apps-script」のタグが付いたすべての質問を統計的に分析することによって調査されました。その結果、「google-apps-script」のタグを付けてすべての質問を調査したところ、このメインタグに追加されたタグが「google-apps-script」のタグの傾向に強く影響していることがわかりました。また、「google-apps-script」のタグに追加されたタグを調査することで、将来のトレンドを推定できる可能性が示されました。Google Apps Script の傾向は、「google-apps-script」のタグが付いたすべての質問を統計的に分析することによって調査されました。その結果、「google-apps-script」のタグを付けてすべての質問を調査したところ、このメインタグに追加されたタグが「google-apps-script」のタグの傾向に強く影響していることがわかりました。また、「google-apps-script」のタグに追加されたタグを調査することで、将来のトレンドを推定できる可能性が示されました。
 
-- [Stackoverflowにおける2019年のgoogle-apps-scriptタグの傾向](https://gist.github.com/tanaikech/4e4f1ca20b8dbce08f87289db415df7d)
+- [Stackoverflow における 2019 年の google-apps-script タグの傾向](https://gist.github.com/tanaikech/4e4f1ca20b8dbce08f87289db415df7d)
 
-- [Stackoverflowにおける2020年のgoogle-apps-scriptタグの傾向](https://gist.github.com/tanaikech/fd7dbc6d630fd0550c32159635cecc96)
+- [Stackoverflow における 2020 年の google-apps-script タグの傾向](https://gist.github.com/tanaikech/fd7dbc6d630fd0550c32159635cecc96)
 
-- [Stackoverflowにおける2021年のgoogle-apps-scriptタグの傾向](https://gist.github.com/tanaikech/18519c3177e284638dce9113ec7ab5b1)
+- [Stackoverflow における 2021 年の google-apps-script タグの傾向](https://gist.github.com/tanaikech/18519c3177e284638dce9113ec7ab5b1)
 
-- [Stackoverflowにおける2022年のgoogle-apps-scriptタグの傾向](https://gist.github.com/tanaikech/e258f30182fdd6609d94d87805914caa)
+- [Stackoverflow における 2022 年の google-apps-script タグの傾向](https://gist.github.com/tanaikech/e258f30182fdd6609d94d87805914caa)
 
 <br>
 
@@ -577,6 +577,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Google スプレッドシートのセルにチェックボックスがあるかどうかを確認する](https://gist.github.com/tanaikech/763ac2328d60805a3f971537e8b6e7c3)
 - [Google AppsScript を使用して Google スプレッドシートで選択した範囲を反転する](https://gist.github.com/tanaikech/c08b9ea7a0f54b3e6074bba510e1efb4)
 - [Google Apps Script を使用した所有者、特定のユーザー、匿名ユーザーによる GoogleSpreadsheet への操作の検出](https://gist.github.com/tanaikech/4c0067b5faec34e4c8a4b8d24a9350e5)
+- [Google Apps Script を使って Google Spreadsheet のセルのフォーマットを維持しつつ CSV データをインポートする](https://gist.github.com/tanaikech/909863d8807c9143f4814aa270afe02e)
 
 <a name="documents"> </a>
 
