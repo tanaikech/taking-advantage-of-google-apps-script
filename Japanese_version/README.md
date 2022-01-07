@@ -83,11 +83,13 @@
 
 > Stackoverflow では、多くの人が毎日質問と質問への回答を投稿しています。Stackoverflow にはさまざまなタグがあります。各タグで多くの議論が行われます。彼らの議論は重要な情報をもたらし、多くの人々にとって非常に役立ちます。タグの 1 つとして、「google-apps-script」があります。私は時々そのタグで質問で話し合います。ディスカッションを見ると、タグの原点である「Google Apps Script」が更新されているため、時間の経過とともにディスカッションが変化し、進行していることがわかります。このレポートでは、この変更を「google-apps-script」のタグのトレンドと考えています。この傾向には、「google-apps-script」のタグに追加される質問、質問者、回答者、タグの数が含まれます。「google-apps-script」のタグのトレンド Google AppsScript の進歩と GoogleAppsScript のさまざまなアプリケーションに深く関係しています。このレポートでは、いくつかのアプローチの 1 つとして、「google-apps-script」のタグが付いたすべての質問を統計的に分析することにより、Google AppsScript の傾向を調査しました。その結果、「google-apps-script」のタグを付けてすべての質問を調査したところ、このメインタグに追加されたタグが「google-apps-script」のタグの傾向に強く影響していることがわかりました。また、「google-apps-script」のタグに追加されたタグを調査することで、将来のトレンドを推定できる可能性が示されました。Google Apps Script の傾向は、「google-apps-script」のタグが付いたすべての質問を統計的に分析することによって調査されました。その結果、「google-apps-script」のタグを付けてすべての質問を調査したところ、このメインタグに追加されたタグが「google-apps-script」のタグの傾向に強く影響していることがわかりました。また、「google-apps-script」のタグに追加されたタグを調査することで、将来のトレンドを推定できる可能性が示されました。Google Apps Script の傾向は、「google-apps-script」のタグが付いたすべての質問を統計的に分析することによって調査されました。その結果、「google-apps-script」のタグを付けてすべての質問を調査したところ、このメインタグに追加されたタグが「google-apps-script」のタグの傾向に強く影響していることがわかりました。また、「google-apps-script」のタグに追加されたタグを調査することで、将来のトレンドを推定できる可能性が示されました。
 
-- [Stackoverflow 2019 での google-apps-script タグの傾向](https://gist.github.com/tanaikech/4e4f1ca20b8dbce08f87289db415df7d)
+- [Stackoverflowにおける2019年のgoogle-apps-scriptタグの傾向](https://gist.github.com/tanaikech/4e4f1ca20b8dbce08f87289db415df7d)
 
-- [Stackoverflow 2020 での google-apps-script タグの傾向](https://gist.github.com/tanaikech/fd7dbc6d630fd0550c32159635cecc96)
+- [Stackoverflowにおける2020年のgoogle-apps-scriptタグの傾向](https://gist.github.com/tanaikech/fd7dbc6d630fd0550c32159635cecc96)
 
-- [Stackoverflow 2021 での google-apps-script タグの傾向](https://gist.github.com/tanaikech/18519c3177e284638dce9113ec7ab5b1)
+- [Stackoverflowにおける2021年のgoogle-apps-scriptタグの傾向](https://gist.github.com/tanaikech/18519c3177e284638dce9113ec7ab5b1)
+
+- [Stackoverflowにおける2022年のgoogle-apps-scriptタグの傾向](https://gist.github.com/tanaikech/e258f30182fdd6609d94d87805914caa)
 
 <br>
 
