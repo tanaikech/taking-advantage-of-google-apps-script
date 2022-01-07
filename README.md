@@ -88,6 +88,8 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
 
 - [Trend of google-apps-script Tag on Stackoverflow 2021](https://gist.github.com/tanaikech/18519c3177e284638dce9113ec7ab5b1)
 
+- [Trend of google-apps-script Tag on Stackoverflow 2022](https://gist.github.com/tanaikech/e258f30182fdd6609d94d87805914caa)
+
 <br>
 
 <a name="settings"></a>
