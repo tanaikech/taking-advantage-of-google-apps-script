@@ -578,6 +578,8 @@ Javascript ライブラリ
 - [Google AppsScript を使用して Google スプレッドシートで選択した範囲を反転する](https://gist.github.com/tanaikech/c08b9ea7a0f54b3e6074bba510e1efb4)
 - [Google Apps Script を使用した所有者、特定のユーザー、匿名ユーザーによる GoogleSpreadsheet への操作の検出](https://gist.github.com/tanaikech/4c0067b5faec34e4c8a4b8d24a9350e5)
 - [Google Apps Script を使って Google Spreadsheet のセルのフォーマットを維持しつつ CSV データをインポートする](https://gist.github.com/tanaikech/909863d8807c9143f4814aa270afe02e)
+- [Google AppsScriptを使用してGoogleスプレッドシートのセルにIMAGE関数を使用してGoogleドライブの非公開画像を挿入するための回避策](https://gist.github.com/tanaikech/80c1cd268c303edcbd5483211a1b9ea4)
+
 
 <a name="documents"> </a>
 

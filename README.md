@@ -596,6 +596,7 @@ Javascript library
 - [Inverting Selected Ranges on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/c08b9ea7a0f54b3e6074bba510e1efb4)
 - [Detecting Operations to Google Spreadsheet by Owner, Specific Users, and Anonymous Users using Google Apps Script](https://gist.github.com/tanaikech/4c0067b5faec34e4c8a4b8d24a9350e5)
 - [Importing CSV Data by Keeping Number Formats of Cells on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/909863d8807c9143f4814aa270afe02e)
+- [Workaround for Inserting Non-public image of Google Drive using IMAGE Function in a Cell on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/80c1cd268c303edcbd5483211a1b9ea4)
 
 <a name="documents"></a>
 
