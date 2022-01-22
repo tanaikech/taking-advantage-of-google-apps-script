@@ -58,6 +58,7 @@
 
 # ニュース
 
+- **2022 年 1 月 22 日:** [2022年1月19日、「CellImageBuilder」と「CellImage」の2つのクラスがスプレッドシートサービスに追加されました。](https://tanaikech.github.io/2022/01/22/on-january-19-2022-2-classes-of-cellimagebuilder-and-cellimage-have-been-added-to-spreadsheet-service/)
 - **2021 年 12 月 9 日：** [Google フォーム API がオープンベータ版で利用可能になりました](https://tanaikech.github.io/2021/12/09/google-forms-api-now-available-in-open-beta/)
 - **2021 年 12 月 9 日** [(修正済み) Google Apps Script Web App HTML フォームファイル-入力フィールドが blob 互換形式ではない](https://tanaikech.github.io/2021/12/09/fixed-google-apps-script-web-app-html-form-file-input-fields-not-in-blob-compatible-format/)
 - **2021 年 10 月 16 日：** [Google フォーム API の発表](https://tanaikech.github.io/2021/10/16/announcing-the-google-forms-api/)
