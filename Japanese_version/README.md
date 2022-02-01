@@ -163,6 +163,7 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [OwnershipTransfer](https://github.com/tanaikech/OwnershipTransfer)：これは、ドライブ API を使用してファイルやサブフォルダーを含む特定のフォルダーの所有権の譲渡を実現するための Google AppsScript ライブラリです。
 - [GASProjectApp](https://github.com/tanaikech/GASProjectApp)：これは、ドライブ API を使用してスタンドアロンタイプの Google Apps Script プロジェクトを作成、更新、エクスポートするための Google AppsScript ライブラリです。この場合、Apps ScriptAPI は使用されません。
 - [DocsServiceApp](https://github.com/tanaikech/DocsServiceApp)：これは、ドキュメントサービス、ドキュメント API、スプレッドシートサービス、スプレッドシート API、スライドサービス、スライド API をサポートするための Google AppsScript ライブラリです。このライブラリの目的は、サービスが達成できないプロセスを補うことです。
+- [HtmlFormApp](https://github.com/tanaikech/HtmlFormApp) : これは、HTMLフォームからフォームオブジェクトを解析し、送信された値をスプレッドシートに追加するためのGoogle AppsScriptライブラリです。
 
 <br>
 
