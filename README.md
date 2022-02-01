@@ -162,6 +162,7 @@ You can search the GAS libraries at [Search Google Apps Script Libraries](https:
 - [OwnershipTransfer](https://github.com/tanaikech/OwnershipTransfer) : This is a Google Apps Script library for achieving the ownership-transfer of the specific folder including the files and sub-folders using Drive API.
 - [GASProjectApp](https://github.com/tanaikech/GASProjectApp) : This is a Google Apps Script library for creating, updating and exporting Google Apps Script project of the standalone type using Drive API. In this case, Apps Script API is not used.
 - [DocsServiceApp](https://github.com/tanaikech/DocsServiceApp) : This is a Google Apps Script library for supporting Document service, Docs API, Spreadsheet service, Sheets API, Slides service and Slides API. The aim of this library is to compensate the processes that they services cannot achieve.
+- [HtmlFormApp](https://github.com/tanaikech/HtmlFormApp) : This is a Google Apps Script library for parsing the form object from HTML form and appending the submitted values to the Spreadsheet.
 
 <br>
 
