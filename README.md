@@ -309,6 +309,10 @@ Javascript library
 
 > When "=IMAGE(IMAGE_URL)" is put to a cell "A1" on Spreadsheet, the image is shown in the cell. For this situation, when the cell "A1" is copied with "range.copyTo(range, { contentsOnly: true })", the formula is removed and an image can be seen. I thought that when the image of the URL is removed, how are those images. In this report, such a situation was investigated.
 
+### [Occurring and Resolving Infinite Loop on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/c385bed8f037d67b154d9c0c8ff7a341)
+
+> Here, I would like to introduce a report for occurring and resolving the infinite loop on Google Spreadsheet using Google Apps Script. I have reported this to Google issue tracker.
+
 <br>
 
 <a name="benchmarks"></a>
