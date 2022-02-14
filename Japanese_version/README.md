@@ -58,7 +58,7 @@
 
 # ニュース
 
-- **2022 年 1 月 22 日:** [2022年1月19日、「CellImageBuilder」と「CellImage」の2つのクラスがスプレッドシートサービスに追加されました。](https://tanaikech.github.io/2022/01/22/on-january-19-2022-2-classes-of-cellimagebuilder-and-cellimage-have-been-added-to-spreadsheet-service/)
+- **2022 年 1 月 22 日:** [2022 年 1 月 19 日、「CellImageBuilder」と「CellImage」の 2 つのクラスがスプレッドシートサービスに追加されました。](https://tanaikech.github.io/2022/01/22/on-january-19-2022-2-classes-of-cellimagebuilder-and-cellimage-have-been-added-to-spreadsheet-service/)
 - **2021 年 12 月 9 日：** [Google フォーム API がオープンベータ版で利用可能になりました](https://tanaikech.github.io/2021/12/09/google-forms-api-now-available-in-open-beta/)
 - **2021 年 12 月 9 日** [(修正済み) Google Apps Script Web App HTML フォームファイル-入力フィールドが blob 互換形式ではない](https://tanaikech.github.io/2021/12/09/fixed-google-apps-script-web-app-html-form-file-input-fields-not-in-blob-compatible-format/)
 - **2021 年 10 月 16 日：** [Google フォーム API の発表](https://tanaikech.github.io/2021/10/16/announcing-the-google-forms-api/)
@@ -163,7 +163,7 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [OwnershipTransfer](https://github.com/tanaikech/OwnershipTransfer)：これは、ドライブ API を使用してファイルやサブフォルダーを含む特定のフォルダーの所有権の譲渡を実現するための Google AppsScript ライブラリです。
 - [GASProjectApp](https://github.com/tanaikech/GASProjectApp)：これは、ドライブ API を使用してスタンドアロンタイプの Google Apps Script プロジェクトを作成、更新、エクスポートするための Google AppsScript ライブラリです。この場合、Apps ScriptAPI は使用されません。
 - [DocsServiceApp](https://github.com/tanaikech/DocsServiceApp)：これは、ドキュメントサービス、ドキュメント API、スプレッドシートサービス、スプレッドシート API、スライドサービス、スライド API をサポートするための Google AppsScript ライブラリです。このライブラリの目的は、サービスが達成できないプロセスを補うことです。
-- [HtmlFormApp](https://github.com/tanaikech/HtmlFormApp) : これは、HTMLフォームからフォームオブジェクトを解析し、送信された値をスプレッドシートに追加するためのGoogle AppsScriptライブラリです。
+- [HtmlFormApp](https://github.com/tanaikech/HtmlFormApp) : これは、HTML フォームからフォームオブジェクトを解析し、送信された値をスプレッドシートに追加するための Google AppsScript ライブラリです。
 
 <br>
 
@@ -309,6 +309,10 @@ Javascript ライブラリ
 > これは、Google スプレッドシートに「`=IMAGE(IMAGE_URL)`」関数を使用して配置された画像に関するレポートです。
 
 > スプレッドシートのセル「A1」に「`=IMAGE(IMAGE_URL)`」を付けると、そのセルに画像が表示されます。この場合、セル「A1」を「`range.copyTo(range、{contentsOnly：true})`」でコピーすると、数式が削除され、画像が表示されます。URL の画像を削除すると、それらの画像はどうなるのかと思いました。このレポートでは、そのような状況を調査しました。
+
+### [Google Apps Script を使用した Google スプレッドシートでの無限ループの発生と解決]（https://gist.github.com/tanaikech/c385bed8f037d67b154d9c0c8ff7a341）
+
+> ここでは、Google AppsScript を使用して Google スプレッドシートで無限ループが発生して解決するためのレポートを紹介します。 これを Google の課題追跡システムに報告しました。
 
 <br>
 
@@ -580,8 +584,7 @@ Javascript ライブラリ
 - [Google AppsScript を使用して Google スプレッドシートで選択した範囲を反転する](https://gist.github.com/tanaikech/c08b9ea7a0f54b3e6074bba510e1efb4)
 - [Google Apps Script を使用した所有者、特定のユーザー、匿名ユーザーによる GoogleSpreadsheet への操作の検出](https://gist.github.com/tanaikech/4c0067b5faec34e4c8a4b8d24a9350e5)
 - [Google Apps Script を使って Google Spreadsheet のセルのフォーマットを維持しつつ CSV データをインポートする](https://gist.github.com/tanaikech/909863d8807c9143f4814aa270afe02e)
-- [Google AppsScriptを使用してGoogleスプレッドシートのセルにIMAGE関数を使用してGoogleドライブの非公開画像を挿入するための回避策](https://gist.github.com/tanaikech/80c1cd268c303edcbd5483211a1b9ea4)
-
+- [Google AppsScript を使用して Google スプレッドシートのセルに IMAGE 関数を使用して Google ドライブの非公開画像を挿入するための回避策](https://gist.github.com/tanaikech/80c1cd268c303edcbd5483211a1b9ea4)
 
 <a name="documents"> </a>
 
@@ -604,6 +607,7 @@ Javascript ライブラリ
 - [Google アプリのスクリプトを使用して Google ドキュメントのテンプレートテキストを配列に置き換える](https://gist.github.com/tanaikech/7fc15c4e8ecccbedd469d8d778880834)
 - [Google Apps Script を使用して Google ドキュメントのリストアイテムからグリフ値を取得する](https://gist.github.com/tanaikech/5f186b006c4803790318a75e65900c36)
 - [Google Apps Script を使用した Google ドキュメントの疑似 OnEdit トリガー](https://gist.github.com/tanaikech/f27d427f07b20ca9fedec21e643c4a3e)
+- [レポート：Google Docs API を使用して複数の段落を Google ドキュメントに順番に挿入](https://gist.github.com/tanaikech/6aa646691f6c2224202fa6fb756e3862)
 
 <a name="slides"> </a>
 
