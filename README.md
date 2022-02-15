@@ -603,6 +603,7 @@ Javascript library
 - [Detecting Operations to Google Spreadsheet by Owner, Specific Users, and Anonymous Users using Google Apps Script](https://gist.github.com/tanaikech/4c0067b5faec34e4c8a4b8d24a9350e5)
 - [Importing CSV Data by Keeping Number Formats of Cells on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/909863d8807c9143f4814aa270afe02e)
 - [Workaround for Inserting Non-public image of Google Drive using IMAGE Function in a Cell on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/80c1cd268c303edcbd5483211a1b9ea4)
+- [Counter in Cell of Google Spreadsheet using Infinite Loop with Google Apps Script](https://gist.github.com/tanaikech/efffc9233aba43922aae6cc93329075d)
 
 <a name="documents"></a>
 

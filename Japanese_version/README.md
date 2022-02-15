@@ -585,6 +585,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用した所有者、特定のユーザー、匿名ユーザーによる GoogleSpreadsheet への操作の検出](https://gist.github.com/tanaikech/4c0067b5faec34e4c8a4b8d24a9350e5)
 - [Google Apps Script を使って Google Spreadsheet のセルのフォーマットを維持しつつ CSV データをインポートする](https://gist.github.com/tanaikech/909863d8807c9143f4814aa270afe02e)
 - [Google AppsScript を使用して Google スプレッドシートのセルに IMAGE 関数を使用して Google ドライブの非公開画像を挿入するための回避策](https://gist.github.com/tanaikech/80c1cd268c303edcbd5483211a1b9ea4)
+- [GoogleAppsスクリプトで無限ループを使用してGoogleスプレッドシートのセルでカウンター](https://gist.github.com/tanaikech/efffc9233aba43922aae6cc93329075d)
 
 <a name="documents"> </a>
 
