@@ -57,6 +57,7 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
 
 # News
 
+- **March 10, 2022:** [Bug of Create Method of Google Forms API was Removed](https://gist.github.com/tanaikech/dbabd43df594d27cdd1ecc69a7badb52)
 - **January 22, 2022:** [On January 19, 2022, 2 Classes of 'CellImageBuilder' and 'CellImage' have been added to Spreadsheet Service](https://tanaikech.github.io/2022/01/22/on-january-19-2022-2-classes-of-cellimagebuilder-and-cellimage-have-been-added-to-spreadsheet-service/)
 - **December 9, 2021:** [Google Forms API now available in open beta](https://tanaikech.github.io/2021/12/09/google-forms-api-now-available-in-open-beta/)
 - **December 9, 2021:** [[Fixed] Google Apps Script Web App HTML form file-input fields not in blob compatible format](https://tanaikech.github.io/2021/12/09/fixed-google-apps-script-web-app-html-form-file-input-fields-not-in-blob-compatible-format/)
