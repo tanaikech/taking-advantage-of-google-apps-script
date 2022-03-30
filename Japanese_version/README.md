@@ -315,6 +315,10 @@ Javascript ライブラリ
 
 > ここでは、Google AppsScript を使用して Google スプレッドシートで無限ループが発生して解決するためのレポートを紹介します。 これを Google の課題追跡システムに報告しました。
 
+### [Google Apps Script を使用した Google スプレッドシートへのスプレッド構文と分割代入の適用]（https://gist.github.com/tanaikech/d0c60aa54fb55fc61a06593e311fa623）
+
+> このレポートでは、GoogleAppsScript を使用してスプレッド構文と分割代入を GoogleSpreadsheet に適用する方法を紹介します。 最近、Stackoverflow でそれらを使用しているスクリプトをよく見ました。 また、スプレッド構文と破壊的代入に関連する質問を時々受けます。 ということで、ブログで紹介したいと思いました。
+
 <br>
 
 <a name="benchmarks"> </a>

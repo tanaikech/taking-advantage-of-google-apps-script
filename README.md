@@ -315,6 +315,10 @@ Javascript library
 
 > Here, I would like to introduce a report for occurring and resolving the infinite loop on Google Spreadsheet using Google Apps Script. I have reported this to Google issue tracker.
 
+### [Applicating Spread Syntax and Destructuring assignment to Google Spreadsheet with Google Apps Script](https://gist.github.com/tanaikech/d0c60aa54fb55fc61a06593e311fa623)
+
+> In this report, I would like to introduce to apply the spread syntax and the destructuring assignment to Google Spreadsheet with Google Apps Script. The destructuring assignment can be used without V8 runtime. But, the spread syntax is required to be used with V8 runtime. Recently, I often saw the script using them at Stackoverflow. And also, I have sometimes gotten the questions related to the spread syntax and the destructuring assignment. So, I thought that I would like to introduce in my blog.
+
 <br>
 
 <a name="benchmarks"></a>
