@@ -610,6 +610,7 @@ Javascript library
 - [Importing CSV Data by Keeping Number Formats of Cells on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/909863d8807c9143f4814aa270afe02e)
 - [Workaround for Inserting Non-public image of Google Drive using IMAGE Function in a Cell on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/80c1cd268c303edcbd5483211a1b9ea4)
 - [Counter in Cell of Google Spreadsheet using Infinite Loop with Google Apps Script](https://gist.github.com/tanaikech/efffc9233aba43922aae6cc93329075d)
+- [Merging Columns with Same Header Title in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/41e62d17ca48a5b2f3f57e5e06ea8da0)
 
 <a name="documents"></a>
 
