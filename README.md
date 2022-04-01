@@ -634,6 +634,7 @@ Javascript library
 - [Retrieving Glyph Value from List Items of Google Document using Google Apps Script](https://gist.github.com/tanaikech/5f186b006c4803790318a75e65900c36)
 - [Pseudo OnEdit Trigger for Google Document using Google Apps Script](https://gist.github.com/tanaikech/f27d427f07b20ca9fedec21e643c4a3e)
 - [Report: Inserting Multiple Paragraphs to Google Document in Order using Google Docs API](https://gist.github.com/tanaikech/6aa646691f6c2224202fa6fb756e3862)
+- [Retrieving Summary of Google Document using Google Apps Script](https://gist.github.com/tanaikech/b61ec85a5f0fb4f5a9157fb9f7bd0e84)
 
 <a name="slides"></a>
 

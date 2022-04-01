@@ -615,6 +615,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Google ドキュメントのリストアイテムからグリフ値を取得する](https://gist.github.com/tanaikech/5f186b006c4803790318a75e65900c36)
 - [Google Apps Script を使用した Google ドキュメントの疑似 OnEdit トリガー](https://gist.github.com/tanaikech/f27d427f07b20ca9fedec21e643c4a3e)
 - [レポート：Google Docs API を使用して複数の段落を Google ドキュメントに順番に挿入](https://gist.github.com/tanaikech/6aa646691f6c2224202fa6fb756e3862)
+- [GoogleAppsScriptを使用してGoogleドキュメントの概要を取得する](https://gist.github.com/tanaikech/b61ec85a5f0fb4f5a9157fb9f7bd0e84)
 
 <a name="slides"> </a>
 
