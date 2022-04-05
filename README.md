@@ -680,6 +680,7 @@ Javascript library
 - [Putting All Response Values from Google Form to Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/42ac2d72f62f2107b965f53239c2f398)
 - [Using Google Forms API with Google Apps Script](https://gist.github.com/tanaikech/bac38226e863a398f55b5c3d817d86ed)
 - [Creating Quizzes in Google Form using Google Forms API with Google Apps Script](https://gist.github.com/tanaikech/eebcb2d71eed1aab5decff64287bcc9a)
+- [Creating Quizzes in Google Form using Google Forms Service with Google Apps Script](https://gist.github.com/tanaikech/3e131b55c7947ced19a3dd99410367eb)
 
 <a name="youtube"></a>
 

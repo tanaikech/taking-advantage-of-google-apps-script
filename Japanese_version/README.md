@@ -660,7 +660,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Google フォームから Google スプレッドシートにすべての回答値を入力する](https://gist.github.com/tanaikech/42ac2d72f62f2107b965f53239c2f398)
 - [Google AppsScript での GoogleForms API の使用](https://gist.github.com/tanaikech/bac38226e863a398f55b5c3d817d86ed)
 - [GoogleAppsScriptでGoogleFormsAPIを使用してGoogleFormでクイズを作成する](https://gist.github.com/tanaikech/eebcb2d71eed1aab5decff64287bcc9a)
-
+- [GoogleAppsScriptでGoogleフォームサービスを使用してGoogleフォームでクイズを作成する](https://gist.github.com/tanaikech/3e131b55c7947ced19a3dd99410367eb)
 
 <a name="youtube"> </a>
 
