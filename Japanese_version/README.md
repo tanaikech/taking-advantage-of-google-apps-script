@@ -58,6 +58,7 @@
 
 # ニュース
 
+- **2022 年 4 月 14 日:** [Google Apps ScriptのScript Editorが更新されます](https://tanaikech.github.io/2022/04/14/updating-script-editor-of-google-apps-script/)
 - **2022 年 3 月 10 日:** [Google Forms API の Create メソッドのバグが解消されました](https://gist.github.com/tanaikech/dbabd43df594d27cdd1ecc69a7badb52)
 - **2022 年 1 月 22 日:** [2022 年 1 月 19 日、「CellImageBuilder」と「CellImage」の 2 つのクラスがスプレッドシートサービスに追加されました。](https://tanaikech.github.io/2022/01/22/on-january-19-2022-2-classes-of-cellimagebuilder-and-cellimage-have-been-added-to-spreadsheet-service/)
 - **2021 年 12 月 9 日：** [Google フォーム API がオープンベータ版で利用可能になりました](https://tanaikech.github.io/2021/12/09/google-forms-api-now-available-in-open-beta/)
