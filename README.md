@@ -612,6 +612,8 @@ Javascript library
 - [Workaround for Inserting Non-public image of Google Drive using IMAGE Function in a Cell on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/80c1cd268c303edcbd5483211a1b9ea4)
 - [Counter in Cell of Google Spreadsheet using Infinite Loop with Google Apps Script](https://gist.github.com/tanaikech/efffc9233aba43922aae6cc93329075d)
 - [Merging Columns with Same Header Title in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/41e62d17ca48a5b2f3f57e5e06ea8da0)
+- [Merging Rows with Same Header Title in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/89e8825f31f65621332634dcbe9cf503)
+- [Merging Rows with Same Header Title in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/89e8825f31f65621332634dcbe9cf503)
 
 <a name="documents"></a>
 

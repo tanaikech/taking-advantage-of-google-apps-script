@@ -593,6 +593,7 @@ Javascript ライブラリ
 - [Google AppsScript を使用して Google スプレッドシートのセルに IMAGE 関数を使用して Google ドライブの非公開画像を挿入するための回避策](https://gist.github.com/tanaikech/80c1cd268c303edcbd5483211a1b9ea4)
 - [GoogleApps スクリプトで無限ループを使用して Google スプレッドシートのセルでカウンター](https://gist.github.com/tanaikech/efffc9233aba43922aae6cc93329075d)
 - [Google Apps Scriptを使用して、Googleスプレッドシートで同じヘッダータイトルの列をマージする](https://gist.github.com/tanaikech/41e62d17ca48a5b2f3f57e5e06ea8da0)
+- [Google Apps Scriptを使用して、Googleスプレッドシートで同じヘッダータイトルの行をマージする](https://gist.github.com/tanaikech/89e8825f31f65621332634dcbe9cf503)
 
 <a name="documents"> </a>
 
