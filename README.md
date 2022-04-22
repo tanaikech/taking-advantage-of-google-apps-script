@@ -790,6 +790,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Executing Function with Minutes timer in Specific Times using Google Apps Script](https://gist.github.com/tanaikech/6608e901272077cbc3738366ec5fe0b3)
 - [Converting from String to Hex, from Hex to Bytes, from Bytes to String using Google Apps script](https://gist.github.com/tanaikech/707b2cd2705f665a11b1ceb2febae91e)
 - [Simple Method for using ggsrun](https://gist.github.com/tanaikech/695f7016b04e4c4156ad928e9482ead9)
+- [Simply Converting HTML to Plain Text using Google Apps Script](https://gist.github.com/tanaikech/2779ee59a199011e3f48a1fa92879a68)
 
 <a name="nodejs"></a>
 
