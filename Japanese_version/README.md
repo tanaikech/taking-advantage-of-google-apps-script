@@ -320,6 +320,10 @@ Javascript ライブラリ
 
 > このレポートでは、GoogleAppsScript を使用してスプレッド構文と分割代入を GoogleSpreadsheet に適用する方法を紹介します。 最近、Stackoverflow でそれらを使用しているスクリプトをよく見ました。 また、スプレッド構文と破壊的代入に関連する質問を時々受けます。 ということで、ブログで紹介したいと思いました。
 
+### [レポート：Google Apps Scriptを使用したGoogleスプレッドシートの10,000,000個のセルの処理](https://gist.github.com/tanaikech/cc4380692790150cc090114553e38a0e)
+
+> 2022年3月14日、「Googleスプレッドシートがセル制限を2倍にする」と報告しました。 [参照]（https://workspaceupdates.googleblog.com/2022/03/ten-million-cells-google-sheets.html）この更新により、ユーザーはGoogleスプレッドシートで10,000,000個のセルを使用できるようになりました。 これは私たちにとって素晴らしいニュースです。 Google Apps Scriptを使用してGoogleスプレッドシートで10,000,000個のセルを処理しようとすると、さまざまな重要なポイントがあることがわかりました。 このレポートでは、GoogleAppsScriptを使用してGoogleスプレッドシートで10,000,000個のセルを処理するための重要なポイントを紹介します。
+
 <br>
 
 <a name="benchmarks"> </a>
@@ -618,6 +622,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用した Google ドキュメントの疑似 OnEdit トリガー](https://gist.github.com/tanaikech/f27d427f07b20ca9fedec21e643c4a3e)
 - [レポート：Google Docs API を使用して複数の段落を Google ドキュメントに順番に挿入](https://gist.github.com/tanaikech/6aa646691f6c2224202fa6fb756e3862)
 - [GoogleAppsScriptを使用してGoogleドキュメントの概要を取得する](https://gist.github.com/tanaikech/b61ec85a5f0fb4f5a9157fb9f7bd0e84)
+- [Google Apps Scriptを使用して、Googleドキュメントの複数の段落を正規表現に置き換える](https://gist.github.com/tanaikech/f32f878c6cc005bbbdec2d9c635fae7b)
 
 <a name="slides"> </a>
 

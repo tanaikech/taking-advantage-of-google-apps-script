@@ -320,6 +320,10 @@ Javascript library
 
 > In this report, I would like to introduce to apply the spread syntax and the destructuring assignment to Google Spreadsheet with Google Apps Script. The destructuring assignment can be used without V8 runtime. But, the spread syntax is required to be used with V8 runtime. Recently, I often saw the script using them at Stackoverflow. And also, I have sometimes gotten the questions related to the spread syntax and the destructuring assignment. So, I thought that I would like to introduce in my blog.
 
+### [Report: Handling 10,000,000 cells in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/cc4380692790150cc090114553e38a0e)
+
+> On March 14, 2022, it reported about "Google Sheets doubles cell limit". [Ref](https://workspaceupdates.googleblog.com/2022/03/ten-million-cells-google-sheets.html) By this update, now, the users can use 10,000,000 cells in a Google Spreadsheet. This is great news for us. When I tried to handle 10,000,000 cells in a Google Spreadsheet using Google Apps Script, it was found that there were various important points. In this report, I would like to introduce the important points for handling 10,000,000 cells in Google Spreadsheet using Google Apps Script.
+
 <br>
 
 <a name="benchmarks"></a>
@@ -638,6 +642,7 @@ Javascript library
 - [Pseudo OnEdit Trigger for Google Document using Google Apps Script](https://gist.github.com/tanaikech/f27d427f07b20ca9fedec21e643c4a3e)
 - [Report: Inserting Multiple Paragraphs to Google Document in Order using Google Docs API](https://gist.github.com/tanaikech/6aa646691f6c2224202fa6fb756e3862)
 - [Retrieving Summary of Google Document using Google Apps Script](https://gist.github.com/tanaikech/b61ec85a5f0fb4f5a9157fb9f7bd0e84)
+- [Replacing Multiple Paragraphs on Google Document with a Regex using Google Apps Script](https://gist.github.com/tanaikech/f32f878c6cc005bbbdec2d9c635fae7b)
 
 <a name="slides"></a>
 
