@@ -166,6 +166,7 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [GASProjectApp](https://github.com/tanaikech/GASProjectApp)：これは、ドライブ API を使用してスタンドアロンタイプの Google Apps Script プロジェクトを作成、更新、エクスポートするための Google AppsScript ライブラリです。この場合、Apps ScriptAPI は使用されません。
 - [DocsServiceApp](https://github.com/tanaikech/DocsServiceApp)：これは、ドキュメントサービス、ドキュメント API、スプレッドシートサービス、スプレッドシート API、スライドサービス、スライド API をサポートするための Google AppsScript ライブラリです。このライブラリの目的は、サービスが達成できないプロセスを補うことです。
 - [HtmlFormApp](https://github.com/tanaikech/HtmlFormApp) : これは、HTML フォームからフォームオブジェクトを解析し、送信された値をスプレッドシートに追加するための Google AppsScript ライブラリです。
+- [DocNamedRangeApp](https://github.com/tanaikech/DocNamedRangeApp) : これは、Googleドキュメントの名前付き範囲を管理するためのGoogle Apps Scriptライブラリです。
 
 <br>
 
@@ -668,6 +669,7 @@ Javascript ライブラリ
 - [Google AppsScript での GoogleForms API の使用](https://gist.github.com/tanaikech/bac38226e863a398f55b5c3d817d86ed)
 - [GoogleAppsScriptでGoogleFormsAPIを使用してGoogleFormでクイズを作成する](https://gist.github.com/tanaikech/eebcb2d71eed1aab5decff64287bcc9a)
 - [GoogleAppsScriptでGoogleフォームサービスを使用してGoogleフォームでクイズを作成する](https://gist.github.com/tanaikech/3e131b55c7947ced19a3dd99410367eb)
+- [GoogleAppsScriptを使用したGoogleフォームのグリッドアイテムからの応答の分析](https://gist.github.com/tanaikech/97c3cfd5c6e393de6a16ff6465300e4d)
 
 <a name="youtube"> </a>
 

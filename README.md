@@ -166,6 +166,7 @@ You can search the GAS libraries at [Search Google Apps Script Libraries](https:
 - [GASProjectApp](https://github.com/tanaikech/GASProjectApp) : This is a Google Apps Script library for creating, updating and exporting Google Apps Script project of the standalone type using Drive API. In this case, Apps Script API is not used.
 - [DocsServiceApp](https://github.com/tanaikech/DocsServiceApp) : This is a Google Apps Script library for supporting Document service, Docs API, Spreadsheet service, Sheets API, Slides service and Slides API. The aim of this library is to compensate the processes that they services cannot achieve.
 - [HtmlFormApp](https://github.com/tanaikech/HtmlFormApp) : This is a Google Apps Script library for parsing the form object from HTML form and appending the submitted values to the Spreadsheet.
+- [DocNamedRangeApp](https://github.com/tanaikech/DocNamedRangeApp) : This is a Google Apps Script library for managing the named range on Google Documents.
 
 <br>
 
@@ -689,6 +690,7 @@ Javascript library
 - [Using Google Forms API with Google Apps Script](https://gist.github.com/tanaikech/bac38226e863a398f55b5c3d817d86ed)
 - [Creating Quizzes in Google Form using Google Forms API with Google Apps Script](https://gist.github.com/tanaikech/eebcb2d71eed1aab5decff64287bcc9a)
 - [Creating Quizzes in Google Form using Google Forms Service with Google Apps Script](https://gist.github.com/tanaikech/3e131b55c7947ced19a3dd99410367eb)
+- [Analyzing Responses from Grid Items of Google Form using Google Apps Script](https://gist.github.com/tanaikech/97c3cfd5c6e393de6a16ff6465300e4d)
 
 <a name="youtube"></a>
 
