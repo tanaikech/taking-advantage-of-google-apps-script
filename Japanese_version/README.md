@@ -599,6 +599,7 @@ Javascript ライブラリ
 - [GoogleApps スクリプトで無限ループを使用して Google スプレッドシートのセルでカウンター](https://gist.github.com/tanaikech/efffc9233aba43922aae6cc93329075d)
 - [Google Apps Scriptを使用して、Googleスプレッドシートで同じヘッダータイトルの列をマージする](https://gist.github.com/tanaikech/41e62d17ca48a5b2f3f57e5e06ea8da0)
 - [Google Apps Scriptを使用して、Googleスプレッドシートで同じヘッダータイトルの行をマージする](https://gist.github.com/tanaikech/89e8825f31f65621332634dcbe9cf503)
+- [GoogleAppsScriptを使用して列文字を1つずつ増やす](https://gist.github.com/tanaikech/13fc8683114c5ff62b8144c338a1d574)
 
 <a name="documents"> </a>
 

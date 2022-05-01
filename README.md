@@ -619,6 +619,7 @@ Javascript library
 - [Merging Columns with Same Header Title in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/41e62d17ca48a5b2f3f57e5e06ea8da0)
 - [Merging Rows with Same Header Title in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/89e8825f31f65621332634dcbe9cf503)
 - [Merging Rows with Same Header Title in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/89e8825f31f65621332634dcbe9cf503)
+- [Increasing Column Letter by One using Google Apps Script](https://gist.github.com/tanaikech/13fc8683114c5ff62b8144c338a1d574)
 
 <a name="documents"></a>
 
