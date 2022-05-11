@@ -621,7 +621,7 @@ Javascript library
 - [Merging Rows with Same Header Title in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/89e8825f31f65621332634dcbe9cf503)
 - [Increasing Column Letter by One using Google Apps Script](https://gist.github.com/tanaikech/13fc8683114c5ff62b8144c338a1d574)
 - [Number of Requests for Sheets API using Google Apps Script](https://gist.github.com/tanaikech/dad5df2403b551f6bdd99221be115bef)
-
+- [Expanding Rows in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/d5d96ce34846110d67f82147b396b2b7)
 
 <a name="documents"></a>
 

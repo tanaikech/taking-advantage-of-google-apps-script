@@ -58,7 +58,7 @@
 
 # ニュース
 
-- **2022 年 4 月 14 日:** [Google Apps ScriptのScript Editorが更新されます](https://tanaikech.github.io/2022/04/14/updating-script-editor-of-google-apps-script/)
+- **2022 年 4 月 14 日:** [Google Apps Script の Script Editor が更新されます](https://tanaikech.github.io/2022/04/14/updating-script-editor-of-google-apps-script/)
 - **2022 年 3 月 10 日:** [Google Forms API の Create メソッドのバグが解消されました](https://gist.github.com/tanaikech/dbabd43df594d27cdd1ecc69a7badb52)
 - **2022 年 1 月 22 日:** [2022 年 1 月 19 日、「CellImageBuilder」と「CellImage」の 2 つのクラスがスプレッドシートサービスに追加されました。](https://tanaikech.github.io/2022/01/22/on-january-19-2022-2-classes-of-cellimagebuilder-and-cellimage-have-been-added-to-spreadsheet-service/)
 - **2021 年 12 月 9 日：** [Google フォーム API がオープンベータ版で利用可能になりました](https://tanaikech.github.io/2021/12/09/google-forms-api-now-available-in-open-beta/)
@@ -166,7 +166,7 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [GASProjectApp](https://github.com/tanaikech/GASProjectApp)：これは、ドライブ API を使用してスタンドアロンタイプの Google Apps Script プロジェクトを作成、更新、エクスポートするための Google AppsScript ライブラリです。この場合、Apps ScriptAPI は使用されません。
 - [DocsServiceApp](https://github.com/tanaikech/DocsServiceApp)：これは、ドキュメントサービス、ドキュメント API、スプレッドシートサービス、スプレッドシート API、スライドサービス、スライド API をサポートするための Google AppsScript ライブラリです。このライブラリの目的は、サービスが達成できないプロセスを補うことです。
 - [HtmlFormApp](https://github.com/tanaikech/HtmlFormApp) : これは、HTML フォームからフォームオブジェクトを解析し、送信された値をスプレッドシートに追加するための Google AppsScript ライブラリです。
-- [DocNamedRangeApp](https://github.com/tanaikech/DocNamedRangeApp) : これは、Googleドキュメントの名前付き範囲を管理するためのGoogle Apps Scriptライブラリです。
+- [DocNamedRangeApp](https://github.com/tanaikech/DocNamedRangeApp) : これは、Google ドキュメントの名前付き範囲を管理するための Google Apps Script ライブラリです。
 
 <br>
 
@@ -321,9 +321,9 @@ Javascript ライブラリ
 
 > このレポートでは、GoogleAppsScript を使用してスプレッド構文と分割代入を GoogleSpreadsheet に適用する方法を紹介します。 最近、Stackoverflow でそれらを使用しているスクリプトをよく見ました。 また、スプレッド構文と破壊的代入に関連する質問を時々受けます。 ということで、ブログで紹介したいと思いました。
 
-### [レポート：Google Apps Scriptを使用したGoogleスプレッドシートの10,000,000個のセルの処理](https://gist.github.com/tanaikech/cc4380692790150cc090114553e38a0e)
+### [レポート：Google Apps Script を使用した Google スプレッドシートの 10,000,000 個のセルの処理](https://gist.github.com/tanaikech/cc4380692790150cc090114553e38a0e)
 
-> 2022年3月14日、「Googleスプレッドシートがセル制限を2倍にする」と報告しました。 [参照]（https://workspaceupdates.googleblog.com/2022/03/ten-million-cells-google-sheets.html）この更新により、ユーザーはGoogleスプレッドシートで10,000,000個のセルを使用できるようになりました。 これは私たちにとって素晴らしいニュースです。 Google Apps Scriptを使用してGoogleスプレッドシートで10,000,000個のセルを処理しようとすると、さまざまな重要なポイントがあることがわかりました。 このレポートでは、GoogleAppsScriptを使用してGoogleスプレッドシートで10,000,000個のセルを処理するための重要なポイントを紹介します。
+> 2022 年 3 月 14 日、「Google スプレッドシートがセル制限を 2 倍にする」と報告しました。 [参照]（https://workspaceupdates.googleblog.com/2022/03/ten-million-cells-google-sheets.html）この更新により、ユーザーはGoogleスプレッドシートで10,000,000個のセルを使用できるようになりました。 これは私たちにとって素晴らしいニュースです。 Google Apps Script を使用して Google スプレッドシートで 10,000,000 個のセルを処理しようとすると、さまざまな重要なポイントがあることがわかりました。 このレポートでは、GoogleAppsScript を使用して Google スプレッドシートで 10,000,000 個のセルを処理するための重要なポイントを紹介します。
 
 <br>
 
@@ -597,10 +597,11 @@ Javascript ライブラリ
 - [Google Apps Script を使って Google Spreadsheet のセルのフォーマットを維持しつつ CSV データをインポートする](https://gist.github.com/tanaikech/909863d8807c9143f4814aa270afe02e)
 - [Google AppsScript を使用して Google スプレッドシートのセルに IMAGE 関数を使用して Google ドライブの非公開画像を挿入するための回避策](https://gist.github.com/tanaikech/80c1cd268c303edcbd5483211a1b9ea4)
 - [GoogleApps スクリプトで無限ループを使用して Google スプレッドシートのセルでカウンター](https://gist.github.com/tanaikech/efffc9233aba43922aae6cc93329075d)
-- [Google Apps Scriptを使用して、Googleスプレッドシートで同じヘッダータイトルの列をマージする](https://gist.github.com/tanaikech/41e62d17ca48a5b2f3f57e5e06ea8da0)
-- [Google Apps Scriptを使用して、Googleスプレッドシートで同じヘッダータイトルの行をマージする](https://gist.github.com/tanaikech/89e8825f31f65621332634dcbe9cf503)
-- [GoogleAppsScriptを使用して列文字を1つずつ増やす](https://gist.github.com/tanaikech/13fc8683114c5ff62b8144c338a1d574)
-- [GoogleAppsScriptを使用したスプレッドシートAPIのリクエスト数](https://gist.github.com/tanaikech/dad5df2403b551f6bdd99221be115bef)
+- [Google Apps Script を使用して、Google スプレッドシートで同じヘッダータイトルの列をマージする](https://gist.github.com/tanaikech/41e62d17ca48a5b2f3f57e5e06ea8da0)
+- [Google Apps Script を使用して、Google スプレッドシートで同じヘッダータイトルの行をマージする](https://gist.github.com/tanaikech/89e8825f31f65621332634dcbe9cf503)
+- [GoogleAppsScript を使用して列文字を 1 つずつ増やす](https://gist.github.com/tanaikech/13fc8683114c5ff62b8144c338a1d574)
+- [GoogleAppsScript を使用したスプレッドシート API のリクエスト数](https://gist.github.com/tanaikech/dad5df2403b551f6bdd99221be115bef)
+- [GoogleAppsScript を使用して Google スプレッドシートの行を拡張する](https://gist.github.com/tanaikech/d5d96ce34846110d67f82147b396b2b7)
 
 <a name="documents"> </a>
 
@@ -624,8 +625,8 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Google ドキュメントのリストアイテムからグリフ値を取得する](https://gist.github.com/tanaikech/5f186b006c4803790318a75e65900c36)
 - [Google Apps Script を使用した Google ドキュメントの疑似 OnEdit トリガー](https://gist.github.com/tanaikech/f27d427f07b20ca9fedec21e643c4a3e)
 - [レポート：Google Docs API を使用して複数の段落を Google ドキュメントに順番に挿入](https://gist.github.com/tanaikech/6aa646691f6c2224202fa6fb756e3862)
-- [GoogleAppsScriptを使用してGoogleドキュメントの概要を取得する](https://gist.github.com/tanaikech/b61ec85a5f0fb4f5a9157fb9f7bd0e84)
-- [Google Apps Scriptを使用して、Googleドキュメントの複数の段落を正規表現に置き換える](https://gist.github.com/tanaikech/f32f878c6cc005bbbdec2d9c635fae7b)
+- [GoogleAppsScript を使用して Google ドキュメントの概要を取得する](https://gist.github.com/tanaikech/b61ec85a5f0fb4f5a9157fb9f7bd0e84)
+- [Google Apps Script を使用して、Google ドキュメントの複数の段落を正規表現に置き換える](https://gist.github.com/tanaikech/f32f878c6cc005bbbdec2d9c635fae7b)
 
 <a name="slides"> </a>
 
@@ -669,9 +670,9 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Google フォームに回答を直接送信する](https://gist.github.com/tanaikech/b4a31a51cbb0ef84c871e6fb96e1502e)
 - [Google Apps Script を使用して Google フォームから Google スプレッドシートにすべての回答値を入力する](https://gist.github.com/tanaikech/42ac2d72f62f2107b965f53239c2f398)
 - [Google AppsScript での GoogleForms API の使用](https://gist.github.com/tanaikech/bac38226e863a398f55b5c3d817d86ed)
-- [GoogleAppsScriptでGoogleFormsAPIを使用してGoogleFormでクイズを作成する](https://gist.github.com/tanaikech/eebcb2d71eed1aab5decff64287bcc9a)
-- [GoogleAppsScriptでGoogleフォームサービスを使用してGoogleフォームでクイズを作成する](https://gist.github.com/tanaikech/3e131b55c7947ced19a3dd99410367eb)
-- [GoogleAppsScriptを使用したGoogleフォームのグリッドアイテムからの応答の分析](https://gist.github.com/tanaikech/97c3cfd5c6e393de6a16ff6465300e4d)
+- [GoogleAppsScript で GoogleFormsAPI を使用して GoogleForm でクイズを作成する](https://gist.github.com/tanaikech/eebcb2d71eed1aab5decff64287bcc9a)
+- [GoogleAppsScript で Google フォームサービスを使用して Google フォームでクイズを作成する](https://gist.github.com/tanaikech/3e131b55c7947ced19a3dd99410367eb)
+- [GoogleAppsScript を使用した Google フォームのグリッドアイテムからの応答の分析](https://gist.github.com/tanaikech/97c3cfd5c6e393de6a16ff6465300e4d)
 
 <a name="youtube"> </a>
 
@@ -778,7 +779,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して特定の時間に分タイマーで関数を実行する](https://gist.github.com/tanaikech/6608e901272077cbc3738366ec5fe0b3)
 - [Google Apps スクリプトを使用した文字列から 16 進数への変換、16 進数からバイトへの変換、バイトから文字列への変換](https://gist.github.com/tanaikech/707b2cd2705f665a11b1ceb2febae91e)
 - [ggsrun を簡単な設定で使用する方法](https://gist.github.com/tanaikech/695f7016b04e4c4156ad928e9482ead9)
-- [GoogleAppsScriptを使用してHTMLをプレーンテキストに変換する](https://gist.github.com/tanaikech/2779ee59a199011e3f48a1fa92879a68)
+- [GoogleAppsScript を使用して HTML をプレーンテキストに変換する](https://gist.github.com/tanaikech/2779ee59a199011e3f48a1fa92879a68)
 
 <a name="nodejs"> </a>
 
