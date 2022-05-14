@@ -779,7 +779,8 @@ Javascript ライブラリ
 - [Google Apps Script を使用して特定の時間に分タイマーで関数を実行する](https://gist.github.com/tanaikech/6608e901272077cbc3738366ec5fe0b3)
 - [Google Apps スクリプトを使用した文字列から 16 進数への変換、16 進数からバイトへの変換、バイトから文字列への変換](https://gist.github.com/tanaikech/707b2cd2705f665a11b1ceb2febae91e)
 - [ggsrun を簡単な設定で使用する方法](https://gist.github.com/tanaikech/695f7016b04e4c4156ad928e9482ead9)
-- [GoogleAppsScript を使用して HTML をプレーンテキストに変換する](https://gist.github.com/tanaikech/2779ee59a199011e3f48a1fa92879a68)
+- [Google Apps Script を使用して HTML をプレーンテキストに変換する](https://gist.github.com/tanaikech/2779ee59a199011e3f48a1fa92879a68)
+- [Google Apps Script を使用して画像データサイズを縮小する](https://gist.github.com/tanaikech/14c863e225162ec86894d604709d8b35)
 
 <a name="nodejs"> </a>
 

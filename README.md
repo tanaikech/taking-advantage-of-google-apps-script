@@ -801,6 +801,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Converting from String to Hex, from Hex to Bytes, from Bytes to String using Google Apps script](https://gist.github.com/tanaikech/707b2cd2705f665a11b1ceb2febae91e)
 - [Simple Method for using ggsrun](https://gist.github.com/tanaikech/695f7016b04e4c4156ad928e9482ead9)
 - [Simply Converting HTML to Plain Text using Google Apps Script](https://gist.github.com/tanaikech/2779ee59a199011e3f48a1fa92879a68)
+- [Reducing Image Data Size using Google Apps Script](https://gist.github.com/tanaikech/14c863e225162ec86894d604709d8b35)
 
 <a name="nodejs"></a>
 
