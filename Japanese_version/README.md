@@ -325,6 +325,10 @@ Javascript ライブラリ
 
 > 2022 年 3 月 14 日、「Google スプレッドシートがセル制限を 2 倍にする」と報告しました。 [参照]（https://workspaceupdates.googleblog.com/2022/03/ten-million-cells-google-sheets.html）この更新により、ユーザーはGoogleスプレッドシートで10,000,000個のセルを使用できるようになりました。 これは私たちにとって素晴らしいニュースです。 Google Apps Script を使用して Google スプレッドシートで 10,000,000 個のセルを処理しようとすると、さまざまな重要なポイントがあることがわかりました。 このレポートでは、GoogleAppsScript を使用して Google スプレッドシートで 10,000,000 個のセルを処理するための重要なポイントを紹介します。
 
+### [レポート：Google Apps Scriptを使用してGOOGLEFINANCEから値を取得する](https://gist.github.com/tanaikech/7bebb7c6d8ed6ddfdd825153ef71c47e)
+
+> これは、GoogleAppsScriptを使用してGOOGLEFINANCEから値を取得するためのレポートです。 Google AppsScriptを使用してGoogleSpreadsheetの`GOOGLEFINANCE`関数から値を取得するためにテストしたところ、値を取得できることに気付きました。
+
 <br>
 
 <a name="benchmarks"> </a>

@@ -325,6 +325,10 @@ Javascript library
 
 > On March 14, 2022, it reported about "Google Sheets doubles cell limit". [Ref](https://workspaceupdates.googleblog.com/2022/03/ten-million-cells-google-sheets.html) By this update, now, the users can use 10,000,000 cells in a Google Spreadsheet. This is great news for us. When I tried to handle 10,000,000 cells in a Google Spreadsheet using Google Apps Script, it was found that there were various important points. In this report, I would like to introduce the important points for handling 10,000,000 cells in Google Spreadsheet using Google Apps Script.
 
+### [Report: Obtaining Values from GOOGLEFINANCE using Google Apps Script](https://gist.github.com/tanaikech/7bebb7c6d8ed6ddfdd825153ef71c47e)
+
+> This is a report for obtaining the values from GOOGLEFINANCE using Google Apps Script. When I tested to retrieve the values from `GOOGLEFINANCE` function on Google Spreadsheet using Google Apps Script, I noticed that the values can be retrieved.
+
 <br>
 
 <a name="benchmarks"></a>
