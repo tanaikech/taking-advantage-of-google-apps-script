@@ -785,6 +785,7 @@ Javascript ライブラリ
 - [ggsrun を簡単な設定で使用する方法](https://gist.github.com/tanaikech/695f7016b04e4c4156ad928e9482ead9)
 - [Google Apps Script を使用して HTML をプレーンテキストに変換する](https://gist.github.com/tanaikech/2779ee59a199011e3f48a1fa92879a68)
 - [Google Apps Script を使用して画像データサイズを縮小する](https://gist.github.com/tanaikech/14c863e225162ec86894d604709d8b35)
+- [Google Apps Scriptを使用してn個の長さごとに配列を分割して処理する](https://gist.github.com/tanaikech/9e6276edb67d0ebde80ea378b6f79e20)
 
 <a name="nodejs"> </a>
 
