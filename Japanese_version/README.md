@@ -683,6 +683,7 @@ Javascript ライブラリ
 #### YouTube
 
 - [Google Apps Script を使用して Google ドライブ上のムービーファイルを YouTube にアップロードする](https://gist.github.com/tanaikech/dc62aeb9a363513d6d27baf119ecfc2d)
+- [Google Apps Scriptを使用してYouTubeのビデオURLからチャンネルのsubscriberCountを取得する](https://gist.github.com/tanaikech/e3b4ac87437a3f358e0577c5854e00a6)
 
 <a name="chart"> </a>
 
