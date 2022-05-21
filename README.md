@@ -626,6 +626,7 @@ Javascript library
 - [Increasing Column Letter by One using Google Apps Script](https://gist.github.com/tanaikech/13fc8683114c5ff62b8144c338a1d574)
 - [Number of Requests for Sheets API using Google Apps Script](https://gist.github.com/tanaikech/dad5df2403b551f6bdd99221be115bef)
 - [Expanding Rows in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/d5d96ce34846110d67f82147b396b2b7)
+- [Retrieving and Parsing XML data from Google Workspace Update Blog and Putting it to Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/0ba501fecdfd1ac9b0f6997b370586b4)
 
 <a name="documents"></a>
 

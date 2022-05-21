@@ -606,6 +606,7 @@ Javascript ライブラリ
 - [GoogleAppsScript を使用して列文字を 1 つずつ増やす](https://gist.github.com/tanaikech/13fc8683114c5ff62b8144c338a1d574)
 - [GoogleAppsScript を使用したスプレッドシート API のリクエスト数](https://gist.github.com/tanaikech/dad5df2403b551f6bdd99221be115bef)
 - [GoogleAppsScript を使用して Google スプレッドシートの行を拡張する](https://gist.github.com/tanaikech/d5d96ce34846110d67f82147b396b2b7)
+- [Google Workspace UpdateブログからXMLデータを取得して解析し、Google Apps Scriptを使用してGoogleスプレッドシートに配置する](https://gist.github.com/tanaikech/0ba501fecdfd1ac9b0f6997b370586b4)
 
 <a name="documents"> </a>
 
