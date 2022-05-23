@@ -607,6 +607,7 @@ Javascript ライブラリ
 - [GoogleAppsScript を使用したスプレッドシート API のリクエスト数](https://gist.github.com/tanaikech/dad5df2403b551f6bdd99221be115bef)
 - [GoogleAppsScript を使用して Google スプレッドシートの行を拡張する](https://gist.github.com/tanaikech/d5d96ce34846110d67f82147b396b2b7)
 - [Google Workspace UpdateブログからXMLデータを取得して解析し、Google Apps Scriptを使用してGoogleスプレッドシートに配置する](https://gist.github.com/tanaikech/0ba501fecdfd1ac9b0f6997b370586b4)
+- [Google Apps Scriptを使用したテキストデータ内のテキスト位置の取得](https://gist.github.com/tanaikech/77fbac03f26e1c1688f54130a683f8c0)
 
 <a name="documents"> </a>
 
