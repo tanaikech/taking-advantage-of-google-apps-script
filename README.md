@@ -810,6 +810,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Simply Converting HTML to Plain Text using Google Apps Script](https://gist.github.com/tanaikech/2779ee59a199011e3f48a1fa92879a68)
 - [Reducing Image Data Size using Google Apps Script](https://gist.github.com/tanaikech/14c863e225162ec86894d604709d8b35)
 - [Splitting and Processing an Array every n length using Google Apps Script](https://gist.github.com/tanaikech/9e6276edb67d0ebde80ea378b6f79e20)
+- [Requesting to Gate API v4 using Google Apps Script](https://gist.github.com/tanaikech/d0ea117b1c0e54cf713a8027f6b2fb08)
 
 <a name="nodejs"></a>
 
