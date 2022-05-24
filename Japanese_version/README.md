@@ -790,6 +790,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して画像データサイズを縮小する](https://gist.github.com/tanaikech/14c863e225162ec86894d604709d8b35)
 - [Google Apps Scriptを使用してn個の長さごとに配列を分割して処理する](https://gist.github.com/tanaikech/9e6276edb67d0ebde80ea378b6f79e20)
 - [Google Apps Scriptを使用したGateAPIv4へのリクエスト](https://gist.github.com/tanaikech/d0ea117b1c0e54cf713a8027f6b2fb08)
+- [Google Apps Scriptを使用したTabulatorデータのGoogleドライブへのエクスポート](https://gist.github.com/tanaikech/b0d83cd2f0a27f9cd778f3a1f167503e)
 
 <a name="nodejs"> </a>
 
