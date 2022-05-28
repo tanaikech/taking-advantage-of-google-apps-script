@@ -835,6 +835,8 @@ Javascript ライブラリ
 - [Python 用 Google ドライブ API を使用した再開可能なアップロードの簡単なスクリプト](https://gist.github.com/tanaikech/f709a952ff6e286027950d0484f6c03e)
 - [Python を使用して Web で公開された Google スプレッドシートの 2PACX-の URL からすべてのシートからすべての値を取得する](https://gist.github.com/tanaikech/51628e5e0a2c017329457afdb1936912)
 - [Python で DocsAPI を使用して Google ドキュメントのテンプレートテキストを配列に置き換える](https://gist.github.com/tanaikech/f1f9fb91d3432362670c810ae05ba53b)
+- [Pythonを使用した非同期プロセスでのGoogleドライブへのファイルのアップロード](https://gist.github.com/tanaikech/a4cfbea4935b8c281d1f6abb91016705)
+
 
 <a name="curl"> </a>
 

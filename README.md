@@ -856,6 +856,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Simple Script of Resumable Upload with Google Drive API for Python](https://gist.github.com/tanaikech/f709a952ff6e286027950d0484f6c03e)
 - [Retrieving All Values from All Sheets from URL of 2PACX- of Web Published Google Spreadsheet using Python](https://gist.github.com/tanaikech/51628e5e0a2c017329457afdb1936912)
 - [Replacing Template Texts with Array in Google Document using Docs API with Python](https://gist.github.com/tanaikech/f1f9fb91d3432362670c810ae05ba53b)
+- [Uploading Files to Google Drive with Asynchronous Process using Python](https://gist.github.com/tanaikech/a4cfbea4935b8c281d1f6abb91016705)
 
 <a name="curl"></a>
 
