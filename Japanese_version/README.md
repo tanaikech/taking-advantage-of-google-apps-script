@@ -58,6 +58,7 @@
 
 # ニュース
 
+- **2022 年 6 月 2 日:** [Google サイトが新しくなり、ページ全体へのコンテンツの埋め込みが可能に](https://tanaikech.github.io/2022/06/02/embed-content-as-a-full-page-in-new-google-sites/)
 - **2022 年 4 月 14 日:** [Google Apps Script の Script Editor が更新されます](https://tanaikech.github.io/2022/04/14/updating-script-editor-of-google-apps-script/)
 - **2022 年 3 月 10 日:** [Google Forms API の Create メソッドのバグが解消されました](https://gist.github.com/tanaikech/dbabd43df594d27cdd1ecc69a7badb52)
 - **2022 年 1 月 22 日:** [2022 年 1 月 19 日、「CellImageBuilder」と「CellImage」の 2 つのクラスがスプレッドシートサービスに追加されました。](https://tanaikech.github.io/2022/01/22/on-january-19-2022-2-classes-of-cellimagebuilder-and-cellimage-have-been-added-to-spreadsheet-service/)
