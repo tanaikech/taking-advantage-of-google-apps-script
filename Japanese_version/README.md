@@ -330,6 +330,12 @@ Javascript ライブラリ
 
 > これは、GoogleAppsScriptを使用してGOOGLEFINANCEから値を取得するためのレポートです。 Google AppsScriptを使用してGoogleSpreadsheetの`GOOGLEFINANCE`関数から値を取得するためにテストしたところ、値を取得できることに気付きました。
 
+### [レポート：Google Apps Scriptを使用して同じURLでさまざまなGoogleドキュメントを公開する](https://gist.github.com/tanaikech/94810f7947361bef398ac9f301b9afde)
+
+>これは、GoogleAppsScriptを使用して同じURLでさまざまなGoogleドキュメントファイルを公開するためのサンプルメソッドです。
+
+> 2022年5月25日に更新することにより、コンテンツを新しいGoogleサイトにフルページとして埋め込むことができるようになりました。 [Ref](https://tanaikech.github.io/2022/06/02/embed-content-as-a-full-page-in-new-google-sites/) このメソッドでは、これが使用されます。
+
 <br>
 
 <a name="benchmarks"> </a>

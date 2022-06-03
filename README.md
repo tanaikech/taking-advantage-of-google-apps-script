@@ -330,6 +330,12 @@ Javascript library
 
 > This is a report for obtaining the values from GOOGLEFINANCE using Google Apps Script. When I tested to retrieve the values from `GOOGLEFINANCE` function on Google Spreadsheet using Google Apps Script, I noticed that the values can be retrieved.
 
+### [Report: Publishing Various Google Docs with Same URL using Google Apps Script](https://gist.github.com/tanaikech/94810f7947361bef398ac9f301b9afde)
+
+> This is a sample method for publishing various Google Docs files with the same URL using Google Apps Script.
+
+> By updating on May 25, 2022, the content got to be able to be embedded as a full page in the new Google site. [Ref](https://tanaikech.github.io/2022/06/02/embed-content-as-a-full-page-in-new-google-sites/) In this method, this is used.
+
 <br>
 
 <a name="benchmarks"></a>
