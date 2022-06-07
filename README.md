@@ -473,6 +473,12 @@ Javascript library
 
 ### [Benchmark: Concurrent Writing to Google Spreadsheet using Form](https://gist.github.com/tanaikech/c2f3fccabbf4906a18fdc38463982f31)
 
+### [Benchmark: Process cost for HTML Template using Google Apps Script](https://gist.github.com/tanaikech/f1436d88423077115d2c249862f12f17)
+
+> When we use HTML in the Google Apps Script project, in order to show the values from the Google Apps Script side, the HTML template is used. When I used the HTML template with a large value, I understood that the process cost can be reduced by devising a script. In this report, I would like to introduce the process cost of the HTML template using the benchmark.
+
+> As the result, it was clearly found that when an HTML table is created with Google Apps Script and shows the HTML table with the HTML template, the process cost becomes low. And also, it was found that in order to reduce the process cost for using the HTML template, it is required to prepare the HTML data with the Google Apps Script side.
+
 <br>
 
 <a name="communities"></a>
