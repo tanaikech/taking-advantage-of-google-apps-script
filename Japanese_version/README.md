@@ -336,6 +336,8 @@ Javascript ライブラリ
 
 > 2022年5月25日に更新することにより、コンテンツを新しいGoogleサイトにフルページとして埋め込むことができるようになりました。 [Ref](https://tanaikech.github.io/2022/06/02/embed-content-as-a-full-page-in-new-google-sites/) このメソッドでは、これが使用されます。
 
+### [レポート：Google Apps ScriptでのScriptApp.getService（）。getUrl（）の最近の値](https://tanaikech.github.io/2022/06/11/report-recent-value-of-scriptapp.getservice.geturl-in-google-apps-script/)
+
 <br>
 
 <a name="benchmarks"> </a>

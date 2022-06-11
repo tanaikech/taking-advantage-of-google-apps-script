@@ -336,6 +336,8 @@ Javascript library
 
 > By updating on May 25, 2022, the content got to be able to be embedded as a full page in the new Google site. [Ref](https://tanaikech.github.io/2022/06/02/embed-content-as-a-full-page-in-new-google-sites/) In this method, this is used.
 
+### [Report: Recent Value of ScriptApp.getService().getUrl() in Google Apps Script](https://tanaikech.github.io/2022/06/11/report-recent-value-of-scriptapp.getservice.geturl-in-google-apps-script/)
+
 <br>
 
 <a name="benchmarks"></a>
