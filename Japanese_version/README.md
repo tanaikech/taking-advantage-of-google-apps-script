@@ -627,6 +627,7 @@ Javascript ライブラリ
 - [Google Apps Scriptを使用したテキストデータ内のテキスト位置の取得](https://gist.github.com/tanaikech/77fbac03f26e1c1688f54130a683f8c0)
 - [Parsing JSON Data Array by Expanding Header Row using Google Apps Script](https://gist.github.com/tanaikech/d905b75175bd297733f807e7bddd33d4)
 - [Google Apps Scriptを使用してGoogleスプレッドシートのセルの値を置き換える](https://gist.github.com/tanaikech/cedc350cf36865b7a84e260c78762db9)
+- [IMPORTXMLを使用したGoogleAppsScriptでのXMLデータの解析](https://gist.github.com/tanaikech/f4e6091c1de4873695783471e410f07a)
 
 <a name="documents"> </a>
 
