@@ -646,6 +646,7 @@ Javascript library
 - [Parsing JSON Data Array by Expanding Header Row using Google Apps Script](https://gist.github.com/tanaikech/d905b75175bd297733f807e7bddd33d4)
 - [Replacing Values in Cells on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/cedc350cf36865b7a84e260c78762db9)
 - [Parsing XML Data in Google Apps Script using IMPORTXML](https://gist.github.com/tanaikech/f4e6091c1de4873695783471e410f07a)
+- [Protecting Cells of Spreadsheet by Clicking Checkbox using Google Apps Script](https://gist.github.com/tanaikech/1da4d8e8ebb2cdc62e6c42c6e71f14d7)
 
 <a name="documents"></a>
 

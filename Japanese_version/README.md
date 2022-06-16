@@ -628,6 +628,7 @@ Javascript ライブラリ
 - [Parsing JSON Data Array by Expanding Header Row using Google Apps Script](https://gist.github.com/tanaikech/d905b75175bd297733f807e7bddd33d4)
 - [Google Apps Scriptを使用してGoogleスプレッドシートのセルの値を置き換える](https://gist.github.com/tanaikech/cedc350cf36865b7a84e260c78762db9)
 - [IMPORTXMLを使用したGoogleAppsScriptでのXMLデータの解析](https://gist.github.com/tanaikech/f4e6091c1de4873695783471e410f07a)
+- [Google Apps Scriptを使用してチェックボックスをクリックしてスプレッドシートのセルを保護する](https://gist.github.com/tanaikech/1da4d8e8ebb2cdc62e6c42c6e71f14d7)
 
 <a name="documents"> </a>
 
