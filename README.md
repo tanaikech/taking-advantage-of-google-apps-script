@@ -831,6 +831,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Splitting and Processing an Array every n length using Google Apps Script](https://gist.github.com/tanaikech/9e6276edb67d0ebde80ea378b6f79e20)
 - [Requesting to Gate API v4 using Google Apps Script](https://gist.github.com/tanaikech/d0ea117b1c0e54cf713a8027f6b2fb08)
 - [Exporting Tabulator Data to Google Drive using Google Apps Script](https://gist.github.com/tanaikech/b0d83cd2f0a27f9cd778f3a1f167503e)
+- [Shortening a Long URL using Firebase Dynamic Links API with Google Apps Script](https://gist.github.com/tanaikech/e439cbaadf363380fe026b380dd4de42)
 
 <a name="nodejs"></a>
 

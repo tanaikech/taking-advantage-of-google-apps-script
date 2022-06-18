@@ -812,6 +812,7 @@ Javascript ライブラリ
 - [Google Apps Scriptを使用してn個の長さごとに配列を分割して処理する](https://gist.github.com/tanaikech/9e6276edb67d0ebde80ea378b6f79e20)
 - [Google Apps Scriptを使用したGateAPIv4へのリクエスト](https://gist.github.com/tanaikech/d0ea117b1c0e54cf713a8027f6b2fb08)
 - [Google Apps Scriptを使用したTabulatorデータのGoogleドライブへのエクスポート](https://gist.github.com/tanaikech/b0d83cd2f0a27f9cd778f3a1f167503e)
+- [Google Apps ScriptでFirebaseDynamicLinks APIを使用して長いURLを短縮する](https://gist.github.com/tanaikech/e439cbaadf363380fe026b380dd4de42)
 
 <a name="nodejs"> </a>
 
