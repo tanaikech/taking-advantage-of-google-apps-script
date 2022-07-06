@@ -630,6 +630,7 @@ Javascript ライブラリ
 - [IMPORTXMLを使用したGoogleAppsScriptでのXMLデータの解析](https://gist.github.com/tanaikech/f4e6091c1de4873695783471e410f07a)
 - [Google Apps Scriptを使用してチェックボックスをクリックしてスプレッドシートのセルを保護する](https://gist.github.com/tanaikech/1da4d8e8ebb2cdc62e6c42c6e71f14d7)
 - [スコープなしでGoogle Apps Scriptを使用してA1NotationをGridRangeに、またはその逆に変換する](https://gist.github.com/tanaikech/457b5545a48890ed6dce66d67324ec47)
+- [Google Apps Scriptを使用してGoogleスプレッドシートから#REFの無効な名前付き範囲を削除する](https://gist.github.com/tanaikech/f9b993c4a178291324e03eeb5c161c1d)
 
 <a name="documents"> </a>
 
