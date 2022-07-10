@@ -656,6 +656,7 @@ Javascript ライブラリ
 - [レポート：Google Docs API を使用して複数の段落を Google ドキュメントに順番に挿入](https://gist.github.com/tanaikech/6aa646691f6c2224202fa6fb756e3862)
 - [GoogleAppsScript を使用して Google ドキュメントの概要を取得する](https://gist.github.com/tanaikech/b61ec85a5f0fb4f5a9157fb9f7bd0e84)
 - [Google Apps Script を使用して、Google ドキュメントの複数の段落を正規表現に置き換える](https://gist.github.com/tanaikech/f32f878c6cc005bbbdec2d9c635fae7b)
+- [Google Apps Scriptを使用したGoogleドキュメントのスマートチップのドロップダウンリストの値の取得](https://gist.github.com/tanaikech/37a8498ecb392e8b23041ce238287e27)
 
 <a name="slides"> </a>
 
