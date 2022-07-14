@@ -456,13 +456,19 @@ Javascript ライブラリ
 
 ### [ベンチマーク：フォームを使用した Google スプレッドシートへの同時書き込み](https://gist.github.com/tanaikech/c2f3fccabbf4906a18fdc38463982f31)
 
-### [Benchmark: GoogleAppsScriptを使用したHTMLテンプレートの処理コスト](https://gist.github.com/tanaikech/f1436d88423077115d2c249862f12f17)
+### [ベンチマーク： Google Apps Scriptを使用したHTMLテンプレートの処理コスト](https://gist.github.com/tanaikech/f1436d88423077115d2c249862f12f17)
 
 709 / 5,000
 翻訳結果
 > Google Apps ScriptプロジェクトでHTMLを使用する場合、Google Apps Script側からの値を表示するために、HTMLテンプレートが使用されます。 大きな値のHTMLテンプレートを使用したところ、スクリプトを工夫することでプロセスコストを削減できることがわかりました。 このレポートでは、ベンチマークを使用したHTMLテンプレートのプロセスコストを紹介します。
 
 >その結果、Google Apps ScriptでHTMLテーブルを作成し、HTMLテンプレートでHTMLテーブルを表示すると、処理コストが低くなることが明らかになりました。 また、HTMLテンプレートを使用するためのプロセスコストを削減するために、GoogleAppsScript側でHTMLデータを準備する必要があることがわかりました。
+
+### [ベンチマーク： Google Apps Scriptを使用してXMLデータを解析するためのプロセスコスト](https://gist.github.com/tanaikech/d09fb02c93635c53312aff58a047eb13)
+
+> XMLデータから値を取得するために、Google Apps Scriptを使用してXMLデータを解析する場合、データを解析する方法はいくつかあります。 XMLデータを管理するための組み込みクラスであるクラスXmlServiceは、それを思い付く最初の方法かもしれません。 Stackoverflowでは、XMLデータがクラスXmlServiceを使用して解析されることが多いという質問が投稿されています。 クラスXmlServiceはXMLデータの管理に適していると考えられています。
+
+> しかし、以前にGoogle Apps ScriptでXMLデータを使用してアプリケーションを作成したことがあると、クラスXmlServiceのプロセスが高い可能性があると感じました。 そのため、このレポートでは、GoogleAppsScriptを使用してXMLデータを解析するためのプロセスコストを示しています。 その結果、V8ランタイムがリリースされた後、XMLデータを解析するためのクラスXmlService以外のメソッドも使用できることがわかりました。
 
 <br>
 

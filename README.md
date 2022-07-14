@@ -481,6 +481,12 @@ Javascript library
 
 > As the result, it was clearly found that when an HTML table is created with Google Apps Script and shows the HTML table with the HTML template, the process cost becomes low. And also, it was found that in order to reduce the process cost for using the HTML template, it is required to prepare the HTML data with the Google Apps Script side.
 
+### [Benchmark: Process cost for Parsing XML data using Google Apps Script](https://gist.github.com/tanaikech/d09fb02c93635c53312aff58a047eb13)
+
+> In order to retrieve the values from XML data, when XML data is parsed using Google Apps Script, there are several methods for parsing the data. Class XmlService, which is a built-in Class for managing XML data, might be the first way to come up with it. At Stackoverflow, it is posted questions that XML data is often parsed using Class XmlService. It is considered that Class XmlService is suitable for managing XML data.
+
+> But, when I have created applications using XML data with Google Apps Script before, I have felt that the process of Class XmlService might be high. So, in this report, the process cost for parsing XML data using Google Apps Script. As the result, it was found that after the V8 runtime had been released, the methods except for Class XmlService in order to parse XML data can be also used.
+
 <br>
 
 <a name="communities"></a>
