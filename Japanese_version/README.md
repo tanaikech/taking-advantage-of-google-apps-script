@@ -338,6 +338,12 @@ Javascript ライブラリ
 
 ### [レポート：Google Apps ScriptでのScriptApp.getService（）。getUrl（）の最近の値](https://tanaikech.github.io/2022/06/11/report-recent-value-of-scriptapp.getservice.geturl-in-google-apps-script/)
 
+### [Report: Google Apps Scriptの機能に関するJsDocを含むドキュメントコメント](https://gist.github.com/tanaikech/5615cfc34e1d41659e934a7bcbaa27cf)
+
+>これは、GoogleAppsScriptの機能に関するドキュメントコメントのレポートです。
+
+> Google Apps Scriptの機能に関するドキュメントのコメントを検討すると、JsDocを思い浮かべます。 Google Apps Scriptでは、JsDocの一部を使用できます。 しかし、このレポートでは、JsDocを含むドキュメントコメントを紹介したいと思います。
+
 <br>
 
 <a name="benchmarks"> </a>
