@@ -344,6 +344,12 @@ Javascript ライブラリ
 
 > Google Apps Scriptの機能に関するドキュメントのコメントを検討すると、JsDocを思い浮かべます。 Google Apps Scriptでは、JsDocの一部を使用できます。 しかし、このレポートでは、JsDocを含むドキュメントコメントを紹介したいと思います。
 
+### [Report: Google Apps Scriptを使用したGoogleスプレッドシート上の画像の管理](https://gist.github.com/tanaikech/7ecb785ab9d4418d0c48ea853df8d1c8)
+
+> これは、Google Apps Scriptを使用したGoogleスプレッドシート上の画像の管理に関するレポートです。
+
+> 2018年10月30日、Cass OverGridImageとinserImageのメソッドがSpreadsheet Serviceに追加されました。 2022年1月19日、Class CellImageBuilderとClass CellImageがスプレッドシートサービスに追加されました。 これらのクラスとメソッドにより、画像をGoogleスプレッドシートで管理できるようになりました。 しかし、さまざまな状況で画像を使用する場合、画像の管理には工夫が必要な場合があります。 そこで、このレポートでは、Google Apps Scriptのサンプルスクリプトを使用したGoogle Spreadsheetでの画像の管理について紹介します。
+
 <br>
 
 <a name="benchmarks"> </a>

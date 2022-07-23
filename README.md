@@ -344,6 +344,12 @@ Javascript library
 
 > When the documentation comments for functions of Google Apps Script are considered, you will think JsDoc. At Google Apps Script, a part of JsDoc can be used. But, in this report, I would like to introduce the documentation comments including JsDoc.
 
+### [Report: Management of Images on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/7ecb785ab9d4418d0c48ea853df8d1c8)
+
+> This is a report for management of images on Google Spreadsheet using Google Apps Script.
+
+> At October 30, 2018, Cass OverGridImage and the method of inserImage have been added to Spreadsheet Service. At January 19, 2022, Class CellImageBuilder and Class CellImage have been added to Spreadsheet Service. By these Classes and methods, the images got to be able to be managed on Google Spreadsheet. But, when the image is used to the various situations, there are the cases that it is required to ingenuity to manage the images. So, in this report, I would like to introduce the management of images on Google Spreadsheet using the sample scripts of Google Apps Script.
+
 <br>
 
 <a name="benchmarks"></a>
