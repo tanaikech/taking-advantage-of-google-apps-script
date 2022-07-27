@@ -675,6 +675,7 @@ Javascript ライブラリ
 - [GoogleAppsScript を使用して Google ドキュメントの概要を取得する](https://gist.github.com/tanaikech/b61ec85a5f0fb4f5a9157fb9f7bd0e84)
 - [Google Apps Script を使用して、Google ドキュメントの複数の段落を正規表現に置き換える](https://gist.github.com/tanaikech/f32f878c6cc005bbbdec2d9c635fae7b)
 - [Google Apps Scriptを使用したGoogleドキュメントのスマートチップのドロップダウンリストの値の取得](https://gist.github.com/tanaikech/37a8498ecb392e8b23041ce238287e27)
+- [Google Apps Scriptを使用してGoogleドキュメントの画像を順番に置き換える](https://gist.github.com/tanaikech/1f3407674aafcba906a3528e7ec3463d)
 
 <a name="slides"> </a>
 
