@@ -667,6 +667,7 @@ Javascript library
 - [Protecting Cells of Spreadsheet by Clicking Checkbox using Google Apps Script](https://gist.github.com/tanaikech/1da4d8e8ebb2cdc62e6c42c6e71f14d7)
 - [Converting A1Notation to GridRange and vice versa using Google Apps Script without any Scopes](https://gist.github.com/tanaikech/457b5545a48890ed6dce66d67324ec47)
 - [Removing Invalid Named Ranges from Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/f9b993c4a178291324e03eeb5c161c1d)
+- [Checking Exchange Rate using GOOGLEFINANCE with Google Apps Script](https://gist.github.com/tanaikech/67e0cd1f5ba4946aa050963a0720ed5f)
 
 <a name="documents"></a>
 
