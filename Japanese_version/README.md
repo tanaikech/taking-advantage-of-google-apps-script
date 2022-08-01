@@ -650,6 +650,7 @@ Javascript ライブラリ
 - [スコープなしでGoogle Apps Scriptを使用してA1NotationをGridRangeに、またはその逆に変換する](https://gist.github.com/tanaikech/457b5545a48890ed6dce66d67324ec47)
 - [Google Apps Scriptを使用してGoogleスプレッドシートから#REFの無効な名前付き範囲を削除する](https://gist.github.com/tanaikech/f9b993c4a178291324e03eeb5c161c1d)
 - [Google Apps ScriptでGOOGLEFINANCEを使用して為替レートを確認する](https://gist.github.com/tanaikech/67e0cd1f5ba4946aa050963a0720ed5f)
+- [Google Apps Scriptで作成した Web アプリを使用して、名前とパスワードを入力してユーザーのダッシュボードを作成する](https://gist.github.com/tanaikech/ac2537711bfcf19348b66b454da33196)
 
 <a name="documents"> </a>
 

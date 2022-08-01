@@ -668,6 +668,7 @@ Javascript library
 - [Converting A1Notation to GridRange and vice versa using Google Apps Script without any Scopes](https://gist.github.com/tanaikech/457b5545a48890ed6dce66d67324ec47)
 - [Removing Invalid Named Ranges from Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/f9b993c4a178291324e03eeb5c161c1d)
 - [Checking Exchange Rate using GOOGLEFINANCE with Google Apps Script](https://gist.github.com/tanaikech/67e0cd1f5ba4946aa050963a0720ed5f)
+- [Creating User's Dashboard by Inputting Name and Password using Web Apps with Google Apps Script](https://gist.github.com/tanaikech/ac2537711bfcf19348b66b454da33196)
 
 <a name="documents"></a>
 
