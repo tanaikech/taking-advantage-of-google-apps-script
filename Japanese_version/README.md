@@ -856,6 +856,7 @@ Javascript ライブラリ
 - [Node.js を使用して Web で公開された Google スプレッドシートの 2PACX-の URL からすべてのシートからすべての値を取得する](https://gist.github.com/tanaikech/49e1e6515225d810e849b3487142a90d)
 - [Node.js を使用してストリームと再開可能なアップロードでファイルを保存せずにファイルをダウンロードして Google ドライブにアップロード](https://gist.github.com/tanaikech/99187753ceb5fd55d343b52dcbe176a5)
 - [Axios 用の Google ドライブ API を使用した再開可能なアップロードの簡単なスクリプト](https://gist.github.com/tanaikech/0e33b7a850e8c56d111ed0f32df0b485)
+- [Node.js で Axios を使用した再開可能なアップロードのサンプルスクリプト](https://gist.github.com/tanaikech/5212f2a8127e1c0a70c8642e298ae661)
 
 <a name="golang"> </a>
 
