@@ -876,7 +876,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Retrieving All Values from All Sheets from URL of 2PACX- of Web Published Google Spreadsheet using Node.js](https://gist.github.com/tanaikech/49e1e6515225d810e849b3487142a90d)
 - [Downloading and Uploading File to Google Drive without Saving File with Stream and Resumable Upload using Node.js](https://gist.github.com/tanaikech/99187753ceb5fd55d343b52dcbe176a5)
 - [Simple Script of Resumable Upload with Google Drive API for Axios](https://gist.github.com/tanaikech/0e33b7a850e8c56d111ed0f32df0b485)
-- [Sample Script for Resumable Upload using Axios with Node.js](https://gist.github.com/tanaikech/5212f2a8127e1c0a70c8642e298ae661)
+- [Sample Script for Resumable Upload to Google Drive using Axios with Node.js](https://gist.github.com/tanaikech/5212f2a8127e1c0a70c8642e298ae661)
 
 <a name="golang"></a>
 
