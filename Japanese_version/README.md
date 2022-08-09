@@ -217,6 +217,7 @@ Javascript ライブラリ
 - [BatchRequest_js](https://github.com/tanaikech/BatchRequest_js)：これは、Javascript を使用して GoogleAPI のバッチリクエストを実行するためのライブラリです。
 - [HtmlFormObjectParserForGoogleAppsScript_js](https://github.com/tanaikech/HtmlFormObjectParserForGoogleAppsScript_js)：これは、 `google.script.run`を使用して HTML フォームオブジェクトを GoogleAppsScript に送信するための Javascript ライブラリです。
 - [GetAccessTokenFromServiceAccount_js](https://github.com/tanaikech/GetAccessTokenFromServiceAccount_js)：これは、Google サービスアカウントからアクセストークンを取得するための Javascript ライブラリです。
+- [[画像を枠で切り抜くJavascriptライブラリ](https://github.com/tanaikech/CropImageByBorder_js) : 画像を枠で切り抜くためのJavascriptライブラリです。
 
 <br>
 

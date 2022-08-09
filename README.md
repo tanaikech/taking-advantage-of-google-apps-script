@@ -217,6 +217,7 @@ Javascript library
 - [BatchRequest_js](https://github.com/tanaikech/BatchRequest_js) : This is a library for running Batch Requests for Google APIs using Javascript.
 - [HtmlFormObjectParserForGoogleAppsScript_js](https://github.com/tanaikech/HtmlFormObjectParserForGoogleAppsScript_js) : This is a Javascript library for sending the HTML form object to Google Apps Script using `google.script.run`.
 - [GetAccessTokenFromServiceAccount_js](https://github.com/tanaikech/GetAccessTokenFromServiceAccount_js) : This is a Javascript library to retrieve the access token from the Google Service Account.
+- [Javascript Library for Cropping Image by Border](https://github.com/tanaikech/CropImageByBorder_js) : This is a Javascript library for cropping images by the border.
 
 <br>
 
