@@ -351,6 +351,10 @@ Javascript ライブラリ
 
 > 2018年10月30日、Cass OverGridImageとinserImageのメソッドがSpreadsheet Serviceに追加されました。 2022年1月19日、Class CellImageBuilderとClass CellImageがスプレッドシートサービスに追加されました。 これらのクラスとメソッドにより、画像をGoogleスプレッドシートで管理できるようになりました。 しかし、さまざまな状況で画像を使用する場合、画像の管理には工夫が必要な場合があります。 そこで、このレポートでは、Google Apps Scriptのサンプルスクリプトを使用したGoogle Spreadsheetでの画像の管理について紹介します。
 
+### [Report: Google Apps Script と Javascript を使用して、スプレッドシートで選択したセルを画像としてエクスポートすることに挑戦](https://gist.github.com/tanaikech/fbf47fe7b8e3e57ee49f24563550c113)
+
+> スプレッドシートで選択したセルを Google Apps Script と Javascript を使って画像としてエクスポートすることに挑戦したレポートです。
+
 <br>
 
 <a name="benchmarks"> </a>

@@ -351,6 +351,10 @@ Javascript library
 
 > At October 30, 2018, Cass OverGridImage and the method of inserImage have been added to Spreadsheet Service. At January 19, 2022, Class CellImageBuilder and Class CellImage have been added to Spreadsheet Service. By these Classes and methods, the images got to be able to be managed on Google Spreadsheet. But, when the image is used to the various situations, there are the cases that it is required to ingenuity to manage the images. So, in this report, I would like to introduce the management of images on Google Spreadsheet using the sample scripts of Google Apps Script.
 
+### [Report: Challenging Exporting Selected Cells on Spreadsheet as Image using Google Apps Script and Javascript](https://gist.github.com/tanaikech/fbf47fe7b8e3e57ee49f24563550c113)
+
+> This is a report for challenging exporting the selected cells on Spreadsheet as an image using Google Apps Script and Javascript.
+
 <br>
 
 <a name="benchmarks"></a>
