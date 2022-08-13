@@ -863,6 +863,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Exporting Tabulator Data to Google Drive using Google Apps Script](https://gist.github.com/tanaikech/b0d83cd2f0a27f9cd778f3a1f167503e)
 - [Shortening a Long URL using Firebase Dynamic Links API with Google Apps Script](https://gist.github.com/tanaikech/e439cbaadf363380fe026b380dd4de42)
 - [Retrieving Names of Month and Day of Week using Google Apps Script](https://gist.github.com/tanaikech/be6ef51a402aacb9fa24277dffed63bc)
+- [Retrieving Icons of each mimeType on Google Drive using Google Apps Script](https://gist.github.com/tanaikech/1c0bd1e88b67f19b77d79c9f631b001d)
 
 <a name="nodejs"></a>
 

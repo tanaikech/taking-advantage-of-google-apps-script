@@ -844,6 +844,7 @@ Javascript ライブラリ
 - [Google Apps Scriptを使用したTabulatorデータのGoogleドライブへのエクスポート](https://gist.github.com/tanaikech/b0d83cd2f0a27f9cd778f3a1f167503e)
 - [Google Apps ScriptでFirebaseDynamicLinks APIを使用して長いURLを短縮する](https://gist.github.com/tanaikech/e439cbaadf363380fe026b380dd4de42)
 - [Google Apps Script を使用して月と曜日の名前を取得する](https://gist.github.com/tanaikech/be6ef51a402aacb9fa24277dffed63bc)
+- [Google Apps Script を使用して Google ドライブの各 mimeType のアイコンを取得する](https://gist.github.com/tanaikech/1c0bd1e88b67f19b77d79c9f631b001d)
 
 <a name="nodejs"> </a>
 
