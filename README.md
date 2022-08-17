@@ -675,6 +675,7 @@ Javascript library
 - [Checking Exchange Rate using GOOGLEFINANCE with Google Apps Script](https://gist.github.com/tanaikech/67e0cd1f5ba4946aa050963a0720ed5f)
 - [Creating User's Dashboard by Inputting Name and Password using Web Apps with Google Apps Script](https://gist.github.com/tanaikech/ac2537711bfcf19348b66b454da33196)
 - [Clearing Discrete Cell Values on Multiple Sheets using Google Apps Script](https://gist.github.com/tanaikech/6b1ce61475e35416ce0e728a7fd3018c)
+- [Using RichTextValues with Custom Function on Google Spreadsheet](https://gist.github.com/tanaikech/1d63fcd5152688da68e9974167ca744f)
 
 <a name="documents"></a>
 
