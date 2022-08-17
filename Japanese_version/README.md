@@ -658,6 +658,7 @@ Javascript ライブラリ
 - [Google Apps Scriptで作成した Web アプリを使用して、名前とパスワードを入力してユーザーのダッシュボードを作成する](https://gist.github.com/tanaikech/ac2537711bfcf19348b66b454da33196)
 - [Google Apps Script を使用して複数のシートの個別のセル値をクリアする](https://gist.github.com/tanaikech/6b1ce61475e35416ce0e728a7fd3018c)
 - [Google スプレッドシートのカスタム関数で RichTextValues を使用する](https://gist.github.com/tanaikech/1d63fcd5152688da68e9974167ca744f)
+- [Google Apps Script を使用した Google スプレッドシートでのセル移動の検出](https://gist.github.com/tanaikech/5939e3de5e24ce389beade94158bdb7d)
 
 <a name="documents"> </a>
 
