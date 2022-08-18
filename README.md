@@ -677,6 +677,7 @@ Javascript library
 - [Clearing Discrete Cell Values on Multiple Sheets using Google Apps Script](https://gist.github.com/tanaikech/6b1ce61475e35416ce0e728a7fd3018c)
 - [Using RichTextValues with Custom Function on Google Spreadsheet](https://gist.github.com/tanaikech/1d63fcd5152688da68e9974167ca744f)
 - [Moving Cell Detection on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/5939e3de5e24ce389beade94158bdb7d)
+- [Updating Destination Sheet by Source Sheet in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/9970ebf1bd3c7475df57126f5d544f89)
 
 <a name="documents"></a>
 
