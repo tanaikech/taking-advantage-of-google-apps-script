@@ -504,6 +504,14 @@ Javascript library
 
 > But, when I have created applications using XML data with Google Apps Script before, I have felt that the process of Class XmlService might be high. So, in this report, the process cost for parsing XML data using Google Apps Script. As the result, it was found that after the V8 runtime had been released, the methods except for Class XmlService in order to parse XML data can be also used.
 
+### [Benchmark: High-Efficiency Finding and Replacing Many Values in Google Spreadsheet with Low Process Cost using Google Apps Script](https://gist.github.com/tanaikech/6fc2f3ea6d09ce2906e7922c76c0b238)
+
+> This is a sample script for high-efficiency finding and replacing many values in Google Spreadsheet with the low process cost using Google Apps Script.
+
+> When the various values are replaced in Google Spreadsheet using Google Apps Script, I'm worried about the process cost. So, in this report, I would like to introduce a sample script for high-efficiency achieving this.
+
+> As the result, using a sample situation, when the process cost of the sample script using Sheets API is compared with that of the sample script using Spreadsheet services (SpreadsheetApp), it was found that the above script using Sheets API could reduce the process cost by about 70 % from the script using Spreadsheet service.
+
 <br>
 
 <a name="communities"></a>

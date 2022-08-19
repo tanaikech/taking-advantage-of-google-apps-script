@@ -487,6 +487,14 @@ Javascript ライブラリ
 
 > しかし、以前にGoogle Apps ScriptでXMLデータを使用してアプリケーションを作成したことがあると、クラスXmlServiceのプロセスが高い可能性があると感じました。 そのため、このレポートでは、GoogleAppsScriptを使用してXMLデータを解析するためのプロセスコストを示しています。 その結果、V8ランタイムがリリースされた後、XMLデータを解析するためのクラスXmlService以外のメソッドも使用できることがわかりました。
 
+### [Benchmark: High-Efficiency Finding and Replacing Many Values in Google Spreadsheet with Low Process Cost using Google Apps Script](https://gist.github.com/tanaikech/6fc2f3ea6d09ce2906e7922c76c0b238)
+
+> これは、Google Apps Script を使用して、Google スプレッドシートの多くの値を低処理コストで高効率に検索および置換するためのサンプル スクリプトです。
+
+> Google Apps Script を使って Google スプレッドシートで各種値を置き換える場合、処理コストが気になります。 そこで本レポートでは、これを高効率で実現するためのサンプルスクリプトを紹介したいと思います。
+
+> その結果、サンプルシチュエーションを用いて、Sheets APIを利用したサンプルスクリプトとスプレッドシートサービス（SpreadsheetApp）を利用したサンプルスクリプトの処理コストを比較したところ、Sheets APIを利用した上記スクリプトの方が処理コストを削減できることがわかりました。 スプレッドシート サービスを使用したスクリプトより約 70% 短縮されました。
+
 <br>
 
 <a name="communities"> </a>
