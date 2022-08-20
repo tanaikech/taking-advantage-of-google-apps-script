@@ -355,6 +355,17 @@ Javascript ライブラリ
 
 > スプレッドシートで選択したセルを Google Apps Script と Javascript を使って画像としてエクスポートすることに挑戦したレポートです。
 
+### [Report: Google Apps Script ライブラリを使用して Web アプリを効率的に作成する](https://gist.github.com/tanaikech/90ac88cf1a74989e649a4e49a5ed1ab9)
+
+> これは、Google Apps Script ライブラリを使用して Web アプリを効率的に作成するためのサンプル スクリプトです。
+
+> Google Apps Script ライブラリを使用して Web Apps を作成すると、次の利点が得られます。
+
+> - クライアント側のスクリプトをよりシンプルにできます。 Web Apps を構築するためのほとんどのスクリプトは、Google Apps Script ライブラリに含まれているためです。
+> - Web Apps のスクリプト (この場合は、Google Apps Script ライブラリのスクリプトを変更します) を変更すると、最新のスクリプトがすぐに Web Apps に反映されます。ライブラリのスクリプトを変更する際に、Google Apps Script ライブラリを最新バージョンとして使用すると、クライアントはライブラリの最新のスクリプトをすぐに使用できるためです。そのため、Web Apps のダウンタイムを減らすことができます。
+> ・これにより、手動で最新バージョンのスクリプトを Web Apps に反映させる必要がなくなります。
+> - ライブラリのデプロイ バージョンを変更することで Web Apps のスクリプトを変更できる場合。
+
 <br>
 
 <a name="benchmarks"> </a>

@@ -355,6 +355,17 @@ Javascript library
 
 > This is a report for challenging exporting the selected cells on Spreadsheet as an image using Google Apps Script and Javascript.
 
+### [Report: Efficiently Creating Web Apps using a Google Apps Script library](https://gist.github.com/tanaikech/90ac88cf1a74989e649a4e49a5ed1ab9)
+
+> This is a sample script for efficiently creating Web Apps using a Google Apps Script library.
+
+> When a Google Apps Script library is used for creating Web Apps, the following advantage can be obtained.
+
+> - The script of the client-side can be simpler. Because most scripts for constructing Web Apps are included in the Google Apps Script library.
+> - When the script of Web Apps (In this case, the script of Google Apps Script library is modified.) is modified, the latest script is reflected in the Web Apps, immediately. Because when the Google Apps Script library is used as the latest version when the script of the library is modified, the client can use the latest script of the library, immediately. So, the downtime of Web Apps can be reduced.
+>   - By this, it is not required to manually reflect the latest version of the script to the Web Apps.
+> - When you can change the script of Web Apps by changing the deployed version of the library.
+
 <br>
 
 <a name="benchmarks"></a>
