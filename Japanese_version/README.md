@@ -2,7 +2,7 @@
 
 <a name="top"> </a>
 
-ここでは、私の[Blog](https://tanaikech.github.io/)、[Gists](https://gist.github.com/tanaikech)や[GitHub](https://github.com/tanaikech), [Stackoverflow での私の回答](https://stackoverflow.com/users/7108653/tanaike?tab=answers)で公開している Google Apps Script を利用するための CLI ツール、ライブラリ、アドオン、レポート、ベンチマーク、サンプルスクリプトなどを紹介します。
+ここでは、私の[Blog](https://tanaikech.github.io/)、[Gists](https://gist.github.com/tanaikech)や[GitHub](https://github.com/tanaikech), [Stackoverflow での私の回答](https://stackoverflow.com/users/7108653/tanaike?tab=answers)で公開している Google Apps Script を利用するための CLI ツール、ライブラリ、レポート、ベンチマーク、サンプルスクリプトなどを紹介します。これらのコンテンツから Google Apps Script の可能性を知るきっかけになれば幸いです。
 
 （注意）オリジナルは[こちら（英語）](https://github.com/tanaikech/taking-advantage-of-google-apps-script)です。このリストのみを日本語に自動翻訳させています。リストにある各リンク先は英語です。
 
@@ -217,7 +217,7 @@ Javascript ライブラリ
 - [BatchRequest_js](https://github.com/tanaikech/BatchRequest_js)：これは、Javascript を使用して GoogleAPI のバッチリクエストを実行するためのライブラリです。
 - [HtmlFormObjectParserForGoogleAppsScript_js](https://github.com/tanaikech/HtmlFormObjectParserForGoogleAppsScript_js)：これは、 `google.script.run`を使用して HTML フォームオブジェクトを GoogleAppsScript に送信するための Javascript ライブラリです。
 - [GetAccessTokenFromServiceAccount_js](https://github.com/tanaikech/GetAccessTokenFromServiceAccount_js)：これは、Google サービスアカウントからアクセストークンを取得するための Javascript ライブラリです。
-- [[画像を枠で切り抜くJavascriptライブラリ](https://github.com/tanaikech/CropImageByBorder_js) : 画像を枠で切り抜くためのJavascriptライブラリです。
+- [[画像を枠で切り抜く Javascript ライブラリ](https://github.com/tanaikech/CropImageByBorder_js) : 画像を枠で切り抜くための Javascript ライブラリです。
 
 <br>
 
@@ -327,29 +327,29 @@ Javascript ライブラリ
 
 > 2022 年 3 月 14 日、「Google スプレッドシートがセル制限を 2 倍にする」と報告しました。 [参照]（https://workspaceupdates.googleblog.com/2022/03/ten-million-cells-google-sheets.html）この更新により、ユーザーはGoogleスプレッドシートで10,000,000個のセルを使用できるようになりました。 これは私たちにとって素晴らしいニュースです。 Google Apps Script を使用して Google スプレッドシートで 10,000,000 個のセルを処理しようとすると、さまざまな重要なポイントがあることがわかりました。 このレポートでは、GoogleAppsScript を使用して Google スプレッドシートで 10,000,000 個のセルを処理するための重要なポイントを紹介します。
 
-### [レポート：Google Apps Scriptを使用してGOOGLEFINANCEから値を取得する](https://gist.github.com/tanaikech/7bebb7c6d8ed6ddfdd825153ef71c47e)
+### [レポート：Google Apps Script を使用して GOOGLEFINANCE から値を取得する](https://gist.github.com/tanaikech/7bebb7c6d8ed6ddfdd825153ef71c47e)
 
-> これは、GoogleAppsScriptを使用してGOOGLEFINANCEから値を取得するためのレポートです。 Google AppsScriptを使用してGoogleSpreadsheetの`GOOGLEFINANCE`関数から値を取得するためにテストしたところ、値を取得できることに気付きました。
+> これは、GoogleAppsScript を使用して GOOGLEFINANCE から値を取得するためのレポートです。 Google AppsScript を使用して GoogleSpreadsheet の`GOOGLEFINANCE`関数から値を取得するためにテストしたところ、値を取得できることに気付きました。
 
-### [レポート：Google Apps Scriptを使用して同じURLでさまざまなGoogleドキュメントを公開する](https://gist.github.com/tanaikech/94810f7947361bef398ac9f301b9afde)
+### [レポート：Google Apps Script を使用して同じ URL でさまざまな Google ドキュメントを公開する](https://gist.github.com/tanaikech/94810f7947361bef398ac9f301b9afde)
 
->これは、GoogleAppsScriptを使用して同じURLでさまざまなGoogleドキュメントファイルを公開するためのサンプルメソッドです。
+> これは、GoogleAppsScript を使用して同じ URL でさまざまな Google ドキュメントファイルを公開するためのサンプルメソッドです。
 
-> 2022年5月25日に更新することにより、コンテンツを新しいGoogleサイトにフルページとして埋め込むことができるようになりました。 [Ref](https://tanaikech.github.io/2022/06/02/embed-content-as-a-full-page-in-new-google-sites/) このメソッドでは、これが使用されます。
+> 2022 年 5 月 25 日に更新することにより、コンテンツを新しい Google サイトにフルページとして埋め込むことができるようになりました。 [Ref](https://tanaikech.github.io/2022/06/02/embed-content-as-a-full-page-in-new-google-sites/) このメソッドでは、これが使用されます。
 
-### [レポート：Google Apps ScriptでのScriptApp.getService（）。getUrl（）の最近の値](https://tanaikech.github.io/2022/06/11/report-recent-value-of-scriptapp.getservice.geturl-in-google-apps-script/)
+### [レポート：Google Apps Script での ScriptApp.getService（）。getUrl（）の最近の値](https://tanaikech.github.io/2022/06/11/report-recent-value-of-scriptapp.getservice.geturl-in-google-apps-script/)
 
-### [Report: Google Apps Scriptの機能に関するJsDocを含むドキュメントコメント](https://gist.github.com/tanaikech/5615cfc34e1d41659e934a7bcbaa27cf)
+### [Report: Google Apps Script の機能に関する JsDoc を含むドキュメントコメント](https://gist.github.com/tanaikech/5615cfc34e1d41659e934a7bcbaa27cf)
 
->これは、GoogleAppsScriptの機能に関するドキュメントコメントのレポートです。
+> これは、GoogleAppsScript の機能に関するドキュメントコメントのレポートです。
 
-> Google Apps Scriptの機能に関するドキュメントのコメントを検討すると、JsDocを思い浮かべます。 Google Apps Scriptでは、JsDocの一部を使用できます。 しかし、このレポートでは、JsDocを含むドキュメントコメントを紹介したいと思います。
+> Google Apps Script の機能に関するドキュメントのコメントを検討すると、JsDoc を思い浮かべます。 Google Apps Script では、JsDoc の一部を使用できます。 しかし、このレポートでは、JsDoc を含むドキュメントコメントを紹介したいと思います。
 
-### [Report: Google Apps Scriptを使用したGoogleスプレッドシート上の画像の管理](https://gist.github.com/tanaikech/7ecb785ab9d4418d0c48ea853df8d1c8)
+### [Report: Google Apps Script を使用した Google スプレッドシート上の画像の管理](https://gist.github.com/tanaikech/7ecb785ab9d4418d0c48ea853df8d1c8)
 
-> これは、Google Apps Scriptを使用したGoogleスプレッドシート上の画像の管理に関するレポートです。
+> これは、Google Apps Script を使用した Google スプレッドシート上の画像の管理に関するレポートです。
 
-> 2018年10月30日、Cass OverGridImageとinserImageのメソッドがSpreadsheet Serviceに追加されました。 2022年1月19日、Class CellImageBuilderとClass CellImageがスプレッドシートサービスに追加されました。 これらのクラスとメソッドにより、画像をGoogleスプレッドシートで管理できるようになりました。 しかし、さまざまな状況で画像を使用する場合、画像の管理には工夫が必要な場合があります。 そこで、このレポートでは、Google Apps Scriptのサンプルスクリプトを使用したGoogle Spreadsheetでの画像の管理について紹介します。
+> 2018 年 10 月 30 日、Cass OverGridImage と inserImage のメソッドが Spreadsheet Service に追加されました。 2022 年 1 月 19 日、Class CellImageBuilder と Class CellImage がスプレッドシートサービスに追加されました。 これらのクラスとメソッドにより、画像を Google スプレッドシートで管理できるようになりました。 しかし、さまざまな状況で画像を使用する場合、画像の管理には工夫が必要な場合があります。 そこで、このレポートでは、Google Apps Script のサンプルスクリプトを使用した Google Spreadsheet での画像の管理について紹介します。
 
 ### [Report: Google Apps Script と Javascript を使用して、スプレッドシートで選択したセルを画像としてエクスポートすることに挑戦](https://gist.github.com/tanaikech/fbf47fe7b8e3e57ee49f24563550c113)
 
@@ -363,7 +363,7 @@ Javascript ライブラリ
 
 > - クライアント側のスクリプトをよりシンプルにできます。 Web Apps を構築するためのほとんどのスクリプトは、Google Apps Script ライブラリに含まれているためです。
 > - Web Apps のスクリプト (この場合は、Google Apps Script ライブラリのスクリプトを変更します) を変更すると、最新のスクリプトがすぐに Web Apps に反映されます。ライブラリのスクリプトを変更する際に、Google Apps Script ライブラリを最新バージョンとして使用すると、クライアントはライブラリの最新のスクリプトをすぐに使用できるためです。そのため、Web Apps のダウンタイムを減らすことができます。
-> ・これにより、手動で最新バージョンのスクリプトを Web Apps に反映させる必要がなくなります。
+>   ・これにより、手動で最新バージョンのスクリプトを Web Apps に反映させる必要がなくなります。
 > - ライブラリのデプロイ バージョンを変更することで Web Apps のスクリプトを変更できる場合。
 
 <br>
@@ -484,19 +484,20 @@ Javascript ライブラリ
 
 ### [ベンチマーク：フォームを使用した Google スプレッドシートへの同時書き込み](https://gist.github.com/tanaikech/c2f3fccabbf4906a18fdc38463982f31)
 
-### [ベンチマーク： Google Apps Scriptを使用したHTMLテンプレートの処理コスト](https://gist.github.com/tanaikech/f1436d88423077115d2c249862f12f17)
+### [ベンチマーク： Google Apps Script を使用した HTML テンプレートの処理コスト](https://gist.github.com/tanaikech/f1436d88423077115d2c249862f12f17)
 
 709 / 5,000
 翻訳結果
-> Google Apps ScriptプロジェクトでHTMLを使用する場合、Google Apps Script側からの値を表示するために、HTMLテンプレートが使用されます。 大きな値のHTMLテンプレートを使用したところ、スクリプトを工夫することでプロセスコストを削減できることがわかりました。 このレポートでは、ベンチマークを使用したHTMLテンプレートのプロセスコストを紹介します。
 
->その結果、Google Apps ScriptでHTMLテーブルを作成し、HTMLテンプレートでHTMLテーブルを表示すると、処理コストが低くなることが明らかになりました。 また、HTMLテンプレートを使用するためのプロセスコストを削減するために、GoogleAppsScript側でHTMLデータを準備する必要があることがわかりました。
+> Google Apps Script プロジェクトで HTML を使用する場合、Google Apps Script 側からの値を表示するために、HTML テンプレートが使用されます。 大きな値の HTML テンプレートを使用したところ、スクリプトを工夫することでプロセスコストを削減できることがわかりました。 このレポートでは、ベンチマークを使用した HTML テンプレートのプロセスコストを紹介します。
 
-### [ベンチマーク： Google Apps Scriptを使用してXMLデータを解析するためのプロセスコスト](https://gist.github.com/tanaikech/d09fb02c93635c53312aff58a047eb13)
+> その結果、Google Apps Script で HTML テーブルを作成し、HTML テンプレートで HTML テーブルを表示すると、処理コストが低くなることが明らかになりました。 また、HTML テンプレートを使用するためのプロセスコストを削減するために、GoogleAppsScript 側で HTML データを準備する必要があることがわかりました。
 
-> XMLデータから値を取得するために、Google Apps Scriptを使用してXMLデータを解析する場合、データを解析する方法はいくつかあります。 XMLデータを管理するための組み込みクラスであるクラスXmlServiceは、それを思い付く最初の方法かもしれません。 Stackoverflowでは、XMLデータがクラスXmlServiceを使用して解析されることが多いという質問が投稿されています。 クラスXmlServiceはXMLデータの管理に適していると考えられています。
+### [ベンチマーク： Google Apps Script を使用して XML データを解析するためのプロセスコスト](https://gist.github.com/tanaikech/d09fb02c93635c53312aff58a047eb13)
 
-> しかし、以前にGoogle Apps ScriptでXMLデータを使用してアプリケーションを作成したことがあると、クラスXmlServiceのプロセスが高い可能性があると感じました。 そのため、このレポートでは、GoogleAppsScriptを使用してXMLデータを解析するためのプロセスコストを示しています。 その結果、V8ランタイムがリリースされた後、XMLデータを解析するためのクラスXmlService以外のメソッドも使用できることがわかりました。
+> XML データから値を取得するために、Google Apps Script を使用して XML データを解析する場合、データを解析する方法はいくつかあります。 XML データを管理するための組み込みクラスであるクラス XmlService は、それを思い付く最初の方法かもしれません。 Stackoverflow では、XML データがクラス XmlService を使用して解析されることが多いという質問が投稿されています。 クラス XmlService は XML データの管理に適していると考えられています。
+
+> しかし、以前に Google Apps Script で XML データを使用してアプリケーションを作成したことがあると、クラス XmlService のプロセスが高い可能性があると感じました。 そのため、このレポートでは、GoogleAppsScript を使用して XML データを解析するためのプロセスコストを示しています。 その結果、V8 ランタイムがリリースされた後、XML データを解析するためのクラス XmlService 以外のメソッドも使用できることがわかりました。
 
 ### [Benchmark: High-Efficiency Finding and Replacing Many Values in Google Spreadsheet with Low Process Cost using Google Apps Script](https://gist.github.com/tanaikech/6fc2f3ea6d09ce2906e7922c76c0b238)
 
@@ -504,7 +505,7 @@ Javascript ライブラリ
 
 > Google Apps Script を使って Google スプレッドシートで各種値を置き換える場合、処理コストが気になります。 そこで本レポートでは、これを高効率で実現するためのサンプルスクリプトを紹介したいと思います。
 
-> その結果、サンプルシチュエーションを用いて、Sheets APIを利用したサンプルスクリプトとスプレッドシートサービス（SpreadsheetApp）を利用したサンプルスクリプトの処理コストを比較したところ、Sheets APIを利用した上記スクリプトの方が処理コストを削減できることがわかりました。 スプレッドシート サービスを使用したスクリプトより約 70% 短縮されました。
+> その結果、サンプルシチュエーションを用いて、Sheets API を利用したサンプルスクリプトとスプレッドシートサービス（SpreadsheetApp）を利用したサンプルスクリプトの処理コストを比較したところ、Sheets API を利用した上記スクリプトの方が処理コストを削減できることがわかりました。 スプレッドシート サービスを使用したスクリプトより約 70% 短縮されました。
 
 <br>
 
@@ -665,16 +666,16 @@ Javascript ライブラリ
 - [GoogleAppsScript を使用して列文字を 1 つずつ増やす](https://gist.github.com/tanaikech/13fc8683114c5ff62b8144c338a1d574)
 - [GoogleAppsScript を使用したスプレッドシート API のリクエスト数](https://gist.github.com/tanaikech/dad5df2403b551f6bdd99221be115bef)
 - [GoogleAppsScript を使用して Google スプレッドシートの行を拡張する](https://gist.github.com/tanaikech/d5d96ce34846110d67f82147b396b2b7)
-- [Google Workspace UpdateブログからXMLデータを取得して解析し、Google Apps Scriptを使用してGoogleスプレッドシートに配置する](https://gist.github.com/tanaikech/0ba501fecdfd1ac9b0f6997b370586b4)
-- [Google Apps Scriptを使用したテキストデータ内のテキスト位置の取得](https://gist.github.com/tanaikech/77fbac03f26e1c1688f54130a683f8c0)
+- [Google Workspace Update ブログから XML データを取得して解析し、Google Apps Script を使用して Google スプレッドシートに配置する](https://gist.github.com/tanaikech/0ba501fecdfd1ac9b0f6997b370586b4)
+- [Google Apps Script を使用したテキストデータ内のテキスト位置の取得](https://gist.github.com/tanaikech/77fbac03f26e1c1688f54130a683f8c0)
 - [Parsing JSON Data Array by Expanding Header Row using Google Apps Script](https://gist.github.com/tanaikech/d905b75175bd297733f807e7bddd33d4)
-- [Google Apps Scriptを使用してGoogleスプレッドシートのセルの値を置き換える](https://gist.github.com/tanaikech/cedc350cf36865b7a84e260c78762db9)
-- [IMPORTXMLを使用したGoogleAppsScriptでのXMLデータの解析](https://gist.github.com/tanaikech/f4e6091c1de4873695783471e410f07a)
-- [Google Apps Scriptを使用してチェックボックスをクリックしてスプレッドシートのセルを保護する](https://gist.github.com/tanaikech/1da4d8e8ebb2cdc62e6c42c6e71f14d7)
-- [スコープなしでGoogle Apps Scriptを使用してA1NotationをGridRangeに、またはその逆に変換する](https://gist.github.com/tanaikech/457b5545a48890ed6dce66d67324ec47)
-- [Google Apps Scriptを使用してGoogleスプレッドシートから#REFの無効な名前付き範囲を削除する](https://gist.github.com/tanaikech/f9b993c4a178291324e03eeb5c161c1d)
-- [Google Apps ScriptでGOOGLEFINANCEを使用して為替レートを確認する](https://gist.github.com/tanaikech/67e0cd1f5ba4946aa050963a0720ed5f)
-- [Google Apps Scriptで作成した Web アプリを使用して、名前とパスワードを入力してユーザーのダッシュボードを作成する](https://gist.github.com/tanaikech/ac2537711bfcf19348b66b454da33196)
+- [Google Apps Script を使用して Google スプレッドシートのセルの値を置き換える](https://gist.github.com/tanaikech/cedc350cf36865b7a84e260c78762db9)
+- [IMPORTXML を使用した GoogleAppsScript での XML データの解析](https://gist.github.com/tanaikech/f4e6091c1de4873695783471e410f07a)
+- [Google Apps Script を使用してチェックボックスをクリックしてスプレッドシートのセルを保護する](https://gist.github.com/tanaikech/1da4d8e8ebb2cdc62e6c42c6e71f14d7)
+- [スコープなしで Google Apps Script を使用して A1Notation を GridRange に、またはその逆に変換する](https://gist.github.com/tanaikech/457b5545a48890ed6dce66d67324ec47)
+- [Google Apps Script を使用して Google スプレッドシートから#REF の無効な名前付き範囲を削除する](https://gist.github.com/tanaikech/f9b993c4a178291324e03eeb5c161c1d)
+- [Google Apps Script で GOOGLEFINANCE を使用して為替レートを確認する](https://gist.github.com/tanaikech/67e0cd1f5ba4946aa050963a0720ed5f)
+- [Google Apps Script で作成した Web アプリを使用して、名前とパスワードを入力してユーザーのダッシュボードを作成する](https://gist.github.com/tanaikech/ac2537711bfcf19348b66b454da33196)
 - [Google Apps Script を使用して複数のシートの個別のセル値をクリアする](https://gist.github.com/tanaikech/6b1ce61475e35416ce0e728a7fd3018c)
 - [Google スプレッドシートのカスタム関数で RichTextValues を使用する](https://gist.github.com/tanaikech/1d63fcd5152688da68e9974167ca744f)
 - [Google Apps Script を使用した Google スプレッドシートでのセル移動の検出](https://gist.github.com/tanaikech/5939e3de5e24ce389beade94158bdb7d)
@@ -704,8 +705,8 @@ Javascript ライブラリ
 - [レポート：Google Docs API を使用して複数の段落を Google ドキュメントに順番に挿入](https://gist.github.com/tanaikech/6aa646691f6c2224202fa6fb756e3862)
 - [GoogleAppsScript を使用して Google ドキュメントの概要を取得する](https://gist.github.com/tanaikech/b61ec85a5f0fb4f5a9157fb9f7bd0e84)
 - [Google Apps Script を使用して、Google ドキュメントの複数の段落を正規表現に置き換える](https://gist.github.com/tanaikech/f32f878c6cc005bbbdec2d9c635fae7b)
-- [Google Apps Scriptを使用したGoogleドキュメントのスマートチップのドロップダウンリストの値の取得](https://gist.github.com/tanaikech/37a8498ecb392e8b23041ce238287e27)
-- [Google Apps Scriptを使用してGoogleドキュメントの画像を順番に置き換える](https://gist.github.com/tanaikech/1f3407674aafcba906a3528e7ec3463d)
+- [Google Apps Script を使用した Google ドキュメントのスマートチップのドロップダウンリストの値の取得](https://gist.github.com/tanaikech/37a8498ecb392e8b23041ce238287e27)
+- [Google Apps Script を使用して Google ドキュメントの画像を順番に置き換える](https://gist.github.com/tanaikech/1f3407674aafcba906a3528e7ec3463d)
 
 <a name="slides"> </a>
 
@@ -758,7 +759,7 @@ Javascript ライブラリ
 #### YouTube
 
 - [Google Apps Script を使用して Google ドライブ上のムービーファイルを YouTube にアップロードする](https://gist.github.com/tanaikech/dc62aeb9a363513d6d27baf119ecfc2d)
-- [Google Apps Scriptを使用してYouTubeのビデオURLからチャンネルのsubscriberCountを取得する](https://gist.github.com/tanaikech/e3b4ac87437a3f358e0577c5854e00a6)
+- [Google Apps Script を使用して YouTube のビデオ URL からチャンネルの subscriberCount を取得する](https://gist.github.com/tanaikech/e3b4ac87437a3f358e0577c5854e00a6)
 
 <a name="chart"> </a>
 
@@ -861,10 +862,10 @@ Javascript ライブラリ
 - [ggsrun を簡単な設定で使用する方法](https://gist.github.com/tanaikech/695f7016b04e4c4156ad928e9482ead9)
 - [Google Apps Script を使用して HTML をプレーンテキストに変換する](https://gist.github.com/tanaikech/2779ee59a199011e3f48a1fa92879a68)
 - [Google Apps Script を使用して画像データサイズを縮小する](https://gist.github.com/tanaikech/14c863e225162ec86894d604709d8b35)
-- [Google Apps Scriptを使用してn個の長さごとに配列を分割して処理する](https://gist.github.com/tanaikech/9e6276edb67d0ebde80ea378b6f79e20)
-- [Google Apps Scriptを使用したGateAPIv4へのリクエスト](https://gist.github.com/tanaikech/d0ea117b1c0e54cf713a8027f6b2fb08)
-- [Google Apps Scriptを使用したTabulatorデータのGoogleドライブへのエクスポート](https://gist.github.com/tanaikech/b0d83cd2f0a27f9cd778f3a1f167503e)
-- [Google Apps ScriptでFirebaseDynamicLinks APIを使用して長いURLを短縮する](https://gist.github.com/tanaikech/e439cbaadf363380fe026b380dd4de42)
+- [Google Apps Script を使用して n 個の長さごとに配列を分割して処理する](https://gist.github.com/tanaikech/9e6276edb67d0ebde80ea378b6f79e20)
+- [Google Apps Script を使用した GateAPIv4 へのリクエスト](https://gist.github.com/tanaikech/d0ea117b1c0e54cf713a8027f6b2fb08)
+- [Google Apps Script を使用した Tabulator データの Google ドライブへのエクスポート](https://gist.github.com/tanaikech/b0d83cd2f0a27f9cd778f3a1f167503e)
+- [Google Apps Script で FirebaseDynamicLinks API を使用して長い URL を短縮する](https://gist.github.com/tanaikech/e439cbaadf363380fe026b380dd4de42)
 - [Google Apps Script を使用して月と曜日の名前を取得する](https://gist.github.com/tanaikech/be6ef51a402aacb9fa24277dffed63bc)
 - [Google Apps Script を使用して Google ドライブの各 mimeType のアイコンを取得する](https://gist.github.com/tanaikech/1c0bd1e88b67f19b77d79c9f631b001d)
 
@@ -885,7 +886,7 @@ Javascript ライブラリ
 - [Node.js を使用して Web で公開された Google スプレッドシートの 2PACX-の URL からすべてのシートからすべての値を取得する](https://gist.github.com/tanaikech/49e1e6515225d810e849b3487142a90d)
 - [Node.js を使用してストリームと再開可能なアップロードでファイルを保存せずにファイルをダウンロードして Google ドライブにアップロード](https://gist.github.com/tanaikech/99187753ceb5fd55d343b52dcbe176a5)
 - [Axios 用の Google ドライブ API を使用した再開可能なアップロードの簡単なスクリプト](https://gist.github.com/tanaikech/0e33b7a850e8c56d111ed0f32df0b485)
-- [Node.js で Axios を使用したGoogle Driveへの再開可能なアップロードのサンプルスクリプト](https://gist.github.com/tanaikech/5212f2a8127e1c0a70c8642e298ae661)
+- [Node.js で Axios を使用した Google Drive への再開可能なアップロードのサンプルスクリプト](https://gist.github.com/tanaikech/5212f2a8127e1c0a70c8642e298ae661)
 
 <a name="golang"> </a>
 
@@ -911,8 +912,7 @@ Javascript ライブラリ
 - [Python 用 Google ドライブ API を使用した再開可能なアップロードの簡単なスクリプト](https://gist.github.com/tanaikech/f709a952ff6e286027950d0484f6c03e)
 - [Python を使用して Web で公開された Google スプレッドシートの 2PACX-の URL からすべてのシートからすべての値を取得する](https://gist.github.com/tanaikech/51628e5e0a2c017329457afdb1936912)
 - [Python で DocsAPI を使用して Google ドキュメントのテンプレートテキストを配列に置き換える](https://gist.github.com/tanaikech/f1f9fb91d3432362670c810ae05ba53b)
-- [Pythonを使用した非同期プロセスでのGoogleドライブへのファイルのアップロード](https://gist.github.com/tanaikech/a4cfbea4935b8c281d1f6abb91016705)
-
+- [Python を使用した非同期プロセスでの Google ドライブへのファイルのアップロード](https://gist.github.com/tanaikech/a4cfbea4935b8c281d1f6abb91016705)
 
 <a name="curl"> </a>
 
