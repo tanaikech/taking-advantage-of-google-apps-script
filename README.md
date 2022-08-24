@@ -57,6 +57,7 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
 
 # News
 
+- **August 17, 2022:** [My report has been published at Champion Innovators Content Library](https://tanaikech.github.io/2022/08/24/my-report-has-been-published-at-champion-innovators-content-library/)
 - **June 2, 2022:** [Embed content as a full page in new Google Sites](https://tanaikech.github.io/2022/06/02/embed-content-as-a-full-page-in-new-google-sites/)
 - **April 14, 2022:** [Updating Script Editor of Google Apps Script](https://tanaikech.github.io/2022/04/14/updating-script-editor-of-google-apps-script/)
 - **March 17, 2022:** [Finally, Google Forms API has been officially released as version 1](https://tanaikech.github.io/2022/03/17/finally-google-forms-api-has-been-officially-released-as-version-1/)
