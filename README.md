@@ -725,6 +725,7 @@ Javascript library
 - [Replacing Multiple Paragraphs on Google Document with a Regex using Google Apps Script](https://gist.github.com/tanaikech/f32f878c6cc005bbbdec2d9c635fae7b)
 - [Retrieving Values of Dropdown List of Smart Chips on Google Document using Google Apps Script](https://gist.github.com/tanaikech/37a8498ecb392e8b23041ce238287e27)
 - [Replacing Images on Google Document in Order using Google Apps Script](https://gist.github.com/tanaikech/1f3407674aafcba906a3528e7ec3463d)
+- [Updating Same Position on Google Document using Google Apps Script](https://gist.github.com/tanaikech/36a2a9d393f42274a833e5660bfe4ce0)
 
 <a name="slides"></a>
 
