@@ -367,6 +367,8 @@ Javascript library
 >   - By this, it is not required to manually reflect the latest version of the script to the Web Apps.
 > - When you can change the script of Web Apps by changing the deployed version of the library.
 
+### [Report: Process Cost of Google Apps Script During Large Calculations by Formulas on Google Spreadsheet](https://gist.github.com/tanaikech/455ae803fae6a9aba31a928ce5a16c1d)
+
 <br>
 
 <a name="benchmarks"></a>

@@ -367,6 +367,8 @@ Javascript ライブラリ
 >   ・これにより、手動で最新バージョンのスクリプトを Web Apps に反映させる必要がなくなります。
 > - ライブラリのデプロイ バージョンを変更することで Web Apps のスクリプトを変更できる場合。
 
+### [Report: Google スプレッドシートの数式による大規模な計算中の Google Apps Script の処理コスト](https://gist.github.com/tanaikech/455ae803fae6a9aba31a928ce5a16c1d)
+
 <br>
 
 <a name="benchmarks"> </a>
