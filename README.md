@@ -369,6 +369,8 @@ Javascript library
 
 ### [Report: Process Cost of Google Apps Script During Large Calculations by Formulas on Google Spreadsheet](https://gist.github.com/tanaikech/455ae803fae6a9aba31a928ce5a16c1d)
 
+### [Report: Rule of Item IDs for Questions of Google Forms](https://gist.github.com/tanaikech/f391fd4d596d45bb846d374ff0ded695)
+
 <br>
 
 <a name="benchmarks"></a>

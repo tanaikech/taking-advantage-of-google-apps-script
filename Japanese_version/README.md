@@ -369,6 +369,8 @@ Javascript ライブラリ
 
 ### [Report: Google スプレッドシートの数式による大規模な計算中の Google Apps Script の処理コスト](https://gist.github.com/tanaikech/455ae803fae6a9aba31a928ce5a16c1d)
 
+### [Report: Googleフォームの各質問のアイテムIDのルール](https://gist.github.com/tanaikech/f391fd4d596d45bb846d374ff0ded695)
+
 <br>
 
 <a name="benchmarks"> </a>
