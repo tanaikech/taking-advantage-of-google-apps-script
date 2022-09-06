@@ -58,6 +58,7 @@
 
 # ニュース
 
+- **2022 年 9 月 6 日:** [私のレポートが Champion Innovators Content Library で公開されました](https://tanaikech.github.io/2022/09/06/my-3-reports-have-been-published-at-champion-innovators-content-library/)
 - **2022 年 8 月 17 日:** [私のレポートが Champion Innovators Content Library で公開されました](https://tanaikech.github.io/2022/08/24/my-report-has-been-published-at-champion-innovators-content-library/)
 - **2022 年 6 月 2 日:** [Google サイトが新しくなり、ページ全体へのコンテンツの埋め込みが可能に](https://tanaikech.github.io/2022/06/02/embed-content-as-a-full-page-in-new-google-sites/)
 - **2022 年 4 月 14 日:** [Google Apps Script の Script Editor が更新されます](https://tanaikech.github.io/2022/04/14/updating-script-editor-of-google-apps-script/)
