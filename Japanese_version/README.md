@@ -714,6 +714,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用した Google ドキュメントのスマートチップのドロップダウンリストの値の取得](https://gist.github.com/tanaikech/37a8498ecb392e8b23041ce238287e27)
 - [Google Apps Script を使用して Google ドキュメントの画像を順番に置き換える](https://gist.github.com/tanaikech/1f3407674aafcba906a3528e7ec3463d)
 - [Google Apps Script を使用して Google ドキュメントの同じ位置を更新する](https://gist.github.com/tanaikech/36a2a9d393f42274a833e5660bfe4ce0)
+- [Google Apps Script を使用した OCR による大きな画像の Google ドキュメントへの変換](https://gist.github.com/tanaikech/d4efe1c07b99807f63fe7d5c058c0628)
 
 <a name="slides"> </a>
 
