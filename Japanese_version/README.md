@@ -685,6 +685,7 @@ Javascript ライブラリ
 - [Google スプレッドシートのカスタム関数で RichTextValues を使用する](https://gist.github.com/tanaikech/1d63fcd5152688da68e9974167ca744f)
 - [Google Apps Script を使用した Google スプレッドシートでのセル移動の検出](https://gist.github.com/tanaikech/5939e3de5e24ce389beade94158bdb7d)
 - [Google Apps Script を使用して Google スプレッドシートのソース シートごとに宛先シートを更新する](https://gist.github.com/tanaikech/9970ebf1bd3c7475df57126f5d544f89)
+- [Google Apps Script を使用して Google スプレッドシートで引用符付きのセルを検出する](https://gist.github.com/tanaikech/a17d291c9d3da8fbce0d100139d3c872)
 
 <a name="documents"> </a>
 
