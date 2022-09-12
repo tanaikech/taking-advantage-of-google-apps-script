@@ -529,6 +529,10 @@ Javascript library
 
 > As the result, using a sample situation, when the process cost of the sample script using Sheets API is compared with that of the sample script using Spreadsheet services (SpreadsheetApp), it was found that the above script using Sheets API could reduce the process cost by about 70 % from the script using Spreadsheet service.
 
+### [Benchmark: Process Costs for Checking Value in Array using Google Apps Script](https://gist.github.com/tanaikech/b7df3cd77a933dba247670f5eda15e4b)
+
+> There is a maximum executing time for Google Apps Script (GAS). That is 6 minutes. And, in the case of the custom function and the simple trigger, it is 30 seconds. So users always have to pay attention to reducing the process cost of the scripts. Especially, it is very important to know the process costs for the array processing, because array processing is often used for spreadsheets and Google APIs. I have already reported about the array processing at "Benchmark: Loop for Array Processing using Google Apps Script with V8" and "Search for Array Processing using Google Apps Script". In this report, the process cost checking a value in a one-dimensional array using Google Apps Script has been investigated.
+
 <br>
 
 <a name="communities"></a>
