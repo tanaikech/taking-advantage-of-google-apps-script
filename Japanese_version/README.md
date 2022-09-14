@@ -588,6 +588,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用してアカウントアクセスでサードパーティのアプリを削除する](https://gist.github.com/tanaikech/608e65fee105989df1a7b645c20572c2)
 - [Google Apps Script を使用したプロジェクトでコメントなしで再フォーマットされたスクリプトを取得する](https://gist.github.com/tanaikech/61f69fd2ce181865d3430c260c6a5d0b)
 - [Google Apps Script を使用してプロジェクトを zip ファイルとしてバックアップ](https://gist.github.com/tanaikech/035aa9f6603e7a8698c1cc67ab43e132)
+- [Google Apps Script を使用した Google Apps Script プロジェクトの全文検索](https://gist.github.com/tanaikech/d557d3e239189877e595ed622ce2cb88)
 
 <a name="spreadsheets"> </a>
 
