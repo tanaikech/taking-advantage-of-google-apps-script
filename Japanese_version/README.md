@@ -578,6 +578,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して HTML フォームから送信された値を使用する](https://gist.github.com/tanaikech/58d96c023468fc1922d67764251b25e0)
 - [Google Apps Script を使用して 'is：unorganized owner：me'でファイルを検索する](https://gist.github.com/tanaikech/ec6aa9f2967d2f837df7c87276a0c168)
 - [Google AppsScript を使用した外部サーバーでの HTML による Google ドライブの安全なアップロード](https://github.com/tanaikech/Safe-Uploading-for-Google-Drive-by-HTML-in-External-Server-using-Google-Apps-Script)
+- [Google Apps Script を使用して特定のフォルダにある「共有アイテム」のファイルを取得する](https://gist.github.com/tanaikech/ddebdc6c32937cbe2a525991398f066c)
 
 <a name="projects"> </a>
 
