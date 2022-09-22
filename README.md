@@ -901,6 +901,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Shortening a Long URL using Firebase Dynamic Links API with Google Apps Script](https://gist.github.com/tanaikech/e439cbaadf363380fe026b380dd4de42)
 - [Retrieving Names of Month and Day of Week using Google Apps Script](https://gist.github.com/tanaikech/be6ef51a402aacb9fa24277dffed63bc)
 - [Retrieving Icons of each mimeType on Google Drive using Google Apps Script](https://gist.github.com/tanaikech/1c0bd1e88b67f19b77d79c9f631b001d)
+- [Requesting with Keeping Cookies using Google Apps Script (SessionFetch)](https://gist.github.com/tanaikech/6202470a2bb4d22d1b195bb20bf8390c)
 
 <a name="nodejs"></a>
 
