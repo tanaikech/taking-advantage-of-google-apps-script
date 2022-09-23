@@ -722,6 +722,8 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Google ドキュメントの画像を順番に置き換える](https://gist.github.com/tanaikech/1f3407674aafcba906a3528e7ec3463d)
 - [Google Apps Script を使用して Google ドキュメントの同じ位置を更新する](https://gist.github.com/tanaikech/36a2a9d393f42274a833e5660bfe4ce0)
 - [Google Apps Script を使用した OCR による大きな画像の Google ドキュメントへの変換](https://gist.github.com/tanaikech/d4efe1c07b99807f63fe7d5c058c0628)
+- [Google Apps Script を使用して Google ドキュメントのテーブルの垂直方向の境界線を削除する](https://gist.github.com/tanaikech/811c4f6965346b95b3c507e1feb83177)
+
 
 <a name="slides"> </a>
 
