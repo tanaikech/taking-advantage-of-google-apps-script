@@ -712,6 +712,7 @@ Javascript library
 - [Detecting Cells with Quote Prefix in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/a17d291c9d3da8fbce0d100139d3c872)
 - [Showing Specific Rows and Columns in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/7573fe1aa0bd4fb3d0a1ff9740496ccc)
 - [Retrieving Cell Coordinates of Cells with Quote Prefix using Google Apps Script (Single Quote)](https://gist.github.com/tanaikech/89fb802a5ac04bc627c9b6f77476edd9)
+- [Retrieving Named Functions from Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/9a9e571ed662e35eec0aa747bb4e025a)
 
 <a name="documents"></a>
 
