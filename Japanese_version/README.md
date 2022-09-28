@@ -694,6 +694,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Google スプレッドシートのソース シートごとに宛先シートを更新する](https://gist.github.com/tanaikech/9970ebf1bd3c7475df57126f5d544f89)
 - [Google Apps Script を使用して Google スプレッドシートで引用符付きのセルを検出する](https://gist.github.com/tanaikech/a17d291c9d3da8fbce0d100139d3c872)
 - [Google Apps Script を使用して Google スプレッドシートに特定の行と列を表示する](https://gist.github.com/tanaikech/7573fe1aa0bd4fb3d0a1ff9740496ccc)
+- [Google Apps Script を使用して 引用符プレフィックス (一重引用符) を使用してセルのセル座標を取得する](https://gist.github.com/tanaikech/89fb802a5ac04bc627c9b6f77476edd9)
 
 <a name="documents"> </a>
 
