@@ -878,7 +878,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して画像にポイントをプロット](https://gist.github.com/tanaikech/fbb16f1eb43b3bafa93323461a500640)
 - [Google Apps Script を使用してアルファチャネルで PNG 画像を作成する](https://github.com/tanaikech/Creating-PNG-Image-with-Alpha-Channel-using-Google-Apps-Script)
 - [Google Apps Script を使用して特定の時間に分タイマーで関数を実行する](https://gist.github.com/tanaikech/6608e901272077cbc3738366ec5fe0b3)
-- [Google Apps スクリプトを使用した文字列から 16 進数への変換、16 進数からバイトへの変換、バイトから文字列への変換](https://gist.github.com/tanaikech/707b2cd2705f665a11b1ceb2febae91e)
+- [Google Apps Script を使用した文字列から 16 進数への変換、16 進数からバイトへの変換、バイトから文字列への変換](https://gist.github.com/tanaikech/707b2cd2705f665a11b1ceb2febae91e)
 - [ggsrun を簡単な設定で使用する方法](https://gist.github.com/tanaikech/695f7016b04e4c4156ad928e9482ead9)
 - [Google Apps Script を使用して HTML をプレーンテキストに変換する](https://gist.github.com/tanaikech/2779ee59a199011e3f48a1fa92879a68)
 - [Google Apps Script を使用して画像データサイズを縮小する](https://gist.github.com/tanaikech/14c863e225162ec86894d604709d8b35)
@@ -888,8 +888,9 @@ Javascript ライブラリ
 - [Google Apps Script で FirebaseDynamicLinks API を使用して長い URL を短縮する](https://gist.github.com/tanaikech/e439cbaadf363380fe026b380dd4de42)
 - [Google Apps Script を使用して月と曜日の名前を取得する](https://gist.github.com/tanaikech/be6ef51a402aacb9fa24277dffed63bc)
 - [Google Apps Script を使用して Google ドライブの各 mimeType のアイコンを取得する](https://gist.github.com/tanaikech/1c0bd1e88b67f19b77d79c9f631b001d)
-- [Google Apps Scriptを使用したCookieを保持てHTTPリクエストを行う (SessionFetch)](https://gist.github.com/tanaikech/6202470a2bb4d22d1b195bb20bf8390c)
-- [Google Apps Scriptを使用したエラー時にUrlFetchAppを再試行する (RetryFetch)](https://gist.github.com/tanaikech/ff431dacecc9af58d5e3c1b2aee53d5a)
+- [Google Apps Script を使用したCookieを保持てHTTPリクエストを行う (SessionFetch)](https://gist.github.com/tanaikech/6202470a2bb4d22d1b195bb20bf8390c)
+- [Google Apps Script を使用したエラー時にUrlFetchAppを再試行する (RetryFetch)](https://gist.github.com/tanaikech/ff431dacecc9af58d5e3c1b2aee53d5a)
+- [Google Apps Script を使用したバッチ リクエストのバッチパスの取得](https://gist.github.com/tanaikech/a970943f91c0dd0955d1722743e560df)
 
 <a name="nodejs"> </a>
 
