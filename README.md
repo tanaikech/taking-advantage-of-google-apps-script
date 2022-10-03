@@ -57,6 +57,7 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
 
 # News
 
+- **October 3, 2022:** [My report has been published on the Blog of Google Cloud](https://tanaikech.github.io/2022/10/03/my-report-has-been-published-on-the-blog-of-google-cloud/)
 - **September 6, 2022:** [My report has been published at Champion Innovators Content Library](https://tanaikech.github.io/2022/09/06/my-3-reports-have-been-published-at-champion-innovators-content-library/)
 - **August 17, 2022:** [My report has been published at Champion Innovators Content Library](https://tanaikech.github.io/2022/08/24/my-report-has-been-published-at-champion-innovators-content-library/)
 - **June 2, 2022:** [Embed content as a full page in new Google Sites](https://tanaikech.github.io/2022/06/02/embed-content-as-a-full-page-in-new-google-sites/)
