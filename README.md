@@ -596,6 +596,7 @@ Javascript library
 - [Achieving Search of Files by 'is:unorganized owner:me' using Google Apps Script](https://gist.github.com/tanaikech/ec6aa9f2967d2f837df7c87276a0c168)
 - [Safe-Uploading for Google Drive by HTML in External Server using Google Apps Script](https://github.com/tanaikech/Safe-Uploading-for-Google-Drive-by-HTML-in-External-Server-using-Google-Apps-Script)
 - [Retrieving Files of 'Shared with Me' in Specific Folder using Google Apps Script](https://gist.github.com/tanaikech/ddebdc6c32937cbe2a525991398f066c)
+- [Workaround: createdDate cannot be used with searchFiles of DriveApp in Google Apps Script](https://gist.github.com/tanaikech/2b9d86a7db01f72e88090116cb5fee1f)
 
 <a name="projects"></a>
 
