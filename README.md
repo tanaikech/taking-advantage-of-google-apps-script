@@ -373,6 +373,8 @@ Javascript library
 
 ### [Report: Rule of Item IDs for Questions of Google Forms](https://gist.github.com/tanaikech/f391fd4d596d45bb846d374ff0ded695)
 
+### [Report: Implementing Pseudo 2FA for Web Apps using Google Apps Script](https://gist.github.com/tanaikech/7a15164b1227e2ec2231fce24ae9daf2)
+
 <br>
 
 <a name="benchmarks"></a>

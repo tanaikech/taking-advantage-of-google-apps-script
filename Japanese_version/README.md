@@ -373,6 +373,8 @@ Javascript ライブラリ
 
 ### [Report: Googleフォームの各質問のアイテムIDのルール](https://gist.github.com/tanaikech/f391fd4d596d45bb846d374ff0ded695)
 
+### [Report: Google Apps Script を使用して Web Apps に疑似 2FA を実装する](https://gist.github.com/tanaikech/7a15164b1227e2ec2231fce24ae9daf2)
+
 <br>
 
 <a name="benchmarks"> </a>
