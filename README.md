@@ -375,6 +375,8 @@ Javascript library
 
 ### [Report: Implementing Pseudo 2FA for Web Apps using Google Apps Script](https://gist.github.com/tanaikech/7a15164b1227e2ec2231fce24ae9daf2)
 
+> In Google Apps Script, there is the Web Apps. When Web Apps is used, the users can execute Google Apps Script using HTML and Javascript. This can be applied to various applications. When the Web Apps is deployed with "Anyone", anyone can access the Web Apps. And, there is the case that Web Apps deployed with "Anyone" is required to be used. Under this condition, when 2 Factor Authentication (2FA) can be implemented, it is considered that the security can be higher and it leads to giving various directions for the applications using Web Apps. In this report, I would like to introduce the method for implementing the pseud 2FA for Web Apps deployed with “Anyone” using Google Apps Script.
+
 <br>
 
 <a name="benchmarks"></a>

@@ -375,6 +375,8 @@ Javascript ライブラリ
 
 ### [Report: Google Apps Script を使用して Web Apps に疑似 2FA を実装する](https://gist.github.com/tanaikech/7a15164b1227e2ec2231fce24ae9daf2)
 
+> Google Apps Script には Web Apps があります。 Web Apps を使用すると、ユーザーは HTML と Javascript を使用して Google Apps Script を実行できます。 これは、さまざまなアプリケーションに適用できます。 「誰でも」で Web アプリをデプロイすると、誰でも Web アプリにアクセスできます。 また、「誰でも」で展開したWebアプリを利用する必要がある場合があります。 このような状況下で、2 要素認証 (2FA) を実装できれば、より高いセキュリティを実現できると考えられ、Web Apps を使用したアプリケーションにさまざまな方向性を与えることにつながります。 本レポートでは、Google Apps Script を使用して、「誰でも」でデプロイした Web Apps に疑似 2FA を実装する方法を紹介したいと思います。
+
 <br>
 
 <a name="benchmarks"> </a>
