@@ -720,6 +720,7 @@ Javascript library
 - [Retrieving Cell Coordinates of Cells with Quote Prefix using Google Apps Script (Single Quote)](https://gist.github.com/tanaikech/89fb802a5ac04bc627c9b6f77476edd9)
 - [Retrieving Named Functions from Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/9a9e571ed662e35eec0aa747bb4e025a)
 - [Updating Array1 with Array2 using Google Apps Script](https://gist.github.com/tanaikech/fb7149425069ad1138f36162698385df)
+- [Putting Multiple Hyperlinks to a Cell using Sheets API with Google Apps Script and Node.js](https://gist.github.com/tanaikech/4c27bf8d1948a5dfa5b0e53ce88c6d30)
 
 <a name="documents"></a>
 
@@ -935,6 +936,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Simple Script of Resumable Upload with Google Drive API for Axios](https://gist.github.com/tanaikech/0e33b7a850e8c56d111ed0f32df0b485)
 - [Sample Script for Resumable Upload to Google Drive using Axios with Node.js](https://gist.github.com/tanaikech/5212f2a8127e1c0a70c8642e298ae661)
 - [Creating and Deleting Multiple Events in Google Calendar by Batch Requests using Calendar API with Node.js](https://gist.github.com/tanaikech/33544a8f56cb5b4c2f96ceb29d6b2855)
+- [Putting Multiple Hyperlinks to a Cell using Sheets API with Google Apps Script and Node.js](https://gist.github.com/tanaikech/4c27bf8d1948a5dfa5b0e53ce88c6d30)
 
 <a name="golang"></a>
 

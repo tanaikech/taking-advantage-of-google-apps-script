@@ -703,6 +703,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して 引用符プレフィックス (一重引用符) を使用してセルのセル座標を取得する](https://gist.github.com/tanaikech/89fb802a5ac04bc627c9b6f77476edd9)
 - [Google Apps Script を使用して Google スプレッドシートから名前付き関数を取得する](https://gist.github.com/tanaikech/9a9e571ed662e35eec0aa747bb4e025a)
 - [Google Apps Script を使用して Array1 を Array2 で更新する](https://gist.github.com/tanaikech/fb7149425069ad1138f36162698385df)
+- [Google Apps Script と Node.js で Sheets API を使用してセルに複数のハイパーリンクを配置する](https://gist.github.com/tanaikech/4c27bf8d1948a5dfa5b0e53ce88c6d30)
 
 <a name="documents"> </a>
 
@@ -918,6 +919,7 @@ Javascript ライブラリ
 - [Axios 用の Google ドライブ API を使用した再開可能なアップロードの簡単なスクリプト](https://gist.github.com/tanaikech/0e33b7a850e8c56d111ed0f32df0b485)
 - [Node.js で Axios を使用した Google Drive への再開可能なアップロードのサンプルスクリプト](https://gist.github.com/tanaikech/5212f2a8127e1c0a70c8642e298ae661)
 - [Node.js で Calendar API を使用したバッチ リクエストによる Google カレンダーでの複数のイベントの作成と削除](https://gist.github.com/tanaikech/33544a8f56cb5b4c2f96ceb29d6b2855)
+- [Google Apps Script と Node.js で Sheets API を使用してセルに複数のハイパーリンクを配置する](https://gist.github.com/tanaikech/4c27bf8d1948a5dfa5b0e53ce88c6d30)
 
 <a name="golang"> </a>
 
