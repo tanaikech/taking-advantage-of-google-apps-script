@@ -601,6 +601,7 @@ Javascript library
 - [Safe-Uploading for Google Drive by HTML in External Server using Google Apps Script](https://github.com/tanaikech/Safe-Uploading-for-Google-Drive-by-HTML-in-External-Server-using-Google-Apps-Script)
 - [Retrieving Files of 'Shared with Me' in Specific Folder using Google Apps Script](https://gist.github.com/tanaikech/ddebdc6c32937cbe2a525991398f066c)
 - [Workaround: createdDate cannot be used with searchFiles of DriveApp in Google Apps Script](https://gist.github.com/tanaikech/2b9d86a7db01f72e88090116cb5fee1f)
+- [Workaround: Checking Existence of File ID in Google Drive without Access token and API key](https://gist.github.com/tanaikech/ef51e36e53c5e49d2a8dc3736e8a9386)
 
 <a name="projects"></a>
 

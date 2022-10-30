@@ -585,6 +585,7 @@ Javascript ライブラリ
 - [Google AppsScript を使用した外部サーバーでの HTML による Google ドライブの安全なアップロード](https://github.com/tanaikech/Safe-Uploading-for-Google-Drive-by-HTML-in-External-Server-using-Google-Apps-Script)
 - [Google Apps Script を使用して特定のフォルダにある「共有アイテム」のファイルを取得する](https://gist.github.com/tanaikech/ddebdc6c32937cbe2a525991398f066c)
 - [回避策: Google Apps ScriptのDriveApp.searchFiles()でcreatedDateを使用できない](https://gist.github.com/tanaikech/2b9d86a7db01f72e88090116cb5fee1f)
+- [回避策: アクセス トークンと API キーを使用せずに Google ドライブ内のファイル ID の存在を確認する](https://gist.github.com/tanaikech/ef51e36e53c5e49d2a8dc3736e8a9386)
 
 <a name="projects"> </a>
 
