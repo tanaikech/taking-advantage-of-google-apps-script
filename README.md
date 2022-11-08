@@ -919,6 +919,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Requesting with Keeping Cookies using Google Apps Script (SessionFetch)](https://gist.github.com/tanaikech/6202470a2bb4d22d1b195bb20bf8390c)
 - [Retrying UrlFetchApp by an Error using Google Apps Script (RetryFetch)](https://gist.github.com/tanaikech/ff431dacecc9af58d5e3c1b2aee53d5a)
 - [Retrieving Batch Path for Batch Requests using Google Apps Script](https://gist.github.com/tanaikech/a970943f91c0dd0955d1722743e560df)
+- [Using getBatchGet, batchCreateContacts, batchDeleteContacts, batchUpdateContacts of People API with Google Apps Script](https://gist.github.com/tanaikech/70e08b966e2f8095462dffa5760100c9)
 
 <a name="nodejs"></a>
 

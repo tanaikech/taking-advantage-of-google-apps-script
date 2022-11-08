@@ -902,6 +902,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用したCookieを保持てHTTPリクエストを行う (SessionFetch)](https://gist.github.com/tanaikech/6202470a2bb4d22d1b195bb20bf8390c)
 - [Google Apps Script を使用したエラー時にUrlFetchAppを再試行する (RetryFetch)](https://gist.github.com/tanaikech/ff431dacecc9af58d5e3c1b2aee53d5a)
 - [Google Apps Script を使用したバッチ リクエストのバッチパスの取得](https://gist.github.com/tanaikech/a970943f91c0dd0955d1722743e560df)
+- [Google Apps Script でPeople APIのgetBatchGet, batchCreateContacts, batchDeleteContacts, batchUpdateContactsを使用するサンプルスクリプト](https://gist.github.com/tanaikech/70e08b966e2f8095462dffa5760100c9)
 
 <a name="nodejs"> </a>
 
