@@ -723,6 +723,7 @@ Javascript library
 - [Retrieving Named Functions from Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/9a9e571ed662e35eec0aa747bb4e025a)
 - [Updating Array1 with Array2 using Google Apps Script](https://gist.github.com/tanaikech/fb7149425069ad1138f36162698385df)
 - [Putting Multiple Hyperlinks to a Cell using Sheets API with Google Apps Script and Node.js](https://gist.github.com/tanaikech/4c27bf8d1948a5dfa5b0e53ce88c6d30)
+- [Workaround: Detecting to Edit Google Spreadsheet using Sheets API with Service Account](https://gist.github.com/tanaikech/5388797761cb92cf1fe325e939c10b25)
 
 <a name="documents"></a>
 
