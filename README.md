@@ -809,6 +809,7 @@ Javascript library
 
 - [Uploading Movie File on Google Drive to YouTube using Google Apps Script](https://gist.github.com/tanaikech/dc62aeb9a363513d6d27baf119ecfc2d)
 - [Retrieving subscriberCount of Channel from Video URLs of YouTube using Google Apps Script](https://gist.github.com/tanaikech/e3b4ac87437a3f358e0577c5854e00a6)
+- [Curl Command Uploading Video File to YouTube with Resumable Upload using YouTube API](https://gist.github.com/tanaikech/5f3ce2d002e1b8e5916821ecc1dacbdc)
 
 <a name="chart"></a>
 
