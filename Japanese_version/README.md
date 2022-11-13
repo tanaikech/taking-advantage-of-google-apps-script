@@ -793,6 +793,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Google ドライブ上のムービーファイルを YouTube にアップロードする](https://gist.github.com/tanaikech/dc62aeb9a363513d6d27baf119ecfc2d)
 - [Google Apps Script を使用して YouTube のビデオ URL からチャンネルの subscriberCount を取得する](https://gist.github.com/tanaikech/e3b4ac87437a3f358e0577c5854e00a6)
 - [YouTube API を使用した再開可能なアップロードで YouTube にビデオ ファイルをアップロードする Curl コマンド](https://gist.github.com/tanaikech/5f3ce2d002e1b8e5916821ecc1dacbdc)
+- [Google Apps Script を使用した再開可能なアップロードで Google ドライブの動画ファイルを YouTube にアップロード](https://gist.github.com/tanaikech/e41b1a674f0c3912aa7c29aac28a57cd)
 
 <a name="chart"> </a>
 
