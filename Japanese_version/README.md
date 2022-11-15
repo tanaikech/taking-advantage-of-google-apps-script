@@ -58,6 +58,7 @@
 
 # ニュース
 
+- **2022 年 11 月 15 日:** [レポートが Google Workspace Developer Newsletter で公開されました](https://tanaikech.github.io/2022/11/15/my-report-has-been-featured-by-google-workspace-developer-newsletter/)
 - **2022 年 11 月 3 日:** [レポートが Champion Innovators Content Library で公開されました](https://tanaikech.github.io/2022/11/03/my-report-has-been-published-at-champion-innovators-content-library/)
 - **2022 年 10 月 3 日:** [レポートが Google Clound の Blog で公開されました](https://tanaikech.github.io/2022/10/03/my-report-has-been-published-on-the-blog-of-google-cloud/)
 - **2022 年 9 月 6 日:** [レポートが Champion Innovators Content Library で公開されました](https://tanaikech.github.io/2022/09/06/my-3-reports-have-been-published-at-champion-innovators-content-library/)
