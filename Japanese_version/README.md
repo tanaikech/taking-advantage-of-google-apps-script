@@ -766,6 +766,7 @@ Javascript ライブラリ
 - [Gmail のメッセージ ID を使用してメッセージにラベルを追加する](https://gist.github.com/tanaikech/69c7daf910fdad0d6a296ea19f612089)
 - [Google Apps Script を使用して絵文字を含むタイトルと本文を含む Gmail を送信する](https://gist.github.com/tanaikech/187863d97d2b5e60938d8316574a2850)
 - [Google AppsScript を使用した GmailAPI でバッチリクエストを使用して複数のメールを送信する](https://gist.github.com/tanaikech/44e055214ab470c9b3143a469d7a7d21)
+- [Google Apps Script を使用した Gmail メッセージの画像への変換](https://gist.github.com/tanaikech/12a61cb7e4516acc95ecf15287b3f0f3)
 
 <a name="calendar"> </a>
 
