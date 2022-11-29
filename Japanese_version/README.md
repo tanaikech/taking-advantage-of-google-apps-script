@@ -588,6 +588,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して特定のフォルダにある「共有アイテム」のファイルを取得する](https://gist.github.com/tanaikech/ddebdc6c32937cbe2a525991398f066c)
 - [回避策: Google Apps ScriptのDriveApp.searchFiles()でcreatedDateを使用できない](https://gist.github.com/tanaikech/2b9d86a7db01f72e88090116cb5fee1f)
 - [回避策: アクセス トークンと API キーを使用せずに Google ドライブ内のファイル ID の存在を確認する](https://gist.github.com/tanaikech/ef51e36e53c5e49d2a8dc3736e8a9386)
+- [Google Apps Script を使用して Google ドライブから特定のフォルダを取得する](https://gist.github.com/tanaikech/5be73060a7941d73ce7179c6fa77206a)
 
 <a name="projects"> </a>
 
