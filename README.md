@@ -785,6 +785,7 @@ Javascript library
 - [Sending Gmail with Title and Body Including Emoji using Google Apps Script](https://gist.github.com/tanaikech/187863d97d2b5e60938d8316574a2850)
 - [Sending Multiple Emails using Batch Request with Gmail API using Google Apps Script](https://gist.github.com/tanaikech/44e055214ab470c9b3143a469d7a7d21)
 - [Converting Gmail Message to Image using Google Apps Script](https://gist.github.com/tanaikech/12a61cb7e4516acc95ecf15287b3f0f3)
+- [Searching Gmail Messages by Gmail Filters using Google Apps Script](https://gist.github.com/tanaikech/bc8788c65afeba42ec2e560bfa5eb8b2)
 
 <a name="calendar"></a>
 
