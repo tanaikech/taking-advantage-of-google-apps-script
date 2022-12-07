@@ -927,6 +927,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Retrying UrlFetchApp by an Error using Google Apps Script (RetryFetch)](https://gist.github.com/tanaikech/ff431dacecc9af58d5e3c1b2aee53d5a)
 - [Retrieving Batch Path for Batch Requests using Google Apps Script](https://gist.github.com/tanaikech/a970943f91c0dd0955d1722743e560df)
 - [Using getBatchGet, batchCreateContacts, batchDeleteContacts, batchUpdateContacts of People API with Google Apps Script](https://gist.github.com/tanaikech/70e08b966e2f8095462dffa5760100c9)
+- [Workaround: Reflecting Latest Script to Deployed Web Apps Created by Google Apps Script without Redeploying](https://gist.github.com/tanaikech/c08113070cdbf84db2680b2eeea605d5)
 
 <a name="nodejs"></a>
 
