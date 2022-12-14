@@ -726,6 +726,7 @@ Javascript library
 - [Updating Array1 with Array2 using Google Apps Script](https://gist.github.com/tanaikech/fb7149425069ad1138f36162698385df)
 - [Putting Multiple Hyperlinks to a Cell using Sheets API with Google Apps Script and Node.js](https://gist.github.com/tanaikech/4c27bf8d1948a5dfa5b0e53ce88c6d30)
 - [Workaround: Detecting to Edit Google Spreadsheet using Sheets API with Service Account](https://gist.github.com/tanaikech/5388797761cb92cf1fe325e939c10b25)
+- [Copying and Deleting Dimension Groups in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/bb50f2e188327afd616bd2678ab0b40f)
 
 <a name="documents"></a>
 

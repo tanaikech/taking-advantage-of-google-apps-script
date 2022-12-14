@@ -709,6 +709,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Array1 を Array2 で更新する](https://gist.github.com/tanaikech/fb7149425069ad1138f36162698385df)
 - [Google Apps Script と Node.js で Sheets API を使用してセルに複数のハイパーリンクを配置する](https://gist.github.com/tanaikech/4c27bf8d1948a5dfa5b0e53ce88c6d30)
 - [回避策: サービスアカウントでSheets APIを使用し Googleスプレッドシートを編集したことを検出する](https://gist.github.com/tanaikech/5388797761cb92cf1fe325e939c10b25)
+- [Google Apps Script を使用した Google スプレッドシートのディメンション グループのコピーと削除](https://gist.github.com/tanaikech/bb50f2e188327afd616bd2678ab0b40f)
 
 <a name="documents"> </a>
 
