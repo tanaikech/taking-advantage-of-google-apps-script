@@ -975,6 +975,7 @@ Javascript ライブラリ
 - [axios を使用して Google フォトに画像ファイルをアップロードする](https://gist.github.com/tanaikech/426345c24e46da3ac7268f31b76bb3e4)
 - [Javascript を使用したサービスアカウントのアクセストークンの取得](https://gist.github.com/tanaikech/3c7f208cb352a807b3d30b9c1dcf0c82)
 - [サービスアカウントで JavaScript に GoogleAPI クライアントライブラリ(gapi)を使用する](https://gist.github.com/tanaikech/603102a64587cb9bff2e165994f6b6a1)
+- [Javascript で API キーを使用して、公開されている Google スプレッドシートから値を取得する](https://gist.github.com/tanaikech/aeb1a21e1e51a902f903e6363cd1a5db)
 
 <a name="php"> </a>
 

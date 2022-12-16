@@ -992,6 +992,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Uploading Image Files to Google Photos using axios](https://gist.github.com/tanaikech/426345c24e46da3ac7268f31b76bb3e4)
 - [Retrieving Access Token for Service Account using Javascript](https://gist.github.com/tanaikech/3c7f208cb352a807b3d30b9c1dcf0c82)
 - [Using Google API Client Library (gapi) for JavaScript with Service Account](https://gist.github.com/tanaikech/603102a64587cb9bff2e165994f6b6a1)
+- [Retrieving Values from Publicly Shared Google Spreadsheet using API key with Javascript](https://gist.github.com/tanaikech/aeb1a21e1e51a902f903e6363cd1a5db)
 
 <a name="php"></a>
 
