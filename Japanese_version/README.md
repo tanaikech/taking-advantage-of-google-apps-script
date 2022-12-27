@@ -915,6 +915,7 @@ Javascript ライブラリ
 - [回避策: Google Apps Script で作成したデプロイ済み Web アプリに再デプロイせずに最新のスクリプトを反映する](https://gist.github.com/tanaikech/e46def22cf106b012dfa5ad359b93d24)
 - [Google Apps Script で crypto-js を使用した AES による暗号化と復号化](https://gist.github.com/tanaikech/1038c73f028b7595f4e070a0e7d48ff1)
 - [Google Apps Script を使用して finance.yahoo.com の Salted Base64 を復号化](https://gist.github.com/tanaikech/2c13c70e932e84adcf658ca8334f25ab)
+- [Google Apps Script を使用した JSON オブジェクトのフィルタリング](https://gist.github.com/tanaikech/d80131e89ed5025bbd40fe19b9e43beb)
 
 <a name="nodejs"> </a>
 

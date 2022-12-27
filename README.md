@@ -932,6 +932,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Workaround: Reflecting Latest Script to Deployed Web Apps Created by Google Apps Script without Redeploying](https://gist.github.com/tanaikech/e46def22cf106b012dfa5ad359b93d24)
 - [Encrypting and Decrypting with AES using crypto-js with Google Apps Script](https://gist.github.com/tanaikech/1038c73f028b7595f4e070a0e7d48ff1)
 - [Decrypting Salted Base64 of finance.yahoo.com using Google Apps Script](https://gist.github.com/tanaikech/2c13c70e932e84adcf658ca8334f25ab)
+- [Filtering JSON object using Google Apps Script](https://gist.github.com/tanaikech/d80131e89ed5025bbd40fe19b9e43beb)
 
 <a name="nodejs"></a>
 
