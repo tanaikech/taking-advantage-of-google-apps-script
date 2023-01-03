@@ -100,6 +100,8 @@
 
 - [Stackoverflow における 2022 年の google-apps-script タグの傾向](https://gist.github.com/tanaikech/e258f30182fdd6609d94d87805914caa)
 
+- [Stackoverflow における 2023 年の google-apps-script タグの傾向](https://gist.github.com/tanaikech/526e5aaed047ca54ece491a2f465f923)
+
 <br>
 
 <a name="settings"> </a>

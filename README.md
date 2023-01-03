@@ -90,7 +90,7 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
 
 # Trend of Google Apps Script
 
-> At Stackoverflow, a lot of people post the questions and answers to the questions every day. There are various tags in Stackoverflow. A lot of discussions are performed at each tag. Their discussions bring the important information and are much useful for a lot of people. As one of tags, there is "google-apps-script". I sometimes discuss at the questions with that tag. When we see the discussions, we can notice that the discussions are changed and progressed by the time, because "Google Apps Script" which is the origin of the tag is updated. This report thinks this change as the trend of tag of "google-apps-script". This trend includes the number of questions, questioners, answerers and tags adding to the tag of "google-apps-script". The trend of tag of "google-apps-script" is deeply related to the progression of Google Apps Script and the various applications for Google Apps Script. In this report, as one of several approaches, the trend of Google Apps Script was investigated by statistically analyzing all questions with the tag of "google-apps-script". As the result, it was found that by investigating all questions with the tag of "google-apps-script", the tags added to this main tag strongly affected to the trend of the tag of "google-apps-script". Also the possibility which can estimate the future trend by investigating the tags adding to the tag of "google-apps-script" was indicated.
+> At Stackoverflow, a lot of people post questions and answers to the questions every day. There are various tags in Stackoverflow. A lot of discussions are performed at each tag. Their discussions bring important information and are much useful for a lot of people. As one of the tags, there is "google-apps-script". I sometimes discuss the questions with that tag. When we see the discussions, we can notice that the discussions are changed and progressed over time, because "Google Apps Script" which is the origin of the tag is updated. This report thinks this change is the trend of the tag of "google-apps-script". This trend includes the number of questions, questioners, answerers, and tags added to the tag of "google-apps-script". The trend of the tag of "google-apps-script" is deeply related to the progression of Google Apps Script and the various applications for Google Apps Script. In this report, as one of several approaches, the trend of Google Apps Script was investigated by statistically analyzing all questions with the tag of "google-apps-script". As the result, it was found that by investigating all questions with the tag "google-apps-script", the tags added to this main tag strongly affected the trend of the tag "google-apps-script". Also, the possibility which can estimate the future trend by investigating the tags added to the tag of "google-apps-script" was indicated.
 
 - [Trend of google-apps-script Tag on Stackoverflow 2019](https://gist.github.com/tanaikech/4e4f1ca20b8dbce08f87289db415df7d)
 
@@ -99,6 +99,8 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
 - [Trend of google-apps-script Tag on Stackoverflow 2021](https://gist.github.com/tanaikech/18519c3177e284638dce9113ec7ab5b1)
 
 - [Trend of google-apps-script Tag on Stackoverflow 2022](https://gist.github.com/tanaikech/e258f30182fdd6609d94d87805914caa)
+
+- [Trend of google-apps-script Tag on Stackoverflow 2023](https://gist.github.com/tanaikech/526e5aaed047ca54ece491a2f465f923)
 
 <br>
 
