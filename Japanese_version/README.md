@@ -918,6 +918,7 @@ Javascript ライブラリ
 - [Google Apps Script で crypto-js を使用した AES による暗号化と復号化](https://gist.github.com/tanaikech/1038c73f028b7595f4e070a0e7d48ff1)
 - [Google Apps Script を使用して finance.yahoo.com の Salted Base64 を復号化](https://gist.github.com/tanaikech/2c13c70e932e84adcf658ca8334f25ab)
 - [Google Apps Script を使用した JSON オブジェクトのフィルタリング](https://gist.github.com/tanaikech/d80131e89ed5025bbd40fe19b9e43beb)
+- [Google Apps Script と Javascript を使用して年の月初と月末を取得する](https://gist.github.com/tanaikech/1153792b17ce29ae86c865e53c999375)
 
 <a name="nodejs"> </a>
 
