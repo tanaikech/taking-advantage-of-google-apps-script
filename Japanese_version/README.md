@@ -591,6 +591,7 @@ Javascript ライブラリ
 - [回避策: Google Apps ScriptのDriveApp.searchFiles()でcreatedDateを使用できない](https://gist.github.com/tanaikech/2b9d86a7db01f72e88090116cb5fee1f)
 - [回避策: アクセス トークンと API キーを使用せずに Google ドライブ内のファイル ID の存在を確認する](https://gist.github.com/tanaikech/ef51e36e53c5e49d2a8dc3736e8a9386)
 - [Google Apps Script を使用して Google ドライブから特定のフォルダを取得する](https://gist.github.com/tanaikech/5be73060a7941d73ce7179c6fa77206a)
+- [Google Apps Script を使用してファイルの所有者を他のユーザーに譲渡する](https://gist.github.com/tanaikech/685929fd4e739c943ab0b4c53348a4af)
 
 <a name="projects"> </a>
 
