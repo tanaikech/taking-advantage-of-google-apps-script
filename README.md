@@ -937,6 +937,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Decrypting Salted Base64 of finance.yahoo.com using Google Apps Script](https://gist.github.com/tanaikech/2c13c70e932e84adcf658ca8334f25ab)
 - [Filtering JSON object using Google Apps Script](https://gist.github.com/tanaikech/d80131e89ed5025bbd40fe19b9e43beb)
 - [Retrieving Start and End of Month in Year using Google Apps Script and Javascript](https://gist.github.com/tanaikech/1153792b17ce29ae86c865e53c999375)
+- [Merging Multiple PDF Files as a Single PDF File using Google Apps Script](https://gist.github.com/tanaikech/449ff906b85be18977e47e0d5ea173d5)
 
 <a name="nodejs"></a>
 
