@@ -811,6 +811,7 @@ Javascript library
 - [Creating Quizzes in Google Form using Google Forms API with Google Apps Script](https://gist.github.com/tanaikech/eebcb2d71eed1aab5decff64287bcc9a)
 - [Creating Quizzes in Google Form using Google Forms Service with Google Apps Script](https://gist.github.com/tanaikech/3e131b55c7947ced19a3dd99410367eb)
 - [Analyzing Responses from Grid Items of Google Form using Google Apps Script](https://gist.github.com/tanaikech/97c3cfd5c6e393de6a16ff6465300e4d)
+- [Opening and Closing Google Forms on Time using Google Apps Script](https://gist.github.com/tanaikech/84bd91f2927d8c8463b494f712eb1800)
 
 <a name="youtube"></a>
 
