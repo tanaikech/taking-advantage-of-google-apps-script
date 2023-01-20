@@ -762,6 +762,7 @@ Javascript library
 - [Converting Large images to Google Document by OCR using Google Apps Script](https://gist.github.com/tanaikech/d4efe1c07b99807f63fe7d5c058c0628)
 - [Removing Vertical Borders of Table in Google Document using Google Apps Script](https://gist.github.com/tanaikech/811c4f6965346b95b3c507e1feb83177)
 - [Retrieving Values of Calendar Events of Smart Chips on Google Document using Google Apps Script](https://gist.github.com/tanaikech/a130a87830ffbde46f160401787e1dff)
+- [Set Line Space of Paragraph on Google Document using Google Apps Script](https://gist.github.com/tanaikech/ea68371c1f212d316a8713946e9d8385)
 
 <a name="slides"></a>
 
