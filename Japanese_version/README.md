@@ -923,6 +923,7 @@ Javascript ライブラリ
 - [Google Apps Script と Javascript を使用して年の月初と月末を取得する](https://gist.github.com/tanaikech/1153792b17ce29ae86c865e53c999375)
 - [Google Apps Script を使用して複数の PDF ファイルを 1 つの PDF ファイルとしてマージする](https://gist.github.com/tanaikech/449ff906b85be18977e47e0d5ea173d5)
 - [Google Apps Script を使用して PDF ファイル内のすべてのページを PNG 画像に変換する](https://gist.github.com/tanaikech/94ff0713a7bfe2d3e43afbfe54611190)
+- [Google Apps Script を使用して U+00A0 を Unicode として U+0020 に置き換える](https://gist.github.com/tanaikech/cc470a3b6c49b32e06d908e6d3f96f66)
 
 <a name="nodejs"> </a>
 
