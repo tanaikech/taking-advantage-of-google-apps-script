@@ -714,6 +714,7 @@ Javascript ライブラリ
 - [回避策: サービスアカウントでSheets APIを使用し Googleスプレッドシートを編集したことを検出する](https://gist.github.com/tanaikech/5388797761cb92cf1fe325e939c10b25)
 - [Google Apps Script を使用した Google スプレッドシートのディメンション グループのコピーと削除](https://gist.github.com/tanaikech/bb50f2e188327afd616bd2678ab0b40f)
 - [Google Apps Script を使用した Google スプレッドシートの列の並べ替え](https://gist.github.com/tanaikech/5ca3ed56c36cb7b947e14d5b1dbab6a2)
+- [Google Apps スクリプトを他のユーザーから非表示にして OnEdit トリガーを Google スプレッドシートに使用する](https://gist.github.com/tanaikech/848fea29875d5034a2347a5a16306215)
 
 <a name="documents"> </a>
 

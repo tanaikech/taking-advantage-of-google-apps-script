@@ -731,6 +731,7 @@ Javascript library
 - [Workaround: Detecting to Edit Google Spreadsheet using Sheets API with Service Account](https://gist.github.com/tanaikech/5388797761cb92cf1fe325e939c10b25)
 - [Copying and Deleting Dimension Groups in Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/bb50f2e188327afd616bd2678ab0b40f)
 - [Rearranging Columns on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/5ca3ed56c36cb7b947e14d5b1dbab6a2)
+- [Using OnEdit Trigger to Google Spreadsheet by Hiding Google Apps Script from Other Users](https://gist.github.com/tanaikech/848fea29875d5034a2347a5a16306215)
 
 <a name="documents"></a>
 
