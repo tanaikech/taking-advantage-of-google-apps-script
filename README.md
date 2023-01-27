@@ -944,6 +944,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Merging Multiple PDF Files as a Single PDF File using Google Apps Script](https://gist.github.com/tanaikech/449ff906b85be18977e47e0d5ea173d5)
 - [Converting All Pages in PDF File to PNG Images using Google Apps Script](https://gist.github.com/tanaikech/94ff0713a7bfe2d3e43afbfe54611190)
 - [Replacing U+00A0 with U+0020 as Unicode using Google Apps Script](https://gist.github.com/tanaikech/cc470a3b6c49b32e06d908e6d3f96f66)
+- [January 27, 2023: Decrypting Salted Base64 of finance.yahoo.com using Google Apps Script](https://gist.github.com/tanaikech/2b1c008d7f8e873cc738d75c7fefaf71)
 
 <a name="nodejs"></a>
 
