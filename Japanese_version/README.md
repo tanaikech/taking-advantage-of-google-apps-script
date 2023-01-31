@@ -717,6 +717,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用した Google スプレッドシートの列の並べ替え](https://gist.github.com/tanaikech/5ca3ed56c36cb7b947e14d5b1dbab6a2)
 - [Google Apps スクリプトを他のユーザーから非表示にして OnEdit トリガーを Google スプレッドシートに使用する](https://gist.github.com/tanaikech/848fea29875d5034a2347a5a16306215)
 - [サービス アカウントで作成した Google スプレッドシートで OnEdit トリガーを使用](https://gist.github.com/tanaikech/58891b5caaf49ebfdb5f8dde4637d8e6)
+- [回避策: Google Apps Script を使用して数値のセルからハイパーリンクを取得する](https://gist.github.com/tanaikech/82a74e64abcacabd51be8ff92c73691a)
 
 <a name="documents"> </a>
 
