@@ -735,6 +735,7 @@ Javascript library
 - [Using OnEdit Trigger to Google Spreadsheet by Hiding Google Apps Script from Other Users](https://gist.github.com/tanaikech/848fea29875d5034a2347a5a16306215)
 - [Using OnEdit trigger on Google Spreadsheet Created by Service Account](https://gist.github.com/tanaikech/58891b5caaf49ebfdb5f8dde4637d8e6)
 - [Workaround: Retrieving Hyperlink from Cell of Number Value using Google Apps Script](https://gist.github.com/tanaikech/82a74e64abcacabd51be8ff92c73691a)
+- [Putting Values of All Spreadsheets in Folder to Master Spreadsheet with Low Process cost using Google Apps Script](https://gist.github.com/tanaikech/e65100d2f13c9c6903e1a6c86184d663)
 
 <a name="documents"></a>
 
