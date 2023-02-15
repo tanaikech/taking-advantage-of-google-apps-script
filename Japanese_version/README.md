@@ -930,6 +930,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して PDF ファイル内のすべてのページを PNG 画像に変換する](https://gist.github.com/tanaikech/94ff0713a7bfe2d3e43afbfe54611190)
 - [Google Apps Script を使用して U+00A0 を Unicode として U+0020 に置き換える](https://gist.github.com/tanaikech/cc470a3b6c49b32e06d908e6d3f96f66)
 - [2023 年 1 月 27 日: Google Apps Script を使用して、finance.yahoo.com の Salted Base64 を復号化](https://gist.github.com/tanaikech/2b1c008d7f8e873cc738d75c7fefaf71)
+- [2023 年 2 月 15 日: Google Apps Script を使用して、finance.yahoo.com の Salted Base64 を復号化](https://gist.github.com/tanaikech/84213e047bc64b50deb7295758e0d971)
 
 <a name="nodejs"> </a>
 
