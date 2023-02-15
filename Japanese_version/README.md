@@ -978,6 +978,7 @@ Javascript ライブラリ
 - [Python を使用して Web で公開された Google スプレッドシートの 2PACX-の URL からすべてのシートからすべての値を取得する](https://gist.github.com/tanaikech/51628e5e0a2c017329457afdb1936912)
 - [Python で DocsAPI を使用して Google ドキュメントのテンプレートテキストを配列に置き換える](https://gist.github.com/tanaikech/f1f9fb91d3432362670c810ae05ba53b)
 - [Python を使用した非同期プロセスでの Google ドライブへのファイルのアップロード](https://gist.github.com/tanaikech/a4cfbea4935b8c281d1f6abb91016705)
+- [Python で oauth2client と google-auth を使用してサービス アカウントからアクセス トークンを取得する](https://gist.github.com/tanaikech/5196ed237812192539c4369000bc131b)
 
 <a name="curl"> </a>
 
