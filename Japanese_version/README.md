@@ -931,6 +931,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して U+00A0 を Unicode として U+0020 に置き換える](https://gist.github.com/tanaikech/cc470a3b6c49b32e06d908e6d3f96f66)
 - [2023 年 1 月 27 日: Google Apps Script を使用して、finance.yahoo.com の Salted Base64 を復号化](https://gist.github.com/tanaikech/2b1c008d7f8e873cc738d75c7fefaf71)
 - [2023 年 2 月 15 日: Google Apps Script を使用して、finance.yahoo.com の Salted Base64 を復号化](https://gist.github.com/tanaikech/84213e047bc64b50deb7295758e0d971)
+- [google.script.run での Type File の入力タブ付き HTML フォームの問題](https://gist.github.com/tanaikech/9590b01e4d363d724c458b5cbc87d041)
 
 <a name="nodejs"> </a>
 
@@ -979,7 +980,7 @@ Javascript ライブラリ
 - [Python で DocsAPI を使用して Google ドキュメントのテンプレートテキストを配列に置き換える](https://gist.github.com/tanaikech/f1f9fb91d3432362670c810ae05ba53b)
 - [Python を使用した非同期プロセスでの Google ドライブへのファイルのアップロード](https://gist.github.com/tanaikech/a4cfbea4935b8c281d1f6abb91016705)
 - [Python で oauth2client と google-auth を使用してサービス アカウントからアクセス トークンを取得する](https://gist.github.com/tanaikech/5196ed237812192539c4369000bc131b)
-- [google.script.run での Type File の入力タブ付き HTML フォームの問題](https://gist.github.com/tanaikech/9590b01e4d363d724c458b5cbc87d041)
+- [googleapisで取得したアクセストークンの有効期限までPythonで利用する](https://gist.github.com/tanaikech/b2d877e4e4d274b17876191d48204882)
 
 <a name="curl"> </a>
 

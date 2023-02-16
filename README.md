@@ -949,6 +949,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Replacing U+00A0 with U+0020 as Unicode using Google Apps Script](https://gist.github.com/tanaikech/cc470a3b6c49b32e06d908e6d3f96f66)
 - [January 27, 2023: Decrypting Salted Base64 of finance.yahoo.com using Google Apps Script](https://gist.github.com/tanaikech/2b1c008d7f8e873cc738d75c7fefaf71)
 - [February 15, 2023: Decrypting Salted Base64 of finance.yahoo.com using Google Apps Script](https://gist.github.com/tanaikech/84213e047bc64b50deb7295758e0d971)
+- [Issue of HTML form with Input tab of Type File with google.script.run](https://gist.github.com/tanaikech/9590b01e4d363d724c458b5cbc87d041)
 
 <a name="nodejs"></a>
 
@@ -997,7 +998,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Replacing Template Texts with Array in Google Document using Docs API with Python](https://gist.github.com/tanaikech/f1f9fb91d3432362670c810ae05ba53b)
 - [Uploading Files to Google Drive with Asynchronous Process using Python](https://gist.github.com/tanaikech/a4cfbea4935b8c281d1f6abb91016705)
 - [Retrieving Access Token from Service Account using oauth2client and google-auth with Python](https://gist.github.com/tanaikech/5196ed237812192539c4369000bc131b)
-- [Issue of HTML form with Input tab of Type File with google.script.run](https://gist.github.com/tanaikech/9590b01e4d363d724c458b5cbc87d041)
+- [Using Until Expiration Time of Access Token Retrieved By googleapis for Python](https://gist.github.com/tanaikech/b2d877e4e4d274b17876191d48204882)
 
 <a name="curl"></a>
 
