@@ -736,6 +736,7 @@ Javascript library
 - [Using OnEdit trigger on Google Spreadsheet Created by Service Account](https://gist.github.com/tanaikech/58891b5caaf49ebfdb5f8dde4637d8e6)
 - [Workaround: Retrieving Hyperlink from Cell of Number Value using Google Apps Script](https://gist.github.com/tanaikech/82a74e64abcacabd51be8ff92c73691a)
 - [Putting Values of All Spreadsheets in Folder to Master Spreadsheet with Low Process cost using Google Apps Script](https://gist.github.com/tanaikech/e65100d2f13c9c6903e1a6c86184d663)
+- [Retrieving Start and End Row Numbers of Same Values in a Column on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/eca18c3ccff32065dbe60d5385dd51ab)
 
 <a name="documents"></a>
 
