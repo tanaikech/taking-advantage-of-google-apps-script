@@ -609,6 +609,7 @@ Javascript library
 - [Workaround: Checking Existence of File ID in Google Drive without Access token and API key](https://gist.github.com/tanaikech/ef51e36e53c5e49d2a8dc3736e8a9386)
 - [Retrieving Specific Folders from Google Drive using Google Apps Script](https://gist.github.com/tanaikech/5be73060a7941d73ce7179c6fa77206a)
 - [Transferring Owner of File to Other User using Google Apps Script](https://gist.github.com/tanaikech/685929fd4e739c943ab0b4c53348a4af)
+- [Retrieving Total File Sizes in Specific Folder of Google Drive using Google Apps Script](https://gist.github.com/tanaikech/bbf37f05f5f5a98d346295f6e4aa3c48)
 
 <a name="projects"></a>
 
