@@ -983,6 +983,7 @@ Javascript ライブラリ
 - [Python を使用した非同期プロセスでの Google ドライブへのファイルのアップロード](https://gist.github.com/tanaikech/a4cfbea4935b8c281d1f6abb91016705)
 - [Python で oauth2client と google-auth を使用してサービス アカウントからアクセス トークンを取得する](https://gist.github.com/tanaikech/5196ed237812192539c4369000bc131b)
 - [googleapisで取得したアクセストークンの有効期限までPythonで利用する](https://gist.github.com/tanaikech/b2d877e4e4d274b17876191d48204882)
+- [PythonでDrive APIを利用してGoogleドライブからファイルを再開可能でダウンロードする](https://gist.github.com/tanaikech/dfdad37859d591526b2fba8fb4390cf5)
 
 <a name="curl"> </a>
 

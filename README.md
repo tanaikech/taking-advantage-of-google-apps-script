@@ -1001,6 +1001,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Uploading Files to Google Drive with Asynchronous Process using Python](https://gist.github.com/tanaikech/a4cfbea4935b8c281d1f6abb91016705)
 - [Retrieving Access Token from Service Account using oauth2client and google-auth with Python](https://gist.github.com/tanaikech/5196ed237812192539c4369000bc131b)
 - [Using Until Expiration Time of Access Token Retrieved By googleapis for Python](https://gist.github.com/tanaikech/b2d877e4e4d274b17876191d48204882)
+- [Resumable Download of File from Google Drive using Drive API with Python](https://gist.github.com/tanaikech/dfdad37859d591526b2fba8fb4390cf5)
 
 <a name="curl"></a>
 
