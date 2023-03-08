@@ -934,6 +934,8 @@ Javascript ライブラリ
 - [2023 年 1 月 27 日: Google Apps Script を使用して、finance.yahoo.com の Salted Base64 を復号化](https://gist.github.com/tanaikech/2b1c008d7f8e873cc738d75c7fefaf71)
 - [2023 年 2 月 15 日: Google Apps Script を使用して、finance.yahoo.com の Salted Base64 を復号化](https://gist.github.com/tanaikech/84213e047bc64b50deb7295758e0d971)
 - [google.script.run での Type File の入力タブ付き HTML フォームの問題](https://gist.github.com/tanaikech/9590b01e4d363d724c458b5cbc87d041)
+- [Google Apps Script を使用したバッチ リクエストで Google Docs ファイルを PDF 形式でエクスポートする](https://gist.github.com/tanaikech/d65d9608e6dd108a0fed31604e7556e7)
+- [Google Apps スクリプトを使用してバイナリ データを検索データで分割](https://gist.github.com/tanaikech/1d406d997090888cfacdb8e9d295ba34)
 
 <a name="nodejs"> </a>
 
