@@ -738,6 +738,7 @@ Javascript library
 - [Workaround: Retrieving Hyperlink from Cell of Number Value using Google Apps Script](https://gist.github.com/tanaikech/82a74e64abcacabd51be8ff92c73691a)
 - [Putting Values of All Spreadsheets in Folder to Master Spreadsheet with Low Process cost using Google Apps Script](https://gist.github.com/tanaikech/e65100d2f13c9c6903e1a6c86184d663)
 - [Retrieving Start and End Row Numbers of Same Values in a Column on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/eca18c3ccff32065dbe60d5385dd51ab)
+- [Removing Quote Prefix of Cell value using Google Apps Script (Single Quote)](https://gist.github.com/tanaikech/ec156204f3a2d96873dce5f6ba4674d6)
 
 <a name="documents"></a>
 

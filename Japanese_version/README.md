@@ -721,6 +721,7 @@ Javascript ライブラリ
 - [回避策: Google Apps Script を使用して数値のセルからハイパーリンクを取得する](https://gist.github.com/tanaikech/82a74e64abcacabd51be8ff92c73691a)
 - [Google Apps Script を使用して、フォルダ内のすべてのスプレッドシートの値を低いプロセス コストでマスター スプレッドシートに入れる](https://gist.github.com/tanaikech/e65100d2f13c9c6903e1a6c86184d663)
 - [Google Apps Scriptを使用してGoogleスプレッドシートの列で同じ値の開始および終了の行番号を取得](https://gist.github.com/tanaikech/eca18c3ccff32065dbe60d5385dd51ab)
+- [Google Apps Script を使用したセル値の引用符のプレフィックスの削除 (単一引用符)](https://gist.github.com/tanaikech/ec156204f3a2d96873dce5f6ba4674d6)
 
 <a name="documents"> </a>
 
