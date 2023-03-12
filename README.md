@@ -955,6 +955,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Issue of HTML form with Input tab of Type File with google.script.run](https://gist.github.com/tanaikech/9590b01e4d363d724c458b5cbc87d041)
 - [Exporting Google Docs Files in PDF format with Batch Requests using Google Apps Script](https://gist.github.com/tanaikech/d65d9608e6dd108a0fed31604e7556e7)
 - [Split Binary Data with Search Data using Google Apps Script](https://gist.github.com/tanaikech/1d406d997090888cfacdb8e9d295ba34)
+- [Directly Retrieving Values from XLSX data using SheetJS with Google Apps Script](https://gist.github.com/tanaikech/7647ac0d4faa8fffb78ff2324be8435c)
 
 <a name="nodejs"></a>
 
