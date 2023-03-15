@@ -543,6 +543,10 @@ Javascript library
 
 > There is a maximum executing time for Google Apps Script (GAS). That is 6 minutes. And, in the case of the custom function and the simple trigger, it is 30 seconds. So users always have to pay attention to reducing the process cost of the scripts. Especially, it is very important to know the process costs for the array processing, because array processing is often used for spreadsheets and Google APIs. I have already reported about the array processing at "Benchmark: Loop for Array Processing using Google Apps Script with V8" and "Search for Array Processing using Google Apps Script". In this report, the process cost checking a value in a one-dimensional array using Google Apps Script has been investigated.
 
+### [Benchmark: Process Costs for Searching Value using Object with Google Apps Script](https://gist.github.com/tanaikech/e4fcca733a78f7211d80967ac4a35adb)
+
+> When a value is searched from the 1-dimensional array and a 2-dimensional array, after V8 runtime could be used, I use JSON object, Set object, and Map Object. But, I had never measured the process cost of this situation. In this post, I would like to introduce the process cost for searching a value using a JSON object, Set object, and Map object converted from the 1-dimensional array and 2-dimensional array.
+
 <br>
 
 <a name="communities"></a>
