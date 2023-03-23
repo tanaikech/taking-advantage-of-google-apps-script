@@ -614,6 +614,7 @@ Javascript library
 - [Retrieving Specific Folders from Google Drive using Google Apps Script](https://gist.github.com/tanaikech/5be73060a7941d73ce7179c6fa77206a)
 - [Transferring Owner of File to Other User using Google Apps Script](https://gist.github.com/tanaikech/685929fd4e739c943ab0b4c53348a4af)
 - [Retrieving Total File Sizes in Specific Folder of Google Drive using Google Apps Script](https://gist.github.com/tanaikech/bbf37f05f5f5a98d346295f6e4aa3c48)
+- [Folder Picker using jsTree with Google Apps Script and Javascript](https://gist.github.com/tanaikech/10edba76a0273c71368b3699d5f64b62)
 
 <a name="projects"></a>
 
