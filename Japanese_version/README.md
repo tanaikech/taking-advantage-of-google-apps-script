@@ -176,6 +176,7 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [DocsServiceApp](https://github.com/tanaikech/DocsServiceApp)：これは、ドキュメントサービス、ドキュメント API、スプレッドシートサービス、スプレッドシート API、スライドサービス、スライド API をサポートするための Google AppsScript ライブラリです。このライブラリの目的は、サービスが達成できないプロセスを補うことです。
 - [HtmlFormApp](https://github.com/tanaikech/HtmlFormApp) : これは、HTML フォームからフォームオブジェクトを解析し、送信された値をスプレッドシートに追加するための Google AppsScript ライブラリです。
 - [DocNamedRangeApp](https://github.com/tanaikech/DocNamedRangeApp) : これは、Google ドキュメントの名前付き範囲を管理するための Google Apps Script ライブラリです。
+- [RichTextAssistant](https://github.com/tanaikech/RichTextAssistant) : これは、Google Apps Script を使用した Google スプレッドシートのリッチテキストの編集をサポートするためのライブラリです。
 
 <br>
 
