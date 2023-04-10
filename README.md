@@ -748,6 +748,7 @@ Javascript library
 - [Importing Microsoft Excel to Google Spreadsheet using Custom Function with Google Apps Script](https://gist.github.com/tanaikech/742c9f8baf488503a66582b985b9d4e5)
 - [Enriched Management of Rich Text on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/8082e2bb265d2ad4bd61f9d418504811)
 - [Putting TOTP into Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/4de7448903389e0884e2a21cd27abc86)
+- [Workaround: Automatically Installing OnEdit Trigger to Copied Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/76bab12742174976d87e2473ae7975f8)
 
 <a name="documents"></a>
 
