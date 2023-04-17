@@ -749,6 +749,7 @@ Javascript library
 - [Enriched Management of Rich Text on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/8082e2bb265d2ad4bd61f9d418504811)
 - [Putting TOTP into Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/4de7448903389e0884e2a21cd27abc86)
 - [Workaround: Automatically Installing OnEdit Trigger to Copied Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/76bab12742174976d87e2473ae7975f8)
+- [Putting Image into Cell of Spreadsheet using Google Apps Scrip](https://gist.github.com/tanaikech/c18715b68a81a8492a13140d9cd3bb6f)
 
 <a name="documents"></a>
 
