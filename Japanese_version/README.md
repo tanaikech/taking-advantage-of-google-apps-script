@@ -384,6 +384,10 @@ Javascript ライブラリ
 
 > Google Apps Script には Web Apps があります。 Web Apps を使用すると、ユーザーは HTML と Javascript を使用して Google Apps Script を実行できます。 これは、さまざまなアプリケーションに適用できます。 「誰でも」で Web アプリをデプロイすると、誰でも Web アプリにアクセスできます。 また、「誰でも」で展開したWebアプリを利用する必要がある場合があります。 このような状況下で、2 要素認証 (2FA) を実装できれば、より高いセキュリティを実現できると考えられ、Web Apps を使用したアプリケーションにさまざまな方向性を与えることにつながります。 本レポートでは、Google Apps Script を使用して、「誰でも」でデプロイした Web Apps に疑似 2FA を実装する方法を紹介したいと思います。
 
+### [Google Apps Script による Google スプレッドシート上の不連続セルのベスト プラクティス](https://gist.github.com/tanaikech/dba916ae25f7351819e062b42bb5be10)
+
+> Google Apps Script が Google スプレッドシートを管理するための強力なツールであることは既に知られています。 値を取得したり、Google スプレッドシートに配置したりする場合、不連続なセルを使用する必要がある場合があります。 このレポートは、Google スプレッドシートで不連続なセルを処理するためのベスト プラクティスを提案します。 処理コストの結果から、Google Apps Script で Sheets API とスプレッドシート サービスの Class RangeList を使用して低コストで不連続セルを使用することの有用性が理解できました。
+
 <br>
 
 <a name="benchmarks"> </a>

@@ -384,6 +384,10 @@ Javascript library
 
 > In Google Apps Script, there is the Web Apps. When Web Apps is used, the users can execute Google Apps Script using HTML and Javascript. This can be applied to various applications. When the Web Apps is deployed with "Anyone", anyone can access the Web Apps. And, there is the case that Web Apps deployed with "Anyone" is required to be used. Under this condition, when 2 Factor Authentication (2FA) can be implemented, it is considered that the security can be higher and it leads to giving various directions for the applications using Web Apps. In this report, I would like to introduce the method for implementing the pseud 2FA for Web Apps deployed with “Anyone” using Google Apps Script.
 
+### [Best Practices for Discontinuous Cells on Google Spreadsheet by Google Apps Script](https://gist.github.com/tanaikech/dba916ae25f7351819e062b42bb5be10)
+
+> It has already been known that Google Apps Script is a strong tool for managing Google Spreadsheets. When the values are retrieved and/or put for Google Spreadsheet, there is a case that the discontinuous cells are required to be used. This report suggests the Best Practices for processing the discontinuous cells on Google Spreadsheet. From the results of process costs, it could understand the usefulness of using the discontinuous cells with low cost using Sheets API and Class RangeList of Spreadsheet service with Google Apps Script.
+
 <br>
 
 <a name="benchmarks"></a>
