@@ -178,6 +178,7 @@ You can search the GAS libraries at [Search Google Apps Script Libraries](https:
 - [HtmlFormApp](https://github.com/tanaikech/HtmlFormApp) : This is a Google Apps Script library for parsing the form object from HTML form and appending the submitted values to the Spreadsheet.
 - [DocNamedRangeApp](https://github.com/tanaikech/DocNamedRangeApp) : This is a Google Apps Script library for managing the named range on Google Documents.
 - [RichTextAssistant](https://github.com/tanaikech/RichTextAssistant) : This is a GAS library for supporting editing RichText in Google Spreadsheet using Google Apps Script.
+- [UtlApp](https://github.com/tanaikech/UtlApp) : This is a Google Apps Script library including useful scripts for supporting to development of applications by Google Apps Script.
 
 <br>
 
