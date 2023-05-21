@@ -57,6 +57,7 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
 
 # News
 
+- **May 21, 2023:** [My report has been published at Champion Innovators Content Library and Google Cloud Medium Publication](https://tanaikech.github.io/2023/05/21/my-report-has-been-published-at-champion-innovators-content-library-and-google-cloud-medium-publication/)
 - **May 16, 2023:** [My report has been published at Champion Innovators Content Library and Google Cloud Medium Publication](https://tanaikech.github.io/2023/05/16/my-report-has-been-published-at-champion-innovators-content-library-and-google-cloud-medium-publication/)
 - **April 20, 2023:** [My report "Enriched Management of Rich Text on Google Spreadsheet using Google Apps Script" has been published at Champion Innovators Content Library](https://cloud.google.com/innovators/champions/content#/?q=tanaike)
 - **January 31, 2023:** [My report has been published at Champion Innovators Content Library](https://tanaikech.github.io/2023/01/31/my-report-has-been-published-at-champion-innovators-content-library/)
