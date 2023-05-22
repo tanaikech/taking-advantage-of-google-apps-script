@@ -391,6 +391,10 @@ Javascript ライブラリ
 
 > Google Apps Script が Google スプレッドシートを管理するための強力なツールであることは既に知られています。 値を取得したり、Google スプレッドシートに配置したりする場合、不連続なセルを使用する必要がある場合があります。 このレポートは、Google スプレッドシートで不連続なセルを処理するためのベスト プラクティスを提案します。 処理コストの結果から、Google Apps Script で Sheets API とスプレッドシート サービスの Class RangeList を使用して低コストで不連続セルを使用することの有用性が理解できました。
 
+### [レポート: Google Apps Script のプロパティサービスの仕様](https://gist.github.com/tanaikech/8b057d10fb5f2af014794e57b021c6aa)
+
+> このレポートでは、PropertiesService の詳細な仕様を調査しました。 この仕様を知っておくと、Google Apps Scriptでアプリケーションを開発する際に役立つと考えられます。 その結果、キーと値の最大サイズは、キーが 1 バイトの場合は 524,287 バイト、値は 8,066 バイトであることがわかりました。 また、PropertiesService の最大サイズは、キーと値の両方のサイズを考慮する必要があることがわかりました。
+
 <br>
 
 <a name="benchmarks"> </a>

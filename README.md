@@ -391,6 +391,10 @@ Javascript library
 
 > It has already been known that Google Apps Script is a strong tool for managing Google Spreadsheets. When the values are retrieved and/or put for Google Spreadsheet, there is a case that the discontinuous cells are required to be used. This report suggests the Best Practices for processing the discontinuous cells on Google Spreadsheet. From the results of process costs, it could understand the usefulness of using the discontinuous cells with low cost using Sheets API and Class RangeList of Spreadsheet service with Google Apps Script.
 
+### [Report: Specification of Properties Service for Google Apps Script](https://gist.github.com/tanaikech/8b057d10fb5f2af014794e57b021c6aa)
+
+> In this report, the detailed specification of PropertiesService has been investigated. It is considered that knowing this specification will be useful for developing applications with Google Apps Script. As a result, it was found that the maximum key and value sizes are 524,287 bytes with a 1-byte key and 8,066 bytes, respectively. And also, it was found that the maximum size of PropertiesService is required to be considered with both the key and value sizes.
+
 <br>
 
 <a name="benchmarks"></a>
