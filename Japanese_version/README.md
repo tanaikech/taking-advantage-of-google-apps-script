@@ -395,6 +395,10 @@ Javascript ライブラリ
 
 > このレポートでは、PropertiesService の詳細な仕様を調査しました。 この仕様を知っておくと、Google Apps Scriptでアプリケーションを開発する際に役立つと考えられます。 その結果、キーと値の最大サイズは、キーが 1 バイトの場合は 524,287 バイト、値は 8,066 バイトであることがわかりました。 また、PropertiesService の最大サイズは、キーと値の両方のサイズを考慮する必要があることがわかりました。
 
+### [レポート: Google Apps Script を使用して Google スプレッドシートをデータベースとして使用する HTML フォームを簡単に実装](https://gist.github.com/tanaikech/7dcadf189d9bdfd7dc0ae330ab0d84f5)
+
+> 本レポートでは、Google スプレッドシートをデータベースとした HTML フォームを Google Apps Script を使って簡単に実装する方法を紹介します。 Google Apps Scriptを使用したHTMLフォームには2パターンあります。 1 つは、HTML フォームが同じ Google Apps Script プロジェクトに配置されることです。 もう 1 つは、HTML フォームが Google Apps Script プロジェクトとは別のサーバーに配置されることです。 本レポートでは、両方のパターンを簡単に実装する方法をサンプルスクリプトを用いて紹介します。
+
 <br>
 
 <a name="benchmarks"> </a>

@@ -395,6 +395,10 @@ Javascript library
 
 > In this report, the detailed specification of PropertiesService has been investigated. It is considered that knowing this specification will be useful for developing applications with Google Apps Script. As a result, it was found that the maximum key and value sizes are 524,287 bytes with a 1-byte key and 8,066 bytes, respectively. And also, it was found that the maximum size of PropertiesService is required to be considered with both the key and value sizes.
 
+### [Report: Easily Implementing HTML Form with Google Spreadsheet as Database using Google Apps Script](https://gist.github.com/tanaikech/7dcadf189d9bdfd7dc0ae330ab0d84f5)
+
+> This report introduces the method for easily implementing HTML forms with a Google Spreadsheet as a database using Google Apps Script. There are 2 patterns for the HTML form using Google Apps Script. One is that an HTML form is put into the same Google Apps Script project. Another is that an HTML form is put to a different server from a Google Apps Script project. In this report, the methods for easily implementing both patterns are introduced using the sample scripts.
+
 <br>
 
 <a name="benchmarks"></a>
