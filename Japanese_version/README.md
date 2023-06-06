@@ -399,6 +399,10 @@ Javascript ライブラリ
 
 > 本レポートでは、Google スプレッドシートをデータベースとした HTML フォームを Google Apps Script を使って簡単に実装する方法を紹介します。 Google Apps Scriptを使用したHTMLフォームには2パターンあります。 1 つは、HTML フォームが同じ Google Apps Script プロジェクトに配置されることです。 もう 1 つは、HTML フォームが Google Apps Script プロジェクトとは別のサーバーに配置されることです。 本レポートでは、両方のパターンを簡単に実装する方法をサンプルスクリプトを用いて紹介します。
 
+### [2023 年上半期の Stackoverflow の google-apps-script タグの傾向](https://gist.github.com/tanaikech/ef5a26a092a0e3b47aced170ead74be9)
+
+> 最近、Stackoverflow での質問にこれまでにない変化を感じました。 これを裏付けるために、本レポートでは2023年上半期（1月1日～6月1日）のStackoverflowにおける「google-apps-script」タグの動向を調査した。 このレポートから、新型コロナウイルス感染症の影響が社会的に薄れた2023年において、「google-apps-script」のタグを含む質問に顕著な傾向が確認された。 この顕著な傾向の起源は、AI チャットボットによるものと推測されます。 AIチャットボットの登場は、オンラインサイトから得られる統計データの把握方法に大きな変化をもたらすかもしれません。
+
 <br>
 
 <a name="benchmarks"> </a>

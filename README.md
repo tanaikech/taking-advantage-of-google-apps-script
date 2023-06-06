@@ -399,6 +399,10 @@ Javascript library
 
 > This report introduces the method for easily implementing HTML forms with a Google Spreadsheet as a database using Google Apps Script. There are 2 patterns for the HTML form using Google Apps Script. One is that an HTML form is put into the same Google Apps Script project. Another is that an HTML form is put to a different server from a Google Apps Script project. In this report, the methods for easily implementing both patterns are introduced using the sample scripts.
 
+### [Trend of google-apps-script Tag on Stackoverflow in first half of 2023](https://gist.github.com/tanaikech/ef5a26a092a0e3b47aced170ead74be9)
+
+> Recently, I felt a change like never before in the questions on Stackoverflow. In order to confirm this, in this report, the trend of "google-apps-script" tag on Stackoverflow in the first half (January 1st to June 1st) of 2023 has been investigated. From this report, in 2023 when the affection of COVID-19 has been reduced socially, the appreciable trend was confirmed to the questions including a tag of "google-apps-script". It is guessed that the origin of this appreciable trend is due to AI chatbots. The appearance of AI chatbots might give us a phase of major change to the method for understanding the statistical data obtained from online sites.
+
 <br>
 
 <a name="benchmarks"></a>
