@@ -182,6 +182,7 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [DocNamedRangeApp](https://github.com/tanaikech/DocNamedRangeApp) : これは、Google ドキュメントの名前付き範囲を管理するための Google Apps Script ライブラリです。
 - [RichTextAssistant](https://github.com/tanaikech/RichTextAssistant) : これは、Google Apps Script を使用した Google スプレッドシートのリッチテキストの編集をサポートするためのライブラリです。
 - [UtlApp](https://github.com/tanaikech/UtlApp) : Google Apps Scriptによるアプリケーション開発をサポートする便利なスクリプトを集めたGoogle Apps Scriptライブラリです。
+- [TemplateApp](https://github.com/tanaikech/TemplateApp) : Google スプレッドシートをデータベースとして利用した Google ドキュメントや Google スライドのテンプレートを Google Apps Script で簡単に管理するための Google Apps Script ライブラリです。
 
 <br>
 

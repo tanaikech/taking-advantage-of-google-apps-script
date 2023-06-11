@@ -182,6 +182,7 @@ You can search the GAS libraries at [Search Google Apps Script Libraries](https:
 - [DocNamedRangeApp](https://github.com/tanaikech/DocNamedRangeApp) : This is a Google Apps Script library for managing the named range on Google Documents.
 - [RichTextAssistant](https://github.com/tanaikech/RichTextAssistant) : This is a GAS library for supporting editing RichText in Google Spreadsheet using Google Apps Script.
 - [UtlApp](https://github.com/tanaikech/UtlApp) : This is a Google Apps Script library including useful scripts for supporting to development of applications by Google Apps Script.
+- [TemplateApp](https://github.com/tanaikech/TemplateApp) : This is a Google Apps Script library for easily managing the template of Google Documents and Google Slides using Google Spreadsheet as a database using Google Apps Script.
 
 <br>
 
