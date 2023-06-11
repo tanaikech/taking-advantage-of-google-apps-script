@@ -58,6 +58,7 @@
 
 # ニュース
 
+- **2023 年 6 月 11 日:** [私のレポートは、Champion Innovators Content Library および Google Cloud Medium Publication で公開されました](https://tanaikech.github.io/2023/06/11/my-report-has-been-published-at-champion-innovators-content-library-and-google-cloud-medium-publication/)
 - **2023 年 5 月 21 日:** [私のレポートは、Champion Innovators Content Library および Google Cloud Medium Publication で公開されました](https://tanaikech.github.io/2023/05/21/my-report-has-been-published-at-champion-innovators-content-library-and-google-cloud-medium-publication/)
 - **2023 年 5 月 16 日:** [私のレポートは、Champion Innovators Content Library および Google Cloud Medium Publication で公開されました](https://tanaikech.github.io/2023/05/16/my-report-has-been-published-at-champion-innovators-content-library-and-google-cloud-medium-publication/)
 - **2023 年 4 月 20 日:** [私のレポート "Google Apps Script を使用した Google スプレッドシートのリッチテキスト管理の強化" が Champion Innovators Content Library で公開されました](https://cloud.google.com/innovators/champions/content#/?q=tanaike)
