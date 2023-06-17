@@ -993,6 +993,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Split Binary Data with Search Data using Google Apps Script](https://gist.github.com/tanaikech/1d406d997090888cfacdb8e9d295ba34)
 - [Directly Retrieving Values from XLSX data using SheetJS with Google Apps Script](https://gist.github.com/tanaikech/7647ac0d4faa8fffb78ff2324be8435c)
 - [Workaround: Starting Animation GIF on Google Slide by Clicking](https://gist.github.com/tanaikech/3a34928e74009f9c26a40c121de76d6a)
+- [Retrieving Release Notes of Google Apps Script and Google APIs from RSS using Google Apps Script](https://gist.github.com/tanaikech/fc54bb2c640e3c7ee8b168a7aa1431a8)
 
 <a name="nodejs"></a>
 

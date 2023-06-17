@@ -975,6 +975,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用してバイナリ データを検索データで分割](https://gist.github.com/tanaikech/1d406d997090888cfacdb8e9d295ba34)
 - [Google Apps Script で SheetJS を使用して XLSX データから値を直接取得する](https://gist.github.com/tanaikech/7647ac0d4faa8fffb78ff2324be8435c)
 - [回避策: Google Slide をクリックしてアニメーション GIF を開始する](https://gist.github.com/tanaikech/3a34928e74009f9c26a40c121de76d6a)
+- [Google Apps Scriptを使用してGoogle Apps ScriptおよびGoogle APIのリリースノートをRSSから取得する](https://gist.github.com/tanaikech/fc54bb2c640e3c7ee8b168a7aa1431a8)
 
 <a name="nodejs"> </a>
 
