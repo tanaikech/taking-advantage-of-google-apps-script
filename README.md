@@ -638,6 +638,7 @@ Javascript library
 - [Transferring Owner of File to Other User using Google Apps Script](https://gist.github.com/tanaikech/685929fd4e739c943ab0b4c53348a4af)
 - [Retrieving Total File Sizes in Specific Folder of Google Drive using Google Apps Script](https://gist.github.com/tanaikech/bbf37f05f5f5a98d346295f6e4aa3c48)
 - [Folder Picker using jsTree with Google Apps Script and Javascript](https://gist.github.com/tanaikech/10edba76a0273c71368b3699d5f64b62)
+- [Comparing File Contents of Files on Google Drive using Google Apps Script](https://gist.github.com/tanaikech/ed64668e23c155138baa300a31d7f16f)
 
 <a name="projects"></a>
 
