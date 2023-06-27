@@ -775,6 +775,7 @@ Javascript library
 - [Putting Image into Cell of Spreadsheet using Google Apps Scrip](https://gist.github.com/tanaikech/c18715b68a81a8492a13140d9cd3bb6f)
 - [Unpivot on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/05e5fd84561080e484bd4df799862f01)
 - [Converting Google Spreadsheet to HTML Table using Google Apps Script](https://gist.github.com/tanaikech/61932a6acfe02e53ce9d5bca9078c536)
+- [Converting Relative Reference to Absolute Reference and vice versa of A1Notation on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/d9ae71d8736e168e47c56adb203b7e87)
 
 <a name="documents"></a>
 
