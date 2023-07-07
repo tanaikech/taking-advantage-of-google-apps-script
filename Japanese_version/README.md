@@ -759,6 +759,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用した Google スプレッドシートのピボット解除](https://gist.github.com/tanaikech/05e5fd84561080e484bd4df799862f01)
 - [Google Apps Script を使用して Google スプレッドシートを HTML テーブルに変換する](https://gist.github.com/tanaikech/61932a6acfe02e53ce9d5bca9078c536)
 - [Google Apps Script を使用した Google スプレッドシート上の A1Notation の相対参照から絶対参照への変換、およびその逆の変換](https://gist.github.com/tanaikech/d9ae71d8736e168e47c56adb203b7e87)
+- [Google Apps Script を使用してコンテナ バインド スクリプトを削除して Google スプレッドシートをコピーする](https://gist.github.com/tanaikech/d5f7b0ddd8c8746c4dff67040a436c5f)
 
 <a name="documents"> </a>
 
