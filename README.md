@@ -1000,6 +1000,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Workaround: Starting Animation GIF on Google Slide by Clicking](https://gist.github.com/tanaikech/3a34928e74009f9c26a40c121de76d6a)
 - [Retrieving Release Notes of Google Apps Script and Google APIs from RSS using Google Apps Script](https://gist.github.com/tanaikech/fc54bb2c640e3c7ee8b168a7aa1431a8)
 - [Notifying New Release of Google APIs and Google Apps Script with Email using Google Apps Script](https://gist.github.com/tanaikech/79a40abcc70ca3f57db5b4a739bfa849)
+- [Converting Various Formatted Images to PNG Format and JPEG format using Google Apps Script](https://gist.github.com/tanaikech/7ef9536ff3f788238509d9c366ed9aed)
 
 <a name="nodejs"></a>
 

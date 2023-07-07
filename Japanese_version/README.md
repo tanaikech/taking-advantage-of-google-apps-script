@@ -982,6 +982,7 @@ Javascript ライブラリ
 - [回避策: Google Slide をクリックしてアニメーション GIF を開始する](https://gist.github.com/tanaikech/3a34928e74009f9c26a40c121de76d6a)
 - [Google Apps Scriptを使用してGoogle Apps ScriptおよびGoogle APIのリリースノートをRSSから取得する](https://gist.github.com/tanaikech/fc54bb2c640e3c7ee8b168a7aa1431a8)
 - [Google Apps Scriptを使用したGoogle APIおよびGoogle Apps Scriptの新規リリースをメールで通知](https://gist.github.com/tanaikech/79a40abcc70ca3f57db5b4a739bfa849)
+- [Google Apps Scriptを使用してさまざまな形式の画像をPNG形式とJPEG形式に変換する](https://gist.github.com/tanaikech/7ef9536ff3f788238509d9c366ed9aed)
 
 <a name="nodejs"> </a>
 
