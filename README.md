@@ -1001,6 +1001,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Retrieving Release Notes of Google Apps Script and Google APIs from RSS using Google Apps Script](https://gist.github.com/tanaikech/fc54bb2c640e3c7ee8b168a7aa1431a8)
 - [Notifying New Release of Google APIs and Google Apps Script with Email using Google Apps Script](https://gist.github.com/tanaikech/79a40abcc70ca3f57db5b4a739bfa849)
 - [Converting Various Formatted Images to PNG Format and JPEG format using Google Apps Script](https://gist.github.com/tanaikech/7ef9536ff3f788238509d9c366ed9aed)
+- [Exporting Specific Pages From a PDF as a New PDF Using Google Apps Script](https://gist.github.com/tanaikech/9d77f7d634d2d31914396d7dc84b79c3)
 
 <a name="nodejs"></a>
 
