@@ -183,6 +183,7 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [RichTextAssistant](https://github.com/tanaikech/RichTextAssistant) : これは、Google Apps Script を使用した Google スプレッドシートのリッチテキストの編集をサポートするためのライブラリです。
 - [UtlApp](https://github.com/tanaikech/UtlApp) : Google Apps Scriptによるアプリケーション開発をサポートする便利なスクリプトを集めたGoogle Apps Scriptライブラリです。
 - [TemplateApp](https://github.com/tanaikech/TemplateApp) : Google スプレッドシートをデータベースとして利用した Google ドキュメントや Google スライドのテンプレートを Google Apps Script で簡単に管理するための Google Apps Script ライブラリです。
+- [TriggerApp](https://github.com/tanaikech/TriggerApp) : Google Apps Scriptを使用してGoogle Apps Scriptを実行するための時間駆動トリガーを効率的に管理するためのGoogle Apps Scriptライブラリです。
 
 <br>
 

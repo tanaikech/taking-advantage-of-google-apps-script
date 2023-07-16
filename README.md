@@ -183,6 +183,7 @@ You can search the GAS libraries at [Search Google Apps Script Libraries](https:
 - [RichTextAssistant](https://github.com/tanaikech/RichTextAssistant) : This is a GAS library for supporting editing RichText in Google Spreadsheet using Google Apps Script.
 - [UtlApp](https://github.com/tanaikech/UtlApp) : This is a Google Apps Script library including useful scripts for supporting to development of applications by Google Apps Script.
 - [TemplateApp](https://github.com/tanaikech/TemplateApp) : This is a Google Apps Script library for easily managing the template of Google Documents and Google Slides using Google Spreadsheet as a database using Google Apps Script.
+- [TriggerApp](https://github.com/tanaikech/TriggerApp) : This is a Google Apps Script library for efficiently managing the time-driven triggers for executing Google Apps Script using Google Apps Script.
 
 <br>
 
