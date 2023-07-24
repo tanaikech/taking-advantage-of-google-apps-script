@@ -762,6 +762,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用した Google スプレッドシート上の A1Notation の相対参照から絶対参照への変換、およびその逆の変換](https://gist.github.com/tanaikech/d9ae71d8736e168e47c56adb203b7e87)
 - [Google Apps Script を使用してコンテナ バインド スクリプトを削除して Google スプレッドシートをコピーする](https://gist.github.com/tanaikech/d5f7b0ddd8c8746c4dff67040a436c5f)
 - [Google Apps Scriptを使用してGoogleスプレッドシートの基本フィルタを自動更新](https://gist.github.com/tanaikech/03308f87b6c9568dd277e43eb646a75e)
+- [Google Apps Scriptを使用したGoogleスプレッドシート上のセルの重なりをチェック](https://gist.github.com/tanaikech/b56e12dd1f2f15997b113b4738cf7f8b)
 
 <a name="documents"> </a>
 

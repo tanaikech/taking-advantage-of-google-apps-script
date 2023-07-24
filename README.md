@@ -779,6 +779,7 @@ Javascript library
 - [Converting Relative Reference to Absolute Reference and vice versa of A1Notation on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/d9ae71d8736e168e47c56adb203b7e87)
 - [Copying Google Spreadsheet by Removing Container-Bound Script Using Google Apps Script](https://gist.github.com/tanaikech/d5f7b0ddd8c8746c4dff67040a436c5f)
 - [Automatically Refreshing Basic Filter on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/03308f87b6c9568dd277e43eb646a75e)
+- [Overwrapped Cells on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/b56e12dd1f2f15997b113b4738cf7f8b)
 
 <a name="documents"></a>
 
