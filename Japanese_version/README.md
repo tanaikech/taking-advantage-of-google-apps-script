@@ -987,6 +987,7 @@ Javascript ライブラリ
 - [Google Apps Scriptを使用したGoogle APIおよびGoogle Apps Scriptの新規リリースをメールで通知](https://gist.github.com/tanaikech/79a40abcc70ca3f57db5b4a739bfa849)
 - [Google Apps Scriptを使用してさまざまな形式の画像をPNG形式とJPEG形式に変換する](https://gist.github.com/tanaikech/7ef9536ff3f788238509d9c366ed9aed)
 - [Google Apps Scriptを使用してPDFから特定のページを新しいPDFとしてエクスポート](https://gist.github.com/tanaikech/9d77f7d634d2d31914396d7dc84b79c3)
+- [Google Apps Scriptを使用したPDFメタデータの管理Google Apps Scriptを使用したPDFメタデータの管理](https://gist.github.com/tanaikech/9ee06b508624e252dd0e32efc348a59a)
 
 <a name="nodejs"> </a>
 
