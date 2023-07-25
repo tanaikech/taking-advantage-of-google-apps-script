@@ -406,6 +406,10 @@ Javascript library
 
 > Recently, I felt a change like never before in the questions on Stackoverflow. In order to confirm this, in this report, the trend of "google-apps-script" tag on Stackoverflow in the first half (January 1st to June 1st) of 2023 has been investigated. From this report, in 2023 when the affection of COVID-19 has been reduced socially, the appreciable trend was confirmed to the questions including a tag of "google-apps-script". It is guessed that the origin of this appreciable trend is due to AI chatbots. The appearance of AI chatbots might give us a phase of major change to the method for understanding the statistical data obtained from online sites.
 
+### [Understanding Flow of Request to Web Apps Created by Google Apps Script](https://gist.github.com/tanaikech/131ba814a1f6012fd6a5ffe11789971f)
+
+> Here, I would like to introduce a report for understanding the flow of the request to Web Apps created by Google Apps Script. There might be a case that various applications using the Web Apps are created and the Web Apps are used as the webhook. In that case, it is considered that when you have understood the flow of requests to the Web Apps, your goal might be able to be smoothly achieved. In this report, I would like to introduce the information about it.
+
 <br>
 
 <a name="benchmarks"></a>
