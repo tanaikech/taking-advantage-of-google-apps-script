@@ -1010,6 +1010,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Converting Various Formatted Images to PNG Format and JPEG format using Google Apps Script](https://gist.github.com/tanaikech/7ef9536ff3f788238509d9c366ed9aed)
 - [Exporting Specific Pages From a PDF as a New PDF Using Google Apps Script](https://gist.github.com/tanaikech/9d77f7d634d2d31914396d7dc84b79c3)
 - [Management of PDF Metadata using Google Apps ScriptManagement of PDF Metadata using Google Apps Script](https://gist.github.com/tanaikech/9ee06b508624e252dd0e32efc348a59a)
+- [Changing Order of Pages in PDF file using Google Apps Script](https://gist.github.com/tanaikech/9de62573049e72b44a069fc31348524b)
 
 <a name="nodejs"></a>
 
