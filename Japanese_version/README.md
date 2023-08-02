@@ -993,6 +993,7 @@ Javascript ライブラリ
 - [Google Apps Scriptを使用してPDFから特定のページを新しいPDFとしてエクスポート](https://gist.github.com/tanaikech/9d77f7d634d2d31914396d7dc84b79c3)
 - [Google Apps Scriptを使用したPDFメタデータの管理Google Apps Scriptを使用したPDFメタデータの管理](https://gist.github.com/tanaikech/9ee06b508624e252dd0e32efc348a59a)
 - [Google Apps Scriptを使用してPDFファイルのページ順序を変更する](https://gist.github.com/tanaikech/9de62573049e72b44a069fc31348524b)
+- [Google Apps Script を使用した PDF フォームへの値の取得と設定](https://gist.github.com/tanaikech/900a9c65cdc4a6bbc372690494447947)
 
 <a name="nodejs"> </a>
 
