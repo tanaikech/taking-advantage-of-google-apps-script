@@ -1012,6 +1012,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Management of PDF Metadata using Google Apps ScriptManagement of PDF Metadata using Google Apps Script](https://gist.github.com/tanaikech/9ee06b508624e252dd0e32efc348a59a)
 - [Changing Order of Pages in PDF file using Google Apps Script](https://gist.github.com/tanaikech/9de62573049e72b44a069fc31348524b)
 - [Retrieving and Putting Values for PDF Forms using Google Apps Script](https://gist.github.com/tanaikech/900a9c65cdc4a6bbc372690494447947)
+- [Creating PDF Forms from Google Slide Template using Google Apps Script](https://gist.github.com/tanaikech/682dec95002f8cc25f1c5f2349966b8c)
 
 <a name="nodejs"></a>
 
