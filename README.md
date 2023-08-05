@@ -1011,7 +1011,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Exporting Specific Pages From a PDF as a New PDF Using Google Apps Script](https://gist.github.com/tanaikech/9d77f7d634d2d31914396d7dc84b79c3)
 - [Management of PDF Metadata using Google Apps ScriptManagement of PDF Metadata using Google Apps Script](https://gist.github.com/tanaikech/9ee06b508624e252dd0e32efc348a59a)
 - [Changing Order of Pages in PDF file using Google Apps Script](https://gist.github.com/tanaikech/9de62573049e72b44a069fc31348524b)
-- [Retrieving and Putting Values for PDF Forms using Google Apps Script](https://gist.github.com/tanaikech/900a9c65cdc4a6bbc372690494447947)
+- [Retrieving and Putting Values for PDF Forms using Google Apps Script](https://gist.github.com/tanaikech/a8a387614410b8c6c2c1addbce4dd23c)
 - [Creating PDF Forms from Google Slide Template using Google Apps Script](https://gist.github.com/tanaikech/682dec95002f8cc25f1c5f2349966b8c)
 
 <a name="nodejs"></a>
