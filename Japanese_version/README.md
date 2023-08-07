@@ -995,6 +995,7 @@ Javascript ライブラリ
 - [Google Apps Scriptを使用してPDFファイルのページ順序を変更する](https://gist.github.com/tanaikech/9de62573049e72b44a069fc31348524b)
 - [Google Apps Script を使用した PDF フォームへの値の取得と設定](https://gist.github.com/tanaikech/a8a387614410b8c6c2c1addbce4dd23c)
 - [Google Apps Script を使用して Google スライド テンプレートから PDF フォームを作成する](https://gist.github.com/tanaikech/682dec95002f8cc25f1c5f2349966b8c)
+- [Google Apps Script を使用した PDF へのオブジェクトの埋め込み](https://gist.github.com/tanaikech/b085cb08d573afa2294e2a8f887cdbd2)
 
 <a name="nodejs"> </a>
 

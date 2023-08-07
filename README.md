@@ -1013,6 +1013,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Changing Order of Pages in PDF file using Google Apps Script](https://gist.github.com/tanaikech/9de62573049e72b44a069fc31348524b)
 - [Retrieving and Putting Values for PDF Forms using Google Apps Script](https://gist.github.com/tanaikech/a8a387614410b8c6c2c1addbce4dd23c)
 - [Creating PDF Forms from Google Slide Template using Google Apps Script](https://gist.github.com/tanaikech/682dec95002f8cc25f1c5f2349966b8c)
+- [Embedding Objects in PDF using Google Apps Script](https://gist.github.com/tanaikech/b085cb08d573afa2294e2a8f887cdbd2)
 
 <a name="nodejs"></a>
 
