@@ -785,6 +785,7 @@ Javascript library
 - [Copying Google Spreadsheet by Removing Container-Bound Script Using Google Apps Script](https://gist.github.com/tanaikech/d5f7b0ddd8c8746c4dff67040a436c5f)
 - [Automatically Refreshing Basic Filter on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/03308f87b6c9568dd277e43eb646a75e)
 - [Overwrapped Cells on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/b56e12dd1f2f15997b113b4738cf7f8b)
+- [Benchmark: Efficiently Deleting Rows by Conditions on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/ef8969755f4a00275be7e8fc93dfc00e)
 
 <a name="documents"></a>
 

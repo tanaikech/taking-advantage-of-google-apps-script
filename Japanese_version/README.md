@@ -768,6 +768,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用してコンテナ バインド スクリプトを削除して Google スプレッドシートをコピーする](https://gist.github.com/tanaikech/d5f7b0ddd8c8746c4dff67040a436c5f)
 - [Google Apps Scriptを使用してGoogleスプレッドシートの基本フィルタを自動更新](https://gist.github.com/tanaikech/03308f87b6c9568dd277e43eb646a75e)
 - [Google Apps Scriptを使用したGoogleスプレッドシート上のセルの重なりをチェック](https://gist.github.com/tanaikech/b56e12dd1f2f15997b113b4738cf7f8b)
+- [ベンチマーク: Google Apps Scriptを使用してGoogleスプレッドシート上の条件による行を効率的に削除する](https://gist.github.com/tanaikech/ef8969755f4a00275be7e8fc93dfc00e)
 
 <a name="documents"> </a>
 
