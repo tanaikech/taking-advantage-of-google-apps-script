@@ -185,6 +185,7 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [UtlApp](https://github.com/tanaikech/UtlApp) : Google Apps Scriptによるアプリケーション開発をサポートする便利なスクリプトを集めたGoogle Apps Scriptライブラリです。
 - [TemplateApp](https://github.com/tanaikech/TemplateApp) : Google スプレッドシートをデータベースとして利用した Google ドキュメントや Google スライドのテンプレートを Google Apps Script で簡単に管理するための Google Apps Script ライブラリです。
 - [TriggerApp](https://github.com/tanaikech/TriggerApp) : Google Apps Scriptを使用してGoogle Apps Scriptを実行するための時間駆動トリガーを効率的に管理するためのGoogle Apps Scriptライブラリです。
+- [PDFApp](https://github.com/tanaikech/PDFApp) : PDF を管理するための Google Apps Script ライブラリです。
 
 <br>
 
@@ -998,6 +999,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用した PDF フォームへの値の取得と設定](https://gist.github.com/tanaikech/a8a387614410b8c6c2c1addbce4dd23c)
 - [Google Apps Script を使用して Google スライド テンプレートから PDF フォームを作成する](https://gist.github.com/tanaikech/682dec95002f8cc25f1c5f2349966b8c)
 - [Google Apps Script を使用した PDF へのオブジェクトの埋め込み](https://gist.github.com/tanaikech/b085cb08d573afa2294e2a8f887cdbd2)
+- [Google Apps Script 上で PDF をクッキング](https://gist.github.com/tanaikech/42ad6a83322364d0b99ad11260862f04)
 
 <a name="nodejs"> </a>
 

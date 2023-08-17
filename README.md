@@ -185,6 +185,7 @@ You can search the GAS libraries at [Search Google Apps Script Libraries](https:
 - [UtlApp](https://github.com/tanaikech/UtlApp) : This is a Google Apps Script library including useful scripts for supporting to development of applications by Google Apps Script.
 - [TemplateApp](https://github.com/tanaikech/TemplateApp) : This is a Google Apps Script library for easily managing the template of Google Documents and Google Slides using Google Spreadsheet as a database using Google Apps Script.
 - [TriggerApp](https://github.com/tanaikech/TriggerApp) : This is a Google Apps Script library for efficiently managing the time-driven triggers for executing Google Apps Script using Google Apps Script.
+- [PDFApp](https://github.com/tanaikech/PDFApp) : This is a Google Apps Script library for managing PDFs.
 
 <br>
 
@@ -1016,6 +1017,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Retrieving and Putting Values for PDF Forms using Google Apps Script](https://gist.github.com/tanaikech/a8a387614410b8c6c2c1addbce4dd23c)
 - [Creating PDF Forms from Google Slide Template using Google Apps Script](https://gist.github.com/tanaikech/682dec95002f8cc25f1c5f2349966b8c)
 - [Embedding Objects in PDF using Google Apps Script](https://gist.github.com/tanaikech/b085cb08d573afa2294e2a8f887cdbd2)
+- [Cooking PDF over Google Apps Script](https://gist.github.com/tanaikech/42ad6a83322364d0b99ad11260862f04)
 
 <a name="nodejs"></a>
 
