@@ -1000,6 +1000,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Google スライド テンプレートから PDF フォームを作成する](https://gist.github.com/tanaikech/682dec95002f8cc25f1c5f2349966b8c)
 - [Google Apps Script を使用した PDF へのオブジェクトの埋め込み](https://gist.github.com/tanaikech/b085cb08d573afa2294e2a8f887cdbd2)
 - [Google Apps Script 上で PDF をクッキング](https://gist.github.com/tanaikech/42ad6a83322364d0b99ad11260862f04)
+- [Google Apps Script を使用して Google スプレッドシートからエクスポートされた PDF にヘッダーとフッターを追加](https://gist.github.com/tanaikech/1aac9139666963cb9268082763494218)
 
 <a name="nodejs"> </a>
 

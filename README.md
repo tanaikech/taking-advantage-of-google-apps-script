@@ -1018,6 +1018,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Creating PDF Forms from Google Slide Template using Google Apps Script](https://gist.github.com/tanaikech/682dec95002f8cc25f1c5f2349966b8c)
 - [Embedding Objects in PDF using Google Apps Script](https://gist.github.com/tanaikech/b085cb08d573afa2294e2a8f887cdbd2)
 - [Cooking PDF over Google Apps Script](https://gist.github.com/tanaikech/42ad6a83322364d0b99ad11260862f04)
+- [Add Header and Footer to Exported PDF from Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/1aac9139666963cb9268082763494218)
 
 <a name="nodejs"></a>
 
