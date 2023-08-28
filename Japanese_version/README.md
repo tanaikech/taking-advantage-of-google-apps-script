@@ -412,6 +412,10 @@ Javascript ライブラリ
 
 > ここでは、Google Apps Scriptで作成したWeb Appsへのリクエストの流れを理解するためのレポートを紹介したいと思います。 Web Appsを利用した様々なアプリケーションを作成し、Web AppsをWebhookとして利用する場合があります。 その場合、Web Appsへのリクエストの流れを理解しておけば、スムーズに目的を達成できるのではないかと考えられます。 本稿ではその情報を紹介したい。
 
+### [レポート: google.script.run を使用して Javascript と Google Apps Script の間で転送する値](https://gist.github.com/tanaikech/9927dc5c12ebca118ff8f3f4d539c95d)
+
+> このレポートでは、google.script.run を使用して HTML と Google Apps Script の間で転送するために使用できる値を紹介します。
+
 <br>
 
 <a name="benchmarks"> </a>

@@ -412,6 +412,10 @@ Javascript library
 
 > Here, I would like to introduce a report for understanding the flow of the request to Web Apps created by Google Apps Script. There might be a case that various applications using the Web Apps are created and the Web Apps are used as the webhook. In that case, it is considered that when you have understood the flow of requests to the Web Apps, your goal might be able to be smoothly achieved. In this report, I would like to introduce the information about it.
 
+### [Report: Values to transfer between Javascript and Google Apps Script with google.script.run](https://gist.github.com/tanaikech/9927dc5c12ebca118ff8f3f4d539c95d)
+
+> This report introduces the values that can be used for transferring between HTML and Google Apps Script with google.script.run.
+
 <br>
 
 <a name="benchmarks"></a>
