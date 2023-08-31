@@ -791,6 +791,7 @@ Javascript library
 - [Automatically Refreshing Basic Filter on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/03308f87b6c9568dd277e43eb646a75e)
 - [Overwrapped Cells on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/b56e12dd1f2f15997b113b4738cf7f8b)
 - [Benchmark: Efficiently Deleting Rows by Conditions on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/ef8969755f4a00275be7e8fc93dfc00e)
+- [Focusing Selected Cell to Top Left on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/9f613d6fec34892dc211f30644e0a5ea)
 
 <a name="documents"></a>
 

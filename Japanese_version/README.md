@@ -774,6 +774,7 @@ Javascript ライブラリ
 - [Google Apps Scriptを使用してGoogleスプレッドシートの基本フィルタを自動更新](https://gist.github.com/tanaikech/03308f87b6c9568dd277e43eb646a75e)
 - [Google Apps Scriptを使用したGoogleスプレッドシート上のセルの重なりをチェック](https://gist.github.com/tanaikech/b56e12dd1f2f15997b113b4738cf7f8b)
 - [ベンチマーク: Google Apps Scriptを使用してGoogleスプレッドシート上の条件による行を効率的に削除する](https://gist.github.com/tanaikech/ef8969755f4a00275be7e8fc93dfc00e)
+- [Google Apps Script を使用して Google スプレッドシートで選択したセルを左上にフォーカスする](https://gist.github.com/tanaikech/9f613d6fec34892dc211f30644e0a5ea)
 
 <a name="documents"> </a>
 
