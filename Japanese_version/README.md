@@ -775,6 +775,7 @@ Javascript ライブラリ
 - [Google Apps Scriptを使用したGoogleスプレッドシート上のセルの重なりをチェック](https://gist.github.com/tanaikech/b56e12dd1f2f15997b113b4738cf7f8b)
 - [ベンチマーク: Google Apps Scriptを使用してGoogleスプレッドシート上の条件による行を効率的に削除する](https://gist.github.com/tanaikech/ef8969755f4a00275be7e8fc93dfc00e)
 - [Google Apps Script を使用して Google スプレッドシートで選択したセルを左上にフォーカスする](https://gist.github.com/tanaikech/9f613d6fec34892dc211f30644e0a5ea)
+- [Google Apps Scriptを使用してタイムゾーンが異なるGoogleスプレッドシート間で日付オブジェクトをコピー](https://gist.github.com/tanaikech/fd525434b51b8b0df3293c0067f071ca)
 
 <a name="documents"> </a>
 
