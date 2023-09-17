@@ -416,6 +416,10 @@ Javascript ライブラリ
 
 > このレポートでは、google.script.run を使用して HTML と Google Apps Script の間で転送するために使用できる値を紹介します。
 
+### [Google Apps Script のスクリプト エディターの自動補完を活用する](https://gist.github.com/tanaikech/b2f0461c1060b54d2edbd43733708f52)
+
+> Google Apps Scriptのスクリプトエディタのオートコンプリートを利用するためのレポートです。
+
 <br>
 
 <a name="benchmarks"> </a>

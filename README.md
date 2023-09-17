@@ -416,6 +416,10 @@ Javascript library
 
 > This report introduces the values that can be used for transferring between HTML and Google Apps Script with google.script.run.
 
+### [Taking Advantage of Auto-completion of Script Editor for Google Apps Script](https://gist.github.com/tanaikech/b2f0461c1060b54d2edbd43733708f52)
+
+> This is a report for taking advantage of the auto-completion of the script editor for Google Apps Script.
+
 <br>
 
 <a name="benchmarks"></a>
