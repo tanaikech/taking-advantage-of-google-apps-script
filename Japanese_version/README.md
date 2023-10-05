@@ -650,6 +650,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用したプロジェクトでコメントなしで再フォーマットされたスクリプトを取得する](https://gist.github.com/tanaikech/61f69fd2ce181865d3430c260c6a5d0b)
 - [Google Apps Script を使用してプロジェクトを zip ファイルとしてバックアップ](https://gist.github.com/tanaikech/035aa9f6603e7a8698c1cc67ab43e132)
 - [Google Apps Script を使用した Google Apps Script プロジェクトの全文検索](https://gist.github.com/tanaikech/d557d3e239189877e595ed622ce2cb88)
+- [Google Apps Scriptの履歴管理](https://gist.github.com/tanaikech/2453685e8e6b272e357b1f5935ca6e53)
 
 <a name="spreadsheets"> </a>
 
