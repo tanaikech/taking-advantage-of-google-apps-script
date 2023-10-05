@@ -186,6 +186,7 @@ You can search the GAS libraries at [Search Google Apps Script Libraries](https:
 - [TemplateApp](https://github.com/tanaikech/TemplateApp) : This is a Google Apps Script library for easily managing the template of Google Documents and Google Slides using Google Spreadsheet as a database using Google Apps Script.
 - [TriggerApp](https://github.com/tanaikech/TriggerApp) : This is a Google Apps Script library for efficiently managing the time-driven triggers for executing Google Apps Script using Google Apps Script.
 - [PDFApp](https://github.com/tanaikech/PDFApp) : This is a Google Apps Script library for managing PDFs.
+- [ScriptHistoryApp](https://github.com/tanaikech/ScriptHistoryApp) : This is a Google Apps Script library for managing the histories of the Google Apps Script project.
 
 <br>
 

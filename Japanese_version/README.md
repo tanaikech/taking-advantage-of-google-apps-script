@@ -186,6 +186,7 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [TemplateApp](https://github.com/tanaikech/TemplateApp) : Google スプレッドシートをデータベースとして利用した Google ドキュメントや Google スライドのテンプレートを Google Apps Script で簡単に管理するための Google Apps Script ライブラリです。
 - [TriggerApp](https://github.com/tanaikech/TriggerApp) : Google Apps Scriptを使用してGoogle Apps Scriptを実行するための時間駆動トリガーを効率的に管理するためのGoogle Apps Scriptライブラリです。
 - [PDFApp](https://github.com/tanaikech/PDFApp) : PDF を管理するための Google Apps Script ライブラリです。
+- [ScriptHistoryApp](https://github.com/tanaikech/ScriptHistoryApp) : Google Apps Script プロジェクトの履歴を管理するための Google Apps Script ライブラリです。
 
 <br>
 
