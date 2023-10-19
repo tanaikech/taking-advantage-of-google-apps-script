@@ -1013,6 +1013,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用した PDF へのオブジェクトの埋め込み](https://gist.github.com/tanaikech/b085cb08d573afa2294e2a8f887cdbd2)
 - [Google Apps Script 上で PDF をクッキング](https://gist.github.com/tanaikech/42ad6a83322364d0b99ad11260862f04)
 - [Google Apps Script を使用して Google スプレッドシートからエクスポートされた PDF にヘッダーとフッターを追加](https://gist.github.com/tanaikech/1aac9139666963cb9268082763494218)
+- [サービスアカウントでGoogle Apps Scriptを実行する](https://gist.github.com/tanaikech/304fea821ca36b8e9ccebe9814eaed82)
 
 <a name="nodejs"> </a>
 
