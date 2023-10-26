@@ -1015,6 +1015,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Google スプレッドシートからエクスポートされた PDF にヘッダーとフッターを追加](https://gist.github.com/tanaikech/1aac9139666963cb9268082763494218)
 - [サービスアカウントでGoogle Apps Scriptを実行する](https://gist.github.com/tanaikech/304fea821ca36b8e9ccebe9814eaed82)
 - [Google Apps Scriptで作成したWebアプリにJavaScriptを含むHTMLを挿入する](https://gist.github.com/tanaikech/a5b5b5646b97934578fbb22ee503e6aa)
+- [Google Apps Script を使用して Google ドキュメント、Google スライド、Google スプレッドシートから絵文字リアクション付きコメントを取得](https://gist.github.com/tanaikech/7713944094af5643fcf13b8d362d0c68)
 
 <a name="nodejs"> </a>
 

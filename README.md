@@ -1033,6 +1033,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Add Header and Footer to Exported PDF from Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/1aac9139666963cb9268082763494218)
 - [Executing Google Apps Script with Service Account](https://gist.github.com/tanaikech/304fea821ca36b8e9ccebe9814eaed82)
 - [Inserting HTML including Javascript on Web Apps Created by Google Apps Script](https://gist.github.com/tanaikech/a5b5b5646b97934578fbb22ee503e6aa)
+- [Retrieve Comments with Emoji Reactions from Google Documents, Google Slides, and Google Spreadsheets using Google Apps Script](https://gist.github.com/tanaikech/7713944094af5643fcf13b8d362d0c68)
 
 <a name="nodejs"></a>
 
