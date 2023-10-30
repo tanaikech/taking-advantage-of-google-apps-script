@@ -799,6 +799,7 @@ Javascript library
 - [Benchmark: Efficiently Deleting Rows by Conditions on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/ef8969755f4a00275be7e8fc93dfc00e)
 - [Focusing Selected Cell to Top Left on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/9f613d6fec34892dc211f30644e0a5ea)
 - [Copy Date Object between Google Spreadsheets with Different Timezone using Google Apps Script](https://gist.github.com/tanaikech/fd525434b51b8b0df3293c0067f071ca)
+- [Workaround: Detecting Change of IMPORTRANGE using OnEdit trigger with Google Apps Script](https://gist.github.com/tanaikech/0cf57b2684c2ac2c2562b1ec229c9ace)
 
 <a name="documents"></a>
 
