@@ -800,6 +800,7 @@ Javascript library
 - [Focusing Selected Cell to Top Left on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/9f613d6fec34892dc211f30644e0a5ea)
 - [Copy Date Object between Google Spreadsheets with Different Timezone using Google Apps Script](https://gist.github.com/tanaikech/fd525434b51b8b0df3293c0067f071ca)
 - [Workaround: Detecting Change of IMPORTRANGE using OnEdit trigger with Google Apps Script](https://gist.github.com/tanaikech/0cf57b2684c2ac2c2562b1ec229c9ace)
+- [Uploading Files without Authorizing Scopes by Shared Users with Dialog on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/dbcf9ba8674b898ee61baf5c33825a0b)
 
 <a name="documents"></a>
 

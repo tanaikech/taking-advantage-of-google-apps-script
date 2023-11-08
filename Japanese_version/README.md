@@ -783,6 +783,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Google スプレッドシートで選択したセルを左上にフォーカスする](https://gist.github.com/tanaikech/9f613d6fec34892dc211f30644e0a5ea)
 - [Google Apps Scriptを使用してタイムゾーンが異なるGoogleスプレッドシート間で日付オブジェクトをコピー](https://gist.github.com/tanaikech/fd525434b51b8b0df3293c0067f071ca)
 - [回避策: Google Apps Script で OnEdit トリガーを使用して IMPORTRANGE の変更を検出する](https://gist.github.com/tanaikech/0cf57b2684c2ac2c2562b1ec229c9ace)
+- [Google Apps Scriptを使用したGoogleスプレッドシート上のダイアログによる共有ユーザーによるスコープの承認なしのファイルのアップロード](https://gist.github.com/tanaikech/dbcf9ba8674b898ee61baf5c33825a0b)
 
 <a name="documents"> </a>
 
