@@ -801,6 +801,7 @@ Javascript library
 - [Copy Date Object between Google Spreadsheets with Different Timezone using Google Apps Script](https://gist.github.com/tanaikech/fd525434b51b8b0df3293c0067f071ca)
 - [Workaround: Detecting Change of IMPORTRANGE using OnEdit trigger with Google Apps Script](https://gist.github.com/tanaikech/0cf57b2684c2ac2c2562b1ec229c9ace)
 - [Uploading Files without Authorizing Scopes by Shared Users with Dialog on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/dbcf9ba8674b898ee61baf5c33825a0b)
+- [Technique for Processing Google Spreadsheet Including Merged Cells using Google Apps Script](https://gist.github.com/tanaikech/a03b0bb4218a19b41d507a5b649e3802)
 
 <a name="documents"></a>
 
