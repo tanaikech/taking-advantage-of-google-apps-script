@@ -802,6 +802,7 @@ Javascript library
 - [Workaround: Detecting Change of IMPORTRANGE using OnEdit trigger with Google Apps Script](https://gist.github.com/tanaikech/0cf57b2684c2ac2c2562b1ec229c9ace)
 - [Uploading Files without Authorizing Scopes by Shared Users with Dialog on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/dbcf9ba8674b898ee61baf5c33825a0b)
 - [Technique for Processing Google Spreadsheet Including Merged Cells using Google Apps Script](https://gist.github.com/tanaikech/a03b0bb4218a19b41d507a5b649e3802)
+- [Technique of Array Processing for Custom Functions on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/e3f0bf29aad48d6e2e4ca096269e5a9d)
 
 <a name="documents"></a>
 
