@@ -786,6 +786,7 @@ Javascript ライブラリ
 - [Google Apps Scriptを使用したGoogleスプレッドシート上のダイアログによる共有ユーザーによるスコープの承認なしのファイルのアップロード](https://gist.github.com/tanaikech/dbcf9ba8674b898ee61baf5c33825a0b)
 - [結合セルを含むGoogleスプレッドシートをGoogle Apps Scriptで処理するテクニック](https://gist.github.com/tanaikech/a03b0bb4218a19b41d507a5b649e3802)
 - [Google Apps Scriptを使ったGoogleスプレッドシート上のカスタム関数の配列処理のテクニック](https://gist.github.com/tanaikech/e3f0bf29aad48d6e2e4ca096269e5a9d)
+- [回避策: ユーザーが Google Apps Script を使用して保護されたセルを編集できるようにする](https://gist.github.com/tanaikech/a36770c4609fdb73ed1b8ed43c0612fd)
 
 <a name="documents"> </a>
 
