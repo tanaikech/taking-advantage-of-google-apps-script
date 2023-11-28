@@ -804,6 +804,7 @@ Javascript library
 - [Technique for Processing Google Spreadsheet Including Merged Cells using Google Apps Script](https://gist.github.com/tanaikech/a03b0bb4218a19b41d507a5b649e3802)
 - [Technique of Array Processing for Custom Functions on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/e3f0bf29aad48d6e2e4ca096269e5a9d)
 - [Workaround: Making Users Edit Protected Cells using Google Apps Script](https://gist.github.com/tanaikech/a36770c4609fdb73ed1b8ed43c0612fd)
+- [Technique for Managing Rich Text on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/f3aa85e41287e329353ec062e8b64483)
 
 <a name="documents"></a>
 
