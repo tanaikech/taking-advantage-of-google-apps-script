@@ -839,6 +839,7 @@ Javascript library
 - [Set Line Space of Paragraph on Google Document using Google Apps Script](https://gist.github.com/tanaikech/ea68371c1f212d316a8713946e9d8385)
 - [Inserting Paragraphs with Checkboxes in Google Documents using Google Apps Script](https://gist.github.com/tanaikech/dec8cf3755e3c2cf294655c605fd6840)
 - [Workaround: Exporting Google Documents as HTML with Image Hyperlinks](https://gist.github.com/tanaikech/e6bbb3bf341d7ac021f3bcfa523c4ca3)
+- [Managing Footnotes on Google Documents using Google Apps Script](https://gist.github.com/tanaikech/cd7bf2ca7b9109e081bd64ec50db54fc)
 
 <a name="slides"></a>
 

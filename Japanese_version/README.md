@@ -822,6 +822,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Google ドキュメントの段落の行間を設定する](https://gist.github.com/tanaikech/ea68371c1f212d316a8713946e9d8385)
 - [Google Apps Script を使用して Google ドキュメントにチェックボックスを含む段落を挿入する](https://gist.github.com/tanaikech/dec8cf3755e3c2cf294655c605fd6840)
 - [回避策: 画像ハイパーリンクを含む HTML として Google ドキュメントをエクスポートする](https://gist.github.com/tanaikech/e6bbb3bf341d7ac021f3bcfa523c4ca3)
+- [Google Apps Script を使用した Google ドキュメントの脚注の管理](https://gist.github.com/tanaikech/cd7bf2ca7b9109e081bd64ec50db54fc)
 
 <a name="slides"> </a>
 
