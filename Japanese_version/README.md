@@ -1024,6 +1024,7 @@ Javascript ライブラリ
 - [サービスアカウントでGoogle Apps Scriptを実行する](https://gist.github.com/tanaikech/304fea821ca36b8e9ccebe9814eaed82)
 - [Google Apps Scriptで作成したWebアプリにJavaScriptを含むHTMLを挿入する](https://gist.github.com/tanaikech/a5b5b5646b97934578fbb22ee503e6aa)
 - [Google Apps Script を使用して Google ドキュメント、Google スライド、Google スプレッドシートから絵文字リアクション付きコメントを取得](https://gist.github.com/tanaikech/7713944094af5643fcf13b8d362d0c68)
+- [Gemini Pro API と Google Apps Script を使用して Google ドライブ上のファイルの説明を自動作成する](https://gist.github.com/tanaikech/87dcf5a2ab90bbef983a140ec79f7396)
 
 <a name="nodejs"> </a>
 
