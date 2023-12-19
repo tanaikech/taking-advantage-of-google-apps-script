@@ -871,6 +871,7 @@ Javascript library
 - [Sending Multiple Emails using Batch Request with Gmail API using Google Apps Script](https://gist.github.com/tanaikech/44e055214ab470c9b3143a469d7a7d21)
 - [Converting Gmail Message to Image using Google Apps Script](https://gist.github.com/tanaikech/12a61cb7e4516acc95ecf15287b3f0f3)
 - [Searching Gmail Messages by Gmail Filters using Google Apps Script](https://gist.github.com/tanaikech/bc8788c65afeba42ec2e560bfa5eb8b2)
+- [Flexible Labeling for Gmail using Gemini Pro API with Google Apps Script](https://gist.github.com/tanaikech/cdfa63b670b223e482e457703b9cdeb6)
 
 <a name="calendar"></a>
 
