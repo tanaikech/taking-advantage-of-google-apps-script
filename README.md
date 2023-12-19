@@ -49,6 +49,7 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
   - [Curl](#curl)
   - [Javascript](#javascript)
   - [PHP](#php)
+  - [Generative AI](#generativeai)
 
 <br>
 <br>
@@ -1117,5 +1118,12 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 #### PHP
 
 - [Retrieving Access Token using Service Account for PHP without using googleapis](https://gist.github.com/tanaikech/1b47cfec588454963ee40c5a50943194)
+
+<a name="generativeai"></a>
+
+#### Generative AI
+
+- [Automatically Creating Descriptions of Files on Google Drive using Gemini Pro API with Google Apps Script](https://gist.github.com/tanaikech/87dcf5a2ab90bbef983a140ec79f7396)
+- [Flexible Labeling for Gmail using Gemini Pro API with Google Apps Script](https://gist.github.com/tanaikech/cdfa63b670b223e482e457703b9cdeb6)
 
 [TOP](#top)

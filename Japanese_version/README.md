@@ -50,6 +50,7 @@
   - [Curl](#curl)
   - [Javascript](#javascript)
   - [PHP](#php)
+  - [生成AI](#generativeai)
 
 <br>
 <br>
@@ -1099,5 +1100,12 @@ Javascript ライブラリ
 #### PHP
 
 - [googleapis を使用せずに PHP のサービスアカウントを使用してアクセストークンを取得する](https://gist.github.com/tanaikech/1b47cfec588454963ee40c5a50943194)
+
+<a name="generativeai"></a>
+
+#### 生成AI
+
+- [Gemini Pro API と Google Apps Script を使用して Google ドライブ上のファイルの説明を自動作成する](https://gist.github.com/tanaikech/87dcf5a2ab90bbef983a140ec79f7396)
+- [Gemini Pro API と Google Apps Script を使用した Gmail の柔軟なラベル付け](https://gist.github.com/tanaikech/cdfa63b670b223e482e457703b9cdeb6)
 
 [TOP](#top)
