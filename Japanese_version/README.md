@@ -1107,5 +1107,6 @@ Javascript ライブラリ
 
 - [Gemini Pro API と Google Apps Script を使用して Google ドライブ上のファイルの説明を自動作成する](https://gist.github.com/tanaikech/87dcf5a2ab90bbef983a140ec79f7396)
 - [Gemini Pro API と Google Apps Script を使用した Gmail の柔軟なラベル付け](https://gist.github.com/tanaikech/cdfa63b670b223e482e457703b9cdeb6)
+- [Google Apps Script で Gemini Pro API を使用した Google Apps Script のエラー メッセージの拡張](https://gist.github.com/tanaikech/b86db4d574474cbb079b185271f679ce)
 
 [TOP](#top)
