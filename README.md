@@ -1126,5 +1126,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Automatically Creating Descriptions of Files on Google Drive using Gemini Pro API with Google Apps Script](https://gist.github.com/tanaikech/87dcf5a2ab90bbef983a140ec79f7396)
 - [Flexible Labeling for Gmail using Gemini Pro API with Google Apps Script](https://gist.github.com/tanaikech/cdfa63b670b223e482e457703b9cdeb6)
 - [Expanding Error Messages of Google Apps Script using Gemini Pro API with Google Apps Script](https://gist.github.com/tanaikech/b86db4d574474cbb079b185271f679ce)
+- [Inserting Generated Text to Google Documents, Google Spreadsheets, and Google Slides using Gemini Pro API with Google Apps Script](https://gist.github.com/tanaikech/f1a6042c62e207d22eb5a38140d8484e)
 
 [TOP](#top)
