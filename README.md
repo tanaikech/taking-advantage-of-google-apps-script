@@ -1045,6 +1045,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Inserting HTML including Javascript on Web Apps Created by Google Apps Script](https://gist.github.com/tanaikech/a5b5b5646b97934578fbb22ee503e6aa)
 - [Retrieve Comments with Emoji Reactions from Google Documents, Google Slides, and Google Spreadsheets using Google Apps Script](https://gist.github.com/tanaikech/7713944094af5643fcf13b8d362d0c68)
 - [Automatically Creating Descriptions of Files on Google Drive using Gemini Pro API with Google Apps Script](https://gist.github.com/tanaikech/87dcf5a2ab90bbef983a140ec79f7396)
+- [Returning Class Object of Google Apps Script with JSDoc](https://gist.github.com/tanaikech/a42e060d0c049d981ea7a4a5e9da3892)
 
 <a name="nodejs"></a>
 
