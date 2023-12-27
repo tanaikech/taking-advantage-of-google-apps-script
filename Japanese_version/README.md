@@ -189,6 +189,7 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [TriggerApp](https://github.com/tanaikech/TriggerApp) : Google Apps Scriptを使用してGoogle Apps Scriptを実行するための時間駆動トリガーを効率的に管理するためのGoogle Apps Scriptライブラリです。
 - [PDFApp](https://github.com/tanaikech/PDFApp) : PDF を管理するための Google Apps Script ライブラリです。
 - [ScriptHistoryApp](https://github.com/tanaikech/ScriptHistoryApp) : Google Apps Script プロジェクトの履歴を管理するための Google Apps Script ライブラリです。
+- [MicrosoftDocsApp](https://github.com/tanaikech/MicrosoftDocsApp) : これは、Goolge Apps Scriptの[Document service](https://developers.google.com/apps-script/reference/document), [Spreadsheet service](https://developers.google.com/apps-script/reference/spreadsheet), [Slides Service](https://developers.google.com/apps-script/reference/slides)を使用してMicrosoft Docs files (Word, Excel, and PowerPoint files)を使用するためのライブラリです。
 
 <br>
 

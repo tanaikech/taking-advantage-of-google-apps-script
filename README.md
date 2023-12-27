@@ -189,6 +189,7 @@ You can search the GAS libraries at [Search Google Apps Script Libraries](https:
 - [TriggerApp](https://github.com/tanaikech/TriggerApp) : This is a Google Apps Script library for efficiently managing the time-driven triggers for executing Google Apps Script using Google Apps Script.
 - [PDFApp](https://github.com/tanaikech/PDFApp) : This is a Google Apps Script library for managing PDFs.
 - [ScriptHistoryApp](https://github.com/tanaikech/ScriptHistoryApp) : This is a Google Apps Script library for managing the histories of the Google Apps Script project.
+- [MicrosoftDocsApp](https://github.com/tanaikech/MicrosoftDocsApp) : This is a Google Apps Script library for using Microsoft Docs files (Word, Excel, and PowerPoint files) using [Document service](https://developers.google.com/apps-script/reference/document), [Spreadsheet service](https://developers.google.com/apps-script/reference/spreadsheet), and [Slides Service](https://developers.google.com/apps-script/reference/slides) of Google Apps Script.
 
 <br>
 
