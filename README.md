@@ -426,6 +426,11 @@ Javascript library
 
 > This is a report for taking advantage of the auto-completion of the script editor for Google Apps Script.
 
+### [Report: How to Run Google Apps Script](https://gist.github.com/tanaikech/f03ab0d9eff7182a57e699fb3fbb32b8)
+
+> Google Apps Script is one of the strong tools with cloud computing, and it is very useful for various situations. Google Apps Script can be run by various methods. This report introduces how to execute Google Apps Script.
+> Recently, generative AI has given a lot of new users a chance to use Google Apps Script. If this report helps the users develop applications using Google Apps Script, I'm glad.
+
 <br>
 
 <a name="benchmarks"></a>

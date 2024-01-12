@@ -425,6 +425,11 @@ Javascript ライブラリ
 
 > Google Apps Scriptのスクリプトエディタのオートコンプリートを利用するためのレポートです。
 
+### [レポート: Google Apps Script の実行方法](https://gist.github.com/tanaikech/f03ab0d9eff7182a57e699fb3fbb32b8)
+
+> Google Apps Script はクラウドコンピューティングの強力なツールの 1 つであり、さまざまな場面で非常に役立ちます。 Google Apps Script はさまざまな方法で実行できます。 本レポートでは、Google Apps Scriptの実行方法を紹介します。
+> 最近、生成 AI により、多くの新規ユーザーに Google Apps Script を使用する機会が与えられました。 このレポートがユーザーの皆様の Google Apps Script を使用したアプリケーション開発の一助になれば幸いです。
+
 <br>
 
 <a name="benchmarks"> </a>
