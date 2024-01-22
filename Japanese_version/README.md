@@ -430,6 +430,10 @@ Javascript ライブラリ
 > Google Apps Script はクラウドコンピューティングの強力なツールの 1 つであり、さまざまな場面で非常に役立ちます。 Google Apps Script はさまざまな方法で実行できます。 本レポートでは、Google Apps Scriptの実行方法を紹介します。
 > 最近、生成 AI により、多くの新規ユーザーに Google Apps Script を使用する機会が与えられました。 このレポートがユーザーの皆様の Google Apps Script を使用したアプリケーション開発の一助になれば幸いです。
 
+### [Google Apps Scriptを利用した飲食予約システム](https://github.com/tanaikech/RegistrationApp)
+
+> Google Apps Scriptを利用した飲食予約システムです。
+
 <br>
 
 <a name="benchmarks"> </a>

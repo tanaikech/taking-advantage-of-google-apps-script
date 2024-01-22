@@ -431,6 +431,10 @@ Javascript library
 > Google Apps Script is one of the strong tools with cloud computing, and it is very useful for various situations. Google Apps Script can be run by various methods. This report introduces how to execute Google Apps Script.
 > Recently, generative AI has given a lot of new users a chance to use Google Apps Script. If this report helps the users develop applications using Google Apps Script, I'm glad.
 
+### [Dining Reservation System using Google Apps Script](https://github.com/tanaikech/ReservationApp)
+
+> This is the dining reservation system using Google Apps Script.
+
 <br>
 
 <a name="benchmarks"></a>
