@@ -1123,5 +1123,7 @@ Javascript ライブラリ
 - [Google Apps Script で Gemini Pro API を使用した Google Apps Script のエラー メッセージの拡張](https://gist.github.com/tanaikech/b86db4d574474cbb079b185271f679ce)
 - [Gemini Pro API と Google Apps Script を使用して生成されたテキストを Google ドキュメント、Google スプレッドシート、Google スライドに挿入する](https://gist.github.com/tanaikech/f1a6042c62e207d22eb5a38140d8484e)
 - [Gemini Pro API と Google Apps Script を使用したセマンティック検索](https://gist.github.com/tanaikech/c6556dc08ae3dcb013d8909c1f42b16d)
+- [Gemini Pro API と Google Apps Script を使用した分類](https://gist.github.com/tanaikech/28061e3d5404b4fba23368bbae4611d2)
+- [Gemini Pro API と Google Apps Script を使用した Gmail の柔軟なラベル付けパート 2](https://gist.github.com/tanaikech/811e5c92cf96e8b387ffa9f29da08ec3)
 
 [TOP](#top)
