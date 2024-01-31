@@ -1144,5 +1144,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Semantic Search using Gemini Pro API with Google Apps Script](https://gist.github.com/tanaikech/c6556dc08ae3dcb013d8909c1f42b16d)
 - [Categorization using Gemini Pro API with Google Apps Script](https://gist.github.com/tanaikech/28061e3d5404b4fba23368bbae4611d2)
 - [Flexible Labeling for Gmail using Gemini Pro API with Google Apps Script Part 2](https://gist.github.com/tanaikech/811e5c92cf96e8b387ffa9f29da08ec3)
+- [Semantic Search using Corpus of Gemini API with Google Apps Script](https://gist.github.com/tanaikech/02415a0056099229525f894ae59dacb5)
 
 [TOP](#top)
