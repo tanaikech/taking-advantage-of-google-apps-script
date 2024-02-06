@@ -1040,6 +1040,7 @@ Javascript ライブラリ
 - [Gemini Pro API と Google Apps Script を使用して Google ドライブ上のファイルの説明を自動作成する](https://gist.github.com/tanaikech/87dcf5a2ab90bbef983a140ec79f7396)
 - [JSDocでGoogle Apps Scriptのクラスオブジェクトを返す](https://gist.github.com/tanaikech/a42e060d0c049d981ea7a4a5e9da3892)
 - [Microsoft Docs ファイル (Word、Excel、PowerPoint) を Google Apps Script のドキュメント サービス、スプレッドシート サービス、スライド サービスで使用する](https://gist.github.com/tanaikech/288b56aa47f4270f3b96d1421ea3eb36)
+- [Google Apps Script を使用して連絡先 URL を People API のリソース名に変換](https://gist.github.com/tanaikech/41e71610f03617e131183faac5cf9ad7)
 
 <a name="nodejs"> </a>
 

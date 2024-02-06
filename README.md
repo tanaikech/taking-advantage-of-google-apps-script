@@ -1059,6 +1059,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Automatically Creating Descriptions of Files on Google Drive using Gemini Pro API with Google Apps Script](https://gist.github.com/tanaikech/87dcf5a2ab90bbef983a140ec79f7396)
 - [Returning Class Object of Google Apps Script with JSDoc](https://gist.github.com/tanaikech/a42e060d0c049d981ea7a4a5e9da3892)
 - [Use Microsoft Docs Files (Word, Excel, and PowerPoint) with Document Service, Spreadsheet Service, and Slides Service of Google Apps Script](https://gist.github.com/tanaikech/288b56aa47f4270f3b96d1421ea3eb36)
+- [Convert Contact URL to Resource Name for People API using Google Apps Script](https://gist.github.com/tanaikech/41e71610f03617e131183faac5cf9ad7)
 
 <a name="nodejs"></a>
 
