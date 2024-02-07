@@ -1127,5 +1127,6 @@ Javascript ライブラリ
 - [Gemini Pro API と Google Apps Script を使用した分類](https://gist.github.com/tanaikech/28061e3d5404b4fba23368bbae4611d2)
 - [Gemini Pro API と Google Apps Script を使用した Gmail の柔軟なラベル付けパート 2](https://gist.github.com/tanaikech/811e5c92cf96e8b387ffa9f29da08ec3)
 - [Google Apps ScriptでGemini APIのコーパスを使用したセマンティック検索](https://gist.github.com/tanaikech/02415a0056099229525f894ae59dacb5)
+- [Google Apps Script を使用して Gemini Pro API を柔軟なテンプレートに適用する](https://gist.github.com/tanaikech/ad5bd7eee50c2b9f05995d56679610f7)
 
 [TOP](#top)
