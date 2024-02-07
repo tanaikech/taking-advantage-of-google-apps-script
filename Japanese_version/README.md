@@ -191,6 +191,7 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [PDFApp](https://github.com/tanaikech/PDFApp) : PDF を管理するための Google Apps Script ライブラリです。
 - [ScriptHistoryApp](https://github.com/tanaikech/ScriptHistoryApp) : Google Apps Script プロジェクトの履歴を管理するための Google Apps Script ライブラリです。
 - [MicrosoftDocsApp](https://github.com/tanaikech/MicrosoftDocsApp) : これは、Goolge Apps Scriptの[Document service](https://developers.google.com/apps-script/reference/document), [Spreadsheet service](https://developers.google.com/apps-script/reference/spreadsheet), [Slides Service](https://developers.google.com/apps-script/reference/slides)を使用してMicrosoft Docs files (Word, Excel, and PowerPoint files)を使用するためのライブラリです。
+- [CorporaApp](https://github.com/tanaikech/CorporaApp) : Gemini API のコーパスを管理するための Google Apps Script ライブラリです。
 
 <br>
 
