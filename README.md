@@ -193,6 +193,7 @@ You can search the GAS libraries at [Search Google Apps Script Libraries](https:
 - [ScriptHistoryApp](https://github.com/tanaikech/ScriptHistoryApp) : This is a Google Apps Script library for managing the histories of the Google Apps Script project.
 - [MicrosoftDocsApp](https://github.com/tanaikech/MicrosoftDocsApp) : This is a Google Apps Script library for using Microsoft Docs files (Word, Excel, and PowerPoint files) using [Document service](https://developers.google.com/apps-script/reference/document), [Spreadsheet service](https://developers.google.com/apps-script/reference/spreadsheet), and [Slides Service](https://developers.google.com/apps-script/reference/slides) of Google Apps Script.
 - [CorporaApp](https://github.com/tanaikech/CorporaApp) : This is a Google Apps Script library for managing the corpora of Gemini API.
+- [ImageBotApp](https://github.com/tanaikech/ImageBotApp) : This is the image bot using Gemini with Google Apps Script and Google Drive.
 
 <br>
 
@@ -1149,5 +1150,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Semantic Search using Corpus of Gemini API with Google Apps Script](https://gist.github.com/tanaikech/02415a0056099229525f894ae59dacb5)
 - [Applying Gemini Pro API to Flexible Templates using Google Apps Script](https://gist.github.com/tanaikech/ad5bd7eee50c2b9f05995d56679610f7)
 - [Guide to Function Calling with Gemini and Google Apps Script](https://gist.github.com/tanaikech/061cca4b9af67abe8c4244c03750ea30)
+- [Creating Image Bot using Gemini with Google Apps Script](https://gist.github.com/tanaikech/cf29216cf4b1c127d9213db6079894c7)
 
 [TOP](#top)

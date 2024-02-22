@@ -192,6 +192,7 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [ScriptHistoryApp](https://github.com/tanaikech/ScriptHistoryApp) : Google Apps Script プロジェクトの履歴を管理するための Google Apps Script ライブラリです。
 - [MicrosoftDocsApp](https://github.com/tanaikech/MicrosoftDocsApp) : これは、Goolge Apps Scriptの[Document service](https://developers.google.com/apps-script/reference/document), [Spreadsheet service](https://developers.google.com/apps-script/reference/spreadsheet), [Slides Service](https://developers.google.com/apps-script/reference/slides)を使用してMicrosoft Docs files (Word, Excel, and PowerPoint files)を使用するためのライブラリです。
 - [CorporaApp](https://github.com/tanaikech/CorporaApp) : Gemini API のコーパスを管理するための Google Apps Script ライブラリです。
+- [ImageBotApp](https://github.com/tanaikech/ImageBotApp) : これは、Gemini と Google Apps Script および Google Drive を使用した画像ボットです。
 
 <br>
 
@@ -1130,5 +1131,6 @@ Javascript ライブラリ
 - [Google Apps ScriptでGemini APIのコーパスを使用したセマンティック検索](https://gist.github.com/tanaikech/02415a0056099229525f894ae59dacb5)
 - [Google Apps Script を使用して Gemini Pro API を柔軟なテンプレートに適用する](https://gist.github.com/tanaikech/ad5bd7eee50c2b9f05995d56679610f7)
 - [Gemini と Google Apps Script を使用した関数呼び出しガイド](https://gist.github.com/tanaikech/061cca4b9af67abe8c4244c03750ea30)
+- [Google Apps Script で Gemini を使用した画像ボットの作成](https://gist.github.com/tanaikech/cf29216cf4b1c127d9213db6079894c7)
 
 [TOP](#top)
