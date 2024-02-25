@@ -803,6 +803,7 @@ Javascript ライブラリ
 - [Google Apps Scriptを使ったGoogleスプレッドシート上のカスタム関数の配列処理のテクニック](https://gist.github.com/tanaikech/e3f0bf29aad48d6e2e4ca096269e5a9d)
 - [回避策: ユーザーが Google Apps Script を使用して保護されたセルを編集できるようにする](https://gist.github.com/tanaikech/a36770c4609fdb73ed1b8ed43c0612fd)
 - [Google Apps Scriptを使用してGoogleスプレッドシート上のリッチテキストを管理するテクニック](https://gist.github.com/tanaikech/f3aa85e41287e329353ec062e8b64483)
+- [Google Apps Scriptを使用したGoogleスプレッドシートへのIMPORTHTML、IMPORTDATA、IMPORTFEED、IMPORTXML、IMPORTRANGEによるアクセスを許可する](https://gist.github.com/tanaikech/627d86bdea4028c301431443f82f0ac1)
 
 <a name="documents"> </a>
 
