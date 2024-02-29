@@ -1152,5 +1152,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Applying Gemini Pro API to Flexible Templates using Google Apps Script](https://gist.github.com/tanaikech/ad5bd7eee50c2b9f05995d56679610f7)
 - [Guide to Function Calling with Gemini and Google Apps Script](https://gist.github.com/tanaikech/061cca4b9af67abe8c4244c03750ea30)
 - [Creating Image Bot using Gemini with Google Apps Script](https://gist.github.com/tanaikech/cf29216cf4b1c127d9213db6079894c7)
+- [Similarity Viewer using Gemini API with Google Spreadsheet and Google Apps Script](https://gist.github.com/tanaikech/6a7afe7b145170265ee3cb2d6cb4be58)
 
 [TOP](#top)
