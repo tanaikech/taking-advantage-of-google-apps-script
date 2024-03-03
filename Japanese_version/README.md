@@ -804,6 +804,7 @@ Javascript ライブラリ
 - [回避策: ユーザーが Google Apps Script を使用して保護されたセルを編集できるようにする](https://gist.github.com/tanaikech/a36770c4609fdb73ed1b8ed43c0612fd)
 - [Google Apps Scriptを使用してGoogleスプレッドシート上のリッチテキストを管理するテクニック](https://gist.github.com/tanaikech/f3aa85e41287e329353ec062e8b64483)
 - [Google Apps Scriptを使用したGoogleスプレッドシートへのIMPORTHTML、IMPORTDATA、IMPORTFEED、IMPORTXML、IMPORTRANGEによるアクセスを許可する](https://gist.github.com/tanaikech/627d86bdea4028c301431443f82f0ac1)
+- [Google Apps Scriptを使用してGoogleスプレッドシートを保護するテクニック](https://gist.github.com/tanaikech/3f207ffee7bf64fa79c99118e2979e55)
 
 <a name="documents"> </a>
 
