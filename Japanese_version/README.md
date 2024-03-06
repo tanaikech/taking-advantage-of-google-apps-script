@@ -1135,5 +1135,6 @@ Javascript ライブラリ
 - [Gemini と Google Apps Script を使用した関数呼び出しガイド](https://gist.github.com/tanaikech/061cca4b9af67abe8c4244c03750ea30)
 - [Google Apps Script で Gemini を使用した画像ボットの作成](https://gist.github.com/tanaikech/cf29216cf4b1c127d9213db6079894c7)
 - [Gemini API と Google スプレッドシートおよび Google Apps Script を使用した類似性ビューアー](https://gist.github.com/tanaikech/6a7afe7b145170265ee3cb2d6cb4be58)
+- [Gemini API を使用した拡張検索](https://gist.github.com/tanaikech/70c28ddff49e8a0cf474f7f48d996b8a)
 
 [TOP](#top)
