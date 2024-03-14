@@ -193,6 +193,7 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [MicrosoftDocsApp](https://github.com/tanaikech/MicrosoftDocsApp) : これは、Goolge Apps Scriptの[Document service](https://developers.google.com/apps-script/reference/document), [Spreadsheet service](https://developers.google.com/apps-script/reference/spreadsheet), [Slides Service](https://developers.google.com/apps-script/reference/slides)を使用してMicrosoft Docs files (Word, Excel, and PowerPoint files)を使用するためのライブラリです。
 - [CorporaApp](https://github.com/tanaikech/CorporaApp) : Gemini API のコーパスを管理するための Google Apps Script ライブラリです。
 - [ImageBotApp](https://github.com/tanaikech/ImageBotApp) : これは、Gemini と Google Apps Script および Google Drive を使用した画像ボットです。
+- [GoogleApiApp](https://github.com/tanaikech/GoogleApiApp) : Google Apps ScriptでGoogle APIを利用することをサポートするためのGoogle Apps Scriptライブラリです。
 
 <br>
 
@@ -1045,6 +1046,7 @@ Javascript ライブラリ
 - [JSDocでGoogle Apps Scriptのクラスオブジェクトを返す](https://gist.github.com/tanaikech/a42e060d0c049d981ea7a4a5e9da3892)
 - [Microsoft Docs ファイル (Word、Excel、PowerPoint) を Google Apps Script のドキュメント サービス、スプレッドシート サービス、スライド サービスで使用する](https://gist.github.com/tanaikech/288b56aa47f4270f3b96d1421ea3eb36)
 - [Google Apps Script を使用して連絡先 URL を People API のリソース名に変換](https://gist.github.com/tanaikech/41e71610f03617e131183faac5cf9ad7)
+- [Google Apps Script を使用して誰もがさまざまな Google API を活用できるようにする](https://gist.github.com/tanaikech/88c180fa4bb35b74b73203f754db2d3c)
 
 <a name="nodejs"> </a>
 

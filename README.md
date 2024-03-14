@@ -194,6 +194,7 @@ You can search the GAS libraries at [Search Google Apps Script Libraries](https:
 - [MicrosoftDocsApp](https://github.com/tanaikech/MicrosoftDocsApp) : This is a Google Apps Script library for using Microsoft Docs files (Word, Excel, and PowerPoint files) using [Document service](https://developers.google.com/apps-script/reference/document), [Spreadsheet service](https://developers.google.com/apps-script/reference/spreadsheet), and [Slides Service](https://developers.google.com/apps-script/reference/slides) of Google Apps Script.
 - [CorporaApp](https://github.com/tanaikech/CorporaApp) : This is a Google Apps Script library for managing the corpora of Gemini API.
 - [ImageBotApp](https://github.com/tanaikech/ImageBotApp) : This is the image bot using Gemini with Google Apps Script and Google Drive.
+- [GoogleApiApp](https://github.com/tanaikech/GoogleApiApp) : This is a Google Apps Script library for supporting to use Google APIs with Google Apps Script.
 
 <br>
 
@@ -1064,6 +1065,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Returning Class Object of Google Apps Script with JSDoc](https://gist.github.com/tanaikech/a42e060d0c049d981ea7a4a5e9da3892)
 - [Use Microsoft Docs Files (Word, Excel, and PowerPoint) with Document Service, Spreadsheet Service, and Slides Service of Google Apps Script](https://gist.github.com/tanaikech/288b56aa47f4270f3b96d1421ea3eb36)
 - [Convert Contact URL to Resource Name for People API using Google Apps Script](https://gist.github.com/tanaikech/41e71610f03617e131183faac5cf9ad7)
+- [Empowering Everyone to Leverage Various Google APIs using Google Apps Script](https://gist.github.com/tanaikech/88c180fa4bb35b74b73203f754db2d3c)
 
 <a name="nodejs"></a>
 
