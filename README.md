@@ -1158,5 +1158,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Creating Image Bot using Gemini with Google Apps Script](https://gist.github.com/tanaikech/cf29216cf4b1c127d9213db6079894c7)
 - [Similarity Viewer using Gemini API with Google Spreadsheet and Google Apps Script](https://gist.github.com/tanaikech/6a7afe7b145170265ee3cb2d6cb4be58)
 - [Enhanced Search using Gemini API](https://gist.github.com/tanaikech/70c28ddff49e8a0cf474f7f48d996b8a)
+- [Attempting Reverse Engineering with Gemini API and Google Apps Script](https://gist.github.com/tanaikech/b0cab68b99137de21339d717d8ea1b25)
 
 [TOP](#top)
