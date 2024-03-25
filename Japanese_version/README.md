@@ -1140,5 +1140,6 @@ Javascript ライブラリ
 - [Gemini API と Google スプレッドシートおよび Google Apps Script を使用した類似性ビューアー](https://gist.github.com/tanaikech/6a7afe7b145170265ee3cb2d6cb4be58)
 - [Gemini API を使用した拡張検索](https://gist.github.com/tanaikech/70c28ddff49e8a0cf474f7f48d996b8a)
 - [Gemini API と Google Apps Script を使用したリバース エンジニアリングの試み](https://gist.github.com/tanaikech/b0cab68b99137de21339d717d8ea1b25)
+- [Gemini API を使用したオーダーメイドの出力形式の作成](https://gist.github.com/tanaikech/3a659a87673e3e582c880934c8f19e01)
 
 [TOP](#top)
