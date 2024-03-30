@@ -1160,5 +1160,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Enhanced Search using Gemini API](https://gist.github.com/tanaikech/70c28ddff49e8a0cf474f7f48d996b8a)
 - [Attempting Reverse Engineering with Gemini API and Google Apps Script](https://gist.github.com/tanaikech/b0cab68b99137de21339d717d8ea1b25)
 - [Crafting Bespoke Output Formats with Gemini API](https://gist.github.com/tanaikech/3a659a87673e3e582c880934c8f19e01)
+- [Generating Texts using Files Uploaded by Gemini 1.5 API](https://gist.github.com/tanaikech/0ad317503e3a066d715430e7e875abfb)
 
 [TOP](#top)
