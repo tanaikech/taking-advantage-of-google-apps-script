@@ -825,6 +825,7 @@ Javascript library
 - [Allowing Access by IMPORTHTML, IMPORTDATA, IMPORTFEED, IMPORTXML, and IMPORTRANGE on Google Spreadsheet with Google Apps Script](https://gist.github.com/tanaikech/627d86bdea4028c301431443f82f0ac1)
 - [Technique for Protecting Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/3f207ffee7bf64fa79c99118e2979e55)
 - [Copying Sheet Including Charts from Google Spreadsheet to Another Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/63f59cee0f2c0c8f24e418ca6b3f868b)
+- [Technique for Appending Values to Specific Columns on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/434bef051c136bc87e724b033a478bd2)
 
 <a name="documents"></a>
 

@@ -807,6 +807,7 @@ Javascript ライブラリ
 - [Google Apps Scriptを使用したGoogleスプレッドシートへのIMPORTHTML、IMPORTDATA、IMPORTFEED、IMPORTXML、IMPORTRANGEによるアクセスを許可する](https://gist.github.com/tanaikech/627d86bdea4028c301431443f82f0ac1)
 - [Google Apps Scriptを使用してGoogleスプレッドシートを保護するテクニック](https://gist.github.com/tanaikech/3f207ffee7bf64fa79c99118e2979e55)
 - [Google Apps Scriptを使用してGoogleスプレッドシートから別のGoogleスプレッドシートにグラフを含むシートをコピー](https://gist.github.com/tanaikech/63f59cee0f2c0c8f24e418ca6b3f868b)
+- [Google Apps Scriptを使用してGoogleスプレッドシートの特定の列に値を追加するテクニック](https://gist.github.com/tanaikech/434bef051c136bc87e724b033a478bd2)
 
 <a name="documents"> </a>
 
