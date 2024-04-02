@@ -861,6 +861,7 @@ Javascript library
 - [Inserting Paragraphs with Checkboxes in Google Documents using Google Apps Script](https://gist.github.com/tanaikech/dec8cf3755e3c2cf294655c605fd6840)
 - [Workaround: Exporting Google Documents as HTML with Image Hyperlinks](https://gist.github.com/tanaikech/e6bbb3bf341d7ac021f3bcfa523c4ca3)
 - [Managing Footnotes on Google Documents using Google Apps Script](https://gist.github.com/tanaikech/cd7bf2ca7b9109e081bd64ec50db54fc)
+- [Convert Soft Breaks to Hard Breaks on Google Documents using Google Apps Script](https://gist.github.com/tanaikech/7de3ed734ac9b103631c3a20452dca74)
 
 <a name="slides"></a>
 
