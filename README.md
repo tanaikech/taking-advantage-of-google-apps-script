@@ -1164,5 +1164,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Crafting Bespoke Output Formats with Gemini API](https://gist.github.com/tanaikech/3a659a87673e3e582c880934c8f19e01)
 - [Generating Texts using Files Uploaded by Gemini 1.5 API](https://gist.github.com/tanaikech/0ad317503e3a066d715430e7e875abfb)
 - [Analyzing Trends of Google Apps Script from Questions on Stackoverflow using Gemini 1.5 API](https://gist.github.com/tanaikech/8621c3b799685fd2db1204d1372e1d73)
+- [Parsing Invoices using Gemini 1.5 API with Google Apps Script](https://gist.github.com/tanaikech/165a6a76244a81312f9d398e88c4730d)
 
 [TOP](#top)
