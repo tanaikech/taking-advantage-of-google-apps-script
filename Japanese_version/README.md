@@ -1147,5 +1147,6 @@ Javascript ライブラリ
 - [Gemini 1.5 API によってアップロードされたファイルを使用したテキストの生成](https://gist.github.com/tanaikech/0ad317503e3a066d715430e7e875abfb)
 - [Gemini 1.5 APIを使用したStackoverflowの質問からGoogle Apps Scriptの傾向を分析](https://gist.github.com/tanaikech/8621c3b799685fd2db1204d1372e1d73)
 - [Gemini 1.5 API と Google Apps Script を使用した請求書の解析](https://gist.github.com/tanaikech/165a6a76244a81312f9d398e88c4730d)
+- [Google Apps Script を使用した Gemini API の出力タイプの指定](https://gist.github.com/tanaikech/f7e627a286058229aeaaed776743564d)
 
 [TOP](#top)
