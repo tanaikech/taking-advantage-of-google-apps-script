@@ -826,6 +826,7 @@ Javascript library
 - [Technique for Protecting Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/3f207ffee7bf64fa79c99118e2979e55)
 - [Copying Sheet Including Charts from Google Spreadsheet to Another Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/63f59cee0f2c0c8f24e418ca6b3f868b)
 - [Technique for Appending Values to Specific Columns on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/434bef051c136bc87e724b033a478bd2)
+- [Identifying Colored Cell Regions in Google Sheets with Google Apps Script](https://gist.github.com/tanaikech/15198f6c6872385b4ed6e85498b82733)
 
 <a name="documents"></a>
 

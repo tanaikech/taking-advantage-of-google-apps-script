@@ -808,6 +808,7 @@ Javascript ライブラリ
 - [Google Apps Scriptを使用してGoogleスプレッドシートを保護するテクニック](https://gist.github.com/tanaikech/3f207ffee7bf64fa79c99118e2979e55)
 - [Google Apps Scriptを使用してGoogleスプレッドシートから別のGoogleスプレッドシートにグラフを含むシートをコピー](https://gist.github.com/tanaikech/63f59cee0f2c0c8f24e418ca6b3f868b)
 - [Google Apps Scriptを使用してGoogleスプレッドシートの特定の列に値を追加するテクニック](https://gist.github.com/tanaikech/434bef051c136bc87e724b033a478bd2)
+- [Google Apps Script を使用して Google スプレッドシートの色付きセル領域を識別する](https://gist.github.com/tanaikech/15198f6c6872385b4ed6e85498b82733)
 
 <a name="documents"> </a>
 
