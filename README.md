@@ -195,6 +195,7 @@ You can search the GAS libraries at [Search Google Apps Script Libraries](https:
 - [CorporaApp](https://github.com/tanaikech/CorporaApp) : This is a Google Apps Script library for managing the corpora of Gemini API.
 - [ImageBotApp](https://github.com/tanaikech/ImageBotApp) : This is the image bot using Gemini with Google Apps Script and Google Drive.
 - [GoogleApiApp](https://github.com/tanaikech/GoogleApiApp) : This is a Google Apps Script library for supporting to use Google APIs with Google Apps Script.
+- [GeminiWithFiles](https://github.com/tanaikech/GeminiWithFiles) : A new Google Apps Script library called GeminiWithFiles simplifies using Gemini, a large language model, to process unstructured data like images and PDFs. GeminiWithFiles can upload files, generate content, and create descriptions from multiple images at once. This significantly reduces workload and expands possibilities for using Gemini.
 
 <br>
 
@@ -1168,5 +1169,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Analyzing Trends of Google Apps Script from Questions on Stackoverflow using Gemini 1.5 API](https://gist.github.com/tanaikech/8621c3b799685fd2db1204d1372e1d73)
 - [Parsing Invoices using Gemini 1.5 API with Google Apps Script](https://gist.github.com/tanaikech/165a6a76244a81312f9d398e88c4730d)
 - [Specifying Output Types for Gemini API with Google Apps Script](https://gist.github.com/tanaikech/f7e627a286058229aeaaed776743564d)
+- [Batch Processing Powerhouse: Leverage Gemini 1.5 API and Google Apps Script for Efficient Content Workflows](https://gist.github.com/tanaikech/f3dbba02a620cfd7a729e13b012ea66f)
 
 [TOP](#top)

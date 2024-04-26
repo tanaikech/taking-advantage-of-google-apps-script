@@ -194,6 +194,7 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [CorporaApp](https://github.com/tanaikech/CorporaApp) : Gemini API のコーパスを管理するための Google Apps Script ライブラリです。
 - [ImageBotApp](https://github.com/tanaikech/ImageBotApp) : これは、Gemini と Google Apps Script および Google Drive を使用した画像ボットです。
 - [GoogleApiApp](https://github.com/tanaikech/GoogleApiApp) : Google Apps ScriptでGoogle APIを利用することをサポートするためのGoogle Apps Scriptライブラリです。
+- [GeminiWithFiles](https://github.com/tanaikech/GeminiWithFiles) : GeminiWithFiles と呼ばれる新しい Google Apps Script ライブラリは、大規模な言語モデルである Gemini の使用を簡素化し、画像や PDF などの非構造化データを処理します。 GeminiWithFiles は、ファイルのアップロード、コンテンツの生成、複数の画像からの説明の作成を一度に行うことができます。 これにより、作業負荷が大幅に軽減され、Gemini の使用可能性が広がります。
 
 <br>
 
@@ -1149,5 +1150,6 @@ Javascript ライブラリ
 - [Gemini 1.5 APIを使用したStackoverflowの質問からGoogle Apps Scriptの傾向を分析](https://gist.github.com/tanaikech/8621c3b799685fd2db1204d1372e1d73)
 - [Gemini 1.5 API と Google Apps Script を使用した請求書の解析](https://gist.github.com/tanaikech/165a6a76244a81312f9d398e88c4730d)
 - [Google Apps Script を使用した Gemini API の出力タイプの指定](https://gist.github.com/tanaikech/f7e627a286058229aeaaed776743564d)
+- [バッチ処理の強力なハウス: Gemini 1.5 API と Google Apps Script を活用して効率的なコンテンツ ワークフローを実現](https://gist.github.com/tanaikech/f3dbba02a620cfd7a729e13b012ea66f)
 
 [TOP](#top)
