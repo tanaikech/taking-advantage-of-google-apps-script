@@ -1153,5 +1153,6 @@ Javascript ライブラリ
 - [Google Apps Script を使用した Gemini API の出力タイプの指定](https://gist.github.com/tanaikech/f7e627a286058229aeaaed776743564d)
 - [バッチ処理の強力なハウス: Gemini 1.5 API と Google Apps Script を活用して効率的なコンテンツ ワークフローを実現](https://gist.github.com/tanaikech/f3dbba02a620cfd7a729e13b012ea66f)
 - [野生の出力を飼いならす: response_mime_type を使用した Gemini API 応答形式の効果的な制御](https://gist.github.com/tanaikech/0a55011d3e8b8fadebb71b624bb9a8af)
+- [JSON スキーマを使用した Gemini API](https://gist.github.com/tanaikech/45b1a738b9e27236545a3cbcc1479a58)
 
 [TOP](#top)
