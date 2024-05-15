@@ -1054,6 +1054,7 @@ Javascript ライブラリ
 - [Microsoft Docs ファイル (Word、Excel、PowerPoint) を Google Apps Script のドキュメント サービス、スプレッドシート サービス、スライド サービスで使用する](https://gist.github.com/tanaikech/288b56aa47f4270f3b96d1421ea3eb36)
 - [Google Apps Script を使用して連絡先 URL を People API のリソース名に変換](https://gist.github.com/tanaikech/41e71610f03617e131183faac5cf9ad7)
 - [Google Apps Script を使用して誰もがさまざまな Google API を活用できるようにする](https://gist.github.com/tanaikech/88c180fa4bb35b74b73203f754db2d3c)
+- [Google Apps Script を使用して PDF にページ番号を追加する](https://gist.github.com/tanaikech/05834ac8e605922637af9a4cfdecc152)
 
 <a name="nodejs"> </a>
 

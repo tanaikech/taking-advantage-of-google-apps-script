@@ -1073,6 +1073,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Use Microsoft Docs Files (Word, Excel, and PowerPoint) with Document Service, Spreadsheet Service, and Slides Service of Google Apps Script](https://gist.github.com/tanaikech/288b56aa47f4270f3b96d1421ea3eb36)
 - [Convert Contact URL to Resource Name for People API using Google Apps Script](https://gist.github.com/tanaikech/41e71610f03617e131183faac5cf9ad7)
 - [Empowering Everyone to Leverage Various Google APIs using Google Apps Script](https://gist.github.com/tanaikech/88c180fa4bb35b74b73203f754db2d3c)
+- [Adding Page Numbers to PDF using Google Apps Script](https://gist.github.com/tanaikech/05834ac8e605922637af9a4cfdecc152)
 
 <a name="nodejs"></a>
 
