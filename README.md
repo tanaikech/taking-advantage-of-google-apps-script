@@ -1176,5 +1176,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Taming the Wild Output: Effective Control of Gemini API Response Formats with response_mime_type](https://gist.github.com/tanaikech/0a55011d3e8b8fadebb71b624bb9a8af)
 - [Gemini API with JSON schema](https://gist.github.com/tanaikech/45b1a738b9e27236545a3cbcc1479a58)
 - [Leveraging Gemini 1.5 API for Automated Test Case Generation in Google Apps Script Reverse Engineering](https://gist.github.com/tanaikech/fc51414e16faa2a26aa39eea487d64a5)
+- [Taming the Wild Output: Effective Control of Gemini API Response Formats with response_schema](https://gist.github.com/tanaikech/c99089b7b82562bfc5bf5c4bd8306c07)
 
 [TOP](#top)
