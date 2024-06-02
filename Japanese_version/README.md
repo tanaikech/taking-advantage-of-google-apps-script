@@ -59,6 +59,7 @@
 
 # ニュース
 
+- **2024 年 6 月 3 日:** [私の投稿が、5 月 23 日の週の「Google Cloud に困惑している人のためのガイド」に掲載されました](https://tanaikech.github.io/2024/06/03/my-post-was-featured-in-the-overwhelmed-persons-guide-to-google-cloud-week-of-may-23/)
 - **2023 年 12 月 13 日:** [高度な Google サービスに Drive API v3 がリリースされました](https://tanaikech.github.io/2023/12/13/drive-api-v3-has-been-release) -to-advanced-google-services/)
 - **2023 年 8 月 12 日:** [私のレポートが 2023 年 7 月の Google Workspace デベロッパー ニュースレターに掲載されました](https://tanaikech.github.io/2023/08/12/my-report-has-been- 特集-google-workspace-developer-newsletter-on-july-2023/)
 - **2023 年 6 月 11 日:** [私のレポートは、Champion Innovators Content Library および Google Cloud Medium Publication で公開されました](https://tanaikech.github.io/2023/06/11/my-report-has-been-published-at-champion-innovators-content-library-and-google-cloud-medium-publication/)
