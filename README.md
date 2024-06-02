@@ -1179,5 +1179,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Gemini API with JSON schema](https://gist.github.com/tanaikech/45b1a738b9e27236545a3cbcc1479a58)
 - [Leveraging Gemini 1.5 API for Automated Test Case Generation in Google Apps Script Reverse Engineering](https://gist.github.com/tanaikech/fc51414e16faa2a26aa39eea487d64a5)
 - [Taming the Wild Output: Effective Control of Gemini API Response Formats with response_schema](https://gist.github.com/tanaikech/c99089b7b82562bfc5bf5c4bd8306c07)
+- [Expanding Error Messages for Google Apps Script with Gemini 1.5 Flash](https://gist.github.com/tanaikech/d068afd87fb990fbe0f38c192306a139)
 
 [TOP](#top)
