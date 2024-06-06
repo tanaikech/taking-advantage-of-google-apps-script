@@ -197,6 +197,7 @@ You can search the GAS libraries at [Search Google Apps Script Libraries](https:
 - [ImageBotApp](https://github.com/tanaikech/ImageBotApp) : This is the image bot using Gemini with Google Apps Script and Google Drive.
 - [GoogleApiApp](https://github.com/tanaikech/GoogleApiApp) : This is a Google Apps Script library for supporting to use Google APIs with Google Apps Script.
 - [GeminiWithFiles](https://github.com/tanaikech/GeminiWithFiles) : A new Google Apps Script library called GeminiWithFiles simplifies using Gemini, a large language model, to process unstructured data like images and PDFs. GeminiWithFiles can upload files, generate content, and create descriptions from multiple images at once. This significantly reduces workload and expands possibilities for using Gemini.
+- [MoveFolder](https://github.com/tanaikech/MoveFolder) : This is a Google Apps Script library for moving a folder including files and folders on Google Drive.
 
 <br>
 
@@ -674,6 +675,7 @@ Javascript library
 - [Retrieving Total File Sizes in Specific Folder of Google Drive using Google Apps Script](https://gist.github.com/tanaikech/bbf37f05f5f5a98d346295f6e4aa3c48)
 - [Folder Picker using jsTree with Google Apps Script and Javascript](https://gist.github.com/tanaikech/10edba76a0273c71368b3699d5f64b62)
 - [Comparing File Contents of Files on Google Drive using Google Apps Script](https://gist.github.com/tanaikech/ed64668e23c155138baa300a31d7f16f)
+- [Move Folder including Files and Folders in Google Drive using Google Apps Script](https://gist.github.com/tanaikech/5e79afbc50be824e02c6ba138f905e5c)
 
 <a name="projects"></a>
 
