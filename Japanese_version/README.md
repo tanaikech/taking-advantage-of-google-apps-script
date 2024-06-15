@@ -1164,5 +1164,6 @@ Javascript ライブラリ
 - [Google Apps Script リバース エンジニアリングでの自動テスト ケース生成のための Gemini 1.5 API の活用](https://gist.github.com/tanaikech/fc51414e16faa2a26aa39eea487d64a5)
 - [野生の出力を飼いならす: response_schema を使用した Gemini API 応答形式の効果的な制御](https://gist.github.com/tanaikech/c99089b7b82562bfc5bf5c4bd8306c07)
 - [Gemini 1.5 Flash を使用した Google Apps Script のエラー メッセージの拡張](https://gist.github.com/tanaikech/d068afd87fb990fbe0f38c192306a139)
+- [スマート請求書管理のロックを解除: Gemini、Gmail、Google Apps Script の統合](https://gist.github.com/tanaikech/9c8fca16c2de5ee943f39adbd67c34db)
 
 [TOP](#top)
