@@ -676,6 +676,7 @@ Javascript library
 - [Folder Picker using jsTree with Google Apps Script and Javascript](https://gist.github.com/tanaikech/10edba76a0273c71368b3699d5f64b62)
 - [Comparing File Contents of Files on Google Drive using Google Apps Script](https://gist.github.com/tanaikech/ed64668e23c155138baa300a31d7f16f)
 - [Move Folder including Files and Folders in Google Drive using Google Apps Script](https://gist.github.com/tanaikech/5e79afbc50be824e02c6ba138f905e5c)
+- [Analyzing Folder Structures with Google Apps Script](https://gist.github.com/tanaikech/aa654883775702d02bc3e40fdc3af69e)
 
 <a name="projects"></a>
 

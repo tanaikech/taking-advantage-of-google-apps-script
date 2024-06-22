@@ -659,6 +659,7 @@ Javascript ライブラリ
 - [Google Apps Script と Javascript で jsTree を使用したフォルダ ピッカー](https://gist.github.com/tanaikech/10edba76a0273c71368b3699d5f64b62)
 - [Google Apps Scriptを使用してGoogleドライブ上のファイルのファイル内容を比較する](https://gist.github.com/tanaikech/ed64668e23c155138baa300a31d7f16f)
 - [Google Apps Script を使用して Google ドライブ内のファイルとフォルダを含むフォルダを移動する](https://gist.github.com/tanaikech/5e79afbc50be824e02c6ba138f905e5c)
+- [Google Apps Script によるフォルダ構造の分析](https://gist.github.com/tanaikech/aa654883775702d02bc3e40fdc3af69e)
 
 <a name="projects"> </a>
 
