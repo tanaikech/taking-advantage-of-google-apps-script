@@ -660,6 +660,7 @@ Javascript ライブラリ
 - [Google Apps Scriptを使用してGoogleドライブ上のファイルのファイル内容を比較する](https://gist.github.com/tanaikech/ed64668e23c155138baa300a31d7f16f)
 - [Google Apps Script を使用して Google ドライブ内のファイルとフォルダを含むフォルダを移動する](https://gist.github.com/tanaikech/5e79afbc50be824e02c6ba138f905e5c)
 - [Google Apps Script によるフォルダ構造の分析](https://gist.github.com/tanaikech/aa654883775702d02bc3e40fdc3af69e)
+- [Google Apps Script を使用して Gemini に大きなファイルをアップロードする: 50 MB 制限を克服する](https://gist.github.com/tanaikech/ad5b87df2842ecd2f9864784ac6bbecb)
 
 <a name="projects"> </a>
 
@@ -1166,5 +1167,6 @@ Javascript ライブラリ
 - [野生の出力を飼いならす: response_schema を使用した Gemini API 応答形式の効果的な制御](https://gist.github.com/tanaikech/c99089b7b82562bfc5bf5c4bd8306c07)
 - [Gemini 1.5 Flash を使用した Google Apps Script のエラー メッセージの拡張](https://gist.github.com/tanaikech/d068afd87fb990fbe0f38c192306a139)
 - [スマート請求書管理のロックを解除: Gemini、Gmail、Google Apps Script の統合](https://gist.github.com/tanaikech/9c8fca16c2de5ee943f39adbd67c34db)
+- [Google Apps Script を使用して Gemini に大きなファイルをアップロードする: 50 MB 制限を克服する](https://gist.github.com/tanaikech/ad5b87df2842ecd2f9864784ac6bbecb)
 
 [TOP](#top)

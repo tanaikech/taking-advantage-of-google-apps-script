@@ -677,6 +677,7 @@ Javascript library
 - [Comparing File Contents of Files on Google Drive using Google Apps Script](https://gist.github.com/tanaikech/ed64668e23c155138baa300a31d7f16f)
 - [Move Folder including Files and Folders in Google Drive using Google Apps Script](https://gist.github.com/tanaikech/5e79afbc50be824e02c6ba138f905e5c)
 - [Analyzing Folder Structures with Google Apps Script](https://gist.github.com/tanaikech/aa654883775702d02bc3e40fdc3af69e)
+- [Uploading Large Files to Gemini with Google Apps Script: Overcoming 50 MB Limit](https://gist.github.com/tanaikech/ad5b87df2842ecd2f9864784ac6bbecb)
 
 <a name="projects"></a>
 
@@ -1185,5 +1186,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Taming the Wild Output: Effective Control of Gemini API Response Formats with response_schema](https://gist.github.com/tanaikech/c99089b7b82562bfc5bf5c4bd8306c07)
 - [Expanding Error Messages for Google Apps Script with Gemini 1.5 Flash](https://gist.github.com/tanaikech/d068afd87fb990fbe0f38c192306a139)
 - [Unlock Smart Invoice Management: Gemini, Gmail, and Google Apps Script Integration](https://gist.github.com/tanaikech/9c8fca16c2de5ee943f39adbd67c34db)
+- [Uploading Large Files to Gemini with Google Apps Script: Overcoming 50 MB Limit](https://gist.github.com/tanaikech/ad5b87df2842ecd2f9864784ac6bbecb)
 
 [TOP](#top)
