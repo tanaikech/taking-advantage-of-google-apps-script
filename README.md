@@ -1188,5 +1188,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Expanding Error Messages for Google Apps Script with Gemini 1.5 Flash](https://gist.github.com/tanaikech/d068afd87fb990fbe0f38c192306a139)
 - [Unlock Smart Invoice Management: Gemini, Gmail, and Google Apps Script Integration](https://gist.github.com/tanaikech/9c8fca16c2de5ee943f39adbd67c34db)
 - [Uploading Large Files to Gemini with Google Apps Script: Overcoming 50 MB Limit](https://gist.github.com/tanaikech/ad5b87df2842ecd2f9864784ac6bbecb)
+- [Gemini API: Revolutionizing Content Generation with Direct PDF Input](https://gist.github.com/tanaikech/b932e8b52b098c600c160988e48a5cd6)
 
 [TOP](#top)
