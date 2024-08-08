@@ -1170,5 +1170,6 @@ Javascript ライブラリ
 - [スマート請求書管理のロックを解除: Gemini、Gmail、Google Apps Script の統合](https://gist.github.com/tanaikech/9c8fca16c2de5ee943f39adbd67c34db)
 - [Google Apps Script を使用して Gemini に大きなファイルをアップロードする: 50 MB 制限を克服する](https://gist.github.com/tanaikech/ad5b87df2842ecd2f9864784ac6bbecb)
 - [Gemini API: 直接 PDF 入力によるコンテンツ生成の革命](https://gist.github.com/tanaikech/b932e8b52b098c600c160988e48a5cd6)
+- [学習への新しいアプローチ: Gemini と Google Apps Script を組み合わせて Q&A を自動化](https://gist.github.com/tanaikech/5b472baa500ced516a85e2a24628a03d)
 
 [TOP](#top)

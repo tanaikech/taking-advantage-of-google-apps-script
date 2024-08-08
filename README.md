@@ -1189,5 +1189,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Unlock Smart Invoice Management: Gemini, Gmail, and Google Apps Script Integration](https://gist.github.com/tanaikech/9c8fca16c2de5ee943f39adbd67c34db)
 - [Uploading Large Files to Gemini with Google Apps Script: Overcoming 50 MB Limit](https://gist.github.com/tanaikech/ad5b87df2842ecd2f9864784ac6bbecb)
 - [Gemini API: Revolutionizing Content Generation with Direct PDF Input](https://gist.github.com/tanaikech/b932e8b52b098c600c160988e48a5cd6)
+- [A Novel Approach to Learning: Combining Gemini with Google Apps Script for Automated Q&A](https://gist.github.com/tanaikech/5b472baa500ced516a85e2a24628a03d)
 
 [TOP](#top)
