@@ -678,6 +678,7 @@ Javascript library
 - [Move Folder including Files and Folders in Google Drive using Google Apps Script](https://gist.github.com/tanaikech/5e79afbc50be824e02c6ba138f905e5c)
 - [Analyzing Folder Structures with Google Apps Script](https://gist.github.com/tanaikech/aa654883775702d02bc3e40fdc3af69e)
 - [Uploading Large Files to Gemini with Google Apps Script: Overcoming 50 MB Limit](https://gist.github.com/tanaikech/ad5b87df2842ecd2f9864784ac6bbecb)
+- [Uploading Multiple Files with Split Asynchronous Processes and Resumable Upload in Google Spreadsheets](https://gist.github.com/tanaikech/42925de7efc497b5e8eb21f9dae6260d)
 
 <a name="projects"></a>
 
