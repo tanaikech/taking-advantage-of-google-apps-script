@@ -1192,5 +1192,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Gemini API: Revolutionizing Content Generation with Direct PDF Input](https://gist.github.com/tanaikech/b932e8b52b098c600c160988e48a5cd6)
 - [A Novel Approach to Learning: Combining Gemini with Google Apps Script for Automated Q&A](https://gist.github.com/tanaikech/5b472baa500ced516a85e2a24628a03d)
 - [Leveraging GCP for Seamless Google Apps Script Log Export and Analysis with Gemini API](https://gist.github.com/tanaikech/68aa1dfbe041606d0d1df9cbd0079bcd)
+- [Expanding Gemini API's Capabilities: A Practical Solution for Web Content Summarization](https://gist.github.com/tanaikech/ba6ae7972838e5a8f0adbec62a722f75)
 
 [TOP](#top)
