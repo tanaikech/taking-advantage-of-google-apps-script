@@ -1086,6 +1086,7 @@ Javascript ライブラリ
 - [Node.js で Axios を使用した Google Drive への再開可能なアップロードのサンプルスクリプト](https://gist.github.com/tanaikech/5212f2a8127e1c0a70c8642e298ae661)
 - [Node.js で Calendar API を使用したバッチ リクエストによる Google カレンダーでの複数のイベントの作成と削除](https://gist.github.com/tanaikech/33544a8f56cb5b4c2f96ceb29d6b2855)
 - [Google Apps Script と Node.js で Sheets API を使用してセルに複数のハイパーリンクを配置する](https://gist.github.com/tanaikech/4c27bf8d1948a5dfa5b0e53ce88c6d30)
+- [Node.js でファイルをアップロードするための多目的なアプローチ: Gemini、Drive、YouTube、その他の API の統合](https://gist.github.com/tanaikech/7340cc7c87ec0f701dfb2f0351e02031)
 
 <a name="golang"> </a>
 

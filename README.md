@@ -1105,6 +1105,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Sample Script for Resumable Upload to Google Drive using Axios with Node.js](https://gist.github.com/tanaikech/5212f2a8127e1c0a70c8642e298ae661)
 - [Creating and Deleting Multiple Events in Google Calendar by Batch Requests using Calendar API with Node.js](https://gist.github.com/tanaikech/33544a8f56cb5b4c2f96ceb29d6b2855)
 - [Putting Multiple Hyperlinks to a Cell using Sheets API with Google Apps Script and Node.js](https://gist.github.com/tanaikech/4c27bf8d1948a5dfa5b0e53ce88c6d30)
+- [A Versatile Approach to Uploading Files with Node.js: Integrating Gemini, Drive, YouTube, and Other APIs](https://gist.github.com/tanaikech/7340cc7c87ec0f701dfb2f0351e02031)
 
 <a name="golang"></a>
 
