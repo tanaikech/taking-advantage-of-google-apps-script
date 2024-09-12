@@ -1177,5 +1177,6 @@ Javascript ライブラリ
 - [Gemini API を使用したシームレスな Google Apps Script ログのエクスポートと分析のために GCP を活用する](https://gist.github.com/tanaikech/68aa1dfbe041606d0d1df9cbd0079bcd)
 - [Gemini API の機能拡張: Web コンテンツ要約の実用的なソリューション](https://gist.github.com/tanaikech/ba6ae7972838e5a8f0adbec62a722f75)
 - [Node.js でファイルをアップロードするための多目的なアプローチ: Gemini、Drive、YouTube、その他の API の統合](https://gist.github.com/tanaikech/7340cc7c87ec0f701dfb2f0351e02031)
+- [効率的なスクリプト生成のための Gemini 搭載の動的疑似 RAG](https://gist.github.com/tanaikech/7ce4cfebd06cc527cc7107987cdbd15f)
 
 [TOP](#top)

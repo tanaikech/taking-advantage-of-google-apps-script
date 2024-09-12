@@ -1196,5 +1196,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Leveraging GCP for Seamless Google Apps Script Log Export and Analysis with Gemini API](https://gist.github.com/tanaikech/68aa1dfbe041606d0d1df9cbd0079bcd)
 - [Expanding Gemini API's Capabilities: A Practical Solution for Web Content Summarization](https://gist.github.com/tanaikech/ba6ae7972838e5a8f0adbec62a722f75)
 - [A Versatile Approach to Uploading Files with Node.js: Integrating Gemini, Drive, YouTube, and Other APIs](https://gist.github.com/tanaikech/7340cc7c87ec0f701dfb2f0351e02031)
+- [Gemini-Powered Dynamic Pseudo-RAG for Efficient Script Generation](https://gist.github.com/tanaikech/7ce4cfebd06cc527cc7107987cdbd15f)
 
 [TOP](#top)
