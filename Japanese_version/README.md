@@ -818,6 +818,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Google スプレッドシートの色付きセル領域を識別する](https://gist.github.com/tanaikech/15198f6c6872385b4ed6e85498b82733)
 - [Google Apps Script を使用して、Google スプレッドシート上の散在する A1Notations を連続範囲に統合する](https://gist.github.com/tanaikech/1241411538d5b4d90e23a8c5f30d0ea6)
 - [Google Apps Script を使用して Google スプレッドシートのセルにアニメーション GIF を挿入](https://gist.github.com/tanaikech/fe3a0fd36ee47685b07ce6db2fbae1ce)
+- [スプレッドシート管理の簡素化: Google Apps Script 自動化の導入](https://gist.github.com/tanaikech/ccfa7da120aae62e33b2b11ea7eafa42)
 
 <a name="documents"> </a>
 

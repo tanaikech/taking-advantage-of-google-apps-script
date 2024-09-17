@@ -836,6 +836,7 @@ Javascript library
 - [Identifying Colored Cell Regions in Google Sheets with Google Apps Script](https://gist.github.com/tanaikech/15198f6c6872385b4ed6e85498b82733)
 - [Consolidate Scattered A1Notations into Continuous Ranges on Google Spreadsheet using Google Apps Script](https://gist.github.com/tanaikech/1241411538d5b4d90e23a8c5f30d0ea6)
 - [Inserting Animated GIFs over Cells on Google Sheets using Google Apps Script](https://gist.github.com/tanaikech/fe3a0fd36ee47685b07ce6db2fbae1ce)
+- [Simplifying Spreadsheet Management: Introducing a Google Apps Script Automation](https://gist.github.com/tanaikech/ccfa7da120aae62e33b2b11ea7eafa42)
 
 <a name="documents"></a>
 
