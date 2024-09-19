@@ -1179,5 +1179,6 @@ Javascript ライブラリ
 - [Gemini API の機能拡張: Web コンテンツ要約の実用的なソリューション](https://gist.github.com/tanaikech/ba6ae7972838e5a8f0adbec62a722f75)
 - [Node.js でファイルをアップロードするための多目的なアプローチ: Gemini、Drive、YouTube、その他の API の統合](https://gist.github.com/tanaikech/7340cc7c87ec0f701dfb2f0351e02031)
 - [効率的なスクリプト生成のための Gemini 搭載の動的疑似 RAG](https://gist.github.com/tanaikech/7ce4cfebd06cc527cc7107987cdbd15f)
+- [Google Apps Script で Gemini API を使用して Gmail に柔軟なラベルを付けるパート 3](https://gist.github.com/tanaikech/ed3fdd463b5965503c7b6f3b7db0d4f5)
 
 [TOP](#top)
