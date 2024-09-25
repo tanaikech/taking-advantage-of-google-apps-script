@@ -1199,5 +1199,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [A Versatile Approach to Uploading Files with Node.js: Integrating Gemini, Drive, YouTube, and Other APIs](https://gist.github.com/tanaikech/7340cc7c87ec0f701dfb2f0351e02031)
 - [Gemini-Powered Dynamic Pseudo-RAG for Efficient Script Generation](https://gist.github.com/tanaikech/7ce4cfebd06cc527cc7107987cdbd15f)
 - [Flexible Labeling for Gmail using Gemini API with Google Apps Script Part 3](https://gist.github.com/tanaikech/ed3fdd463b5965503c7b6f3b7db0d4f5)
+- [Harnessing Gemini's Power: A Guide to Generating Content from Structured Data](https://gist.github.com/tanaikech/395ec09f4ddc9ffdb4c8fafdb39d69ff)
 
 [TOP](#top)
