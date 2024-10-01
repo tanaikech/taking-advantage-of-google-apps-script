@@ -1200,5 +1200,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Gemini-Powered Dynamic Pseudo-RAG for Efficient Script Generation](https://gist.github.com/tanaikech/7ce4cfebd06cc527cc7107987cdbd15f)
 - [Flexible Labeling for Gmail using Gemini API with Google Apps Script Part 3](https://gist.github.com/tanaikech/ed3fdd463b5965503c7b6f3b7db0d4f5)
 - [Harnessing Gemini's Power: A Guide to Generating Content from Structured Data](https://gist.github.com/tanaikech/395ec09f4ddc9ffdb4c8fafdb39d69ff)
+- [Pseudo Function Calling for Gemini API Through Prompt Engineering](https://gist.github.com/tanaikech/65c720a1fdc56d99c35b24aeaaa57f7e)
 
 [TOP](#top)
