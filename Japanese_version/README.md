@@ -819,6 +819,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して、Google スプレッドシート上の散在する A1Notations を連続範囲に統合する](https://gist.github.com/tanaikech/1241411538d5b4d90e23a8c5f30d0ea6)
 - [Google Apps Script を使用して Google スプレッドシートのセルにアニメーション GIF を挿入](https://gist.github.com/tanaikech/fe3a0fd36ee47685b07ce6db2fbae1ce)
 - [スプレッドシート管理の簡素化: Google Apps Script 自動化の導入](https://gist.github.com/tanaikech/ccfa7da120aae62e33b2b11ea7eafa42)
+- [Google Apps Script の新しい JavaScript メソッドを使用して、シートの行を Google スプレッドシートの複数のシートに配置する](https://gist.github.com/tanaikech/641d9ff0989951b98eaeca10559932d8)
 
 <a name="documents"> </a>
 
