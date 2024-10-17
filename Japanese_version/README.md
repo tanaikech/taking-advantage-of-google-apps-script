@@ -858,6 +858,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Google ドキュメントのソフト ブレークをハード ブレークに変換する](https://gist.github.com/tanaikech/7de3ed734ac9b103631c3a20452dca74)
 - [Google Docs APIを使用してGoogleドキュメント上にネストされたリストを作成するテクニック](https://gist.github.com/tanaikech/c3d409c44579a9c23382e20400f51d4c)
 - [Google Apps Script を使用して Google Document を Markdown に変換したり、その逆を行ったりする](https://gist.github.com/tanaikech/0deba74c2003d997f67fb2b04dedb1d0)
+- [パワーを解き放つ: Apps Script のドキュメント サービスを超えて Google Docs API を活用する](https://gist.github.com/tanaikech/c53f3280642119c3b187234c03e2adb0)
 
 <a name="slides"> </a>
 
