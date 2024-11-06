@@ -839,6 +839,7 @@ Javascript library
 - [Simplifying Spreadsheet Management: Introducing a Google Apps Script Automation](https://gist.github.com/tanaikech/ccfa7da120aae62e33b2b11ea7eafa42)
 - [Place Rows from a Sheet to Multiple Sheets on Google Spreadsheet using New Javascript Methods with Google Apps Script](https://gist.github.com/tanaikech/641d9ff0989951b98eaeca10559932d8)
 - [Workaround: Using Google Sheets Tables with Google Apps Script](https://gist.github.com/tanaikech/2e6b1fa2d8f16464dffba070376c458d)
+- [Exporting Google Sheets Tables as PDFs using Google Apps Script](https://gist.github.com/tanaikech/599f47550bd694a7264e24cea795b9bc)
 
 <a name="documents"></a>
 
