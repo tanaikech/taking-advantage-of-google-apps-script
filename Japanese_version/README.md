@@ -197,6 +197,7 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [GoogleApiApp](https://github.com/tanaikech/GoogleApiApp) : Google Apps ScriptでGoogle APIを利用することをサポートするためのGoogle Apps Scriptライブラリです。
 - [GeminiWithFiles](https://github.com/tanaikech/GeminiWithFiles) : GeminiWithFiles と呼ばれる新しい Google Apps Script ライブラリは、大規模な言語モデルである Gemini の使用を簡素化し、画像や PDF などの非構造化データを処理します。 GeminiWithFiles は、ファイルのアップロード、コンテンツの生成、複数の画像からの説明の作成を一度に行うことができます。 これにより、作業負荷が大幅に軽減され、Gemini の使用可能性が広がります。
 - [MoveFolder](https://github.com/tanaikech/MoveFolder) : これは、Google ドライブ上のファイルとフォルダを含むフォルダを移動するための Google Apps Script ライブラリです。
+- [MimeTypeApp](https://github.com/tanaikech/MimeTypeApp): これは、さまざまな MIME タイプから指定されたターゲット MIME タイプにファイルを変換するための Google Apps Script ライブラリです。ライブラリは、ファイル ID と BLOB の両方を入力値として受け入れます。
 
 <br>
 
@@ -1071,6 +1072,7 @@ Javascript ライブラリ
 - [Google Apps Scriptを使用した高度なGoogleサービスで有効なAPIの確認](https://gist.github.com/tanaikech/3f03dac24179f750c013abc39703c4d2)
 - [Google Apps Script のスクリプト エディターでの HTML および Javascript 開発の強化: 書式設定の課題の克服](https://gist.github.com/tanaikech/be52daa21ccf07873ad2a2e43e566676)
 - [Google Apps Script の Web アプリ ログの可視性](https://gist.github.com/tanaikech/20a015b8112dad53253a508c4d8675fd)
+- [MimeTypeApp: Google Apps Script を使用した柔軟な MimeType コンバーター](https://gist.github.com/tanaikech/9742675d8f2e971e4c6b7fe1d34b254a)
 
 <a name="nodejs"> </a>
 
