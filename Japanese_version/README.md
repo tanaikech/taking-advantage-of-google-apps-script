@@ -862,6 +862,7 @@ Javascript ライブラリ
 - [Google Docs APIを使用してGoogleドキュメント上にネストされたリストを作成するテクニック](https://gist.github.com/tanaikech/c3d409c44579a9c23382e20400f51d4c)
 - [Google Apps Script を使用して Google Document を Markdown に変換したり、その逆を行ったりする](https://gist.github.com/tanaikech/0deba74c2003d997f67fb2b04dedb1d0)
 - [パワーを解き放つ: Apps Script のドキュメント サービスを超えて Google Docs API を活用する](https://gist.github.com/tanaikech/c53f3280642119c3b187234c03e2adb0)
+- [回避策: Google Apps Script を使用して、Web に公開された Google ドキュメントを PDF としてエクスポートする](https://gist.github.com/tanaikech/2f91c211cc6332c84db7b4697ccc4cb6)
 
 <a name="slides"> </a>
 

@@ -880,6 +880,7 @@ Javascript library
 - [Techniques for Creating Nested Lists on Google Documents using Google Docs API](https://gist.github.com/tanaikech/c3d409c44579a9c23382e20400f51d4c)
 - [Convert Google Document to Markdown and vice versa using Google Apps Script](https://gist.github.com/tanaikech/0deba74c2003d997f67fb2b04dedb1d0)
 - [Unlocking Power: Leverage the Google Docs API Beyond Apps Script's Document Service](https://gist.github.com/tanaikech/c53f3280642119c3b187234c03e2adb0)
+- [Workaround: Export web-published Google Docs as PDFs using Google Apps Script](https://gist.github.com/tanaikech/2f91c211cc6332c84db7b4697ccc4cb6)
 
 <a name="slides"></a>
 
