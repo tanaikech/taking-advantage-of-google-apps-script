@@ -441,6 +441,10 @@ Javascript ライブラリ
 
 > Google Apps Scriptを利用した飲食予約システムです。
 
+### [2024-01-01 - 2024-12-31 の Stackoverflow での私のアクティビティの統計](https://tanaikech.github.io/2025/03/02/statistics-of-my-activities-from-2024-01-01-2024-12-31-on-stackoverflow/)
+
+> これは、2024-01-01 - 2024-12-31 の Stackoverflow での私のアクティビティの統計です。
+
 <br>
 
 <a name="benchmarks"> </a>

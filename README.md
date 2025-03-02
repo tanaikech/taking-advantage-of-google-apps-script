@@ -442,6 +442,10 @@ Javascript library
 
 > This is the dining reservation system using Google Apps Script.
 
+### [Statistics of my Activities from 2024-01-01 - 2024-12-31 on Stackoverflow](https://tanaikech.github.io/2025/03/02/statistics-of-my-activities-from-2024-01-01-2024-12-31-on-stackoverflow/)
+
+> This is the statistics of my activities from 2024-01-01 - 2024-12-31 on Stackoverflow.
+
 <br>
 
 <a name="benchmarks"></a>
