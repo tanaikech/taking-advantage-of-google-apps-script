@@ -112,6 +112,7 @@
 - [Stackoverflow における 2023 年の google-apps-script タグの傾向](https://gist.github.com/tanaikech/526e5aaed047ca54ece491a2f465f923)
 
 - [Stackoverflow における 2024 年の google-apps-script タグの傾向](https://gist.github.com/tanaikech/7efec2c872fe2db57539a002d5d25875)
+- [Stackoverflow における 2025 年の google-apps-script タグの傾向](https://gist.github.com/tanaikech/141bbe4e2ea4ad8ac926410063d10e1e)
 <br>
 
 <a name="settings"> </a>
