@@ -888,6 +888,7 @@ Javascript library
 - [Unlocking Power: Leverage the Google Docs API Beyond Apps Script's Document Service](https://gist.github.com/tanaikech/c53f3280642119c3b187234c03e2adb0)
 - [Workaround: Export web-published Google Docs as PDFs using Google Apps Script](https://gist.github.com/tanaikech/2f91c211cc6332c84db7b4697ccc4cb6)
 - [Technique for Changing Glyph Colors of Bullets in Google Documents Using Google Apps Script](https://gist.github.com/tanaikech/37f64e848cb8bafa4beb639bca6e0a41)
+- [Creating Tree Structure from Headings in Google Documents using Google Apps Script](https://gist.github.com/tanaikech/0779fec840d06cbc545d07cb0209bd3d)
 
 <a name="slides"></a>
 
