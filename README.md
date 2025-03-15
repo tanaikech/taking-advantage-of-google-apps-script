@@ -1101,6 +1101,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Enhancing HTML and Javascript Development in Script Editor of Google Apps Script: Overcoming Formatting Challenges](https://gist.github.com/tanaikech/be52daa21ccf07873ad2a2e43e566676)
 - [Web App Log Visibility for Google Apps Script](https://gist.github.com/tanaikech/20a015b8112dad53253a508c4d8675fd)
 - [MimeTypeApp: Flexible MimeType Converter with Google Apps Script](https://gist.github.com/tanaikech/9742675d8f2e971e4c6b7fe1d34b254a)
+- [Workaround: Smart Chips with Google Apps Script](https://gist.github.com/tanaikech/d41f696a9931e5c931bff4eb5627f854)
 
 <a name="nodejs"></a>
 

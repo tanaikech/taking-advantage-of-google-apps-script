@@ -1081,6 +1081,7 @@ Javascript ライブラリ
 - [Google Apps Script のスクリプト エディターでの HTML および Javascript 開発の強化: 書式設定の課題の克服](https://gist.github.com/tanaikech/be52daa21ccf07873ad2a2e43e566676)
 - [Google Apps Script の Web アプリ ログの可視性](https://gist.github.com/tanaikech/20a015b8112dad53253a508c4d8675fd)
 - [MimeTypeApp: Google Apps Script を使用した柔軟な MimeType コンバーター](https://gist.github.com/tanaikech/9742675d8f2e971e4c6b7fe1d34b254a)
+- [回避策: Google Apps Script を使用したスマートチップ](https://gist.github.com/tanaikech/d41f696a9931e5c931bff4eb5627f854)
 
 <a name="nodejs"> </a>
 
