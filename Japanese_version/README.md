@@ -1199,5 +1199,6 @@ Javascript ライブラリ
 - [プロンプトエンジニアリングによる Gemini API の疑似関数呼び出し](https://gist.github.com/tanaikech/65c720a1fdc56d99c35b24aeaaa57f7e)
 - [Google スプレッドシートで管理されたコーパスを RAG として使用して Gemini のテキスト生成精度を向上させる](https://gist.github.com/tanaikech/bed216a816ba19b99618cf7902103a59)
 - [Gemini と Google Apps Script を使用して添付ファイルを含む Gmail 処理を効率化する](https://gist.github.com/tanaikech/f2161b110257e282b71ce1e6d0082a51)
+- [Google Apps Script を使用して Gemini API で画像を生成する](https://gist.github.com/tanaikech/6cfeded96e440a9f722a23bed4992948)
 
 [TOP](#top)

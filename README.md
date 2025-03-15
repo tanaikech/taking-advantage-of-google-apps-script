@@ -1219,5 +1219,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Pseudo Function Calling for Gemini API Through Prompt Engineering](https://gist.github.com/tanaikech/65c720a1fdc56d99c35b24aeaaa57f7e)
 - [Improving Gemini's Text Generation Accuracy with Corpus Managed by Google Spreadsheet as RAG](https://gist.github.com/tanaikech/bed216a816ba19b99618cf7902103a59)
 - [Streamlining Gmail Processing Including Attachment Files Using Gemini with Google Apps Script](https://gist.github.com/tanaikech/f2161b110257e282b71ce1e6d0082a51)
+- [Generate Images with Gemini API using Google Apps Script](https://gist.github.com/tanaikech/6cfeded96e440a9f722a23bed4992948)
 
 [TOP](#top)
