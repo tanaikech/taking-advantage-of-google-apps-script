@@ -1201,5 +1201,6 @@ Javascript ライブラリ
 - [Gemini と Google Apps Script を使用して添付ファイルを含む Gmail 処理を効率化する](https://gist.github.com/tanaikech/f2161b110257e282b71ce1e6d0082a51)
 - [Google Apps Script を使用して Gemini API で画像を生成する](https://gist.github.com/tanaikech/6cfeded96e440a9f722a23bed4992948)
 - [Google Apps Script を使用して Gemini で視覚化されたレシピの説明を作成する](https://gist.github.com/tanaikech/ec9ec5946a0f28f715b6824f69790cf5)
+- [Gemini API を使用して成長する画像を生成する](https://gist.github.com/tanaikech/369c2ea717c27dbde04a2ad13133535a)
 
 [TOP](#top)
