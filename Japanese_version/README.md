@@ -828,6 +828,7 @@ Javascript ライブラリ
 - [Google Apps Script の新しい JavaScript メソッドを使用して、シートの行を Google スプレッドシートの複数のシートに配置する](https://gist.github.com/tanaikech/641d9ff0989951b98eaeca10559932d8)
 - [回避策: Google Apps Script で Google スプレッドシートのテーブルを使用する](https://gist.github.com/tanaikech/2e6b1fa2d8f16464dffba070376c458d)
 - [Google Apps Script を使用して Google スプレッドシートの表を PDF としてエクスポートする](https://gist.github.com/tanaikech/599f47550bd694a7264e24cea795b9bc)
+- [Google スプレッドシートのスライドパズル](https://gist.github.com/tanaikech/d9a76ea9fad4eb49fcd5b02c677ac293)
 
 <a name="documents"> </a>
 
