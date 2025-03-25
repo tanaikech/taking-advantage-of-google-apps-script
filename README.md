@@ -909,6 +909,7 @@ Javascript library
 - [Exporting All Thumbnail Images Retrieved from Google Slides as Zip File using Google Apps Script](https://gist.github.com/tanaikech/66a83c01e1f99829a85f909f8facb834)
 - [Inverting Selected Objects on Google Slides using Google Apps Script](https://gist.github.com/tanaikech/8eb87e6499631a79dade7d4f83e372f7)
 - [Managing Row Height and Column Width of Table on Google Slides using Google Apps Script](https://gist.github.com/tanaikech/f24abc8e19f525fd4078bdb9762f431b)
+- [Enhanced Text Manipulation in Google Slides using Google Apps Script](https://gist.github.com/tanaikech/c7f8adb32d595b9e27b6a43f0910569e)
 
 <a name="gmail"></a>
 

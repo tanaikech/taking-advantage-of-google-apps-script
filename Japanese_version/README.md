@@ -889,6 +889,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Google スプレッドシートから Google スライドに挿入されたテーブルのテーブルの高さを減らす](https://gist.github.com/tanaikech/659f3687f4ea5282f39ebf9b6d5ae54c)
 - [Google Apps Script を使用して Google スライドから取得したすべてのサムネイル画像を Zip ファイルとしてエクスポート](https://gist.github.com/tanaikech/66a83c01e1f99829a85f909f8facb834)
 - [Google Apps Scriptを使用してGoogleスライド上の表の行の高さと列の幅を管理する](https://gist.github.com/tanaikech/f24abc8e19f525fd4078bdb9762f431b)
+- [Google Apps Script を使用した Google スライドの強化されたテキスト操作](https://gist.github.com/tanaikech/c7f8adb32d595b9e27b6a43f0910569e)
 
 <a name="gmail"> </a>
 
