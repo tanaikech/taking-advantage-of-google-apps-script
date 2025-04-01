@@ -1204,5 +1204,6 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Gemini API で画像を生成する](https://gist.github.com/tanaikech/6cfeded96e440a9f722a23bed4992948)
 - [Google Apps Script を使用して Gemini で視覚化されたレシピの説明を作成する](https://gist.github.com/tanaikech/ec9ec5946a0f28f715b6824f69790cf5)
 - [Gemini API を使用して成長する画像を生成する](https://gist.github.com/tanaikech/369c2ea717c27dbde04a2ad13133535a)
+- [Gemini としてのロードマップ ジェネレーター](https://gist.github.com/tanaikech/723c153d0e7ccb415d68fb4f42a326b1)
 
 [TOP](#top)
