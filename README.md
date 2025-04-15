@@ -1226,5 +1226,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Generate Growing Images using Gemini API](https://gist.github.com/tanaikech/369c2ea717c27dbde04a2ad13133535a)
 - [Roadmap Generator as Gemini](https://gist.github.com/tanaikech/723c153d0e7ccb415d68fb4f42a326b1)
 - [Stowage Planning Automation Using Gemini: A Feasibility Study and A Prompt-Based Approach](https://gist.github.com/tanaikech/9ef17c48c485891e7b873408c7fec82a)
+- [Integrating Gemini and Google Apps Script for Automated Google Slides Presentations](https://gist.github.com/tanaikech/063bbecb2d3beaddc17fc3bf59722f13)
+- [Gemini と Google Apps Script を統合して Google スライドのプレゼンテーションを自動化する](https://gist.github.com/tanaikech/063bbecb2d3beaddc17fc3bf59722f13)
 
 [TOP](#top)
