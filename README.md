@@ -448,6 +448,10 @@ Javascript library
 
 > This is the statistics of my activities from 2024-01-01 - 2024-12-31 on Stackoverflow.
 
+### [Comprehensive Big Data Processing with Gemini](https://gist.github.com/tanaikech/92e16484ddfd8e8966673fdf92165ff9)
+
+> Generative AI faces limits in processing massive datasets due to context windows. Current methods can't analyze entire data lakes. This report presents a Gemini API approach for comprehensive big data analysis beyond typical model limits.
+
 <br>
 
 <a name="benchmarks"></a>
