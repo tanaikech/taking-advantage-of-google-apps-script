@@ -452,6 +452,10 @@ Javascript library
 
 > Generative AI faces limits in processing massive datasets due to context windows. Current methods can't analyze entire data lakes. This report presents a Gemini API approach for comprehensive big data analysis beyond typical model limits.
 
+### [Analyzing Google Apps Script from Stackoverflow](https://gist.github.com/tanaikech/dc6bf3578bed965aaf3bf62abe81e822)
+
+> The report details a novel Gemini API method to analyze big data beyond AI context window limits, which was validated with Stack Overflow data for insights into Google Apps Script's potential.
+
 <br>
 
 <a name="benchmarks"></a>

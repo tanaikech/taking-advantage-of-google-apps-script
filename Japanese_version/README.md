@@ -450,6 +450,10 @@ Javascript ライブラリ
 
 > 生成AIは、コンテキストウィンドウの制約により、大規模データセットの処理に限界に直面しています。既存の手法では、データレイク全体を分析することはできません。本レポートでは、一般的なモデルの限界を超えた包括的なビッグデータ分析を実現するGemini APIアプローチを紹介します。
 
+### [Stackoverflow からの Google Apps Script の分析](https://gist.github.com/tanaikech/dc6bf3578bed965aaf3bf62abe81e822)
+
+> このレポートでは、AI コンテキストウィンドウの制限を超えてビッグデータを分析するための新しい Gemini API メソッドについて詳しく説明します。このメソッドは Stack Overflow データで検証され、Google Apps Script の可能性についての洞察が得られました。
+
 <br>
 
 <a name="benchmarks"> </a>
