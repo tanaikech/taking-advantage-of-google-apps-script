@@ -51,6 +51,7 @@
   - [Javascript](#javascript)
   - [PHP](#php)
   - [生成AI](#generativeai)
+  - [モデルコンテキストプロトコル (MCP)](#mcp)
 
 <br>
 <br>
@@ -198,7 +199,8 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [GoogleApiApp](https://github.com/tanaikech/GoogleApiApp) : Google Apps ScriptでGoogle APIを利用することをサポートするためのGoogle Apps Scriptライブラリです。
 - [GeminiWithFiles](https://github.com/tanaikech/GeminiWithFiles) : GeminiWithFiles と呼ばれる新しい Google Apps Script ライブラリは、大規模な言語モデルである Gemini の使用を簡素化し、画像や PDF などの非構造化データを処理します。 GeminiWithFiles は、ファイルのアップロード、コンテンツの生成、複数の画像からの説明の作成を一度に行うことができます。 これにより、作業負荷が大幅に軽減され、Gemini の使用可能性が広がります。
 - [MoveFolder](https://github.com/tanaikech/MoveFolder) : これは、Google ドライブ上のファイルとフォルダを含むフォルダを移動するための Google Apps Script ライブラリです。
-- [MimeTypeApp](https://github.com/tanaikech/MimeTypeApp): これは、さまざまな MIME タイプから指定されたターゲット MIME タイプにファイルを変換するための Google Apps Script ライブラリです。ライブラリは、ファイル ID と BLOB の両方を入力値として受け入れます。
+- [MimeTypeApp](https://github.com/tanaikech/MimeTypeApp) : これは、さまざまな MIME タイプから指定されたターゲット MIME タイプにファイルを変換するための Google Apps Script ライブラリです。ライブラリは、ファイル ID と BLOB の両方を入力値として受け入れます。
+- [MCPApp](https://github.com/tanaikech/MCPApp) : このテキストでは、AIインタラクションのためのモデルコンテキストプロトコル（MCP）を紹介し、Google Apps Script（GAS）をサーバーオプションとして検討します。サンプルコードを用いて実現可能性を示しますが、GAS SDKが存在しない点にも留意し、理解と開発を促進することを目的としています。
 
 <br>
 
@@ -1214,5 +1216,11 @@ Javascript ライブラリ
 - [Gemini API を使用して成長する画像を生成する](https://gist.github.com/tanaikech/369c2ea717c27dbde04a2ad13133535a)
 - [Gemini としてのロードマップ ジェネレーター](https://gist.github.com/tanaikech/723c153d0e7ccb415d68fb4f42a326b1)
 - [Gemini を使用した積載計画の自動化: 実現可能性調査とプロンプトベースのアプローチ](https://gist.github.com/tanaikech/9ef17c48c485891e7b873408c7fec82a)
+
+<a name="mcp"></a>
+
+#### モデルコンテキストプロトコル (MCP)
+
+- [Google Apps Script を使用したモデルコンテキストプロトコル (MCP) サーバーの構築](https://gist.github.com/tanaikech/dc74ef2035391bb82d1c1d51ef489e74)
 
 [TOP](#top)

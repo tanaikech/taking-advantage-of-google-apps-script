@@ -50,6 +50,7 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
   - [Javascript](#javascript)
   - [PHP](#php)
   - [Generative AI](#generativeai)
+  - [Model Context Protocol (MCP)](#mcp)
 
 <br>
 <br>
@@ -201,6 +202,7 @@ You can search the GAS libraries at [Search Google Apps Script Libraries](https:
 - [GeminiWithFiles](https://github.com/tanaikech/GeminiWithFiles) : A new Google Apps Script library called GeminiWithFiles simplifies using Gemini, a large language model, to process unstructured data like images and PDFs. GeminiWithFiles can upload files, generate content, and create descriptions from multiple images at once. This significantly reduces workload and expands possibilities for using Gemini.
 - [MoveFolder](https://github.com/tanaikech/MoveFolder) : This is a Google Apps Script library for moving a folder including files and folders on Google Drive.
 - [MimeTypeApp](https://github.com/tanaikech/MimeTypeApp) : This is a Google Apps Script library for converting files from various MIME types to a specified target MIME type. The library accepts both file IDs and blobs as input values.
+- [MCPApp](https://github.com/tanaikech/MCPApp) : This text introduces the Model Context Protocol (MCP) for AI interaction, exploring Google Apps Script (GAS) as a server option. It shows feasibility with a sample but notes the lack of a GAS SDK, aiming to encourage understanding and development.
 
 <br>
 
@@ -1236,5 +1238,11 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Stowage Planning Automation Using Gemini: A Feasibility Study and A Prompt-Based Approach](https://gist.github.com/tanaikech/9ef17c48c485891e7b873408c7fec82a)
 - [Integrating Gemini and Google Apps Script for Automated Google Slides Presentations](https://gist.github.com/tanaikech/063bbecb2d3beaddc17fc3bf59722f13)
 - [Gemini と Google Apps Script を統合して Google スライドのプレゼンテーションを自動化する](https://gist.github.com/tanaikech/063bbecb2d3beaddc17fc3bf59722f13)
+
+<a name="mcp"></a>
+
+#### Model Context Protocol (MCP)
+
+- [Building Model Context Protocol (MCP) Server with Google Apps Script](https://gist.github.com/tanaikech/dc74ef2035391bb82d1c1d51ef489e74)
 
 [TOP](#top)
