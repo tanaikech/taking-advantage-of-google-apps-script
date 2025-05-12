@@ -839,6 +839,7 @@ Javascript ライブラリ
 - [回避策: Google Apps Script で Google スプレッドシートのテーブルを使用する](https://gist.github.com/tanaikech/2e6b1fa2d8f16464dffba070376c458d)
 - [Google Apps Script を使用して Google スプレッドシートの表を PDF としてエクスポートする](https://gist.github.com/tanaikech/599f47550bd694a7264e24cea795b9bc)
 - [Google スプレッドシートのスライドパズル](https://gist.github.com/tanaikech/d9a76ea9fad4eb49fcd5b02c677ac293)
+- [Google Apps Script を使用して Google スプレッドシートのテーブルを管理する](https://gist.github.com/tanaikech/fe567e1f397dc4a8d88212f91e779dbd)
 
 <a name="documents"> </a>
 

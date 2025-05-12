@@ -858,6 +858,7 @@ Javascript library
 - [Workaround: Using Google Sheets Tables with Google Apps Script](https://gist.github.com/tanaikech/2e6b1fa2d8f16464dffba070376c458d)
 - [Exporting Google Sheets Tables as PDFs using Google Apps Script](https://gist.github.com/tanaikech/599f47550bd694a7264e24cea795b9bc)
 - [Slide Puzzle in Google Sheets](https://gist.github.com/tanaikech/d9a76ea9fad4eb49fcd5b02c677ac293)
+- [Managing Tables on Google Sheets using Google Apps Script](https://gist.github.com/tanaikech/fe567e1f397dc4a8d88212f91e779dbd)
 
 <a name="documents"></a>
 
