@@ -204,6 +204,7 @@ You can search the GAS libraries at [Search Google Apps Script Libraries](https:
 - [MoveFolder](https://github.com/tanaikech/MoveFolder) : This is a Google Apps Script library for moving a folder including files and folders on Google Drive.
 - [MimeTypeApp](https://github.com/tanaikech/MimeTypeApp) : This is a Google Apps Script library for converting files from various MIME types to a specified target MIME type. The library accepts both file IDs and blobs as input values.
 - [MCPApp](https://github.com/tanaikech/MCPApp) : This text introduces the Model Context Protocol (MCP) for AI interaction, exploring Google Apps Script (GAS) as a server option. It shows feasibility with a sample but notes the lack of a GAS SDK, aiming to encourage understanding and development.
+- [A2AApp](https://github.com/tanaikech/A2AApp) : This is a library for implementing an Agent2Agent (A2A) server using Google Apps Script. This enables AI agent communication and secure service access for AI-powered workflows. This result could potentially highlight the capabilities of Google Apps Script.
 
 <br>
 

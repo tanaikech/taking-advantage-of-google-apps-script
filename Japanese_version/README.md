@@ -201,6 +201,7 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [MoveFolder](https://github.com/tanaikech/MoveFolder) : これは、Google ドライブ上のファイルとフォルダを含むフォルダを移動するための Google Apps Script ライブラリです。
 - [MimeTypeApp](https://github.com/tanaikech/MimeTypeApp) : これは、さまざまな MIME タイプから指定されたターゲット MIME タイプにファイルを変換するための Google Apps Script ライブラリです。ライブラリは、ファイル ID と BLOB の両方を入力値として受け入れます。
 - [MCPApp](https://github.com/tanaikech/MCPApp) : このテキストでは、AIインタラクションのためのモデルコンテキストプロトコル（MCP）を紹介し、Google Apps Script（GAS）をサーバーオプションとして検討します。サンプルコードを用いて実現可能性を示しますが、GAS SDKが存在しない点にも留意し、理解と開発を促進することを目的としています。
+- [A2AApp](https://github.com/tanaikech/A2AApp) : これは、Google Apps Scriptを用いてAgent2Agent（A2A）サーバーを実装するためのライブラリです。これにより、AIエージェント間の通信と、AIを活用したワークフローにおける安全なサービスアクセスが可能になります。この成果は、Google Apps Scriptの潜在能力を浮き彫りにする可能性があります。
 
 <br>
 
