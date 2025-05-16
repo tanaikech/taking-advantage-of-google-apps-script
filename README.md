@@ -51,6 +51,7 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
   - [PHP](#php)
   - [Generative AI](#generativeai)
   - [Model Context Protocol (MCP)](#mcp)
+  - [Agent2Agent Protocol (A2A)](#a2a)
 
 <br>
 <br>
@@ -1246,5 +1247,11 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 
 - [Building Model Context Protocol (MCP) Server with Google Apps Script](https://gist.github.com/tanaikech/dc74ef2035391bb82d1c1d51ef489e74)
 - [Image Transfer: MCP Server (Web Apps/Google Apps Script) to MCP Client (Gemini/Python)](https://gist.github.com/tanaikech/8dc35b2e331ec99b0bdbc74b73eab821)
+
+<a name="a2a"></a>
+
+#### Agent2Agent Protocol (A2A)
+
+- [Building Agent2Agent (A2A) Server with Google Apps Script](https://gist.github.com/tanaikech/85c4762a8b8c6c7d8bee1d7ed32ade34)
 
 [TOP](#top)

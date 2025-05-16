@@ -1225,4 +1225,10 @@ Javascript ライブラリ
 - [Google Apps Script を使用したモデルコンテキストプロトコル (MCP) サーバーの構築](https://gist.github.com/tanaikech/dc74ef2035391bb82d1c1d51ef489e74)
 - [画像転送: MCP サーバー (Web アプリ/Google Apps Script) から MCP クライアント (Gemini/Python)](https://gist.github.com/tanaikech/8dc35b2e331ec99b0bdbc74b73eab821)
 
+<a name="a2a"></a>
+
+#### Agent2Agent プロトコル (A2A)
+
+- [Google Apps Script を使用した Agent2Agent (A2A) サーバーの構築](https://gist.github.com/tanaikech/85c4762a8b8c6c7d8bee1d7ed32ade34)
+
 [TOP](#top)
