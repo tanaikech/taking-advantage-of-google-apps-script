@@ -1231,5 +1231,6 @@ Javascript ライブラリ
 #### Agent2Agent プロトコル (A2A)
 
 - [Google Apps Script を使用した Agent2Agent (A2A) サーバーの構築](https://gist.github.com/tanaikech/85c4762a8b8c6c7d8bee1d7ed32ade34)
+- [Google Apps Script ベースの Agent2Agent (A2A) ネットワークによる協調型エージェント システムの実現](https://gist.github.com/tanaikech/0dcee0009d8037262b60c8723283e9a5)
 
 [TOP](#top)
