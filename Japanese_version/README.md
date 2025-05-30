@@ -1218,6 +1218,7 @@ Javascript ライブラリ
 - [Gemini API を使用して成長する画像を生成する](https://gist.github.com/tanaikech/369c2ea717c27dbde04a2ad13133535a)
 - [Gemini としてのロードマップ ジェネレーター](https://gist.github.com/tanaikech/723c153d0e7ccb415d68fb4f42a326b1)
 - [Gemini を使用した積載計画の自動化: 実現可能性調査とプロンプトベースのアプローチ](https://gist.github.com/tanaikech/9ef17c48c485891e7b873408c7fec82a)
+- [Gemini と Google Apps Script を統合して Google スライドのプレゼンテーションを自動化する](https://gist.github.com/tanaikech/063bbecb2d3beaddc17fc3bf59722f13)
 
 <a name="mcp"></a>
 
