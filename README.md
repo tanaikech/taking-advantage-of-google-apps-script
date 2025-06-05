@@ -903,6 +903,7 @@ Javascript library
 - [Workaround: Export web-published Google Docs as PDFs using Google Apps Script](https://gist.github.com/tanaikech/2f91c211cc6332c84db7b4697ccc4cb6)
 - [Technique for Changing Glyph Colors of Bullets in Google Documents Using Google Apps Script](https://gist.github.com/tanaikech/37f64e848cb8bafa4beb639bca6e0a41)
 - [Creating Tree Structure from Headings in Google Documents using Google Apps Script](https://gist.github.com/tanaikech/0779fec840d06cbc545d07cb0209bd3d)
+- [Automating Straight to Smart Quote Conversion in Google Docs](https://gist.github.com/tanaikech/80a69b4a5bbd0420c525681088dc30bf)
 
 <a name="slides"></a>
 

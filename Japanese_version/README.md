@@ -883,6 +883,7 @@ Javascript ライブラリ
 - [回避策: Google Apps Script を使用して、Web に公開された Google ドキュメントを PDF としてエクスポートする](https://gist.github.com/tanaikech/2f91c211cc6332c84db7b4697ccc4cb6)
 - [Google Apps Script を使用して Google ドキュメントの箇条書きのグリフの色を変更するテクニック](https://gist.github.com/tanaikech/37f64e848cb8bafa4beb639bca6e0a41)
 - [Google Apps Script を使用して Google ドキュメントの見出しからツリー構造を作成する](https://gist.github.com/tanaikech/0779fec840d06cbc545d07cb0209bd3d)
+- [Google ドキュメントで引用符をスマート引用符に変換する自動化](https://gist.github.com/tanaikech/80a69b4a5bbd0420c525681088dc30bf)
 
 <a name="slides"> </a>
 
