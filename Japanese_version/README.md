@@ -1221,6 +1221,7 @@ Javascript ライブラリ
 - [Gemini を使用した積載計画の自動化: 実現可能性調査とプロンプトベースのアプローチ](https://gist.github.com/tanaikech/9ef17c48c485891e7b873408c7fec82a)
 - [Gemini と Google Apps Script を統合して Google スライドのプレゼンテーションを自動化する](https://gist.github.com/tanaikech/063bbecb2d3beaddc17fc3bf59722f13)
 - [Gemini における時間情報の重要性と現在の時刻処理](https://gist.github.com/tanaikech/e5114194e059153de2b0511ca18ba4bd)
+- [Google Apps Script で Gemini API を使用したテキスト読み上げ (TTS)](https://gist.github.com/tanaikech/bcdecc89f71d421a2de405d675e722b1)
 
 <a name="mcp"></a>
 
