@@ -1245,6 +1245,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Importance of Time Information in Gemini and Current Time Handling](https://gist.github.com/tanaikech/e5114194e059153de2b0511ca18ba4bd)
 - [Text-To-Speech (TTS) using Gemini API with Google Apps Script](https://gist.github.com/tanaikech/bcdecc89f71d421a2de405d675e722b1)
 - [Growing Image Generation with Gemini API: Python and Node.js Now Supported](https://gist.github.com/tanaikech/d3057587c22228503d313cea74a33e56)
+- [A Practical Analysis of the Gemini API's URL Context Tool](https://gist.github.com/tanaikech/6cd666838572f478d69ec8ae660968d9)
 
 <a name="mcp"></a>
 

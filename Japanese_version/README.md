@@ -842,6 +842,7 @@ Javascript ライブラリ
 - [Google スプレッドシートのスライドパズル](https://gist.github.com/tanaikech/d9a76ea9fad4eb49fcd5b02c677ac293)
 - [Google Apps Script を使用して Google スプレッドシートのテーブルを管理する](https://gist.github.com/tanaikech/fe567e1f397dc4a8d88212f91e779dbd)
 - [Sheets API を使用して Google スプレッドシートでスマートチップを管理する](https://gist.github.com/tanaikech/682d77c3e3fb4aade4e816801a26ca21)
+- [Gemini APIのURLコンテキストツールの実践分析](https://gist.github.com/tanaikech/6cd666838572f478d69ec8ae660968d9)
 
 <a name="documents"> </a>
 
