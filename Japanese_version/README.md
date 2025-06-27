@@ -842,7 +842,6 @@ Javascript ライブラリ
 - [Google スプレッドシートのスライドパズル](https://gist.github.com/tanaikech/d9a76ea9fad4eb49fcd5b02c677ac293)
 - [Google Apps Script を使用して Google スプレッドシートのテーブルを管理する](https://gist.github.com/tanaikech/fe567e1f397dc4a8d88212f91e779dbd)
 - [Sheets API を使用して Google スプレッドシートでスマートチップを管理する](https://gist.github.com/tanaikech/682d77c3e3fb4aade4e816801a26ca21)
-- [Gemini APIのURLコンテキストツールの実践分析](https://gist.github.com/tanaikech/6cd666838572f478d69ec8ae660968d9)
 
 <a name="documents"> </a>
 
@@ -1225,6 +1224,8 @@ Javascript ライブラリ
 - [Gemini における時間情報の重要性と現在の時刻処理](https://gist.github.com/tanaikech/e5114194e059153de2b0511ca18ba4bd)
 - [Google Apps Script で Gemini API を使用したテキスト読み上げ (TTS)](https://gist.github.com/tanaikech/bcdecc89f71d421a2de405d675e722b1)
 - [Gemini API による画像生成の拡大: Python と Node.js のサポートを開始](https://gist.github.com/tanaikech/d3057587c22228503d313cea74a33e56)
+- [Gemini APIのURLコンテキストツールの実践分析](https://gist.github.com/tanaikech/6cd666838572f478d69ec8ae660968d9)
+- [Google Apps Script の Web アプリで構築した MCP サーバーを備えた Gemini CLI](https://gist.github.com/tanaikech/4052c4dd938c845618746be420c5cc9c)
 
 <a name="mcp"></a>
 
