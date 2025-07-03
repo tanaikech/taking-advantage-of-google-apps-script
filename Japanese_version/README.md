@@ -1234,6 +1234,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用したモデルコンテキストプロトコル (MCP) サーバーの構築](https://gist.github.com/tanaikech/dc74ef2035391bb82d1c1d51ef489e74)
 - [画像転送: MCP サーバー (Web アプリ/Google Apps Script) から MCP クライアント (Gemini/Python)](https://gist.github.com/tanaikech/8dc35b2e331ec99b0bdbc74b73eab821)
 - [Google Apps Script を利用した MCP ネットワークによる Gmail 処理](https://gist.github.com/tanaikech/c2b9ef63039510762a1c50a23170b922)
+- [MCP サーバーを使用した Gemini CLI: Google Apps Script で可能性を広げる](https://gist.github.com/tanaikech/39b887f108b4896e34fea58df0695abd)
 
 <a name="a2a"></a>
 
