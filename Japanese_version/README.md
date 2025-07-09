@@ -1237,6 +1237,7 @@ Javascript ライブラリ
 - [Google Apps Script を利用した MCP ネットワークによる Gmail 処理](https://gist.github.com/tanaikech/c2b9ef63039510762a1c50a23170b922)
 - [MCP サーバーを使用した Gemini CLI: Google Apps Script で可能性を広げる](https://gist.github.com/tanaikech/39b887f108b4896e34fea58df0695abd)
 - [Google Apps Script で構築した MCP サーバーで Gemini CLI を使用してファイル コンテンツを処理する](https://gist.github.com/tanaikech/d16449e35d0a5d78299ca8028f414765)
+- [Gemini CLI: 強化された ToolsForMCPServer を搭載](https://gist.github.com/tanaikech/f56d5c555a46acb6539ac2926b468f62)
 
 <a name="a2a"></a>
 

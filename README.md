@@ -1257,6 +1257,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Gmail Processing using MCP Network Powered by Google Apps Script](https://gist.github.com/tanaikech/c2b9ef63039510762a1c50a23170b922)
 - [Gemini CLI with MCP Server: Expanding Possibilities with Google Apps Script](https://gist.github.com/tanaikech/39b887f108b4896e34fea58df0695abd)
 - [Processing File Content Using Gemini CLI with an MCP Server Built by Google Apps Script](https://gist.github.com/tanaikech/d16449e35d0a5d78299ca8028f414765)
+- [Gemini CLI: Featuring an Enhanced ToolsForMCPServer](https://gist.github.com/tanaikech/f56d5c555a46acb6539ac2926b468f62)
 
 <a name="a2a"></a>
 
