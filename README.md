@@ -1259,6 +1259,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Processing File Content Using Gemini CLI with an MCP Server Built by Google Apps Script](https://gist.github.com/tanaikech/d16449e35d0a5d78299ca8028f414765)
 - [Gemini CLI: Featuring an Enhanced ToolsForMCPServer](https://gist.github.com/tanaikech/f56d5c555a46acb6539ac2926b468f62)
 - [Next-Level Data Automation: Gemini CLI, Google Sheets, and MCP](https://gist.github.com/tanaikech/9d5a2ebf69781ac37f9b1338949278de)
+- [Managing Google Docs, Sheets, and Slides by Natural Language with Gemini CLI and MCP](https://gist.github.com/tanaikech/07058ee7cefeae8e360be01cd99c6ebc)
 
 <a name="a2a"></a>
 
