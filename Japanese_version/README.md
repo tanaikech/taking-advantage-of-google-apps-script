@@ -1227,6 +1227,7 @@ Javascript ライブラリ
 - [Gemini API による画像生成の拡大: Python と Node.js のサポートを開始](https://gist.github.com/tanaikech/d3057587c22228503d313cea74a33e56)
 - [Gemini APIのURLコンテキストツールの実践分析](https://gist.github.com/tanaikech/6cd666838572f478d69ec8ae660968d9)
 - [Google Apps Script の Web アプリで構築した MCP サーバーを備えた Gemini CLI](https://gist.github.com/tanaikech/4052c4dd938c845618746be420c5cc9c)
+- [Gemini を使用した API のリクエストボディの生成](https://gist.github.com/tanaikech/5c5903553f3fa6f1640229dc88e57901)
 
 <a name="mcp"></a>
 

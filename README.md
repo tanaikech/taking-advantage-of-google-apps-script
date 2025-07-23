@@ -1247,6 +1247,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Text-To-Speech (TTS) using Gemini API with Google Apps Script](https://gist.github.com/tanaikech/bcdecc89f71d421a2de405d675e722b1)
 - [Growing Image Generation with Gemini API: Python and Node.js Now Supported](https://gist.github.com/tanaikech/d3057587c22228503d313cea74a33e56)
 - [A Practical Analysis of the Gemini API's URL Context Tool](https://gist.github.com/tanaikech/6cd666838572f478d69ec8ae660968d9)- [Gemini CLI with MCP Server Built by Web Apps of Google Apps Script](https://gist.github.com/tanaikech/4052c4dd938c845618746be420c5cc9c)
+- [Generating Request Body for APIs using Gemini](https://gist.github.com/tanaikech/5c5903553f3fa6f1640229dc88e57901)
 
 <a name="mcp"></a>
 
