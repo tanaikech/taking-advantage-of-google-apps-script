@@ -1241,6 +1241,7 @@ Javascript ライブラリ
 - [Gemini CLI: 強化された ToolsForMCPServer を搭載](https://gist.github.com/tanaikech/f56d5c555a46acb6539ac2926b468f62)
 - [次世代のデータ自動化: Gemini CLI、Google Sheets、MCP](https://gist.github.com/tanaikech/9d5a2ebf69781ac37f9b1338949278de)
 - [Gemini CLI と MCP を使用して自然言語で Google ドキュメント、スプレッドシート、スライドを管理する](https://gist.github.com/tanaikech/07058ee7cefeae8e360be01cd99c6ebc)
+- [次世代のデータ自動化: Gemini CLI、Google カレンダー、MCP](https://gist.github.com/tanaikech/f27e5a6633093b9cf929cb4fb569021f)
 
 <a name="a2a"></a>
 
