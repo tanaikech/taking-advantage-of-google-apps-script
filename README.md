@@ -1264,6 +1264,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Next-Level Data Automation: Gemini CLI, Google Calendar, and MCP](https://gist.github.com/tanaikech/f27e5a6633093b9cf929cb4fb569021f)
 - [Enhanced Guide to Using Prompts in the Gemini CLI](https://gist.github.com/tanaikech/68d72654c8b7ca9879388051230a17ae)
 - [Next-Level Classroom Automation: Gemini CLI, Google Classroom, and MCP](https://gist.github.com/tanaikech/be36c5f544a5e6e1a25c0cff3db04ba6)
+- [Unifying Google Workspace with Natural Language: Integrated Collaboration through Gemini CLI and MC](https://gist.github.com/tanaikech/625e26dd9cf002311731ce5194b9e810)
 
 <a name="a2a"></a>
 
