@@ -1245,6 +1245,7 @@ Javascript ライブラリ
 - [Gemini CLI でのプロンプトの使用に関する拡張ガイド](https://gist.github.com/tanaikech/68d72654c8b7ca9879388051230a17ae)
 - [次世代の授業自動化: Gemini CLI、Google Classroom、MCP](https://gist.github.com/tanaikech/be36c5f544a5e6e1a25c0cff3db04ba6)
 - [Google Workspace と自然言語の統合: Gemini CLI と MC による統合コラボレーション](https://gist.github.com/tanaikech/625e26dd9cf002311731ce5194b9e810)
+- [Gemini CLI、Google Analytics、MCP を使用した自然言語による Web ページ分析の効率化](https://gist.github.com/tanaikech/1960fb03a38a13363f86966b4fcebbb5)
 
 <a name="a2a"></a>
 
