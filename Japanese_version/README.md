@@ -1229,6 +1229,7 @@ Javascript ライブラリ
 - [Google Apps Script の Web アプリで構築した MCP サーバーを備えた Gemini CLI](https://gist.github.com/tanaikech/4052c4dd938c845618746be420c5cc9c)
 - [Gemini を使用した API のリクエストボディの生成](https://gist.github.com/tanaikech/5c5903553f3fa6f1640229dc88e57901)
 - [Google Apps Script の偽サンドボックス: Gemini CLI で生成されたコードを安全に実行するための実現可能性調査](https://gist.github.com/tanaikech/0896697c24cf4b9e1b1038303cf734ae)
+- [自然言語対応Googleマップ：Gemini CLIとMCPによる統合型コラボレーション機能](https://gist.github.com/tanaikech/09db6dd910b458b6d0d97d43cc60209f)
 
 <a name="mcp"></a>
 
