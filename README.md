@@ -1268,6 +1268,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Unifying Google Workspace with Natural Language: Integrated Collaboration through Gemini CLI and MC](https://gist.github.com/tanaikech/625e26dd9cf002311731ce5194b9e810)
 - [Streamlining Web Page Insights with Natural Language using Gemini CLI, Google Analytics, and MCP](https://gist.github.com/tanaikech/1960fb03a38a13363f86966b4fcebbb5)
 - [Google Maps with Natural Language: Integrated Collaboration through Gemini CLI and MCP](https://gist.github.com/tanaikech/09db6dd910b458b6d0d97d43cc60209f)
+- [Accelerating Gemini CLI: A Node.js Wrapper for Google Apps Script MCP Servers](https://gist.github.com/tanaikech/1d7f0090834431d03194e58ebffdb660)
 
 <a name="a2a"></a>
 
