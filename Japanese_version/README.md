@@ -1252,6 +1252,7 @@ Javascript ライブラリ
 - [コンテンツ作成の効率化: Gemini CLI、MCP Server、VSCode の使用ガイド](https://gist.github.com/tanaikech/4d2c8418bb8b576aa9c560dde0f54a2f)
 - [安全で会話型の Google Workspace 自動化: Gemini CLI と gas-fakes MCP サーバーの統合](https://gist.github.com/tanaikech/e995c03ff066f38a208fa473ac47132b)
 - [MCP を介した Gemini CLI と Copilot CLI 間の共同対話](https://gist.github.com/tanaikech/e6c41eec8b1fac74979af45ab86c7e7e)
+- [Gemini CLI を使用した Google Workspace 自動化のための動的ツール作成](https://gist.github.com/tanaikech/91321df429b3e94f6a71176bd4ecafbb)
 
 <a name="a2a"></a>
 

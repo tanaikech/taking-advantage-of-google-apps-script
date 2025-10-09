@@ -1272,6 +1272,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Streamlining Content Creation: A Guide to Using Gemini CLI, MCP Server, and VSCode](https://gist.github.com/tanaikech/4d2c8418bb8b576aa9c560dde0f54a2f)
 - [Secure and Conversational Google Workspace Automation: Integrating Gemini CLI with a gas-fakes MCP Server](https://gist.github.com/tanaikech/e995c03ff066f38a208fa473ac47132b)
 - [A Collaborative Dialogue Between Gemini CLI and Copilot CLI Through MCP](https://gist.github.com/tanaikech/e6c41eec8b1fac74979af45ab86c7e7e)
+- [Dynamic Tool Creation for Google Workspace Automation with Gemini CLI](https://gist.github.com/tanaikech/91321df429b3e94f6a71176bd4ecafbb)
 
 <a name="a2a"></a>
 
