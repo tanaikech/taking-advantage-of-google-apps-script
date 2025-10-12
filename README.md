@@ -60,6 +60,7 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
 
 # News
 
+- **September 26, 2025:** [Recipient of the Outstanding Google Developer Expert Award](https://tanaikech.github.io/2025/10/12/recipient-of-the-outstanding-google-developer-expert-award/)
 - **June 3, 2024:** [My post was featured in The overwhelmed person’s guide to Google Cloud: week of May 23](https://tanaikech.github.io/2024/06/03/my-post-was-featured-in-the-overwhelmed-persons-guide-to-google-cloud-week-of-may-23/)
 - **December 13, 2023:** [Drive API v3 has been released to Advanced Google services](https://tanaikech.github.io/2023/12/13/drive-api-v3-has-been-released-to-advanced-google-services/)
 - **August 12, 2023:** [My report has been featured in Google Workspace Developer Newsletter on July 2023](https://tanaikech.github.io/2023/08/12/my-report-has-been-featured-in-google-workspace-developer-newsletter-on-july-2023/)
