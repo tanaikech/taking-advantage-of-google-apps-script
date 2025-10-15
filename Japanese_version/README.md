@@ -52,6 +52,7 @@
   - [PHP](#php)
   - [生成AI](#generativeai)
   - [モデルコンテキストプロトコル (MCP)](#mcp)
+  - [Gemini CLI](#geminicli)
 
 <br>
 <br>
@@ -1227,11 +1228,6 @@ Javascript ライブラリ
 - [Google Apps Script で Gemini API を使用したテキスト読み上げ (TTS)](https://gist.github.com/tanaikech/bcdecc89f71d421a2de405d675e722b1)
 - [Gemini API による画像生成の拡大: Python と Node.js のサポートを開始](https://gist.github.com/tanaikech/d3057587c22228503d313cea74a33e56)
 - [Gemini APIのURLコンテキストツールの実践分析](https://gist.github.com/tanaikech/6cd666838572f478d69ec8ae660968d9)
-- [Google Apps Script の Web アプリで構築した MCP サーバーを備えた Gemini CLI](https://gist.github.com/tanaikech/4052c4dd938c845618746be420c5cc9c)
-- [Gemini を使用した API のリクエストボディの生成](https://gist.github.com/tanaikech/5c5903553f3fa6f1640229dc88e57901)
-- [Google Apps Script の偽サンドボックス: Gemini CLI で生成されたコードを安全に実行するための実現可能性調査](https://gist.github.com/tanaikech/0896697c24cf4b9e1b1038303cf734ae)
-- [自然言語対応Googleマップ：Gemini CLIとMCPによる統合型コラボレーション機能](https://gist.github.com/tanaikech/09db6dd910b458b6d0d97d43cc60209f)
-- [Gemini CLI の高速化: Google Apps Script MCP サーバー用の Node.js ラッパー](https://gist.github.com/tanaikech/1d7f0090834431d03194e58ebffdb660)
 
 <a name="mcp"></a>
 
@@ -1240,6 +1236,24 @@ Javascript ライブラリ
 - [Google Apps Script を使用したモデルコンテキストプロトコル (MCP) サーバーの構築](https://gist.github.com/tanaikech/dc74ef2035391bb82d1c1d51ef489e74)
 - [画像転送: MCP サーバー (Web アプリ/Google Apps Script) から MCP クライアント (Gemini/Python)](https://gist.github.com/tanaikech/8dc35b2e331ec99b0bdbc74b73eab821)
 - [Google Apps Script を利用した MCP ネットワークによる Gmail 処理](https://gist.github.com/tanaikech/c2b9ef63039510762a1c50a23170b922)
+
+<a name="a2a"></a>
+
+#### Agent2Agent プロトコル (A2A)
+
+- [Google Apps Script を使用した Agent2Agent (A2A) サーバーの構築](https://gist.github.com/tanaikech/85c4762a8b8c6c7d8bee1d7ed32ade34)
+- [Google Apps Script ベースの Agent2Agent (A2A) ネットワークによる協調型エージェント システムの実現](https://gist.github.com/tanaikech/0dcee0009d8037262b60c8723283e9a5)
+- [生成AIプロトコルの統合：MCPとA2Aのための単一サーバーソリューション](https://gist.github.com/tanaikech/f6e92df66a3a4f057f9bcae7c9d8a339)
+
+<a name="geminicli"></a>
+
+#### Gemini CLI
+
+- [Google Apps Script の Web アプリで構築した MCP サーバーを備えた Gemini CLI](https://gist.github.com/tanaikech/4052c4dd938c845618746be420c5cc9c)
+- [Gemini を使用した API のリクエストボディの生成](https://gist.github.com/tanaikech/5c5903553f3fa6f1640229dc88e57901)
+- [Google Apps Script の偽サンドボックス: Gemini CLI で生成されたコードを安全に実行するための実現可能性調査](https://gist.github.com/tanaikech/0896697c24cf4b9e1b1038303cf734ae)
+- [自然言語対応Googleマップ：Gemini CLIとMCPによる統合型コラボレーション機能](https://gist.github.com/tanaikech/09db6dd910b458b6d0d97d43cc60209f)
+- [Gemini CLI の高速化: Google Apps Script MCP サーバー用の Node.js ラッパー](https://gist.github.com/tanaikech/1d7f0090834431d03194e58ebffdb660)
 - [MCP サーバーを使用した Gemini CLI: Google Apps Script で可能性を広げる](https://gist.github.com/tanaikech/39b887f108b4896e34fea58df0695abd)
 - [Google Apps Script で構築した MCP サーバーで Gemini CLI を使用してファイル コンテンツを処理する](https://gist.github.com/tanaikech/d16449e35d0a5d78299ca8028f414765)
 - [Gemini CLI: 強化された ToolsForMCPServer を搭載](https://gist.github.com/tanaikech/f56d5c555a46acb6539ac2926b468f62)
@@ -1254,13 +1268,6 @@ Javascript ライブラリ
 - [安全で会話型の Google Workspace 自動化: Gemini CLI と gas-fakes MCP サーバーの統合](https://gist.github.com/tanaikech/e995c03ff066f38a208fa473ac47132b)
 - [MCP を介した Gemini CLI と Copilot CLI 間の共同対話](https://gist.github.com/tanaikech/e6c41eec8b1fac74979af45ab86c7e7e)
 - [Gemini CLI を使用した Google Workspace 自動化のための動的ツール作成](https://gist.github.com/tanaikech/91321df429b3e94f6a71176bd4ecafbb)
-
-<a name="a2a"></a>
-
-#### Agent2Agent プロトコル (A2A)
-
-- [Google Apps Script を使用した Agent2Agent (A2A) サーバーの構築](https://gist.github.com/tanaikech/85c4762a8b8c6c7d8bee1d7ed32ade34)
-- [Google Apps Script ベースの Agent2Agent (A2A) ネットワークによる協調型エージェント システムの実現](https://gist.github.com/tanaikech/0dcee0009d8037262b60c8723283e9a5)
-- [生成AIプロトコルの統合：MCPとA2Aのための単一サーバーソリューション](https://gist.github.com/tanaikech/f6e92df66a3a4f057f9bcae7c9d8a339)
+- [Gemini CLI 拡張機能による Google Workspace 自動化の簡素化](https://gist.github.com/tanaikech/8693efc439bac83b3aea38317fb7724f)
 
 [TOP](#top)
