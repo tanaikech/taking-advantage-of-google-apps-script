@@ -1289,5 +1289,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [A Collaborative Dialogue Between Gemini CLI and Copilot CLI Through MCP](https://gist.github.com/tanaikech/e6c41eec8b1fac74979af45ab86c7e7e)
 - [Dynamic Tool Creation for Google Workspace Automation with Gemini CLI](https://gist.github.com/tanaikech/91321df429b3e94f6a71176bd4ecafbb)
 - [Simplified Google Workspace Automation with Gemini CLI Extensions](https://gist.github.com/tanaikech/8693efc439bac83b3aea38317fb7724f)
+- [A Developer's Guide to Building Gemini CLI Extensions](https://gist.github.com/tanaikech/0a1426535ab3af0c68cf8d79bca770a0)
 
 [TOP](#top)
