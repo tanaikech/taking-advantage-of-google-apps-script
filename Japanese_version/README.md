@@ -1270,5 +1270,6 @@ Javascript ライブラリ
 - [Gemini CLI を使用した Google Workspace 自動化のための動的ツール作成](https://gist.github.com/tanaikech/91321df429b3e94f6a71176bd4ecafbb)
 - [Gemini CLI 拡張機能による Google Workspace 自動化の簡素化](https://gist.github.com/tanaikech/8693efc439bac83b3aea38317fb7724f)
 - [Gemini CLI 拡張機能を構築するための開発者ガイド](https://gist.github.com/tanaikech/0a1426535ab3af0c68cf8d79bca770a0)
+- [Gemini CLI 拡張機能と VSCode を使用した Google Apps Script 開発の効率化](https://gist.github.com/tanaikech/0e12338ca99bbddc51fe69c07a1bc36f)
 
 [TOP](#top)
