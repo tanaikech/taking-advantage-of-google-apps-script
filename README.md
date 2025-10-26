@@ -1291,5 +1291,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Simplified Google Workspace Automation with Gemini CLI Extensions](https://gist.github.com/tanaikech/8693efc439bac83b3aea38317fb7724f)
 - [A Developer's Guide to Building Gemini CLI Extensions](https://gist.github.com/tanaikech/0a1426535ab3af0c68cf8d79bca770a0)
 - [Streamlining Google Apps Script Development with Gemini CLI Extensions and VSCode](https://gist.github.com/tanaikech/0e12338ca99bbddc51fe69c07a1bc36f)
+- [Gemini CLI Extension for GAS Development Kit](https://github.com/tanaikech/gas-development-kit-extension)
 
 [TOP](#top)
