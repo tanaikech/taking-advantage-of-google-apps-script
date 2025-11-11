@@ -1296,5 +1296,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Secure and Streamlined Google Apps Script Development with gas-fakes CLI and Gemini CLI Extension](https://gist.github.com/tanaikech/e1b57421876e958f5d7f0c5204557f04)
 - [Next-Level Google Apps Script Development](https://github.com/tanaikech/Next-Level-Google-Apps-Script-Development)
 - [Modern Google Apps Script Workflow Building on the Cloud](https://gist.github.com/tanaikech/f83fd9f6ee883268cfd8028161376b2c)
+- [Integrating File Search with the Gemini CLI Extension](https://gist.github.com/tanaikech/468bb58319933303fef78816c6e9dc02)
 
 [TOP](#top)

@@ -1276,5 +1276,6 @@ Javascript ライブラリ
 - [gas-fakes CLI と Gemini CLI 拡張機能を使用した安全で効率的な Google Apps Script 開発](https://gist.github.com/tanaikech/e1b57421876e958f5d7f0c5204557f04)
 - [次世代の Google Apps Script 開発](https://github.com/tanaikech/Next-Level-Google-Apps-Script-Development)
 - [クラウド上での最新の Google Apps Script ワークフロー構築](https://gist.github.com/tanaikech/f83fd9f6ee883268cfd8028161376b2c)
+- [Gemini CLI 拡張機能とファイル検索の統合](https://gist.github.com/tanaikech/468bb58319933303fef78816c6e9dc02)
 
 [TOP](#top)
