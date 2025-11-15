@@ -1297,5 +1297,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Next-Level Google Apps Script Development](https://github.com/tanaikech/Next-Level-Google-Apps-Script-Development)
 - [Modern Google Apps Script Workflow Building on the Cloud](https://gist.github.com/tanaikech/f83fd9f6ee883268cfd8028161376b2c)
 - [Integrating File Search with the Gemini CLI Extension](https://gist.github.com/tanaikech/468bb58319933303fef78816c6e9dc02)
+- [From Data Silos to Unified RAG: Gemini CLI Extensions Unify Local and Google Workspace for a Powerful File Search](https://gist.github.com/tanaikech/46573f903a3bf7aa96e9c4458a361d0c)
 
 [TOP](#top)
