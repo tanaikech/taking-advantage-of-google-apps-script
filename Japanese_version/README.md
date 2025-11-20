@@ -205,6 +205,8 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [MCPApp](https://github.com/tanaikech/MCPApp) : このテキストでは、AIインタラクションのためのモデルコンテキストプロトコル（MCP）を紹介し、Google Apps Script（GAS）をサーバーオプションとして検討します。サンプルコードを用いて実現可能性を示しますが、GAS SDKが存在しない点にも留意し、理解と開発を促進することを目的としています。
 - [A2AApp](https://github.com/tanaikech/A2AApp) : これは、Google Apps Scriptを用いてAgent2Agent（A2A）サーバーを実装するためのライブラリです。これにより、AIエージェント間の通信と、AIを活用したワークフローにおける安全なサービスアクセスが可能になります。この成果は、Google Apps Scriptの潜在能力を浮き彫りにする可能性があります。
 - [ToolsForMCPServer](https://github.com/tanaikech/ToolsForMCPServer): Gemini CLIは、MCPサーバーとして機能するGoogle Apps Scriptウェブアプリと統合され、Google Workspace APIの認証を簡素化します。これにより、GeminiはGoogleエコシステム内の複雑なタスクを自動化し、生産性を向上させることができます。設定手順とサンプルコードも提供されています。
+- [FileSearchApp](https://github.com/tanaikech/FileSearchApp): 最近、ファイル検索機能のストアを統合・管理するために設計されたGemini CLI拡張機能、FileSearchStore-extensionを公開しました。ローカルマシンからファイル検索ストアにファイルをアップロードするのは簡単です。しかし、ファイルがGoogleドライブ上にある場合、現在の設定では、管理スクリプトがローカルで実行されるため、まずファイルをダウンロードしてからファイル検索ストアにアップロードする必要があります。この複数ステップのプロセスは、大きなオーバーヘッド、つまり「プロセスコスト」をもたらします。Googleドライブのファイルを使用する際のこの非効率性を解消するために、新しいライブラリを作成しました。管理スクリプトがGoogle Apps Scriptで記述されている場合、中間ダウンロードステップを必要とせずに、ファイルをシームレスにファイル検索ストアにアップロードできます。このGoogle Apps ScriptライブラリであるFileSearchAppは、Google Apps Scriptを使用してファイル検索ストアを直接管理するのに役立ちます。
+- [TableApp](https://github.com/tanaikech/TableApp): TableAppは、Googleスプレッドシート上のテーブルを管理するためのGoogle Apps Scriptライブラリです。
 
 <br>
 
