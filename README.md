@@ -865,6 +865,7 @@ Javascript library
 - [Slide Puzzle in Google Sheets](https://gist.github.com/tanaikech/d9a76ea9fad4eb49fcd5b02c677ac293)
 - [Managing Tables on Google Sheets using Google Apps Script](https://gist.github.com/tanaikech/fe567e1f397dc4a8d88212f91e779dbd)
 - [Managing Smart Chips on Google Sheets with Sheets API](https://gist.github.com/tanaikech/682d77c3e3fb4aade4e816801a26ca21)
+- [Simplify Google Sheets Tables Management with Google Apps Script](https://gist.github.com/tanaikech/2b45026d0ec393507cef451a50fa8a04)
 
 <a name="documents"></a>
 
