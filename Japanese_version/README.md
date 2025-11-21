@@ -14,6 +14,7 @@
 - [Google Apps Script のトレンド](#trend)
 - [設定](#settings)
 - [GAS 用の CLI ツール](#clitool)
+- [Gemini CLI 拡張機能](#geminicliextensions)
 - [Web アプリケーション](#webapps)
 - [GAS ライブラリ](#gaslibraries)
 - [GAS ライブラリデータベース](#gaslibrarydatabase)
@@ -140,6 +141,17 @@
 - [gogauth](https://github.com/tanaikech/gogauth)：Google で API を使用するためのアクセストークンを簡単に取得できます。
 - [gorearrange](https://github.com/tanaikech/gorearrange)：端末上のテキストデータをインタラクティブに再配置します。
 - [goodls](https://github.com/tanaikech/goodls)：Google ドライブから共有ファイルをダウンロードします。
+
+<br>
+
+<a name="geminicliextensions"></a>
+
+# Gemini CLI 拡張機能
+
+- [ToolsForMCPServer-extension](https://github.com/tanaikech/ToolsForMCPServer-extension)
+- [dev-gas-extension](https://github.com/tanaikech/dev-gas-extension)
+- [gas-development-kit-extension](https://github.com/tanaikech/gas-development-kit-extension)
+- [FileSearchStore-extension](https://github.com/tanaikech/FileSearchStore-extension)
 
 <br>
 

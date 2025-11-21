@@ -13,6 +13,7 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
 - [Trend of Google Apps Script](#trend)
 - [Settings](#settings)
 - [CLI tools for GAS](#clitool)
+- [Gemini CLI Extensions](#geminicliextensions)
 - [Web Applications](#webapps)
 - [GAS libraries](#gaslibraries)
 - [GAS library database](#gaslibrarydatabase)
@@ -143,6 +144,17 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
 - [gogauth](https://github.com/tanaikech/gogauth) : Easily retrieve access token for using APIs on Google.
 - [gorearrange](https://github.com/tanaikech/gorearrange) : Interactively rearrange a text data on a terminal.
 - [goodls](https://github.com/tanaikech/goodls) : Download shared files from Google Drive.
+
+<br>
+
+<a name="geminicliextensions"></a>
+
+# Gemini CLI Extensions
+
+- [ToolsForMCPServer-extension](https://github.com/tanaikech/ToolsForMCPServer-extension)
+- [dev-gas-extension](https://github.com/tanaikech/dev-gas-extension)
+- [gas-development-kit-extension](https://github.com/tanaikech/gas-development-kit-extension)
+- [FileSearchStore-extension](https://github.com/tanaikech/FileSearchStore-extension)
 
 <br>
 
