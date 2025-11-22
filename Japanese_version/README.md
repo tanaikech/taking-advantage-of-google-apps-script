@@ -1253,6 +1253,7 @@ Javascript ライブラリ
 - [画像転送: MCP サーバー (Web アプリ/Google Apps Script) から MCP クライアント (Gemini/Python)](https://gist.github.com/tanaikech/8dc35b2e331ec99b0bdbc74b73eab821)
 - [Google Apps Script を利用した MCP ネットワークによる Gmail 処理](https://gist.github.com/tanaikech/c2b9ef63039510762a1c50a23170b922)
 - [次世代 Google Apps Script 開発: Antigravity と Gemini 3.0 の活用](https://gist.github.com/tanaikech/886e334d639ae4da4f18fe59ef0db0f0)
+- [Google Workspace のエージェント自動化: Antigravity と Gemini 3.0 の連携](https://gist.github.com/tanaikech/da7deaad19f75db0fd473e84e856529e)
 
 <a name="a2a"></a>
 

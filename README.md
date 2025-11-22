@@ -1273,6 +1273,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Image Transfer: MCP Server (Web Apps/Google Apps Script) to MCP Client (Gemini/Python)](https://gist.github.com/tanaikech/8dc35b2e331ec99b0bdbc74b73eab821)
 - [Gmail Processing using MCP Network Powered by Google Apps Script](https://gist.github.com/tanaikech/c2b9ef63039510762a1c50a23170b922)
 - [Next-Generation Google Apps Script Development: Leveraging Antigravity and Gemini 3.0](https://gist.github.com/tanaikech/886e334d639ae4da4f18fe59ef0db0f0)
+- [Agentic Automation in Google Workspace: Bridging Antigravity and Gemini 3.0](https://gist.github.com/tanaikech/da7deaad19f75db0fd473e84e856529e)
 
 <a name="a2a"></a>
 
