@@ -1138,6 +1138,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [MimeTypeApp: Flexible MimeType Converter with Google Apps Script](https://gist.github.com/tanaikech/9742675d8f2e971e4c6b7fe1d34b254a)
 - [Workaround: Smart Chips with Google Apps Script](https://gist.github.com/tanaikech/d41f696a9931e5c931bff4eb5627f854)
 - [Bridging the Gap: Seamless Integration for Local Google Apps Script Development](https://gist.github.com/tanaikech/76ef51ea042fcc906b54a741d971c885)
+- [Fields Builder for Google APIs: Visualizing Partial Responses](https://gist.github.com/tanaikech/a83cd2487a5d93ec3e10cea43e7b96d6)
 
 <a name="nodejs"></a>
 
