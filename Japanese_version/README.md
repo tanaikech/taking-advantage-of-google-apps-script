@@ -54,6 +54,7 @@
   - [生成AI](#generativeai)
   - [モデルコンテキストプロトコル (MCP)](#mcp)
   - [Gemini CLI](#geminicli)
+  - [Antigravity](#antigravity)
 
 <br>
 <br>
@@ -1253,8 +1254,6 @@ Javascript ライブラリ
 - [Google Apps Script を使用したモデルコンテキストプロトコル (MCP) サーバーの構築](https://gist.github.com/tanaikech/dc74ef2035391bb82d1c1d51ef489e74)
 - [画像転送: MCP サーバー (Web アプリ/Google Apps Script) から MCP クライアント (Gemini/Python)](https://gist.github.com/tanaikech/8dc35b2e331ec99b0bdbc74b73eab821)
 - [Google Apps Script を利用した MCP ネットワークによる Gmail 処理](https://gist.github.com/tanaikech/c2b9ef63039510762a1c50a23170b922)
-- [次世代 Google Apps Script 開発: Antigravity と Gemini 3.0 の活用](https://gist.github.com/tanaikech/886e334d639ae4da4f18fe59ef0db0f0)
-- [Google Workspace のエージェント自動化: Antigravity と Gemini 3.0 の連携](https://gist.github.com/tanaikech/da7deaad19f75db0fd473e84e856529e)
 
 <a name="a2a"></a>
 
@@ -1296,5 +1295,13 @@ Javascript ライブラリ
 - [クラウド上での最新の Google Apps Script ワークフロー構築](https://gist.github.com/tanaikech/f83fd9f6ee883268cfd8028161376b2c)
 - [Gemini CLI 拡張機能とファイル検索の統合](https://gist.github.com/tanaikech/468bb58319933303fef78816c6e9dc02)
 - [データサイロから統合 RAG へ: Gemini CLI 拡張機能によりローカルと Google Workspace が統合され、強力なファイル検索が実現](https://gist.github.com/tanaikech/46573f903a3bf7aa96e9c4458a361d0c)
+
+<a name="antigravity"></a>
+
+#### Antigravity
+
+- [次世代 Google Apps Script 開発: Antigravity と Gemini 3.0 の活用](https://gist.github.com/tanaikech/886e334d639ae4da4f18fe59ef0db0f0)
+- [Google Workspace のエージェント自動化: Antigravity と Gemini 3.0 の連携](https://gist.github.com/tanaikech/da7deaad19f75db0fd473e84e856529e)
+- [Google Antigravity の統合: Gemini CLI の Google Workspace 拡張機能のロックを解除する](https://gist.github.com/tanaikech/346eea6b858e3368d9b34475d1b70e54)
 
 [TOP](#top)

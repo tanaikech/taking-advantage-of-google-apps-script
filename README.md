@@ -54,6 +54,7 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
   - [Model Context Protocol (MCP)](#mcp)
   - [Agent2Agent Protocol (A2A)](#a2a)
   - [Gemini CLI](#geminicli)
+  - [Antigravity](#antigravity)
 
 <br>
 <br>
@@ -1273,8 +1274,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Building Model Context Protocol (MCP) Server with Google Apps Script](https://gist.github.com/tanaikech/dc74ef2035391bb82d1c1d51ef489e74)
 - [Image Transfer: MCP Server (Web Apps/Google Apps Script) to MCP Client (Gemini/Python)](https://gist.github.com/tanaikech/8dc35b2e331ec99b0bdbc74b73eab821)
 - [Gmail Processing using MCP Network Powered by Google Apps Script](https://gist.github.com/tanaikech/c2b9ef63039510762a1c50a23170b922)
-- [Next-Generation Google Apps Script Development: Leveraging Antigravity and Gemini 3.0](https://gist.github.com/tanaikech/886e334d639ae4da4f18fe59ef0db0f0)
-- [Agentic Automation in Google Workspace: Bridging Antigravity and Gemini 3.0](https://gist.github.com/tanaikech/da7deaad19f75db0fd473e84e856529e)
 
 <a name="a2a"></a>
 
@@ -1316,5 +1315,13 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Modern Google Apps Script Workflow Building on the Cloud](https://gist.github.com/tanaikech/f83fd9f6ee883268cfd8028161376b2c)
 - [Integrating File Search with the Gemini CLI Extension](https://gist.github.com/tanaikech/468bb58319933303fef78816c6e9dc02)
 - [From Data Silos to Unified RAG: Gemini CLI Extensions Unify Local and Google Workspace for a Powerful File Search](https://gist.github.com/tanaikech/46573f903a3bf7aa96e9c4458a361d0c)
+
+<a name="antigravity"></a>
+
+#### Antigravity
+
+- [Next-Generation Google Apps Script Development: Leveraging Antigravity and Gemini 3.0](https://gist.github.com/tanaikech/886e334d639ae4da4f18fe59ef0db0f0)
+- [Agentic Automation in Google Workspace: Bridging Antigravity and Gemini 3.0](https://gist.github.com/tanaikech/da7deaad19f75db0fd473e84e856529e)
+- [Integrating Google Antigravity: Unlocking the Google Workspace Extension for Gemini CLI](https://gist.github.com/tanaikech/346eea6b858e3368d9b34475d1b70e54)
 
 [TOP](#top)
