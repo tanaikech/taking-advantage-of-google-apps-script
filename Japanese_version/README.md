@@ -1246,6 +1246,7 @@ Javascript ライブラリ
 - [Google Apps Script で Gemini API を使用したテキスト読み上げ (TTS)](https://gist.github.com/tanaikech/bcdecc89f71d421a2de405d675e722b1)
 - [Gemini API による画像生成の拡大: Python と Node.js のサポートを開始](https://gist.github.com/tanaikech/d3057587c22228503d313cea74a33e56)
 - [Gemini APIのURLコンテキストツールの実践分析](https://gist.github.com/tanaikech/6cd666838572f478d69ec8ae660968d9)
+- [Google Apps Script の新時代: 自然言語で Google Workspace 自動化の未来を切り開く](https://gist.github.com/tanaikech/611d0cc0fe9733994ae547ab4dbe667c)
 
 <a name="mcp"></a>
 
