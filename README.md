@@ -1325,5 +1325,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Agentic Automation in Google Workspace: Bridging Antigravity and Gemini 3.0](https://gist.github.com/tanaikech/da7deaad19f75db0fd473e84e856529e)
 - [Integrating Google Antigravity: Unlocking the Google Workspace Extension for Gemini CLI](https://gist.github.com/tanaikech/346eea6b858e3368d9b34475d1b70e54)
 - [Power of Google Apps Script: Building MCP Server Tools for Gemini CLI and Google Antigravity in Google Workspace Automation](https://gist.github.com/tanaikech/e7ddfd23e51c0c4fd0278f873f46d752)
+- [Modularizing AI Agents: Integrating Google Apps Script Libraries with Gemini CLI and Antigravity](https://gist.github.com/tanaikech/fb1526466e4b53d1f00981d4536659b8)
 
 [TOP](#top)

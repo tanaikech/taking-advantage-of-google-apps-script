@@ -1305,5 +1305,6 @@ Javascript ライブラリ
 - [Google Workspace のエージェント自動化: Antigravity と Gemini 3.0 の連携](https://gist.github.com/tanaikech/da7deaad19f75db0fd473e84e856529e)
 - [Google Antigravity の統合: Gemini CLI の Google Workspace 拡張機能のロックを解除する](https://gist.github.com/tanaikech/346eea6b858e3368d9b34475d1b70e54)
 - [Google Apps Script の威力: Google Workspace Automation における Gemini CLI と Google Antigravity 用 MCP サーバー ツールの構築](https://gist.github.com/tanaikech/e7ddfd23e51c0c4fd0278f873f46d752)
+- [AI エージェントのモジュール化: Google Apps Script ライブラリを Gemini CLI および Antigravity と統合する](https://gist.github.com/tanaikech/fb1526466e4b53d1f00981d4536659b8)
 
 [TOP](#top)
