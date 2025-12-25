@@ -1275,6 +1275,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Building Model Context Protocol (MCP) Server with Google Apps Script](https://gist.github.com/tanaikech/dc74ef2035391bb82d1c1d51ef489e74)
 - [Image Transfer: MCP Server (Web Apps/Google Apps Script) to MCP Client (Gemini/Python)](https://gist.github.com/tanaikech/8dc35b2e331ec99b0bdbc74b73eab821)
 - [Gmail Processing using MCP Network Powered by Google Apps Script](https://gist.github.com/tanaikech/c2b9ef63039510762a1c50a23170b922)
+- [Nexus-MCP: A Unified Gateway for Scalable and Deterministic MCP Server Aggregation](https://gist.github.com/tanaikech/5fe73221c32a4e1c665b9c8a7f506d70)
 
 <a name="a2a"></a>
 
