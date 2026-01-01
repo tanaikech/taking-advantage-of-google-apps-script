@@ -1284,6 +1284,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Building Agent2Agent (A2A) Server with Google Apps Script](https://gist.github.com/tanaikech/85c4762a8b8c6c7d8bee1d7ed32ade34)
 - [Enabling Collaborative Agent Systems through Google Apps Script-based Agent2Agent (A2A) Network](https://gist.github.com/tanaikech/0dcee0009d8037262b60c8723283e9a5)
 - [Consolidating Generative AI Protocols: A Single Server Solution for MCP and A2A](https://gist.github.com/tanaikech/f6e92df66a3a4f057f9bcae7c9d8a339)
+- [Overcoming Tool Space Interference: Bridging Google ADK and A2A SDK via Google Apps Script](https://gist.github.com/tanaikech/37e4c20b090ad607d87f359b7ae72092)
 
 <a name="geminicli"></a>
 
