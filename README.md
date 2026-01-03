@@ -121,6 +121,8 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
 
 - [Trend of google-apps-script Tag on Stackoverflow 2025](https://gist.github.com/tanaikech/141bbe4e2ea4ad8ac926410063d10e1e)
 
+- [StackOverflow Trends 2026: The Structural Shift from Human Support to Generative AI](https://gist.github.com/tanaikech/30b1fc76da0da8ff82b91af29c0c9f83)
+
 <br>
 
 <a name="settings"></a>

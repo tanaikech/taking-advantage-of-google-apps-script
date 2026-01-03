@@ -118,6 +118,8 @@
 
 - [Stackoverflow における 2024 年の google-apps-script タグの傾向](https://gist.github.com/tanaikech/7efec2c872fe2db57539a002d5d25875)
 - [Stackoverflow における 2025 年の google-apps-script タグの傾向](https://gist.github.com/tanaikech/141bbe4e2ea4ad8ac926410063d10e1e)
+- [StackOverflow トレンド 2026: 人間によるサポートから生成 AI への構造的変化](https://gist.github.com/tanaikech/30b1fc76da0da8ff82b91af29c0c9f83)
+
 <br>
 
 <a name="settings"> </a>
