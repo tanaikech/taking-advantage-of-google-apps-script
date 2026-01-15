@@ -1250,6 +1250,7 @@ Javascript ライブラリ
 - [Gemini API による画像生成の拡大: Python と Node.js のサポートを開始](https://gist.github.com/tanaikech/d3057587c22228503d313cea74a33e56)
 - [Gemini APIのURLコンテキストツールの実践分析](https://gist.github.com/tanaikech/6cd666838572f478d69ec8ae660968d9)
 - [Google Apps Script の新時代: 自然言語で Google Workspace 自動化の未来を切り開く](https://gist.github.com/tanaikech/611d0cc0fe9733994ae547ab4dbe667c)
+- [外部 URL を介した Google Workspace と Gemini API のシームレスな統合](https://gist.github.com/tanaikech/bae3326b901191336afcaabb96c0825e)
 
 <a name="mcp"></a>
 
