@@ -1318,5 +1318,6 @@ Javascript ライブラリ
 #### A2UI: エージェントとユーザー間のインターフェース
 
 - [Google Apps Script 用の A2UI](https://gist.github.com/tanaikech/3960bee635dc5b80333588d27bb70936)
+- [Gemini で A2UI を Google Workspace に導入する](https://gist.github.com/tanaikech/cb98c1df4874d82d8f6c0f015c7ff8d3)
 
 [TOP](#top)
