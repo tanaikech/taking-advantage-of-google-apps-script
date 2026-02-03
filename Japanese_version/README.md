@@ -1320,5 +1320,6 @@ Javascript ライブラリ
 
 - [Google Apps Script 用の A2UI](https://gist.github.com/tanaikech/3960bee635dc5b80333588d27bb70936)
 - [Gemini で A2UI を Google Workspace に導入する](https://gist.github.com/tanaikech/cb98c1df4874d82d8f6c0f015c7ff8d3)
+- [チャットボットを超えて: A2UI と Gemini を使用して Google Workspace でタスク駆動型エージェント インターフェースを構築する](https://gist.github.com/tanaikech/3ca39a750381aaf4f0c19c75fe71ff8d)
 
 [TOP](#top)

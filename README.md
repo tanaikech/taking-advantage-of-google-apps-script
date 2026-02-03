@@ -1340,5 +1340,6 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 
 - [A2UI for Google Apps Script](https://gist.github.com/tanaikech/3960bee635dc5b80333588d27bb70936)
 - [Bringing A2UI to Google Workspace with Gemini](https://gist.github.com/tanaikech/cb98c1df4874d82d8f6c0f015c7ff8d3)
+- [Beyond Chatbots: Building Task-Driven Agentic Interfaces in Google Workspace with A2UI and Gemini](https://gist.github.com/tanaikech/3ca39a750381aaf4f0c19c75fe71ff8d)
 
 [TOP](#top)
