@@ -1252,6 +1252,7 @@ Javascript ライブラリ
 - [Google Apps Script の新時代: 自然言語で Google Workspace 自動化の未来を切り開く](https://gist.github.com/tanaikech/611d0cc0fe9733994ae547ab4dbe667c)
 - [外部 URL を介した Google Workspace と Gemini API のシームレスな統合](https://gist.github.com/tanaikech/bae3326b901191336afcaabb96c0825e)
 - [スマート収納：Gemini 3 を使用した 3D 貨物デジタルツインの構築](https://gist.github.com/tanaikech/91204d67f6ca750a3dbf82d7680d86cf)
+- [再帰的知識結晶化：永続的自律エージェントの自己進化のためのフレームワーク](https://gist.github.com/tanaikech/da47643a4b59578092f0129a9eb0c9c5)
 
 <a name="mcp"></a>
 

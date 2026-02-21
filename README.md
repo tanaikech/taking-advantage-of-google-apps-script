@@ -1272,6 +1272,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [A Practical Analysis of the Gemini API's URL Context Tool](https://gist.github.com/tanaikech/6cd666838572f478d69ec8ae660968d9)- [A New Era for Google Apps Script: Unlocking the Future of Google Workspace Automation with Natural Language](https://gist.github.com/tanaikech/611d0cc0fe9733994ae547ab4dbe667c)
 - [Seamless Integration of Google Workspace and Gemini API via External URLs](https://gist.github.com/tanaikech/bae3326b901191336afcaabb96c0825e)
 - [Smart Stowage: Building a 3D Cargo Digital Twin with Gemini 3](https://gist.github.com/tanaikech/91204d67f6ca750a3dbf82d7680d86cf)
+- [Recursive Knowledge Crystallization: A Framework for Persistent Autonomous Agent Self-Evolution](https://gist.github.com/tanaikech/da47643a4b59578092f0129a9eb0c9c5)
 
 <a name="mcp"></a>
 
