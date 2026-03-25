@@ -1122,6 +1122,7 @@ Javascript ライブラリ
 - [回避策: Google Apps Script を使用したスマートチップ](https://gist.github.com/tanaikech/d41f696a9931e5c931bff4eb5627f854)
 - [ギャップを埋める: ローカル Google Apps Script 開発のためのシームレスな統合](https://gist.github.com/tanaikech/76ef51ea042fcc906b54a741d971c885)
 - [Google API のフィールド ビルダー: 部分的なレスポンスの視覚化](https://gist.github.com/tanaikech/a83cd2487a5d93ec3e10cea43e7b96d6)
+- [Google Apps Script CI/CD をマスターする: gas-fakes を使用した GitHub Actions のシームレスな統合](https://gist.github.com/tanaikech/59fd160e6389931075339a74ee143b08)
 
 <a name="nodejs"> </a>
 
