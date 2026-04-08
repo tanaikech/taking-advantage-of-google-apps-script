@@ -864,6 +864,7 @@ Javascript ライブラリ
 - [Google Apps Script を使用して Google スプレッドシートのテーブルを管理する](https://gist.github.com/tanaikech/fe567e1f397dc4a8d88212f91e779dbd)
 - [Sheets API を使用して Google スプレッドシートでスマートチップを管理する](https://gist.github.com/tanaikech/682d77c3e3fb4aade4e816801a26ca21)
 - [Google Apps Script で Google スプレッドシートのテーブル管理を簡素化する](https://gist.github.com/tanaikech/2b45026d0ec393507cef451a50fa8a04)
+- [インストール可能なトリガーのバイパス: 新しい SHEET および SHEETS 関数を使用したシートの変更の監視](https://gist.github.com/tanaikech/372e01545e3f8640b4656443335a81d0)
 
 <a name="documents"> </a>
 
