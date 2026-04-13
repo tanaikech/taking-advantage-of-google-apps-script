@@ -1307,6 +1307,7 @@ Javascript ライブラリ
 - [クラウド上での最新の Google Apps Script ワークフロー構築](https://gist.github.com/tanaikech/f83fd9f6ee883268cfd8028161376b2c)
 - [Gemini CLI 拡張機能とファイル検索の統合](https://gist.github.com/tanaikech/468bb58319933303fef78816c6e9dc02)
 - [データサイロから統合 RAG へ: Gemini CLI 拡張機能によりローカルと Google Workspace が統合され、強力なファイル検索が実現](https://gist.github.com/tanaikech/46573f903a3bf7aa96e9c4458a361d0c)
+- [Google Apps Script で構築されたリモート サブエージェントを Gemini CLI と統合する](https://gist.github.com/tanaikech/dfa2d68f18b75a170e1534ad652aa515)
 
 <a name="antigravity"></a>
 
