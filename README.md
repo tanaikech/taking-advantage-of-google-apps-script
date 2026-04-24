@@ -1329,6 +1329,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [From Data Silos to Unified RAG: Gemini CLI Extensions Unify Local and Google Workspace for a Powerful File Search](https://gist.github.com/tanaikech/46573f903a3bf7aa96e9c4458a361d0c)
 - [Integrating Remote Subagents Built by Google Apps Script with Gemini CLI](https://gist.github.com/tanaikech/dfa2d68f18b75a170e1534ad652aa515)
 - [Orchestrating Agents via ADK for TypeScript and Gemini CLI](https://gist.github.com/tanaikech/89d6612b852c0d62c9791aa404b71ee0)
+- [Empowering Autonomous AI Agents through Dynamic Tool Creation](https://gist.github.com/tanaikech/5c97352f92a6203577efb076e0a7209f)
 
 <a name="antigravity"></a>
 

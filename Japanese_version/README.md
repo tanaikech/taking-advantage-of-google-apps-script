@@ -1309,6 +1309,7 @@ Javascript ライブラリ
 - [データサイロから統合 RAG へ: Gemini CLI 拡張機能によりローカルと Google Workspace が統合され、強力なファイル検索が実現](https://gist.github.com/tanaikech/46573f903a3bf7aa96e9c4458a361d0c)
 - [Google Apps Script で構築されたリモート サブエージェントを Gemini CLI と統合する](https://gist.github.com/tanaikech/dfa2d68f18b75a170e1534ad652aa515)
 - [TypeScript 用 ADK と Gemini CLI を使用したエージェントのオーケストレーション](https://gist.github.com/tanaikech/89d6612b852c0d62c9791aa404b71ee0)
+- [動的なツール作成による自律型AIエージェントの強化](https://gist.github.com/tanaikech/5c97352f92a6203577efb076e0a7209f)
 
 <a name="antigravity"></a>
 
