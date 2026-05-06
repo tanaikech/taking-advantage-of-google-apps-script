@@ -489,6 +489,10 @@ Javascript library
 
 > As Large Language Model (LLM) agents increasingly integrate numerous external systems, they suffer from Tool Space Interference (TSI), a phenomenon causing context bloat, attention dilution, and degraded reasoning accuracy. In this paper, we introduce the Agent-as-a-Tool paradigm—an evolutionary, practical implementation of the recently proposed Self-Optimizing Tool Caching Network (SOTCN) and Federated Context-Aware Routing Architecture (Federated CARA). By leveraging Retrieval-Augmented Generation (RAG) to dynamically discover and assemble stateful, autonomous sub-agents on the fly, this architecture completely eliminates TSI, enforces Zero-Trust execution boundaries, and achieves infinitely scalable AI orchestration.
 
+### [A Developer's Guide to Understanding Agent Skills: Implementing Progressive Disclosure in Google Apps Script](https://gist.github.com/tanaikech/584931d08082be798cd5f3b893c0c44c)
+
+> As Large Language Models evolve into autonomous agents, developers encounter Tool Space Interference (TSI)—context bloat caused by excessive tools that degrades reasoning. This article explores Agent Skills as the definitive solution for encapsulating procedural knowledge. Rather than competing with the Model Context Protocol (MCP), Skills complement it by acting as an onboarding guide for agents. Through a three-level Progressive Disclosure architecture, we optimize token usage by revealing complex instructions only on-demand. We demonstrate a scalable, Gemini CLI-inspired workflow using Google Apps Script, highlighting dynamic code execution and essential security considerations to build reliable, enterprise-grade AI ecosystems.
+
 <br>
 
 <a name="benchmarks"></a>
