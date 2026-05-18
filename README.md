@@ -493,6 +493,10 @@ Javascript library
 
 > As Large Language Models evolve into autonomous agents, developers encounter Tool Space Interference (TSI)—context bloat caused by excessive tools that degrades reasoning. This article explores Agent Skills as the definitive solution for encapsulating procedural knowledge. Rather than competing with the Model Context Protocol (MCP), Skills complement it by acting as an onboarding guide for agents. Through a three-level Progressive Disclosure architecture, we optimize token usage by revealing complex instructions only on-demand. We demonstrate a scalable, Gemini CLI-inspired workflow using Google Apps Script, highlighting dynamic code execution and essential security considerations to build reliable, enterprise-grade AI ecosystems.
 
+### [Agent Development Kit for Google Apps Script](https://gist.github.com/tanaikech/653dfe16b470f962131606191c289de4)
+
+> Google's Agent Development Kit (ADK) revolutionizes autonomous AI agents, yet its standard Node.js-based asynchronous ReAct architecture is fundamentally incompatible with the restrictive, synchronous, and time-bound execution environment of Google Apps Script (GAS). To unlock enterprise-grade AI natively within Google Workspace, this paper introduces GASADK. By abandoning the cyclical ReAct loop in favor of a deterministic Planner-Executor-Synthesizer (PES) architecture, GASADK proactively manages execution constraints, synchronous network blocking, and payload limits. This framework successfully implements multi-agent orchestration, the Model Context Protocol (MCP), and Agent-to-Agent (A2A) communication directly within GAS, empowering developers to build highly resilient, serverless AI workflows that seamlessly manipulate Workspace applications.
+
 <br>
 
 <a name="benchmarks"></a>
