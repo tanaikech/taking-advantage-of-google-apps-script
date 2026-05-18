@@ -223,6 +223,7 @@ GAS ライブラリは、[Google Apps Script ライブラリの検索](https://s
 - [ToolsForMCPServer](https://github.com/tanaikech/ToolsForMCPServer): Gemini CLIは、MCPサーバーとして機能するGoogle Apps Scriptウェブアプリと統合され、Google Workspace APIの認証を簡素化します。これにより、GeminiはGoogleエコシステム内の複雑なタスクを自動化し、生産性を向上させることができます。設定手順とサンプルコードも提供されています。
 - [FileSearchApp](https://github.com/tanaikech/FileSearchApp): 最近、ファイル検索機能のストアを統合・管理するために設計されたGemini CLI拡張機能、FileSearchStore-extensionを公開しました。ローカルマシンからファイル検索ストアにファイルをアップロードするのは簡単です。しかし、ファイルがGoogleドライブ上にある場合、現在の設定では、管理スクリプトがローカルで実行されるため、まずファイルをダウンロードしてからファイル検索ストアにアップロードする必要があります。この複数ステップのプロセスは、大きなオーバーヘッド、つまり「プロセスコスト」をもたらします。Googleドライブのファイルを使用する際のこの非効率性を解消するために、新しいライブラリを作成しました。管理スクリプトがGoogle Apps Scriptで記述されている場合、中間ダウンロードステップを必要とせずに、ファイルをシームレスにファイル検索ストアにアップロードできます。このGoogle Apps ScriptライブラリであるFileSearchAppは、Google Apps Scriptを使用してファイル検索ストアを直接管理するのに役立ちます。
 - [TableApp](https://github.com/tanaikech/TableApp): TableAppは、Googleスプレッドシート上のテーブルを管理するためのGoogle Apps Scriptライブラリです。
+- [GASADK](https://github.com/tanaikech/adk-gas): GASADK: Google Apps Script 用のエージェント開発キットで、Gemini API、MCP、A2A、エージェントスキル、サブエージェントルーティングを使用して自律型 AI エージェントを構築します。
 
 <br>
 
