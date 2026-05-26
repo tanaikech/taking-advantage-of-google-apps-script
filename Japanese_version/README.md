@@ -495,6 +495,10 @@ Javascript ライブラリ
 
 > Google のエージェント開発キット (ADK) は自律型 AI エージェントに革命をもたらしましたが、その標準的な Node.js ベースの非同期 ReAct アーキテクチャは、Google Apps Script (GAS) の制約の多い同期型かつ時間制約のある実行環境とは根本的に互換性がありません。本稿では、Google Workspace 内でエンタープライズグレードの AI をネイティブに実現するために、GASADK を紹介します。GASADK は、循環的な ReAct ループを廃止し、決定論的な Planner-Executor-Synthesizer (PES) アーキテクチャを採用することで、実行制約、同期ネットワークのブロック、ペイロード制限を積極的に管理します。このフレームワークは、マルチエージェントオーケストレーション、モデルコンテキストプロトコル（MCP）、およびエージェント間（A2A）通信をGAS内で直接実装することに成功しており、開発者がワークスペースアプリケーションをシームレスに操作する、非常に堅牢なサーバーレスAIワークフローを構築できるようにしています。
 
+### [Vibe Code All Google APIs: Google Apps Script 用ゼロトラスト自律エージェント](https://gist.github.com/tanaikech/aa7fefd0073f25cee77a11d0b49b888a)
+
+> 自律型 AI エージェントをエンタープライズ アーキテクチャに統合すると、重大なセキュリティとレイテンシの脆弱性が露呈します。自律型 Google API エージェント (AGAA) は、Google Apps Script (GAS) 内で決定論的なゼロトラスト実行フレームワークを直接適用することで、この問題を解決します。GASADK、GoogleApiApp を介した動的な REST エンドポイント解決、およびモデル コンテキスト プロトコル (MCP) を介した開発者ナレッジ API を統合することで、AGAA は複雑なクロスドメイン ワークフローを自然言語のみで実行します。API スキーマを自律的に調査し、サーバー側の数式レイテンシを軽減し、再帰的なページネーションを処理し、ローカルのロールベース アクセス制御 (RBAC) を数学的に適用します。 AGAAは、肥大化したクライアントライブラリを使用することなく、Workspace、Analytics、YouTubeを含むすべてのGoogle APIにおいて、真の「Vibe Coding」を実現します。
+
 <br>
 
 <a name="benchmarks"> </a>

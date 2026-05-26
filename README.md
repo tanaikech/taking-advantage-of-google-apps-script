@@ -498,6 +498,10 @@ Javascript library
 
 > Google's Agent Development Kit (ADK) revolutionizes autonomous AI agents, yet its standard Node.js-based asynchronous ReAct architecture is fundamentally incompatible with the restrictive, synchronous, and time-bound execution environment of Google Apps Script (GAS). To unlock enterprise-grade AI natively within Google Workspace, this paper introduces GASADK. By abandoning the cyclical ReAct loop in favor of a deterministic Planner-Executor-Synthesizer (PES) architecture, GASADK proactively manages execution constraints, synchronous network blocking, and payload limits. This framework successfully implements multi-agent orchestration, the Model Context Protocol (MCP), and Agent-to-Agent (A2A) communication directly within GAS, empowering developers to build highly resilient, serverless AI workflows that seamlessly manipulate Workspace applications.
 
+### [Vibe Code All Google APIs: The Zero-Trust Autonomous Agent for Google Apps Script](https://gist.github.com/tanaikech/aa7fefd0073f25cee77a11d0b49b888a)
+
+> Integrating autonomous AI agents into enterprise architectures exposes critical security and latency vulnerabilities. The Autonomous Google API Agent (AGAA) solves this by enforcing a deterministic, zero-trust execution framework directly within Google Apps Script (GAS). By merging GASADK, dynamic REST endpoint resolution via GoogleApiApp, and the Developer Knowledge API through the Model Context Protocol (MCP), AGAA executes complex cross-domain workflows exclusively via natural language. It autonomously researches API schemas, mitigates server-side formula latencies, handles recursive pagination, and mathematically enforces local Role-Based Access Control (RBAC). AGAA enables true "Vibe Coding" across all Google APIs—including Workspace, Analytics, and YouTube—without bloated client libraries.
+
 <br>
 
 <a name="benchmarks"></a>
