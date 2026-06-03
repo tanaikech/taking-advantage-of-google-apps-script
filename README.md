@@ -502,6 +502,10 @@ Javascript library
 
 > Integrating autonomous AI agents into enterprise architectures exposes critical security and latency vulnerabilities. The Autonomous Google API Agent (AGAA) solves this by enforcing a deterministic, zero-trust execution framework directly within Google Apps Script (GAS). By merging GASADK, dynamic REST endpoint resolution via GoogleApiApp, and the Developer Knowledge API through the Model Context Protocol (MCP), AGAA executes complex cross-domain workflows exclusively via natural language. It autonomously researches API schemas, mitigates server-side formula latencies, handles recursive pagination, and mathematically enforces local Role-Based Access Control (RBAC). AGAA enables true "Vibe Coding" across all Google APIs—including Workspace, Analytics, and YouTube—without bloated client libraries.
 
+### [Executing Google Apps Script on Complex Schedules using Vibe Coding](https://gist.github.com/tanaikech/2e40783d6584e65482667a22718f959b)
+
+> Configuring complex time-driven triggers in Google Apps Script—such as executing tasks exclusively on weekday mornings—is notoriously intractable programmatically and strictly impossible via the standard UI. TriggerApp mitigates this architectural friction through a declarative JSON engine, allowing developers to completely bypass granular date-math logic. Now, by embedding a native Model Context Protocol (MCP) server, we cross into a definitive paradigm shift. Developers can orchestrate complex, continuously looping GAS schedules using natural language via Generative AI (Vibe Coding), preserve the hard 20-trigger quota limit through an elegant recursive daisy-chain architecture, and bypass the strict 6-minute execution timeout by dynamically queuing future execution batches.
+
 <br>
 
 <a name="benchmarks"></a>
