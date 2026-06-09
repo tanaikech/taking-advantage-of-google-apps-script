@@ -506,6 +506,10 @@ Javascript library
 
 > Configuring complex time-driven triggers in Google Apps Script—such as executing tasks exclusively on weekday mornings—is notoriously intractable programmatically and strictly impossible via the standard UI. TriggerApp mitigates this architectural friction through a declarative JSON engine, allowing developers to completely bypass granular date-math logic. Now, by embedding a native Model Context Protocol (MCP) server, we cross into a definitive paradigm shift. Developers can orchestrate complex, continuously looping GAS schedules using natural language via Generative AI (Vibe Coding), preserve the hard 20-trigger quota limit through an elegant recursive daisy-chain architecture, and bypass the strict 6-minute execution timeout by dynamically queuing future execution batches.
 
+### [The 1-Second Timeout Hack: Running Infinite Parallel Workloads Natively on Google Apps Script](https://gist.github.com/tanaikech/343a86fbe631fdc3eda0987d5bb1f44a)
+
+> This paper presents a serverless architecture that overcomes the stateless nature and 6-minute execution limit of Google Apps Script (GAS). By configuring a 1-second immediate timeout in UrlFetchApp loopback calls, an orchestrator dispatches background tasks and terminates immediately. This design frees up the caller's execution quota while the target Web App runs to completion in an isolated container. Combined with a transactional Google Sheets state machine, this design supports self-perpetuating parallel MapReduce runs and multi-turn, state-hydrated generative AI agent networks without external compute infrastructure.
+
 <br>
 
 <a name="benchmarks"></a>
