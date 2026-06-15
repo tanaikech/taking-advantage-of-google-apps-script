@@ -510,6 +510,10 @@ Javascript library
 
 > This paper presents a serverless architecture that overcomes the stateless nature and 6-minute execution limit of Google Apps Script (GAS). By configuring a 1-second immediate timeout in UrlFetchApp loopback calls, an orchestrator dispatches background tasks and terminates immediately. This design frees up the caller's execution quota while the target Web App runs to completion in an isolated container. Combined with a transactional Google Sheets state machine, this design supports self-perpetuating parallel MapReduce runs and multi-turn, state-hydrated generative AI agent networks without external compute infrastructure.
 
+### [Orchestrating Google Workspace with Antigravity CLI: A High-Performance Agentic Framework](https://gist.github.com/tanaikech/60665393df146c28bf0c1b049605cd85)
+
+> This article explores the integration of Google Workspace with the Antigravity CLI, the high-performance successor to the legacy Gemini CLI. This integration is critical because it bridges the gap between low-latency, local agent execution and cloud-native enterprise productivity platforms. We demonstrate this framework by evaluating five core developer tools—the Google Workspace CLI, gas-fakes, ggsrun, GASADK/GoogleApiApp, and goodls—and mapping their capabilities into distinct local, hybrid, and cloud execution layers. Our analysis reveals how this unified architecture streamlines complex, multi-step agentic workflows while optimizing resource consumption, establishing a blueprint for next-generation workspace automation.
+
 <br>
 
 <a name="benchmarks"></a>
