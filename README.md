@@ -10,6 +10,7 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
 # Index
 
 - [News](#news)
+- [Papers](#papers)
 - [Trend of Google Apps Script](#trend)
 - [Settings](#settings)
 - [CLI tools for GAS](#clitool)
@@ -99,6 +100,15 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
 - **March 11, 2020:** [Drive API cannot create Google Apps Script project no longer](https://gist.github.com/tanaikech/0609f2cd989c28d6bd49d211b70b453d)
 - **February 7, 2020:** [V8 Runtime was added to Google Apps Script at February 7, 2020](https://gist.github.com/tanaikech/8246f89540957b177f0e350f453ea2fb)
 - **April 8, 2019:** [Specification of Google Apps Script Project was Changed at April 8, 2019](https://gist.github.com/tanaikech/558a5b6da0d9533017b1abe5815989c3)
+
+<br>
+
+<a name="papers"></a>
+
+# Papers
+
+- [Improved Algorithms for Summation of Array Elements](https://zenodo.org/records/21232389)
+- [Pyramid Aggregator: Mitigating Information Loss in Multi-Document Fact Extraction via Hierarchical Merging](https://zenodo.org/records/21252820)
 
 <br>
 
@@ -513,6 +523,10 @@ Javascript library
 ### [Orchestrating Google Workspace with Antigravity CLI: A High-Performance Agentic Framework](https://gist.github.com/tanaikech/60665393df146c28bf0c1b049605cd85)
 
 > This article explores the integration of Google Workspace with the Antigravity CLI, the high-performance successor to the legacy Gemini CLI. This integration is critical because it bridges the gap between low-latency, local agent execution and cloud-native enterprise productivity platforms. We demonstrate this framework by evaluating five core developer tools—the Google Workspace CLI, gas-fakes, ggsrun, GASADK/GoogleApiApp, and goodls—and mapping their capabilities into distinct local, hybrid, and cloud execution layers. Our analysis reveals how this unified architecture streamlines complex, multi-step agentic workflows while optimizing resource consumption, establishing a blueprint for next-generation workspace automation.
+
+### [Stop Your LLMs from Forgetting: How a 2016 String Algorithm Solves AI's Biggest Memory Loss Problem](https://gist.github.com/tanaikech/d6adfdb7956698561ddac9c62aee952b)
+
+> Have you ever tried to read a massive pile of reports and summarize them in under 50 words? It’s hard. Now, imagine asking a cutting-edge Large Language Model (LLM)—like Gemini—to do it. You might think AIs have perfect memories, but they don't. When forced to aggregate information from dozens of documents under strict length constraints, AIs suffer from severe "memory loss" biases. They either ignore the middle of your documents or completely forget the older information they read first. In this article, we’ll introduce a simple yet powerful solution called Pyramid Aggregation. Intriguingly, this method is adapted from a 10-year-old string concatenation algorithm that was originally designed to make basic programming languages run faster. By applying it to modern AI, we solved the forgetting problem and achieved a 95% speedup in processing time.
 
 <br>
 

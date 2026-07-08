@@ -11,6 +11,7 @@
 # 索引
 
 - [ニュース](#news)
+- [論文](#papers)
 - [Google Apps Script のトレンド](#trend)
 - [設定](#settings)
 - [GAS 用の CLI ツール](#clitool)
@@ -98,6 +99,15 @@
 - **2020 年 3 月 11 日：** [DriveAPI は GoogleApps Script プロジェクトを作成できなくなりました](https://gist.github.com/tanaikech/0609f2cd989c28d6bd49d211b70b453d)
 - **2020 年 2 月 7 日：** [V8 ランタイムは 2020 年 2 月 7 日に GoogleApps Script に追加されました](https://gist.github.com/tanaikech/8246f89540957b177f0e350f453ea2fb)
 - **2019 年 4 月 8 日：** [Google Apps Script プロジェクトの仕様は 2019 年 4 月 8 日に変更されました](https://gist.github.com/tanaikech/558a5b6da0d9533017b1abe5815989c3)
+
+<br>
+
+<a name="papers"></a>
+
+# 論文
+
+- [配列要素の総和計算のための改良アルゴリズム](https://zenodo.org/records/21232389)
+- [Pyramid Aggregator：階層的統合による複数文書からの事実抽出における情報損失の低減](https://zenodo.org/records/21252820)
 
 <br>
 
@@ -510,6 +520,10 @@ Javascript ライブラリ
 ### [Google WorkspaceとAntigravity CLIの連携：高性能エージェントフレームワーク](https://gist.github.com/tanaikech/60665393df146c28bf0c1b049605cd85)
 
 > 本稿では、従来のGemini CLIの後継となる高性能なAntigravity CLIとGoogle Workspaceの統合について解説します。この統合は、低遅延のローカルエージェント実行とクラウドネイティブなエンタープライズ生産性プラットフォームとの間のギャップを埋める上で非常に重要です。Google Workspace CLI、gas-fakes、ggsrun、GASADK/GoogleApiApp、goodlsという5つの主要な開発ツールを評価し、それぞれの機能をローカル、ハイブリッド、クラウドの各実行レイヤーにマッピングすることで、このフレームワークを実証します。分析の結果、この統合アーキテクチャがいかに複雑な多段階エージェントワークフローを効率化し、リソース消費を最適化し、次世代ワークスペース自動化の青写真となるかが明らかになりました。
+
+### [LLMの「忘却」を防ぐ：2016年の文字列アルゴリズムが解決するAI最大の課題](https://gist.github.com/tanaikech/d6adfdb7956698561ddac9c62aee952b)
+
+> 大量のレポートを読み込み、50語以内で要約しようとしたことはありますか？それは容易なことではありません。では、Geminiのような最先端の大規模言語モデル（LLM）にそれを任せるとしたらどうでしょうか。AIは完璧な記憶力を持っていると思われがちですが、実際はそうではありません。厳しい文字数制限の下で多数の文書から情報を統合しようとすると、AIは深刻な「忘却」というバイアスに陥ります。文書の中盤部分を無視したり、最初に読み込んだ古い情報を完全に忘れてしまったりするのです。本記事では、「Pyramid Aggregation（ピラミッド集約）」という、シンプルかつ強力な解決策をご紹介します。興味深いことに、この手法は、もともと基本的なプログラミング言語の動作を高速化するために設計された、10年前の文字列連結アルゴリズムを応用したものです。これを現代のAIに適用することで、忘却の問題を解決し、処理時間を95%短縮することに成功しました。
 
 <br>
 
