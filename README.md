@@ -530,6 +530,10 @@ Javascript library
 
 > Have you ever tried to read a massive pile of reports and summarize them in under 50 words? It’s hard. Now, imagine asking a cutting-edge Large Language Model (LLM)—like Gemini—to do it. You might think AIs have perfect memories, but they don't. When forced to aggregate information from dozens of documents under strict length constraints, AIs suffer from severe "memory loss" biases. They either ignore the middle of your documents or completely forget the older information they read first. In this article, we’ll introduce a simple yet powerful solution called Pyramid Aggregation. Intriguingly, this method is adapted from a 10-year-old string concatenation algorithm that was originally designed to make basic programming languages run faster. By applying it to modern AI, we solved the forgetting problem and achieved a 95% speedup in processing time.
 
+### [Stop Your LLMs from Forgetting (Part 2): How a Graph-Anchor Pyramid Cures AI’s Relational Blindspots](https://gist.github.com/tanaikech/7be4176044daae6bae18b591007ab290)
+
+> This article introduces GAP (Graph-Anchor Pyramid), an advanced RAG framework that cures AI's relational blindspots in long contexts. By combining Graph-RAG retrieval, topological leaf grouping, and prompt-level semantic anchors, GAP achieves a perfect 100% causal chain recall in hierarchical summarization, processing massive data parallelly and efficiently without losing critical facts.
+
 <br>
 
 <a name="benchmarks"></a>
