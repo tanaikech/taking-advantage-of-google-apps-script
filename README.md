@@ -535,6 +535,10 @@ Javascript library
 
 > This article introduces GAP (Graph-Anchor Pyramid), an advanced RAG framework that cures AI's relational blindspots in long contexts. By combining Graph-RAG retrieval, topological leaf grouping, and prompt-level semantic anchors, GAP achieves a perfect 100% causal chain recall in hierarchical summarization, processing massive data parallelly and efficiently without losing critical facts.
 
+### [Robust-GAP: Achieving Zero-Hallucination Causal Summarization in Hierarchical RAG](https://gist.github.com/tanaikech/758232a5d5399582eaa8f3d67b4e394e)
+
+> This article introduces Robust-GAP, a hierarchical Retrieval-Augmented Generation (RAG) framework designed to eliminate semantic hallucinations and knowledge drift during multi-document log summarization. By combining dynamic causal graph extraction (DLCE), active topology verification (SGAV), and metadata provenance propagation (PAPP), the framework enforces strict citation traceability and prevents LLM-generated hallucinations.
+
 <br>
 
 <a name="benchmarks"></a>
