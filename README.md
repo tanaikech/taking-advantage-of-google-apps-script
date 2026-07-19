@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tanaikech-taking-advantage-of-google-apps-script-badge.png)](https://mseep.ai/app/tanaikech-taking-advantage-of-google-apps-script)
+
 # Taking Advantage of Google Apps Script (Tanaike's list)
 
 <a name="top"></a>
