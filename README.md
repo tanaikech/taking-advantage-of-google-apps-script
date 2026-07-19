@@ -111,6 +111,7 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
 - [Pyramid Aggregator: Mitigating Information Loss in Multi-Document Fact Extraction via Hierarchical Merging](https://zenodo.org/records/21252820)
 - [High-Resolution Urban Extreme Weather Prediction and All-Clear Triggering via Crowdsourced Citizen-Science Sensor Networks: The Unified Hazard Classifier (UHC) Framework](https://essopenarchive.org/doi/abs/10.22541/essoar.15006012/v1)
 - [Pyramid Aggregator: Mitigating Information Loss in Multi-Document Fact Extraction via Hierarchical Merging](https://zenodo.org/records/21366520)
+- [Robust-GAP: Hallucination-Resistant Hierarchical RAG with Dynamic Topology and Citation Provenance](https://zenodo.org/records/21436390)
 
 <br>
 

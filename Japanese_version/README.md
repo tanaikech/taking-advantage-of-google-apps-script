@@ -110,6 +110,7 @@
 - [Pyramid Aggregator：階層的統合による複数文書からの事実抽出における情報損失の低減](https://zenodo.org/records/21252820)
 - [クラウドソーシング型市民科学センサーネットワークを活用した都市部の極端気象予測および「危険解除（All-Clear）」判断：統合ハザード分類（UHC）フレームワーク](https://essopenarchive.org/doi/abs/10.22541/essoar.15006012/v1)
 - [Pyramid Aggregator：階層的統合による複数文書からの事実抽出時の情報損失の低減](https://zenodo.org/records/21366520)
+- [Robust-GAP: 動的トポロジーと引用の出所情報を備えた、ハルシネーションに強い階層型RAG](https://zenodo.org/records/21436390)
 
 <br>
 
