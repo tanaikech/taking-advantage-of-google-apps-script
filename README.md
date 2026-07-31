@@ -540,6 +540,10 @@ Javascript library
 
 > This article introduces Robust-GAP, a hierarchical Retrieval-Augmented Generation (RAG) framework designed to eliminate semantic hallucinations and knowledge drift during multi-document log summarization. By combining dynamic causal graph extraction (DLCE), active topology verification (SGAV), and metadata provenance propagation (PAPP), the framework enforces strict citation traceability and prevents LLM-generated hallucinations.
 
+### [Inside the Virtual R&D Lab: How Human Imagination and AI Multi-Agents Shape the Future of Science](https://gist.github.com/tanaikech/060a86fde7577639a098655a8b40bf1d)
+
+> This case study presents the zero-to-one execution of an urban torrential rain fluid dynamics research project using Gemini and `tanaike-lab` on Antigravity CLI. By uniting system order, AI-accelerated logic, and clear human imagination, we demonstrate a next-generation R&D paradigm that draws new scientific realities out of the dark void.
+
 <br>
 
 <a name="benchmarks"></a>
