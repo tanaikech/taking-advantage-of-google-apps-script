@@ -1348,6 +1348,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Image Transfer: MCP Server (Web Apps/Google Apps Script) to MCP Client (Gemini/Python)](https://gist.github.com/tanaikech/8dc35b2e331ec99b0bdbc74b73eab821)
 - [Gmail Processing using MCP Network Powered by Google Apps Script](https://gist.github.com/tanaikech/c2b9ef63039510762a1c50a23170b922)
 - [Nexus-MCP: A Unified Gateway for Scalable and Deterministic MCP Server Aggregation](https://gist.github.com/tanaikech/5fe73221c32a4e1c665b9c8a7f506d70)
+- [Unlocking Infinite Automation: Integrating Google Apps Script with Gemini Spark](https://gist.github.com/tanaikech/dff79b14e5cc2bda94bd625f3e05d12a)
 
 <a name="a2a"></a>
 
