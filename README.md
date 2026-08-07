@@ -544,6 +544,10 @@ Javascript library
 
 > This case study presents the zero-to-one execution of an urban torrential rain fluid dynamics research project using Gemini and `tanaike-lab` on Antigravity CLI. By uniting system order, AI-accelerated logic, and clear human imagination, we demonstrate a next-generation R&D paradigm that draws new scientific realities out of the dark void.
 
+### [Before the Quake: How Antigravity CLI's AI Agents & IoT Data Predict Earthquakes](https://gist.github.com/tanaikech/b0c336e5fa73d7edf85e6f884d730536)
+
+> We announce the publication of our latest paper on ESS Open Archive, establishing the Unified LAIC-AGW Theory using ultra-dense IoT weather data. Executed on Antigravity CLI with Gemini 3.6 Flash using the autonomous R&D framework `tanaike-lab`, this project integrates 28,879 Netatmo observations with seismic moment tensors. We capture pre-seismic enthalpy anomalies (Δθe = 27.99 K) and acoustic-gravity waves, demonstrating a hours-long pre-seismic early warning framework. This marks the second successful milestone validating the performance and self-evolution of `tanaike-lab`.
+
 <br>
 
 <a name="benchmarks"></a>
