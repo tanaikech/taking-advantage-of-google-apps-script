@@ -113,6 +113,7 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
 - [Pyramid Aggregator: Mitigating Information Loss in Multi-Document Fact Extraction via Hierarchical Merging](https://zenodo.org/records/21366520)
 - [Robust-GAP: Hallucination-Resistant Hierarchical RAG with Dynamic Topology and Citation Provenance](https://zenodo.org/records/21436390)
 - [Localized Fluid Dynamics Framework for High-Resolution Urban Torrential Rain Prediction via High-Density Netatmo Citizen-Science Sensor Networks](https://essopenarchive.org/doi/abs/10.22541/essoar.15006817/v1)
+- [Unification Theory of Lithosphere-Atmosphere-Ionosphere Coupling via Acoustic-Gravity Waves (LAIC-AGW) and Quantitative Pre- and Post-Seismic Anomaly Verification Using Ultra-Dense IoT Weather Sensor Networks](https://essopenarchive.org/doi/abs/10.22541/essoar.15007109/v1)
 
 <br>
 

@@ -112,6 +112,7 @@
 - [Pyramid Aggregator：階層的統合による複数文書からの事実抽出時の情報損失の低減](https://zenodo.org/records/21366520)
 - [Robust-GAP: 動的トポロジーと引用の出所情報を備えた、ハルシネーションに強い階層型RAG](https://zenodo.org/records/21436390)
 - [高密度Netatmo市民科学センサーネットワークを用いた高解像度都市型豪雨予測のための局所化流体動力学フレームワーク](https://essopenarchive.org/doi/abs/10.22541/essoar.15006817/v1)
+- [音響重力波を介した岩石圏・大気圏・電離圏結合（LAIC-AGW）の統一理論と、超高密度IoT気象センサー網を用いた地震前後の異常の定量的検証](https://essopenarchive.org/doi/abs/10.22541/essoar.15007109/v1)
 
 <br>
 
