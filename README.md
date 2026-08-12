@@ -549,6 +549,10 @@ Javascript library
 
 > We announce the publication of our latest paper on ESS Open Archive, establishing the Unified LAIC-AGW Theory using ultra-dense IoT weather data. Executed on Antigravity CLI with Gemini 3.6 Flash using the autonomous R&D framework `tanaike-lab`, this project integrates 28,879 Netatmo observations with seismic moment tensors. We capture pre-seismic enthalpy anomalies (Δθe = 27.99 K) and acoustic-gravity waves, demonstrating a hours-long pre-seismic early warning framework. This marks the second successful milestone validating the performance and self-evolution of `tanaike-lab`.
 
+### [Preventing Quota Crashes via Antigravity CLI Agent Hooks](https://gist.github.com/tanaikech/999bcefd34a17a0906ed2f2a46be853d)
+
+> Google Antigravity CLI users using Google OAuth face abrupt task failures when API quota hits 0%, while account switching triggers unrecoverable signature errors. Querying quota via LLM tool calls creates a paradox by consuming the very tokens being monitored. We resolve this with `antigravity-cli-check-usage-plugin`, a CLI Agent Hook running outside the LLM execution turn. Directly querying local Connect RPC endpoints, it monitors quota with zero token overhead and injects proactive warning banners when threshold limits are reached.
+
 <br>
 
 <a name="benchmarks"></a>

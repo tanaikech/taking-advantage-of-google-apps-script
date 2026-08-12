@@ -546,6 +546,10 @@ Javascript ライブラリ
 
 > 超高密度IoT気象データを用いて「統一LAIC-AGW理論」を確立した最新の論文が、ESS Open Archiveにて公開されました。自律型R&Dフレームワーク「tanaike-lab」を活用し、Antigravity CLI上でGemini 3.6 Flashを駆使して実施された本プロジェクトでは、28,879件のNetatmo観測データと地震モーメントテンソルを統合しています。地震発生前のエンタルピー異常（Δθe = 27.99 K）および音響重力波を捉えることで、地震発生の数時間前に早期警報を発する仕組みを実証しました。これは、「tanaike-lab」の性能と自己進化能力を実証する、2つ目の重要なマイルストーンとなります。
 
+### [Antigravity CLI Agent Hookによるクォータ枯渇時のクラッシュ防止](https://gist.github.com/tanaikech/999bcefd34a17a0906ed2f2a46be853d)
+
+> Google Antigravity CLIのユーザーは、APIクォータが0%に達すると突然のタスク失敗に直面し、アカウントを切り替えると回復不能な署名エラーが発生するという課題を抱えています。LLMのツール呼び出し機能を使ってクォータを確認しようとすると、監視対象であるはずのトークンを消費してしまうというパラドックスが生じます。この問題を解決するために、LLMの実行ターン外で動作するCLI Agent Hookである「antigravity-cli-check-usage-plugin」を導入しました。本プラグインは、ローカルのConnect RPCエンドポイントを直接照会することで、トークン消費ゼロでクォータを監視し、閾値に達した際には警告バナーを動的に挿入します。
+
 <br>
 
 <a name="benchmarks"> </a>
