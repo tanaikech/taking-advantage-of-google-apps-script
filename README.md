@@ -553,6 +553,10 @@ Javascript library
 
 > Google Antigravity CLI users using Google OAuth face abrupt task failures when API quota hits 0%, while account switching triggers unrecoverable signature errors. Querying quota via LLM tool calls creates a paradox by consuming the very tokens being monitored. We resolve this with `antigravity-cli-check-usage-plugin`, a CLI Agent Hook running outside the LLM execution turn. Directly querying local Connect RPC endpoints, it monitors quota with zero token overhead and injects proactive warning banners when threshold limits are reached.
 
+### [Redefining the Role of Google Apps Script in the Era of Generative AI](https://gist.github.com/tanaikech/acc33326c86dce03bc2328ccb12f6b04)
+
+> Generative AI and autonomous agents do not obsolete Google Apps Script (GAS); they elevate it into an indispensable deterministic execution substrate. This article establishes an enterprise hybrid architecture dividing responsibilities between AI's probabilistic reasoning (the brain) and GAS's secure, zero-cost, event-driven execution (the nervous system). Through 12 production use cases—spanning MCP servers, deterministic guardrails, and hybrid batching—we formalize four foundational principles for engineering resilient, scalable Google Workspace automations.
+
 <br>
 
 <a name="benchmarks"></a>
