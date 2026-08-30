@@ -557,6 +557,10 @@ Javascript library
 
 > Generative AI and autonomous agents do not obsolete Google Apps Script (GAS); they elevate it into an indispensable deterministic execution substrate. This article establishes an enterprise hybrid architecture dividing responsibilities between AI's probabilistic reasoning (the brain) and GAS's secure, zero-cost, event-driven execution (the nervous system). Through 12 production use cases—spanning MCP servers, deterministic guardrails, and hybrid batching—we formalize four foundational principles for engineering resilient, scalable Google Workspace automations.
 
+### [Taking Advantage of Gemini Managed Agents with Google Apps Script](https://gist.github.com/tanaikech/0f71ec60332df260a04a60f425ef4829)
+
+> While Google Apps Script (GAS) is a powerful tool for Google Workspace automation, platform and computational constraints often limit its ability to handle advanced workloads. Gemini Managed Agents provide remote Linux sandboxes equipped with bash execution. This article introduces an architecture integrating GAS with a Linux sandbox to execute tasks beyond the capabilities of Apps Script alone. By streaming generated artifacts directly from within the Linux sandbox to Google Drive, this approach bypasses API payload limits, eliminates token overhead, and achieves high-throughput cloud automation.
+
 <br>
 
 <a name="benchmarks"></a>
