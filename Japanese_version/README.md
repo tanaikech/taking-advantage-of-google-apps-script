@@ -1209,6 +1209,7 @@ Javascript ライブラリ
 - [Google API のフィールド ビルダー: 部分的なレスポンスの視覚化](https://gist.github.com/tanaikech/a83cd2487a5d93ec3e10cea43e7b96d6)
 - [Google Apps Script CI/CD をマスターする: gas-fakes を使用した GitHub Actions のシームレスな統合](https://gist.github.com/tanaikech/59fd160e6389931075339a74ee143b08)
 - [再帰的知識結晶化：AIエージェントにおける持続的進化とゼロショット転送の実現](https://gist.github.com/tanaikech/b1f29036cf09a4246d29e72fd9f06296)
+- [Google WorkspaceとApache Icebergの統合：サーバーレス・レイクハウス管理](https://gist.github.com/tanaikech/9b5b1f8c56cf26154487aacb70ca7c39)
 
 <a name="nodejs"> </a>
 

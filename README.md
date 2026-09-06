@@ -1229,6 +1229,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Bridging the Gap: Seamless Integration for Local Google Apps Script Development](https://gist.github.com/tanaikech/76ef51ea042fcc906b54a741d971c885)
 - [Fields Builder for Google APIs: Visualizing Partial Responses](https://gist.github.com/tanaikech/a83cd2487a5d93ec3e10cea43e7b96d6)
 - [Mastering Google Apps Script CI/CD: Seamless GitHub Actions Integration with gas-fakes](https://gist.github.com/tanaikech/59fd160e6389931075339a74ee143b08)
+- [Unifying Google Workspace and Apache Iceberg: Serverless Lakehouse Management](https://gist.github.com/tanaikech/9b5b1f8c56cf26154487aacb70ca7c39)
 
 <a name="nodejs"></a>
 
