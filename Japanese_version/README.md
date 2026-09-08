@@ -1211,6 +1211,7 @@ Javascript ライブラリ
 - [再帰的知識結晶化：AIエージェントにおける持続的進化とゼロショット転送の実現](https://gist.github.com/tanaikech/b1f29036cf09a4246d29e72fd9f06296)
 - [Google WorkspaceとApache Icebergの統合：サーバーレス・レイクハウス管理](https://gist.github.com/tanaikech/9b5b1f8c56cf26154487aacb70ca7c39)
 - [Google Apps Script を使用した Apache Iceberg 上でのサーバーレス・マルチモーダル・ベクトル検索](https://gist.github.com/tanaikech/aca68e2333b8cf2a0d6a5c887d0bdd39)
+- [Google スプレッドシート経由での Apache Iceberg への双方向ライトバック：Serverless Lakehouse Console](https://gist.github.com/tanaikech/73fa32e517dbbb019334683d1efa2cfb)
 
 <a name="nodejs"> </a>
 
