@@ -1210,6 +1210,7 @@ Javascript ライブラリ
 - [Google Apps Script CI/CD をマスターする: gas-fakes を使用した GitHub Actions のシームレスな統合](https://gist.github.com/tanaikech/59fd160e6389931075339a74ee143b08)
 - [再帰的知識結晶化：AIエージェントにおける持続的進化とゼロショット転送の実現](https://gist.github.com/tanaikech/b1f29036cf09a4246d29e72fd9f06296)
 - [Google WorkspaceとApache Icebergの統合：サーバーレス・レイクハウス管理](https://gist.github.com/tanaikech/9b5b1f8c56cf26154487aacb70ca7c39)
+- [Google Apps Script を使用した Apache Iceberg 上でのサーバーレス・マルチモーダル・ベクトル検索](https://gist.github.com/tanaikech/aca68e2333b8cf2a0d6a5c887d0bdd39)
 
 <a name="nodejs"> </a>
 
