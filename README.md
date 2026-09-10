@@ -1232,6 +1232,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Unifying Google Workspace and Apache Iceberg: Serverless Lakehouse Management](https://gist.github.com/tanaikech/9b5b1f8c56cf26154487aacb70ca7c39)
 - [Serverless Multimodal Vector Search on Apache Iceberg via Google Apps Script](https://gist.github.com/tanaikech/aca68e2333b8cf2a0d6a5c887d0bdd39)
 - [Bidirectional Writeback for Apache Iceberg via Google Sheets: Serverless Lakehouse Console](https://gist.github.com/tanaikech/73fa32e517dbbb019334683d1efa2cfb)
+- [Taking Advantage of Cloud Run Sandboxes with Google Apps Script for Google Workspace](https://gist.github.com/tanaikech/769d00f589a672e36a9317a323daad07)
 
 <a name="nodejs"></a>
 

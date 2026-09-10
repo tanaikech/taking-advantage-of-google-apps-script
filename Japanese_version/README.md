@@ -1212,6 +1212,7 @@ Javascript ライブラリ
 - [Google WorkspaceとApache Icebergの統合：サーバーレス・レイクハウス管理](https://gist.github.com/tanaikech/9b5b1f8c56cf26154487aacb70ca7c39)
 - [Google Apps Script を使用した Apache Iceberg 上でのサーバーレス・マルチモーダル・ベクトル検索](https://gist.github.com/tanaikech/aca68e2333b8cf2a0d6a5c887d0bdd39)
 - [Google スプレッドシート経由での Apache Iceberg への双方向ライトバック：Serverless Lakehouse Console](https://gist.github.com/tanaikech/73fa32e517dbbb019334683d1efa2cfb)
+- [Google Workspace向けGoogle Apps ScriptでCloud Runサンドボックスを活用する](https://gist.github.com/tanaikech/769d00f589a672e36a9317a323daad07)
 
 <a name="nodejs"> </a>
 
