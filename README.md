@@ -114,6 +114,7 @@ Japanese version of this list is [here](https://github.com/tanaikech/taking-adva
 - [Robust-GAP: Hallucination-Resistant Hierarchical RAG with Dynamic Topology and Citation Provenance](https://zenodo.org/records/21436390)
 - [Localized Fluid Dynamics Framework for High-Resolution Urban Torrential Rain Prediction via High-Density Netatmo Citizen-Science Sensor Networks](https://essopenarchive.org/doi/abs/10.22541/essoar.15006817/v1)
 - [Unification Theory of Lithosphere-Atmosphere-Ionosphere Coupling via Acoustic-Gravity Waves (LAIC-AGW) and Quantitative Pre- and Post-Seismic Anomaly Verification Using Ultra-Dense IoT Weather Sensor Networks](https://essopenarchive.org/doi/abs/10.22541/essoar.15007109/v1)
+- [Autonomous Discovery of Unified Multi-Hazard Prediction Theory from Netatmo IoT Weather Big Data Using AlphaEvolve](https://zenodo.org/records/23354598)
 
 <br>
 
@@ -564,6 +565,12 @@ Javascript library
 ### [Hearing the Mountain's Roar: How Antigravity CLI's AI Agents & IoT Data Track Volcanic Shockwaves](https://gist.github.com/tanaikech/80710d971718f884d327e33e765436de)
 
 > Explosive volcanic eruptions generate powerful atmospheric Lamb waves—acoustic-gravity waves trapped in the planetary boundary layer that travel horizontally across the globe at sound speed. Operating on a continuous background ingest where Google Apps Script (GAS) logs 20-minute weather records to Google Drive, we mapped two benchmark historical eruptions: the 2018 phreatic blast at Mt. Kusatsu-Shirane and the 2018 magmatic explosion at Mt. Shinmoedake. We framed these events within first-principles continuum mechanics inside the **Antigravity CLI** environment powered by **Gemini** and the autonomous R&D framework **`tanaike-lab`**. Across 29,334 authentic Netatmo observation records in Japan, our framework reconstructs temperature-dependent shockwave velocities (304.38 m/s in sub-zero winter air and 313.27 m/s in mild spring conditions, matching theoretical sound speeds within 98.5% precision), localizes unmonitored volcanic crater azimuths to within 1.78 degrees, quantifies explosive yields (178.8 to 1,041.1 tons of TNT equivalent), and delivers **2.5 to 15 minutes of advance early warning** with **100% false alarm elimination (0.0% False Positive Rate)** during violent storm baselines. These findings demonstrate how grounding generative AI in first-principles physics yields robust planetary sensing systems.
+
+### [AlphaEvolve and Gemini: Autonomous Algorithm Discovery for Unified Disaster Prediction](https://gist.github.com/tanaikech/dad3451960bf743216d8fad167366c73)
+
+> Imagine sitting in a quiet office in downtown Tokyo or suburban Osaka on a hot, muggy summer afternoon. Outside, the sky appears calm. Within thirty minutes, however, the atmosphere darkens into pitch-black fury. A violent "guerrilla rainstorm"—an extreme localized convective cloudburst—dumps 80 millimeters of torrential rain in under an hour. Underground subway entrances are inundated, calm residential roads turn into raging rivers, and vehicles are trapped beneath flooded railway underpasses.
+> Or imagine an inland geological fault kilometers beneath our feet, quietly accumulating mechanical shear stress over decades. Without warning, the fault ruptures in an instant, generating devastating seismic shaking that levels homes before anyone can take cover.
+> Natural disasters—extreme convective downpours, deadly inland earthquakes, and explosive volcanic eruptions—are among the most formidable threats confronting human civilization. Every year, they claim thousands of lives and inflict hundreds of billions of dollars in economic devastation. Providing accurate, early warning for these events is one of the highest callings of modern applied science. Yet, it has long remained one of the most stubborn, mathematically vexing frontiers in geophysics.
 
 <br>
 
