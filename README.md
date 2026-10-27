@@ -1371,6 +1371,8 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Smart Stowage: Building a 3D Cargo Digital Twin with Gemini 3](https://gist.github.com/tanaikech/91204d67f6ca750a3dbf82d7680d86cf)
 - [Recursive Knowledge Crystallization: A Framework for Persistent Autonomous Agent Self-Evolution](https://gist.github.com/tanaikech/da47643a4b59578092f0129a9eb0c9c5)
 - [Recursive Knowledge Crystallization: Enabling Persistent Evolution and Zero-Shot Transfer in AI Agents](https://gist.github.com/tanaikech/b1f29036cf09a4246d29e72fd9f06296)
+- [Building a Multimodal, Suggestion-Based AI Writing Coach with Gemini and Google Docs](https://gist.github.com/tanaikech/b86f105e175068604790fdd16bfeb5ef)
+- [Beyond Passive AI Rewrites and Vibe Coding in Google Docs](https://gist.github.com/tanaikech/9fa116d593c4f63be93a6ba6f790fd1b)
 
 <a name="mcp"></a>
 

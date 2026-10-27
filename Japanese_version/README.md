@@ -1351,6 +1351,8 @@ Javascript ライブラリ
 - [外部 URL を介した Google Workspace と Gemini API のシームレスな統合](https://gist.github.com/tanaikech/bae3326b901191336afcaabb96c0825e)
 - [スマート収納：Gemini 3 を使用した 3D 貨物デジタルツインの構築](https://gist.github.com/tanaikech/91204d67f6ca750a3dbf82d7680d86cf)
 - [再帰的知識結晶化：永続的自律エージェントの自己進化のためのフレームワーク](https://gist.github.com/tanaikech/da47643a4b59578092f0129a9eb0c9c5)
+- [GeminiとGoogleドキュメントを活用した、マルチモーダルかつ提案型のAIライティングコーチの構築](https://gist.github.com/tanaikech/b86f105e175068604790fdd16bfeb5ef)
+- [Googleドキュメントにおける、受動的なAIリライトや「雰囲気コーディング（Vibe Coding）」のその先へ](https://gist.github.com/tanaikech/9fa116d593c4f63be93a6ba6f790fd1b)
 
 <a name="mcp"></a>
 
