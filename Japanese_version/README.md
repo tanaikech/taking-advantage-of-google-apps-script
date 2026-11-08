@@ -161,6 +161,7 @@
 - [gogauth](https://github.com/tanaikech/gogauth)：Google で API を使用するためのアクセストークンを簡単に取得できます。
 - [gorearrange](https://github.com/tanaikech/gorearrange)：端末上のテキストデータをインタラクティブに再配置します。
 - [goodls](https://github.com/tanaikech/goodls)：Google ドライブから共有ファイルをダウンロードします。
+- [gdocumentor](https://github.com/tanaikech/gdocumentor) : gdocumentor (DocuMentor AI) は、Go言語で構築された高性能なCLIツールであり、Global Model Context Protocol (MCP) サーバー（gdocumentor mcp）およびGoogle Antigravity Agentのスキル／プラグインとしても機能します。本ツールは、「デュアルAI実行アーキテクチャ」を採用しており、生成AIを単なる受動的な「ゴーストライター」から、インタラクティブな「ライティング＆コードレビュー・コーチ」へと変貌させます。
 
 <br>
 
@@ -1353,6 +1354,7 @@ Javascript ライブラリ
 - [再帰的知識結晶化：永続的自律エージェントの自己進化のためのフレームワーク](https://gist.github.com/tanaikech/da47643a4b59578092f0129a9eb0c9c5)
 - [GeminiとGoogleドキュメントを活用した、マルチモーダルかつ提案型のAIライティングコーチの構築](https://gist.github.com/tanaikech/b86f105e175068604790fdd16bfeb5ef)
 - [Googleドキュメントにおける、受動的なAIリライトや「雰囲気コーディング（Vibe Coding）」のその先へ](https://gist.github.com/tanaikech/9fa116d593c4f63be93a6ba6f790fd1b)
+- [AIによる受動的な書き換えをやめよう：gdocumentorを活用したGoogleドキュメントでの「エージェント型コーチング」](https://gist.github.com/tanaikech/45dd7398a47f8fa2c3bea6d23d2ce626)
 
 <a name="mcp"></a>
 
