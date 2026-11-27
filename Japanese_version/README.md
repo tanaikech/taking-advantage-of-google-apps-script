@@ -1366,6 +1366,7 @@ Javascript ライブラリ
 - [Google Apps Script を利用した MCP ネットワークによる Gmail 処理](https://gist.github.com/tanaikech/c2b9ef63039510762a1c50a23170b922)
 - [Nexus-MCP: スケーラブルで決定論的な MCP サーバー集約のための統合ゲートウェイ](https://gist.github.com/tanaikech/5fe73221c32a4e1c665b9c8a7f506d70)
 - [無限の自動化を実現する：Google Apps ScriptとGemini Sparkの統合](https://gist.github.com/tanaikech/dff79b14e5cc2bda94bd625f3e05d12a)
+- [Google Apps ScriptでGoogle Workspace MCPサーバーを活用する](https://gist.github.com/tanaikech/9fbebbc9edf069b05492e18639c25938)
 
 <a name="a2a"></a>
 
