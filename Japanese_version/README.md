@@ -1356,6 +1356,7 @@ Javascript ライブラリ
 - [Googleドキュメントにおける、受動的なAIリライトや「雰囲気コーディング（Vibe Coding）」のその先へ](https://gist.github.com/tanaikech/9fa116d593c4f63be93a6ba6f790fd1b)
 - [AIによる受動的な書き換えをやめよう：gdocumentorを活用したGoogleドキュメントでの「エージェント型コーチング」](https://gist.github.com/tanaikech/45dd7398a47f8fa2c3bea6d23d2ce626)
 - [Google Apps ScriptとGemini Decisions APIを用いた「出力トークンゼロ」のAI活用](https://gist.github.com/tanaikech/270a6d4e1898431d7a4bc2c36074485f)
+- [Gemini Decisions API を使用したドキュメントおよび画像の監査](https://gist.github.com/tanaikech/fbf5b1aa345ea7a51f0f16d978d9197c)
 
 <a name="mcp"></a>
 

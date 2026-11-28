@@ -1376,6 +1376,7 @@ In this case, the APIs and resources of Microsoft are used with Google Apps Scri
 - [Beyond Passive AI Rewrites and Vibe Coding in Google Docs](https://gist.github.com/tanaikech/9fa116d593c4f63be93a6ba6f790fd1b)
 - [Stop Passive AI Rewrites: Agentic Coaching in Google Docs with gdocumentor](https://gist.github.com/tanaikech/45dd7398a47f8fa2c3bea6d23d2ce626)
 - [Zero-Output-Token AI in Google Apps Script with Gemini Decisions API](https://gist.github.com/tanaikech/270a6d4e1898431d7a4bc2c36074485f)
+- [Auditing Documents & Images with Gemini Decisions API](https://gist.github.com/tanaikech/fbf5b1aa345ea7a51f0f16d978d9197c)
 
 <a name="mcp"></a>
 
